@@ -501,7 +501,7 @@ Potions	药水制作	actions	npc	Apothecary
 Grab-feather	拔取羽毛	actions	npc	Desert Phoenix
 Take-from	拿取	actions	npc	Jig cart
 Pay-fare	支付车资	actions	npc	Hajedy
-Coffer	开启保险箱介面	actions	npc	Yohnus
+Coffer	开启保险箱界面	actions	npc	Yohnus
 Attract	吸引	actions	npc	Light creature
 Call-Over	叫过来	actions	npc	Zombie
 Insult	羞辱	actions	npc	Zombie
@@ -527,7 +527,7 @@ Trade-Co-op	交易 - 合作社	actions	npc	Gabooty
 Trade-Drinks	交易 - 饮料店	actions	npc	Gabooty
 Send-parcel	寄送包裹	actions	npc	Rionasta
 Peek	偷看	actions	npc	Eye
-Deposit-box	开启寄存箱介面	actions	npc	Financial Seer
+Deposit-box	开启寄存箱界面	actions	npc	Financial Seer
 Move	移动	actions	npc	Boulder
 Log-storage	储存原木	actions	npc	Friendly Forester
 Claim Sand	领取沙子	actions	npc	Drew
@@ -976,7 +976,7 @@ Count	计数	actions	object	Pressure Barrel
 Swim	游泳	actions	object	River
 Look-up	向上看	actions	object	Trellis
 Spectate	旁观	actions	object	Rat wall
-Deposit-box	开启寄存箱介面	actions	object	Bank booth
+Deposit-box	开启寄存箱界面	actions	object	Bank booth
 Grab	抓取	actions	object	Bones
 Remove-coal	取出煤炭	actions	object	Coal Truck
 Take-sigil	拿取符印	actions	object	Pedestal
@@ -1117,7 +1117,7 @@ Take-Crackers	拿取拉炮	actions	object	Defender item machine
 Take-Tofu	拿取豆腐	actions	object	Defender item machine
 Take-Worms	拿取蠕虫	actions	object	Defender item machine
 Take-Vial	拿取小瓶	actions	object	Healer item machine
-Take-Meat	拿取肉塊	actions	object	Healer item machine
+Take-Meat	拿取肉块	actions	object	Healer item machine
 Call	呼叫	actions	object	Horn of glory
 Get-Spikes	取刺	actions	object	Petrified mushroom
 Load	装载	actions	object	Egg hopper
@@ -1348,7 +1348,7 @@ Take Spade	拿取铲子	actions	object	Old tools
 Take Seed Dibber	拿取种植锥	actions	object	Old tools
 Pick-lots	批量采摘	actions	object	Gourd tree
 Quick-pass	快速通过	actions	object	Mystical barrier
-Coffer	开启保险箱介面	actions	object	Furnace
+Coffer	开启保险箱界面	actions	object	Furnace
 Travel to platform	前往平台	actions	object	Row boat
 Leave platform	离开平台	actions	object	Row boat
 Check count	检查计数	actions	object	Rock
@@ -1452,7 +1452,7 @@ Miscellania	传送至米斯凯尼亚国	actions	object	Ornate Jewellery Box
 Falador Park	传送至法拉多公园	actions	object	Ornate Jewellery Box
 Dondakan's Rock	传送至东达坎之石	actions	object	Ornate Jewellery Box
 Take manta ray	拿取魔鬼鱼	actions	object	Bounty supply crate
-Take anglerfish	拿取鮟鱇鱼	actions	object	Bounty supply crate
+Take anglerfish	拿取𩽾𩾌鱼	actions	object	Bounty supply crate
 Destroy	销毁	actions	object	Lab table
 Stamp-out	踩灭	actions	object	Magical Fire
 Continue	继续	actions	object	Path
@@ -1553,7 +1553,7 @@ Burn`	燃烧	actions	object	Gunpowder
 Withdraw	取出	actions	object	Extract orifice
 Tend-to	照料	actions	object	Forester's Campfire
 Rest	休息	actions	object	Forester's Campfire
-Retrieve-egg	取回雉雞蛋	actions	object	Pheasant Nest
+Retrieve-egg	取回雉鸡蛋	actions	object	Pheasant Nest
 Revert	还原	actions	object	Fiery Ornate Pool of Rejuvenation
 Channel (Great Kourend)	传送至大库兰德王国	actions	object	Waystone
 Travel-End	旅行结束	actions	object	Portal
@@ -1754,3 +1754,33 @@ Barrows	巴罗斯墓穴	actions	object	Portal Nexus
 Ape Atoll Dungeon	猿猴岛地牢	actions	object	Portal Nexus
 Arceuus Library	阿西乌斯图书馆	actions	object	Portal Nexus
 Civitas illa Fortis	福蒂斯城	actions	object	Portal Nexus
+Big Net/Net	大网/网	actions	ptbr_import	ptbr
+Channel (Desert)	通道（沙漠）	actions	ptbr_import	ptbr
+Check-achievements	查看成就	actions	ptbr_import	ptbr
+Climb Up/Climb Down	爬上/爬下	actions	ptbr_import	ptbr
+Collect-rum-supplies	收集朗姆酒补给	actions	ptbr_import	ptbr
+Config	设置	actions	ptbr_import	ptbr
+Craft-hull-parts	制作船体部件	actions	ptbr_import	ptbr
+Craft-repair-kits	制作修理包	actions	ptbr_import	ptbr
+Deliver	交付	actions	ptbr_import	ptbr
+Enter (when wearing the correct tiara)	进入（佩戴正确头冠时）	actions	ptbr_import	ptbr
+Event-options	事件选项	actions	ptbr_import	ptbr
+Favourites	收藏	actions	ptbr_import	ptbr
+Get Drink From	从...取饮料	actions	ptbr_import	ptbr
+Ignite	点燃	actions	ptbr_import	ptbr
+Island of Stone / Rellekka	石之岛 / 雷勒卡城	actions	ptbr_import	ptbr
+Net/Small Net	网/小网	actions	ptbr_import	ptbr
+No key: Inspect With key: Unlock	无钥匙：检查 有钥匙：解锁	actions	ptbr_import	ptbr
+Pirate's Cove / Rellekka	海盗湾 / 雷勒卡城	actions	ptbr_import	ptbr
+Ponder	沉思	actions	ptbr_import	ptbr
+Quick-deposit	快速存放	actions	ptbr_import	ptbr
+Read (Demonic)	阅读（恶魔）	actions	ptbr_import	ptbr
+Reclaim RPG	取回 RPG	actions	ptbr_import	ptbr
+Retrieve-boat	取回船	actions	ptbr_import	ptbr
+Small net/Net	小网/网	actions	ptbr_import	ptbr
+Talk-to/Shout-to (during quest)	交谈/大喊（任务期间）	actions	ptbr_import	ptbr
+Teleport (Home	传送（家	actions	ptbr_import	ptbr
+Turn-left	左转	actions	ptbr_import	ptbr
+Turn-right	右转	actions	ptbr_import	ptbr
+Untether (if tethered)	解开绳索（如果已拴住）	actions	ptbr_import	ptbr
+but you can use a chisel on it	但你可以用凿子处理它	actions	ptbr_import	ptbr

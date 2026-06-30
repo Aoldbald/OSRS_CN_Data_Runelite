@@ -478,8 +478,8 @@ Fairy-ring	传送至仙女环	inventoryActions	item	Trinket of fairies
 Summon Lil Zuk	召唤小祖克	inventoryActions	item	Trinket of undead
 Summon Lil Kal	召唤小卡尔	inventoryActions	item	Trinket of undead
 Summon Lil Wisp	召唤小精灵	inventoryActions	item	Trinket of undead
-Nexus	开启传送介面	inventoryActions	item	Globetrotter pendant
-Jewellery	开启首饰功能介面	inventoryActions	item	Globetrotter pendant
+Nexus	开启传送界面	inventoryActions	item	Globetrotter pendant
+Jewellery	开启首饰功能界面	inventoryActions	item	Globetrotter pendant
 Note-Quantity	记数	inventoryActions	item	Banker's note
 Un-note-Quantity	取消记数	inventoryActions	item	Banker's note
 Summon	召唤	inventoryActions	item	Guardian horn
@@ -554,7 +554,7 @@ Add-All	添加全部	inventoryActions	item
 Add-X	添加 X个	inventoryActions	item	
 Withdraw-1	取出1个	inventoryActions	item	
 Withdraw-X	取出指定数量	inventoryActions	item	
-Withdraw-All-but-1	只留一個	inventoryActions	item	
+Withdraw-All-but-1	只留一个	inventoryActions	item	
 Placeholder	占位符	inventoryActions	item	
 Edit-tags	编辑标签	inventoryActions	item	
 Deposit-X	存入指定数量	inventoryActions	item	
@@ -592,3 +592,9 @@ Fill/Check	填充/检查	inventoryActions	item	Bottomless compost bucket
 League Setup	联赛设置	inventoryActions	item	League tomato
 League 2 Debug	联赛2调试	inventoryActions	item	League tomato
 League 3 Debug	联赛3调试	inventoryActions	item	League tomato
+The Darkfrost	暗霜	inventoryActions	ptbr_import	ptbr
+Tirannwn	泰瑞恩	inventoryActions	chisel_rescrape	chisel_rescrape
+Varlamore	瓦拉莫尔	inventoryActions	chisel_rescrape	chisel_rescrape
+Paint	颜料	inventoryActions	chisel_rescrape	chisel_rescrape
+Toggle-Freeze	冻结切换	inventoryActions	chisel_rescrape	chisel_rescrape
+Demonic Mark	恶魔印记	inventoryActions	chisel_rescrape	chisel_rescrape
