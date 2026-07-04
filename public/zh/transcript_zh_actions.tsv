@@ -351,7 +351,6 @@ Rewards	领取奖励	actions	npc	Emblem Trader
 Skull	领取骷髅头标记	actions	npc	Emblem Trader
 Pay	支付工钱	actions	npc	Ayesha
 Armour	领取铁人套装	actions	npc	Ironman tutor
-Setup	铁人模式管理	actions	npc	Ironman tutor
 Check-pets	检查宠物领取资格	actions	npc	Leagues Tutor
 Collect-items	回收联赛物品	actions	npc	Leagues Tutor
 Claim-trophies	领取联赛奖杯	actions	npc	Leagues Tutor
@@ -430,7 +429,6 @@ Rellekka	航向雷勒卡城	actions	npc	Maria Gunnars
 Neitiznot	航向奈提兹诺镇	actions	npc	Maria Gunnars
 Jatizso	航向加提兹索岛	actions	npc	Mord Gunnars
 Watch-shouting	监视喊话	actions	npc	Guard
-Kick	踢	actions	npc	Bed
 Claim-Tokens	领取代币	actions	npc	Lorelai
 History	交易历史	actions	npc	Grand Exchange Clerk
 Sets	拆合套装	actions	npc	Grand Exchange Clerk
@@ -548,7 +546,6 @@ Spellbook	切换法术书	actions	npc	Tyss
 Climb-on	爬上去	actions	npc	Stunted demonic gorilla
 Glider	搭乘滑翔机	actions	npc	Captain Shoracks
 Watermill	前往水车处	actions	npc	Mistag
-Join	加入游戏	actions	npc	Lisa
 Locking	锁定	actions	npc	Rift guardian
 Check Scores	查看分数	actions	npc	Captain Kalt
 Contract	领取建筑合约	actions	npc	Amy
@@ -627,7 +624,6 @@ Convert-shards	兑换碎片	actions	npc	Noranna Tytanin
 Loot	搜刮 / 领取 / 转移战利品	actions	npc	Grave
 Lap-count	圈数统计	actions	npc	Bobawu
 Value	查看物品价值	actions	npc	Skully
-Settings	设定	actions	npc	Skully
 Ungael	航向至恩盖尔	actions	npc	Torfinn
 Glider-to Ta Quir Priw	滑翔至大树家园	actions	npc	Gnormadium Avlafrim
 Glider-to Gandius	滑翔至甘迪乌斯	actions	npc	Gnormadium Avlafrim
@@ -743,7 +739,6 @@ Empty	清空	actions	object	Dwarf multicannon
 Load X	装载 X	actions	object	Dwarf multicannon
 Climb-down	爬下去	actions	object	Ladder
 Climb-up	爬上去	actions	object	Ladder
-Climb-over	攀越	actions	object	Rock pile
 Prod	戳	actions	object	Sacks
 Pull	拉	actions	object	Lever
 Go-through	穿过	actions	object	Gate
@@ -764,7 +759,6 @@ Jump-up	跳上去	actions	object	Rocks
 Operate	操作	actions	object	Winch
 Pick	采摘	actions	object	Potato
 Close	关闭	actions	object	Large open cupboard
-Play	播放	actions	object	Church organ
 Use	使用	actions	object	Crevice
 Peek	偷看	actions	object	Crevice
 Private	进入私人副本	actions	object	Crevice
@@ -805,7 +799,6 @@ Pan	淘洗	actions	object	Panning point
 Shoot	射击	actions	object	Gnome goal
 Deposit	存放	actions	object	Chest
 Climb-on	爬上去	actions	object	Barrel
-Kick	踢	actions	object	Loose panel
 Rotate	旋转	actions	object	Crane
 Walk-down	走下去	actions	object	Spooky stairs
 Walk-up	走上去	actions	object	Spooky stairs
@@ -815,10 +808,8 @@ Walk-Up	走上去	actions	object	Stairs
 Mine	采矿	actions	object	Rock slide
 Look at	查看	actions	object	Winch
 Cut	切割	actions	object	Kharidian cactus (Healthy)
-Watch	观看	actions	object	Mine door entrance
 Look-in	查看内部	actions	object	Barrel
 Look in	查看内部	actions	object	Barrel
-Collect	收集	actions	object	Bank chest
 Climb-to	攀爬	actions	object	Rock
 Climb down	爬下去	actions	object	Rock
 Walk through	穿过	actions	object	Mine cave
@@ -840,7 +831,6 @@ Lift	抬起	actions	object	Totem pole
 Shake	摇晃	actions	object	Leafy Palm Tree
 Cut down	砍倒	actions	object	Arctic pine tree
 Forfeit	放弃	actions	object	Entrance
-Bank	存入银行	actions	object	Open chest
 Buy	购买	actions	object	Crate
 Pass-through	穿过	actions	object	Tunnel
 Descend	下降	actions	object	Cave
@@ -862,7 +852,6 @@ Dump	倾倒	actions	object	Compost Bin
 Step-over	跨过	actions	object	Tripwire
 Pass	通过	actions	object	Sticks
 Reinforce	加固	actions	object	Temple wall
-Light	点燃	actions	object	Fire altar
 Build	建造	actions	object	Funeral Pyre
 Summon	召唤	actions	object	Strange altar
 Cut-branch	砍下树枝	actions	object	Swaying tree
@@ -940,7 +929,6 @@ Pick-banana	采摘香蕉	actions	object	Banana tree
 Pick-leaf	采摘叶子	actions	object	Curry tree
 Pick-orange	采摘橙子	actions	object	Orange tree
 Pick-coconut	采摘椰子	actions	object	Palm tree
-Harvest	收获	actions	object	Asgarnian Hops
 Travel	旅行	actions	object	Spirit Tree
 Milk	挤奶	actions	object	Dairy cow
 Steal-cowbell	偷窃牛铃	actions	object	Dairy cow
@@ -954,7 +942,6 @@ Chip	凿刻	actions	object	Dense runestone
 Hack	乱劈	actions	object	Light Jungle
 Quick-Pay(100)	快速支付 (100)	actions	object	Hardwood Grove Doors
 Refuel	补充燃料	actions	object	Stove
-Retrieve	取回	actions	object	Bars
 Pedal	踩踏板	actions	object	Pedals
 Put-ore-on	放置矿石	actions	object	Conveyor belt
 Fill-bucket	装满桶	actions	object	Sink
@@ -964,18 +951,13 @@ Swap	交换	actions	object	Ornate combat dummy
 Take-Coffin	取棺材	actions	object	Grave
 Make	制作	actions	object	Bed
 Net	用渔网捕鱼	actions	object	Fishing spot
-Ardougne	阿多尼城	actions	object	Lever
 Edgeville	埃奇维尔镇	actions	object	Lever
 Swap-options	交换选项	actions	object	Lever
 Talk to	对话	actions	object	Tree
-Exchange	交易	actions	object	Grand Exchange booth
-Lure	引诱	actions	object	Ominous Fishing Spot
-Bait	放置诱饵	actions	object	Ominous Fishing Spot
 Fish-in	钓鱼	actions	object	Aquarium
 Count	计数	actions	object	Pressure Barrel
 Swim	游泳	actions	object	River
 Look-up	向上看	actions	object	Trellis
-Spectate	旁观	actions	object	Rat wall
 Deposit-box	开启寄存箱界面	actions	object	Bank booth
 Grab	抓取	actions	object	Bones
 Remove-coal	取出煤炭	actions	object	Coal Truck
@@ -1006,7 +988,6 @@ Paddle Canoe	划动独木舟	actions	object	Canoe Station
 Look-inside	查看内部	actions	object	Mole hill
 Buy-food	购买食物	actions	object	Chest
 Buy-items	购买物品	actions	object	Chest
-Quick-escape	快速逃跑	actions	object	Door
 Pick-Fruit	采摘果实	actions	object	Sq'irk tree
 Stand-on	站在上面	actions	object	Balance beam
 Get-down	下来	actions	object	Balance beam
@@ -1105,10 +1086,8 @@ Flush	冲洗	actions	object	Rabbit hole
 Shout-over	喊过	actions	object	Rockslide
 Pull-down	拉下	actions	object	Eagle lever
 Push-up	推上	actions	object	Eagle lever
-Quick-start	快速开始	actions	object	Ladder
 Reset-wave	重置波次	actions	object	Door
 Dunk	浸入	actions	object	Lava crater
-Block	阻挡	actions	object	Penance cave
 Demolish	拆除	actions	object	Penance cave
 Take-Arrows	拿取箭攵	actions	object	Attacker item machine
 Take-Runes	拿取符石	actions	object	Attacker item machine
@@ -1180,7 +1159,6 @@ Make-raft	制作木筏	actions	object	Old log
 Toggle XP	切换经验值开关	actions	object	Deadman chest
 Take-X	取 X 个	actions	object	Meat table
 Serve	服务	actions	object	Buffet table
-Water	浇水	actions	object	Golovanova seedling
 Bind	束缚	actions	object	Blood Altar
 Venerate	崇敬	actions	object	Dark Altar
 Take-remains	拿走遗骸	actions	object	Kruk
@@ -1195,7 +1173,6 @@ Balance-across	保持平衡走过	actions	object	Steep roof
 Leave Cavern	离开洞穴	actions	object	Inanimate Altar
 Story	叙述冒险事迹	actions	object	Juna
 Climb over	爬过	actions	object	Broken cart
-Claim	领取	actions	object	Reward chest
 Add-House	发布房屋广告	actions	object	House Advertisement
 Visit-Last	访问最近一次进入的房屋	actions	object	House Advertisement
 Cross-to	穿过	actions	object	Rock
@@ -1366,7 +1343,6 @@ Take tools	拿取工具	actions	object	Crate
 Set up	设置	actions	object	Drift net anchors
 Take down	取下	actions	object	Drift net anchors
 Pick up	捡起	actions	object	Pile of Fishbowls
-Pay	支付	actions	object	Volcano Entrance
 Feel	触摸	actions	object	Gas hole
 Add to	添加	actions	object	Large Fossil Support
 Climb through	爬过	actions	object	Hole
@@ -1376,10 +1352,7 @@ Preferences	偏好设置	actions	object	Log storage
 Absorb	吸收	actions	object	Energy Sphere
 Reminisce	回忆	actions	object	Pool of Dreams
 Nets	用渔网捕鱼	actions	object	Annette
-Ancient	切换至古代法术书	actions	object	Altar of the Occult
 Lunar	切换至月之法术书	actions	object	Altar of the Occult
-Arceuus	切换至阿西乌斯法术书	actions	object	Altar of the Occult
-Standard	切换至标准法术书	actions	object	Altar of the Occult
 Recharge-jewellery	充能首饰	actions	object	Totem Pole
 Douse	熄灭	actions	object	Fire
 Heal	治疗	actions	object	Fremennik warrior
@@ -1392,7 +1365,6 @@ Quick-enter	快速进入	actions	object	Door
 Resign	退出	actions	object	Vyre Orator
 Varrock	传送至维洛克城	actions	object	Varrock Portal
 Grand Exchange	传送至大交易所	actions	object	Varrock Portal
-Toggle	切换传送点	actions	object	Varrock Portal
 Camelot	传送至卡美洛城堡	actions	object	Camelot Portal
 Seers' Village	传送至先知之村	actions	object	Camelot Portal
 Watchtower	传送至瞭望塔	actions	object	Yanille Watchtower Portal
@@ -1448,15 +1420,12 @@ Crafting Guild	传送至制作公会	actions	object	Fancy Jewellery Box
 Cooking Guild	传送至厨师公会	actions	object	Fancy Jewellery Box
 Woodcutting Guild	传送至伐木公会	actions	object	Fancy Jewellery Box
 Farming Guild	传送至农业公会	actions	object	Fancy Jewellery Box
-Miscellania	传送至米斯凯尼亚国	actions	object	Ornate Jewellery Box
 Falador Park	传送至法拉多公园	actions	object	Ornate Jewellery Box
 Dondakan's Rock	传送至东达坎之石	actions	object	Ornate Jewellery Box
 Take manta ray	拿取魔鬼鱼	actions	object	Bounty supply crate
-Take anglerfish	拿取𩽾𩾌鱼	actions	object	Bounty supply crate
-Destroy	销毁	actions	object	Lab table
+Take anglerfish	拿取安康鱼	actions	object	Bounty supply crate
 Stamp-out	踩灭	actions	object	Magical Fire
 Continue	继续	actions	object	Path
-Climp-up	爬上去	actions	object	Stairs
 Check-statistics (Personal)	检查统计 (个人)	actions	object	Noticeboard
 Check-statistics (Global)	检查统计 (全局)	actions	object	Noticeboard
 Sacrifice	献祭	actions	object	Saradomin Brazier
@@ -1574,7 +1543,6 @@ Take-from Hunting	从狩猎取	actions	object	Supply crates
 Take-from Herblore	从草药学取	actions	object	Supply crates
 Take-log	拿取原木	actions	object	Roots
 Bask	晒太阳	actions	object	Shrine of Ralos
-Cimb-down	爬下去	actions	object	Open trapdoor
 Bless	祝福	actions	object	Exposed altar
 Deposit-eggs	存放复活节蛋	actions	object	Easter mine cart
 Redeem	兑换	actions	object	Agility dispenser
@@ -1619,7 +1587,6 @@ Modify	修改	actions	object	Bronze cannon
 Charge	充能	actions	object	Runic shield generator
 Uncharge	解除充能	actions	object	Runic shield generator
 Settings	设置	actions	object	Runic shield generator
-Extinguish	熄灭	actions	object	Small brazier
 Unload	卸载	actions	object	Small brazier
 Trim	修剪	actions	object	Sails
 Set	设置	actions	object	Sails
@@ -1716,7 +1683,6 @@ Copy to clipboard	复制到剪贴板	actions	menu	friendsTab
 Store-axe	储存斧头	actions	npc	
 Abort offer	取消报价	actions	menu	
 Modify offer	修改报价	actions	menu	
-Collect	收集	actions	menu	
 Make	制作	actions	item	
 Make	制作	actions	menu	
 Expand	展开	actions	menu

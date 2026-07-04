@@ -6365,9 +6365,9 @@ Stolen garnet ring	被盗的石榴石戒指	name	item	Stolen garnet ring
 Stolen circlet	被盗的头冠	name	item	Stolen circlet
 Stolen family heirloom	被盗的传家宝	name	item	Stolen family heirloom
 Stolen jewelry box	被盗的首饰盒	name	item	Stolen jewelry box
-Raw anglerfish	生𩽾𩾌鱼	name	item	Raw anglerfish
-Anglerfish	𩽾𩾌鱼	name	item	Anglerfish
-Burnt anglerfish	烧焦的𩽾𩾌鱼	name	item	Burnt anglerfish
+Raw anglerfish	生安康鱼	name	item	Raw anglerfish
+Anglerfish	安康鱼	name	item	Anglerfish
+Burnt anglerfish	烧焦的安康鱼	name	item	Burnt anglerfish
 Dense essence block	浓缩精华块	name	item	Dense essence block
 Dark essence block	黑暗精华块	name	item	Dark essence block
 Ensouled goblin head	附有灵魂的哥布林头颅	name	item	Ensouled goblin head
@@ -8302,7 +8302,7 @@ Antique emblem (tier 10)	古董徽章 (等级 10)	name	item	Antique emblem (tier
 Looting bag note	战利品凭证	name	item	Looting bag note
 Rune pouch note	符石袋凭证	name	item	Rune pouch note
 Blighted manta ray	被污染的魔鬼鱼	name	item	Blighted manta ray
-Blighted anglerfish	被污染的𩽾𩾌鱼	name	item	Blighted anglerfish
+Blighted anglerfish	被污染的安康鱼	name	item	Blighted anglerfish
 Blighted karambwan	被污染的卡拉姆班鱼	name	item	Blighted karambwan
 Blighted super restore(4)	被污染的超级恢复药水 (4)	name	item	Blighted super restore(4)
 Blighted super restore(3)	被污染的超级恢复药水 (3)	name	item	Blighted super restore(3)
@@ -10668,7 +10668,7 @@ Rune staff of collection	符文藏品法杖	name	item	Rune staff of collection
 Dragon staff of collection	龙金藏品法杖	name	item	Dragon staff of collection
 Gilded staff of collection	镀金藏品法杖	name	item	Gilded staff of collection
 Bounty supply crate (manta ray)	赏金猎人补给箱 (魔鬼鱼)	name	item	Bounty supply crate (manta ray)
-Bounty supply crate (anglerfish)	赏金猎人补给箱 (𩽾𩾌鱼)	name	item	Bounty supply crate (anglerfish)
+Bounty supply crate (anglerfish)	赏金猎人补给箱 (安康鱼)	name	item	Bounty supply crate (anglerfish)
 Bran	布兰	name	item	Bran
 Ric	里克	name	item	Ric
 Deadeye prayer scroll	神射手祈祷卷轴	name	item	Deadeye prayer scroll
@@ -11176,7 +11176,7 @@ Bottled storm	瓶装风暴	name	item	Bottled storm
 Swift albatross feather	迅捷信天翁羽毛	name	item	Swift albatross feather
 Narwhal horn	独角鲸角	name	item	Narwhal horn
 Narwhal horn knife	独角鲸角刀	name	item	Narwhal horn knife
-Ray barbs	𫚉鱼的倒刺	name	item	Ray barbs
+Ray barbs	魟鱼的倒刺	name	item	Ray barbs
 Broken dragon hook	破损的龙金钩	name	item	Broken dragon hook
 Repair kit	修理包	name	item	Repair kit
 Oak repair kit	橡木修理包	name	item	Oak repair kit
@@ -11672,7 +11672,7 @@ Improved Reflexes	强化反射	name	menu	prayerTab
 Burst of Strength	力量爆发	name	menu	prayerTab
 Mystic Lore	神秘知识	name	menu	prayerTab
 Augury	占卜术	name	menu	prayerTab
-Hawk Eye	𫛭眼	name	menu	prayerTab
+Hawk Eye	鹰眼	name	menu	prayerTab
 Chivalry	骑士精神	name	menu	prayerTab
 Superhuman Strength	超人力量	name	menu	prayerTab
 Rigour	严谨	name	menu	prayerTab
@@ -12940,7 +12940,6 @@ Shanomi	沙诺米	name	npc	Shanomi
 Lidio	利迪奥	name	npc	Lidio
 Lilly	莉莉	name	npc	Lilly
 Anton	安东	name	npc	Anton
-Jade	杰德	name	npc	Jade
 Catablepon	凯塔勒蓬	name	npc	Catablepon
 Giant spider	巨型蜘蛛	name	npc	Giant spider
 Spider	蜘蛛	name	npc	Spider
@@ -13379,7 +13378,6 @@ Droalak	德罗拉克	name	npc	Droalak
 Dron	德龙	name	npc	Dron
 Blanin	布拉宁	name	npc	Blanin
 Kitten	小猫	name	npc	Kitten
-Crate	箱子	name	npc	Crate
 Shilop	希洛普	name	npc	Shilop
 Philop	菲洛普	name	npc	Philop
 Wilough	威洛	name	npc	Wilough
@@ -14170,10 +14168,8 @@ Dark kebbit	黑凯比特兔	name	npc	Dark kebbit
 Dashing kebbit	迅捷凯比特兔	name	npc	Dashing kebbit
 Enormous Tentacle	巨大触手	name	npc	Enormous Tentacle
 Vet'ion Jr.	小维提翁	name	npc	Vet'ion Jr.
-Egg	蛋	name	npc	Egg
 Jack	杰克	name	npc	Jack
 Jill	吉尔	name	npc	Jill
-Scorpia's offspring	天蝎的后代	name	npc	Scorpia's offspring
 Tropical wagtail	热带鹡鸰	name	npc	Tropical wagtail
 Crimson swift	深红雨燕	name	npc	Crimson swift
 Cerulean twitch	天蓝雀	name	npc	Cerulean twitch
@@ -14601,7 +14597,6 @@ Ouditor	审计员	name	npc	Ouditor
 Smoggy	斯莫吉	name	npc	Smoggy
 Toothy	图西	name	npc	Toothy
 Operator	操作员	name	npc	Operator
-Blasted ore	炸出的矿石	name	npc	Blasted ore
 Mine supervisor	矿场主管	name	npc	Mine supervisor
 Munty	芒蒂	name	npc	Munty
 Moggy	莫吉	name	npc	Moggy
@@ -14641,7 +14636,6 @@ Sandy Boulder	沙岩	name	npc	Sandy Boulder
 Twisted Banshee	扭曲女妖	name	npc	Twisted Banshee
 Brutal blue dragon	残暴蓝龙	name	npc	Brutal blue dragon
 Brutal red dragon	残暴红龙	name	npc	Brutal red dragon
-Brutal black dragon	残暴黑龙	name	npc	Brutal black dragon
 Mutated Bloodveld	变异血魔	name	npc	Mutated Bloodveld
 Warped Jelly	扭曲果冻怪	name	npc	Warped Jelly
 Greater Nechryael	高等死灵魔	name	npc	Greater Nechryael
@@ -15552,7 +15546,6 @@ Councillor Andrews	安德鲁斯议员	name	npc	Councillor Andrews
 David Andrews	大卫‧安德鲁斯	name	npc	David Andrews
 Cabin Boy Herbert	船舱侍应赫伯特	name	npc	Cabin Boy Herbert
 Judge of Yama	阎魔法官	name	npc	Judge of Yama
-Fire Wave	火浪	name	npc	Fire Wave
 Councillor Orson	奥森议员	name	npc	Councillor Orson
 Xamphur	赞弗尔	name	npc	Xamphur
 Phantom Hand	幻影之手	name	npc	Phantom Hand
@@ -15811,7 +15804,6 @@ Flowering bush (Green)	开花灌木 (绿色)	name	npc	Flowering bush (Green)
 Strange bush (Green)	奇怪的灌木 (绿色)	name	npc	Strange bush (Green)
 Flowering bush (Blue)	开花灌木 (蓝色)	name	npc	Flowering bush (Blue)
 Strange bush (Blue)	奇怪的灌木 (蓝色)	name	npc	Strange bush (Blue)
-Wisp	小精灵	name	npc	Wisp
 Butch	布奇	name	npc	Butch
 Baron	男爵	name	npc	Baron
 Lil'viathan	小利维坦	name	npc	Lil'viathan
@@ -16297,7 +16289,6 @@ Void Flare	虚空耀斑	name	npc	Void Flare
 Voice of Yama	阎魔之声	name	npc	Voice of Yama
 Lieutenant	中尉	name	npc	Lieutenant
 Jim	吉姆	name	npc	Jim
-Yami	雅米	name	npc	Yami
 Vorbio	沃比奥	name	npc	Vorbio
 Marcus	马库斯	name	npc	Marcus
 Antos	安托斯	name	npc	Antos
@@ -16713,7 +16704,6 @@ Gnome glider	地精滑翔机	name	object	Gnome glider
 Crashed glider	坠毁的滑翔机	name	object	Crashed glider
 Blurberry bar	布鲁贝利酒吧	name	object	Blurberry bar
 Hollowed rock	中空的岩石	name	object	Hollowed rock
-Lamp	灯	name	object	Lamp
 Candles	蜡烛	name	object	Candles
 Chandelier	枝形吊灯	name	object	Chandelier
 Ice Light	冰灯	name	object	Ice Light
@@ -16840,7 +16830,6 @@ Hole	洞	name	object	Hole
 Animal skull	动物头骨	name	object	Animal skull
 Big egg	大蛋	name	object	Big egg
 Carcass	动物尸体	name	object	Carcass
-Curved bone	弯曲的骨头	name	object	Curved bone
 Large bone	大骨头	name	object	Large bone
 Bell	钟	name	object	Bell
 Bell mechanism	钟的机械装置	name	object	Bell mechanism
@@ -16851,7 +16840,6 @@ Fire remains	熄灭的火堆	name	object	Fire remains
 Shaking box	摇晃的盒子	name	object	Shaking box
 Standing torch	立式火炬	name	object	Standing torch
 Cave web	洞穴蛛网	name	object	Cave web
-Web	蛛网	name	object	Web
 Slashed web	被割开的蛛网	name	object	Slashed web
 Broken ladder	破损的梯子	name	object	Broken ladder
 Scaffold	脚手架	name	object	Scaffold
@@ -16863,7 +16851,6 @@ Cannon	大炮	name	object	Cannon
 Cannonballs	炮弹	name	object	Cannonballs
 Dummy	假人	name	object	Dummy
 Wooden defence	木制防御工事	name	object	Wooden defence
-Target	靶子	name	object	Target
 Sword cabinet	剑柜	name	object	Sword cabinet
 Bow cabinet	弓柜	name	object	Bow cabinet
 Axe cabinet	斧柜	name	object	Axe cabinet
@@ -17207,7 +17194,6 @@ Trimmed Yommi	修剪过的约米树	name	object	Trimmed Yommi
 Rotten Yommi tree	腐烂的约米树	name	object	Rotten Yommi tree
 Totem pole	图腾柱	name	object	Totem pole
 Rotten Totem pole	腐烂的图腾柱	name	object	Rotten Totem pole
-Fertile Soil	肥沃的土壤	name	object	Fertile Soil
 Damaged Earth	贫瘠的土壤	name	object	Damaged Earth
 Rocky Ledge	岩石壁架	name	object	Rocky Ledge
 Recess	凹处	name	object	Recess
@@ -17323,7 +17309,6 @@ Elven lamp	精灵灯	name	object	Elven lamp
 Twigs	树枝	name	object	Twigs
 Tripwire	绊线	name	object	Tripwire
 Sticks	棍子	name	object	Sticks
-Leaves	树叶	name	object	Leaves
 Dense forest	茂密的森林	name	object	Dense forest
 Huge Gate	巨大门	name	object	Huge Gate
 Sulphur	硫磺	name	object	Sulphur
@@ -17338,7 +17323,6 @@ Tent roof	帐篷顶	name	object	Tent roof
 Tent pole	帐篷杆	name	object	Tent pole
 Fractionalising still	分馏器	name	object	Fractionalising still
 Stump	树桩	name	object	Stump
-Shantay pass	沙泰隘口	name	object	Shantay pass
 Druid's robes	德鲁伊长袍	name	object	Druid's robes
 Laundry Basket	洗衣篮	name	object	Laundry Basket
 Aviary Hatch	鸟舍舱口	name	object	Aviary Hatch
@@ -17401,7 +17385,6 @@ Cave wall	洞穴墙壁	name	object	Cave wall
 Energy Barrier	能量屏障	name	object	Energy Barrier
 Scoreboard	记分板	name	object	Scoreboard
 Pigeon	鸽子	name	object	Pigeon
-Kurask head	库拉斯克头	name	object	Kurask head
 Mounted swordfish	悬挂的剑鱼	name	object	Mounted swordfish
 Mounted sea bass	悬挂的海鲈鱼	name	object	Mounted sea bass
 Chair space	椅子空间	name	object	Chair space
@@ -17509,7 +17492,6 @@ Iron railings	铁栏杆	name	object	Iron railings
 Pile of canes	竹竿堆	name	object	Pile of canes
 Clock	钟	name	object	Clock
 Memorial	纪念碑	name	object	Memorial
-Grave	坟墓	name	object	Grave
 Lightning conductor	避雷针	name	object	Lightning conductor
 Fireplace surround	壁炉架	name	object	Fireplace surround
 Column	柱子	name	object	Column
@@ -17660,7 +17642,6 @@ Crushed barricade	被压碎的路障	name	object	Crushed barricade
 Sithik Ints	西锡克‧因茨	name	object	Sithik Ints
 Stand	支架	name	object	Stand
 Rubble	瓦砾	name	object	Rubble
-Symbol	符号	name	object	Symbol
 Big, big boulder...	巨大的巨石…	name	object	Big, big boulder...
 Bone Crane	骨制起重机	name	object	Bone Crane
 Bone support	骨制支撑	name	object	Bone support
@@ -17673,7 +17654,6 @@ Herb Stall	草药摊位	name	object	Herb Stall
 Nothing	无	name	object	Nothing
 Cart Track	矿车轨道	name	object	Cart Track
 Market Stall	市场摊位	name	object	Market Stall
-Crusher	粉碎机	name	object	Crusher
 Almost a Statue	几乎是一座雕像	name	object	Almost a Statue
 Track	轨道	name	object	Track
 Train cart	矿车	name	object	Train cart
@@ -17695,7 +17675,6 @@ Wall safe	墙壁保险箱	name	object	Wall safe
 Pendulum	摆锤	name	object	Pendulum
 Wooden Obstruction	木制障碍物	name	object	Wooden Obstruction
 Contortion Bars	扭曲栏杆	name	object	Contortion Bars
-Spin Blades	旋转刀片	name	object	Spin Blades
 Fox	狐狸	name	object	Fox
 Chicken	鸡	name	object	Chicken
 Grain	谷物	name	object	Grain
@@ -17842,7 +17821,6 @@ Dead Oak	死亡的橡树	name	object	Dead Oak
 Willow tree stump	柳树树桩	name	object	Willow tree stump
 Diseased Willow	染病的柳树	name	object	Diseased Willow
 Dead Willow	死亡的柳树	name	object	Dead Willow
-Yew sapling	紫杉树苗	name	object	Yew sapling
 Yew tree stump	紫杉树树桩	name	object	Yew tree stump
 Diseased Yew	染病的紫杉	name	object	Diseased Yew
 Dead Yew	死亡的紫杉	name	object	Dead Yew
@@ -17944,7 +17922,6 @@ Pipes	管道	name	object	Pipes
 Candelabrum	枝形烛台	name	object	Candelabrum
 Golden lantern	金色灯笼	name	object	Golden lantern
 Gold Screen	金屏风	name	object	Gold Screen
-Hole in the wall	墙上的洞	name	object	Hole in the wall
 Patched Wall	修补的墙壁	name	object	Patched Wall
 Delphinium patch	飞燕草种植地	name	object	Delphinium patch
 Delphiniums	飞燕草	name	object	Delphiniums
@@ -18108,7 +18085,6 @@ Silver rocks	银矿石	name	object	Silver rocks
 Gold rocks	金矿石	name	object	Gold rocks
 Mithril rocks	秘银矿石	name	object	Mithril rocks
 Adamantite rocks	精金矿石	name	object	Adamantite rocks
-Runite rocks	符文矿石	name	object	Runite rocks
 Blurite rocks	蓝铁矿石	name	object	Blurite rocks
 Gem rocks	宝石岩石	name	object	Gem rocks
 Limestone rock	石灰石岩石	name	object	Limestone rock
@@ -18178,7 +18154,6 @@ Blacksmiths' tools	铁匠的工具	name	object	Blacksmiths' tools
 Sinister barrel	邪恶的木桶	name	object	Sinister barrel
 Thorns	荆棘	name	object	Thorns
 Creature	生物	name	object	Creature
-Egg	蛋	name	object	Egg
 Ice Column	冰柱	name	object	Ice Column
 TzHaar statue	特扎尔雕像	name	object	TzHaar statue
 Lava forge	熔岩熔炉	name	object	Lava forge
@@ -18355,7 +18330,6 @@ Spike defence	尖刺防御	name	object	Spike defence
 Table blockade	桌子路障	name	object	Table blockade
 Kourend sigil	库兰德符印	name	object	Kourend sigil
 Tekton's journal	泰克顿的日记	name	object	Tekton's journal
-Transdimensional notes	跨维度旅行笔记	name	object	Transdimensional notes
 Vanguard Judgement	先锋队的审判	name	object	Vanguard Judgement
 Houndmaster's Diary	驯犬师的日记	name	object	Houndmaster's Diary
 Mithril armour	秘银盔甲	name	object	Mithril armour
@@ -18364,7 +18338,6 @@ Rune armour	符文盔甲	name	object	Rune armour
 Red Castlewars armour	红色城堡战争盔甲	name	object	Red Castlewars armour
 White Castlewars armour	白色城堡战争盔甲	name	object	White Castlewars armour
 Gold Castlewars armour	金色城堡战争盔甲	name	object	Gold Castlewars armour
-Rune display case	符文展示柜	name	object	Rune display case
 Desert painting	沙漠画作	name	object	Desert painting
 Isafdar painting	伊萨法德森林画作	name	object	Isafdar painting
 Karamja painting	卡拉姆詹岛画作	name	object	Karamja painting
@@ -18410,7 +18383,6 @@ Ardougne Portal	阿多尼城传送门	name	object	Ardougne Portal
 Portal frame	传送门框架	name	object	Portal frame
 Scrying pool	占卜池	name	object	Scrying pool
 Teleportation focus	传送聚焦器	name	object	Teleportation focus
-Greater teleport focus	强效传送聚焦器	name	object	Greater teleport focus
 Globe	地球仪	name	object	Globe
 Ornamental globe	装饰地球仪	name	object	Ornamental globe
 Lunar globe	月球地球仪	name	object	Lunar globe
@@ -18426,7 +18398,6 @@ Infernal chart	地狱图表	name	object	Infernal chart
 Oak trapdoor	橡木活板门	name	object	Oak trapdoor
 Teak trapdoor	柚木活板门	name	object	Teak trapdoor
 Mahogany trapdoor	红木活板门	name	object	Mahogany trapdoor
-Steel cage	钢制笼	name	object	Steel cage
 Greater magic circle	高级魔法圈	name	object	Greater magic circle
 Floor decoration	地板装饰	name	object	Floor decoration
 Hanging	悬挂物	name	object	Hanging
@@ -19301,7 +19272,6 @@ Bank deposit box	银行寄存箱	name	object	Bank deposit box
 King Arthur	亚瑟王	name	object	King Arthur
 The jury	陪审团	name	object	The jury
 Alan	艾伦	name	object	Alan
-Court judge	法官	name	object	Court judge
 Locked gate	锁着的门	name	object	Locked gate
 Citizen	市民	name	object	Citizen
 Spiders' nest	蜘蛛巢	name	object	Spiders' nest
@@ -19520,7 +19490,6 @@ Dart trap	飞镖陷阱	name	object	Dart trap
 Locked chest	锁着的箱子	name	object	Locked chest
 Bronze Door	青铜门	name	object	Bronze Door
 Burning brazier	燃烧的火盆	name	object	Burning brazier
-Large boulder	大巨石	name	object	Large boulder
 Monkey trap	猴子陷阱	name	object	Monkey trap
 Minecart	矿车	name	object	Minecart
 Rope ladder	绳梯	name	object	Rope ladder
@@ -20062,7 +20031,6 @@ Twisted Bow	扭曲弓	name	object	Twisted Bow
 Hanging hand	悬挂的手	name	object	Hanging hand
 Chamber	密室	name	object	Chamber
 Operating table	手术台	name	object	Operating table
-The Maiden of Sugadinti	苏加丁蒂少女	name	object	The Maiden of Sugadinti
 Pool of blood	血池	name	object	Pool of blood
 Tatty toy	破旧的玩具	name	object	Tatty toy
 Monumental chest	巨型宝箱	name	object	Monumental chest
@@ -20295,7 +20263,6 @@ Blocked Tunnel	堵塞的隧道	name	object	Blocked Tunnel
 Fragment of Seren	塞伦碎片	name	object	Fragment of Seren
 Dead Elf	死亡的精灵	name	object	Dead Elf
 Abandoned Equipment	被遗弃的装备	name	object	Abandoned Equipment
-Orb of light	光宝珠	name	object	Orb of light
 Watchtower	瞭望塔	name	object	Watchtower
 Grain sacks	谷物袋	name	object	Grain sacks
 Corrupted Sceptre	堕落权杖	name	object	Corrupted Sceptre
@@ -20365,7 +20332,6 @@ League Firsts Board	联赛首榜	name	object	League Firsts Board
 Dragon trophy display	龙金奖杯展示柜	name	object	Dragon trophy display
 Basic Jewellery Box	基础首饰盒	name	object	Basic Jewellery Box
 Fancy Jewellery Box	华丽首饰盒	name	object	Fancy Jewellery Box
-Bounty supply crate	赏金补给箱	name	object	Bounty supply crate
 Remnant	遗骸	name	object	Remnant
 Weiss Portal	魏斯聚落传送门	name	object	Weiss Portal
 Draynor Manor Portal	德雷诺庄园传送门	name	object	Draynor Manor Portal
@@ -20485,7 +20451,6 @@ Hellcat	地狱猫	name	object	Hellcat
 Overgrown cat	大肥猫	name	object	Overgrown cat
 Overgrown hellcat	肥胖的地狱猫	name	object	Overgrown hellcat
 Lazy cat	懒猫	name	object	Lazy cat
-Lazy hellcat	懒惰地狱猫	name	object	Lazy hellcat
 Wily cat	机灵的猫	name	object	Wily cat
 Wily hellcat	机灵的地狱猫	name	object	Wily hellcat
 Carrot	胡萝卜	name	object	Carrot
@@ -20662,7 +20627,6 @@ Desecrated Tomb	亵渎的坟墓	name	object	Desecrated Tomb
 Mushroom tree	蘑菇树	name	object	Mushroom tree
 Pharmakos bush	法尔马科斯灌木	name	object	Pharmakos bush
 Oozing rock	渗液的岩石	name	object	Oozing rock
-Strange box	奇怪的箱子	name	object	Strange box
 Loot Chest	战利品箱	name	object	Loot Chest
 Group storage	组队存储	name	object	Group storage
 Rain	雨	name	object	Rain
@@ -20670,7 +20634,6 @@ Whale-fall	鲸落	name	object	Whale-fall
 Elk kelp	麋鹿海带	name	object	Elk kelp
 Dark lace	黑暗蕾丝	name	object	Dark lace
 Pineapple	菠萝	name	object	Pineapple
-Head	头颅	name	object	Head
 Rewards Guardian	奖励守护者	name	object	Rewards Guardian
 Deposit Pool	存储池	name	object	Deposit Pool
 Guardian of Air	风守护者	name	object	Guardian of Air
@@ -20751,8 +20714,6 @@ Mould jig (Cooling metal)	模具夹具 (冷却中的金属)	name	object	Mould ji
 Mould jig (Cooled metal)	模具夹具 (已冷却的金属)	name	object	Mould jig (Cooled metal)
 Moulds	模具	name	object	Moulds
 Waterwheel	水车	name	object	Waterwheel
-Orange flowers	橙色花	name	object	Orange flowers
-Yellow flowers	黄色花	name	object	Yellow flowers
 Green flowers	绿色花	name	object	Green flowers
 Indigo flowers	靛蓝色花	name	object	Indigo flowers
 Violet flowers	紫色花	name	object	Violet flowers
@@ -20850,7 +20811,6 @@ Smoke Cloud	烟雾云	name	object	Smoke Cloud
 Heavy Door	厚重的门	name	object	Heavy Door
 Smashed Chair	被打碎的椅子	name	object	Smashed Chair
 Strange Barrier	奇怪的屏障	name	object	Strange Barrier
-Spike	尖刺	name	object	Spike
 Ancient essence crystals	古代精华水晶	name	object	Ancient essence crystals
 Scruffy's Grave	斯克拉菲的坟墓	name	object	Scruffy's Grave
 Pillow	枕头	name	object	Pillow
@@ -20922,7 +20882,6 @@ Fermentation Vat	发酵桶	name	object	Fermentation Vat
 Extremity	肢体	name	object	Extremity
 Pestle and mortar	研钵和杵	name	object	Pestle and mortar
 Corrupted seed	堕落种子	name	object	Corrupted seed
-Floating Column	浮动的柱子	name	object	Floating Column
 Tentacle	触手	name	object	Tentacle
 Broken Pillar	破损的柱子	name	object	Broken Pillar
 Ancient Tablet	古代石板	name	object	Ancient Tablet
@@ -21731,7 +21690,6 @@ Seagull nest	海鸥巢	name	object	Seagull nest
 minotaurs_rest_cave_wall_upper	牛头怪安息地洞穴墙上部	name	object	minotaurs_rest_cave_wall_upper
 Table of coral	珊瑚桌	name	object	Table of coral
 Pallets	托盘	name	object	Pallets
-Deadman's chest	亡命者箱	name	object	Deadman's chest
 Ledger table	分类账桌	name	object	Ledger table
 Barrel of liquid	液体桶	name	object	Barrel of liquid
 Gentle rapids	温和急流	name	object	Gentle rapids
