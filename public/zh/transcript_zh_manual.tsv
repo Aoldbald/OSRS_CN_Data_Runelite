@@ -1747,7 +1747,7 @@ Stop day-dreaming, Private Lord Mont IV!	别胡思乱想了，蒙特中士！	
 . ()	。()	manual	ai_cache	ai_cache_20260618
 ()	（）	manual	ai_cache	ai_cache_20260618
 你好，我刚开始玩osrs	你好，我刚开始玩OSRS。	manual	ai_cache	ai_cache_20260618
-You last logged in 1 hour, 36 minutes ago.	你上次登录是在1小时前36分钟。	manual	ai_cache	ai_cache_20260618
+You last logged in 1 hour, 36 minutes ago.	你上次登录是在1小时36分钟前。	manual	ai_cache	ai_cache_20260618
 You have 360 days of membership left.	你还有360天会员时间。	manual	ai_cache	ai_cache_20260618
 When enabled, the old scroll menu interface will be replaced with a modern version.	启用后，旧卷轴菜单界面将被现代版本取代。	manual	ai_cache	ai_cache_20260618
 When enabled, completion of Combat Achievement tasks will be accompanied by a popup box.	启用后，完成战斗成就任务时会弹出提示框。	manual	ai_cache	ai_cache_20260618
@@ -2228,7 +2228,7 @@ Brb <lt><Num0>	马上回来<lt><Num0>	manual	ai_cache	ai_cache_20260618
 You want play game, <Num0>mg XANAX!	你想玩游戏吗，<Num0>mg XANAX！	manual	ai_cache	ai_cache_20260618
 You like hitting things, <Num0>mg XANAX?	你喜欢打东西，<Num0>mg XANAX？	manual	ai_cache	ai_cache_20260618
 I'd like to talk to you, MrRoger<Num0>!	我想跟你谈谈，MrRoger<Num0>！	manual	ai_cache	ai_cache_20260618
-You last logged in <Num0> hour, <Num1> minutes ago.	你上次登录是在<Num0>小时前<Num1>分钟。	manual	ai_cache	ai_cache_20260618
+You last logged in <Num0> hour, <Num1> minutes ago.	你上次登录是在<Num0>小时<Num1>分钟前。	manual	ai_cache	ai_cache_20260618
 <u=ffff<Num0>>Combat Options panel</u>	<u=ffff<Num0>>战斗选项面板</u>	manual	ai_cache	ai_cache_20260618
 <u=<Num0>dc<Num1>d>The Grand Tree</u>	<u=<Num0>dc<Num1>d>大树家园</u>	manual	ai_cache	ai_cache_20260618
 <u=<Num0>dc<Num1>d>Waterfall Quest</u>	<u=<Num0>dc<Num1>d>瀑布任务</u>	manual	ai_cache	ai_cache_20260618

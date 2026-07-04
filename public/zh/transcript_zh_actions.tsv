@@ -1749,4 +1749,5 @@ Teleport (Home	传送（家	actions	ptbr_import	ptbr
 Turn-left	左转	actions	ptbr_import	ptbr
 Turn-right	右转	actions	ptbr_import	ptbr
 Untether (if tethered)	解开绳索（如果已拴住）	actions	ptbr_import	ptbr
-but you can use a chisel on it	但你可以用凿子处理它	actions	ptbr_import	ptbr
+but you can use a chisel on it	但你可以用凿子处理它	actions	ptbr_import	ptbrClimp-up	爬上去	actions	wiki_rescrape	wiki_rescrape
+Cimb-down	爬下来	actions	wiki_rescrape	wiki_rescrape

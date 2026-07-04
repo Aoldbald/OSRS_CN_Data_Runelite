@@ -20955,4 +20955,36 @@ Members: Lava runes	会员：熔岩符文	interface	ptbr_import	ptbr
 As your Runecrafting skill develops, you will be able to craft multiple runes from one piece of essence. You only receive experience for each piece of essence crafted, not each rune crafted.	随着你的符文制作技能提升，你将能用一份精华制作多个符文。你只会因每份被制作的精华获得经验，而不是每个符文。	interface	ptbr_import	ptbr
 How familiar are you with Old School RuneScape?	你对 Old School RuneScape 有多熟悉？	interface	ptbr_import	ptbr
 Recent FC s	最近的战队	interface	degarble	degarble
-Speak with various NPC s	与各种 NPC 交谈	interface	degarble	degarble
+Speak with various NPC s	与各种 NPC 交谈	interface	degarble	degarbleThe legendary Myreque questline finally reaches its conclusion with The Blood Moon Rises. Speak to Sarius Guile in the Icyene Graveyard to begin your final Myreque adventure.	传奇的迈雷克任务线终于随《血月升起》迎来终章。前往冰翼人墓地与萨里乌斯.盖尔对话，开始你最后的迈雷克冒险。	interface	welcomeScreen	missing_20260704
+Solitude	孤寂	interface	music	missing_20260704
+I'm Sorry	对不起	interface	music	missing_20260704
+Hunted	被追猎	interface	music	missing_20260704
+The Blood Moon Rises	血月升起	interface	music	missing_20260704
+Lord of the Larvae	幼虫之主	interface	music	missing_20260704
+Memories of the Myreque	迈雷克的回忆	interface	music	missing_20260704
+The Bridge	桥	interface	music	missing_20260704
+Gathering	集结	interface	music	missing_20260704
+Prey	猎物	interface	music	missing_20260704
+Castle Drakan	德雷坎城堡	interface	music	missing_20260704
+Remnants	残余	interface	music	missing_20260704
+Search Grand Exchange	搜索大交易所	interface	grandExchange	missing_20260704
+Clear all	全部清除	interface	grandExchange	missing_20260704
+You last logged in <Num0> minute ago.	你上次登录是在<Num0>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> hour ago.	你上次登录是在<Num0>小时前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day ago.	你上次登录是在<Num0>天前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> hour, <Num1> minute ago.	你上次登录是在<Num0>小时<Num1>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> hour, <Num1> minutes ago.	你上次登录是在<Num0>小时<Num1>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> hours, <Num1> minute ago.	你上次登录是在<Num0>小时<Num1>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> hour ago.	你上次登录是在<Num0>天<Num1>小时前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> hours ago.	你上次登录是在<Num0>天<Num1>小时前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> days, <Num1> hour ago.	你上次登录是在<Num0>天<Num1>小时前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> minute ago.	你上次登录是在<Num0>天<Num1>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> minutes ago.	你上次登录是在<Num0>天<Num1>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> days, <Num1> minute ago.	你上次登录是在<Num0>天<Num1>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> hour, <Num2> minute ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> hour, <Num2> minutes ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> hours, <Num2> minute ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> day, <Num1> hours, <Num2> minutes ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> days, <Num1> hour, <Num2> minute ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> days, <Num1> hour, <Num2> minutes ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704
+You last logged in <Num0> days, <Num1> hours, <Num2> minute ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704

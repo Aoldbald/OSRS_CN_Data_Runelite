@@ -25557,4 +25557,415 @@ A gateway to Port Khazard.	通往卡扎德港的传送门。	examine	chisel_resc
 A gateway to the Ice Plateau.	通往冰原的传送门。	examine	chisel_rescrape	chisel_rescrape
 A gateway to your respawn destination.	通往你重生点的传送门。	examine	chisel_rescrape	chisel_rescrape
 A gateway to your boat's last mooring point.	通往你船只上一个系泊点的传送门。	examine	chisel_rescrape	chisel_rescrape
-A King needs a bed and that's why this has always been here in this room that has also always been here.	国王需要一张床，所以这张床一直放在这个也一直存在的房间里。	examine	chisel_rescrape	chisel_rescrape
+A King needs a bed and that's why this has always been here in this room that has also always been here.	国王需要一张床，所以这张床一直放在这个也一直存在的房间里。	examine	chisel_rescrape	chisel_rescrapeA key made of solid iron.	一把纯铁制成的钥匙。	examine	wiki_rescrape	wiki_rescrape
+A still dripping venomous fang from a powerful araxyte etched with powerful runes.	一只强大的阿拉克西特身上还在滴着毒液的毒牙，上面刻有强大的符文。	examine	wiki_rescrape	wiki_rescrape
+A rather disgusting cocktail.	一杯相当恶心的鸡尾酒。	examine	wiki_rescrape	wiki_rescrape
+It's a bucket of bloodwood sap. I could use this to treat logs.	这是一桶血木树汁。我可以用它来处理原木。	examine	wiki_rescrape	wiki_rescrape
+A bloodwood-treated arrow shaft.	一根经过血木处理的箭杆。	examine	wiki_rescrape	wiki_rescrape
+A bloodwood-treated arrow shaft with flights attached.	一根经过血木处理并装上箭羽的箭杆。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with bronze heads.	装有青铜箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with iron heads.	装有铁箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with steel heads.	装有钢箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with mithril heads.	装有秘银箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with adamant heads.	装有精金箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with rune heads.	装有符文箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with amethyst heads.	装有紫水晶箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Bloodwood-treated arrows with a wider than normal tip.	装有比普通箭头更宽箭头的血木箭矢。	examine	wiki_rescrape	wiki_rescrape
+Logs treated with bloodwood sap.	经过血木树汁处理的原木。	examine	wiki_rescrape	wiki_rescrape
+Magic logs treated with bloodwood sap.	经过血木树汁处理的魔法原木。	examine	wiki_rescrape	wiki_rescrape
+Yew logs treated with bloodwood sap.	经过血木树汁处理的紫杉原木。	examine	wiki_rescrape	wiki_rescrape
+Maple logs treated with bloodwood sap.	经过血木树汁处理的枫木原木。	examine	wiki_rescrape	wiki_rescrape
+Willow logs treated with bloodwood sap.	经过血木树汁处理的柳木原木。	examine	wiki_rescrape	wiki_rescrape
+Oak logs treated with bloodwood sap.	经过血木树汁处理的橡木原木。	examine	wiki_rescrape	wiki_rescrape
+Redwood logs treated with bloodwood sap.	经过血木树汁处理的红杉原木。	examine	wiki_rescrape	wiki_rescrape
+Rich in iron.	富含铁质。	examine	wiki_rescrape	wiki_rescrape
+A rather unpleasant-looking blood sac.	一个看起来相当恶心的血囊。	examine	wiki_rescrape	wiki_rescrape
+Let 'em what?	让他们干嘛？	examine	wiki_rescrape	wiki_rescrape
+Partially digested stymphike. Yum...	部分消化的斯廷法利斯鸟。嗯……	examine	wiki_rescrape	wiki_rescrape
+It's riddled with maggots.	里面爬满了蛆虫。	examine	wiki_rescrape	wiki_rescrape
+A nasty war implement. I should be careful not to hit myself.	一件凶险的战争兵器。我得小心别伤到自己。	examine	wiki_rescrape	wiki_rescrape
+A still dripping bloody fang from a venator.	一只猎兽身上还在滴血的毒牙。	examine	wiki_rescrape	wiki_rescrape
+A still dripping bloody fang from a venator etched with powerful runes.	一只猎兽身上还在滴血的毒牙，上面刻有强大的符文。	examine	wiki_rescrape	wiki_rescrape
+The necklace vibrates threateningly when pressed.	这条项链被按压时会发出威胁性的震动。	examine	wiki_rescrape	wiki_rescrape
+Best not to think too much about the venator it inhabits.	最好别去多想它寄居的那只猎兽。	examine	wiki_rescrape	wiki_rescrape
+An alien feather from an alien bird.	一只异域鸟类的异域羽毛。	examine	wiki_rescrape	wiki_rescrape
+Does this count as meat?	这算肉吗？	examine	wiki_rescrape	wiki_rescrape
+This definitely has a pointy end that could stick something.	这玩意儿绝对有个尖头，能戳东西。	examine	wiki_rescrape	wiki_rescrape
+Unrefined dragon metal.	未精炼的龙金属。	examine	wiki_rescrape	wiki_rescrape
+Vampyrium grapes? They look weirdly normal.	吸血鬼葡萄？它们看起来出奇地正常。	examine	wiki_rescrape	wiki_rescrape
+A sharp tooth.	一颗锋利的牙齿。	examine	wiki_rescrape	wiki_rescrape
+A pointy tooth.	一颗尖牙。	examine	wiki_rescrape	wiki_rescrape
+It doesn't look ready.	它看起来还没准备好。	examine	wiki_rescrape	wiki_rescrape
+The runt of the litter.	一窝里最弱小的那只。	examine	wiki_rescrape	wiki_rescrape
+It's warm to the touch...	摸起来是温的……	examine	wiki_rescrape	wiki_rescrape
+It's practically ready to burst.	它几乎要爆开了。	examine	wiki_rescrape	wiki_rescrape
+There's definitely something alive in this one. Definitely.	这里面绝对有活的东西。绝对。	examine	wiki_rescrape	wiki_rescrape
+A tarnished longsword, not fit for a lord.	一把失去光泽的长剑，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+A tarnished spear, not fit for a lord.	一把失去光泽的长矛，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+A tarnished 2h sword, not fit for a lord.	一把失去光泽的双手剑，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+A tarnished battleaxe, not fit for a lord.	一把失去光泽的战斧，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+A tarnished halberd, not fit for a lord.	一把失去光泽的戟，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+A tarnished ring, not fit for a lord.	一枚失去光泽的戒指，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+A tarnished necklace, not fit for a lord.	一条失去光泽的项链，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+A tarnished amulet, not fit for a lord.	一个失去光泽的护身符，配不上领主。	examine	wiki_rescrape	wiki_rescrape
+Still dripping blood.	还在滴血。	examine	wiki_rescrape	wiki_rescrape
+Empty of blood.	血已流尽。	examine	wiki_rescrape	wiki_rescrape
+The journal of a squire who once served Ivandis Seergaze.	一位曾侍奉伊万迪斯.西尔盖兹的侍从的日记。	examine	wiki_rescrape	wiki_rescrape
+A book written by Iriandul Caistlyn, one of the Seven Priestly Warriors.	一本由七祭司战士之一的伊里安杜尔.凯斯特林所著的书。	examine	wiki_rescrape	wiki_rescrape
+Notes written by one of the Seven Priestly Warriors, Sarl Dunegun.	七祭司战士之一，萨尔.杜内根所写的笔记。	examine	wiki_rescrape	wiki_rescrape
+Derygull Templeton's writings, in a book that's seen better days.	德里古尔.坦普尔顿的著作，这本书已经破旧不堪。	examine	wiki_rescrape	wiki_rescrape
+The ramblings of Erysail the Pious, one of the Seven Priestly Warriors.	虔诚者艾瑞赛尔的胡言乱语，他是七祭司战士之一。	examine	wiki_rescrape	wiki_rescrape
+A journal detailing the life and times of Friar Twiblick.	一本详细记录特威布里克修士生平的日记。	examine	wiki_rescrape	wiki_rescrape
+Notes and accounts written by Essiandar Gar.	埃西安达尔.加尔所写的笔记和记述。	examine	wiki_rescrape	wiki_rescrape
+The last writings of Ivandis Seergaze.	伊万迪斯.西尔盖兹最后的著作。	examine	wiki_rescrape	wiki_rescrape
+It's a blessed silver sickle with a diamond recessed into it.	这是一把祝福过的银镰刀，上面镶嵌着一颗钻石。	examine	wiki_rescrape	wiki_rescrape
+It's a blessed and enchanted silver sickle with a diamond recessed into it.	这是一把经过祝福和附魔的银镰刀，上面镶嵌着一颗钻石。	examine	wiki_rescrape	wiki_rescrape
+A diamond sickle with a blade of silver and blisterwood.	一把钻石镰刀，刀片由银和水泡木制成。	examine	wiki_rescrape	wiki_rescrape
+A very sharp piece of wood.	一块非常锋利的木头。	examine	wiki_rescrape	wiki_rescrape
+A legendary flail that has been enhanced with blisterwood and pure silvthrill.	一把传奇连枷，已用水泡木和纯银瑟里尔强化。	examine	wiki_rescrape	wiki_rescrape
+He has a weary look to him, but a glimmer of determination still shines through.	他面带倦容，但眼中仍闪烁着一丝决心。	examine	wiki_rescrape	wiki_rescrape
+Gruff would be an apt description.	用粗鲁来形容再合适不过了。	examine	wiki_rescrape	wiki_rescrape
+A holy spear.	一把神圣的长矛。	examine	wiki_rescrape	wiki_rescrape
+An old key with the symbol of a full moon on it.	一把破旧的钥匙，上面有满月的标志。	examine	wiki_rescrape	wiki_rescrape
+An old key with the symbol of a half moon on it.	一把破旧的钥匙，上面有半月的标志。	examine	wiki_rescrape	wiki_rescrape
+An old key with the symbol of a crescent moon on it.	一把破旧的钥匙，上面有新月（蛾眉月）的标志。	examine	wiki_rescrape	wiki_rescrape
+An old key with the symbol of a gibbous moon on it.	一把破旧的钥匙，上面有凸月的标志。	examine	wiki_rescrape	wiki_rescrape
+An old key with the symbol of a new moon on it.	一把破旧的钥匙，上面有朔月（新月）的标志。	examine	wiki_rescrape	wiki_rescrape
+An ornate golden key.	一把华丽的金色钥匙。	examine	wiki_rescrape	wiki_rescrape
+A rather solid key.	一把相当结实的钥匙。	examine	wiki_rescrape	wiki_rescrape
+An emblem of House Drakan.	德拉肯家族的徽章。	examine	wiki_rescrape	wiki_rescrape
+The left half of a crest.	纹章的左半部分。	examine	wiki_rescrape	wiki_rescrape
+The right half of a crest.	纹章的右半部分。	examine	wiki_rescrape	wiki_rescrape
+An ornate crest.	一个华丽的纹章。	examine	wiki_rescrape	wiki_rescrape
+A very old symbol.	一个非常古老的圣徽。	examine	wiki_rescrape	wiki_rescrape
+A very old shield.	一面非常古老的盾。	examine	wiki_rescrape	wiki_rescrape
+A very old shield with a symbol on it.	一面非常古老的盾，上面有一个标志。	examine	wiki_rescrape	wiki_rescrape
+A fancy knife.	一把别致的刀。	examine	wiki_rescrape	wiki_rescrape
+A fancy skull. How macabre.	一个别致的头骨。真够恐怖的。	examine	wiki_rescrape	wiki_rescrape
+A fancy hourglass.	一个别致的沙漏。	examine	wiki_rescrape	wiki_rescrape
+Whatever is in it smells rather potent and unstable.	里面的东西闻起来相当强烈且不稳定。	examine	wiki_rescrape	wiki_rescrape
+The small hand of a clock.	钟的短针。	examine	wiki_rescrape	wiki_rescrape
+The large hand of a clock.	钟的长针。	examine	wiki_rescrape	wiki_rescrape
+A scroll with a poem on it.	一张写有诗的卷轴。	examine	wiki_rescrape	wiki_rescrape
+A plug from a sink.	一个水槽的塞子。	examine	wiki_rescrape	wiki_rescrape
+A long piece of pipe.	一根长管道。	examine	wiki_rescrape	wiki_rescrape
+A sharp kitchen knife.	一把锋利的厨刀。	examine	wiki_rescrape	wiki_rescrape
+Used for grabbing and holding small things.	用于抓取和夹持小物件。	examine	wiki_rescrape	wiki_rescrape
+The needle for a syringe.	注射器的针。	examine	wiki_rescrape	wiki_rescrape
+The barrel for a syringe.	注射器的针筒。	examine	wiki_rescrape	wiki_rescrape
+The plunger for a syringe.	注射器的活塞。	examine	wiki_rescrape	wiki_rescrape
+This could be filled with something.	这个可以装点东西进去。	examine	wiki_rescrape	wiki_rescrape
+A syringe full of very strong stomach acid.	一支装满强效胃酸的注射器。	examine	wiki_rescrape	wiki_rescrape
+A stomach. How nice.	一个胃。真不错。	examine	wiki_rescrape	wiki_rescrape
+A rather old sword.	一把相当古老的剑。	examine	wiki_rescrape	wiki_rescrape
+A rather old spear.	一把相当古老的矛。	examine	wiki_rescrape	wiki_rescrape
+A rather old battleaxe.	一把相当古老的战斧。	examine	wiki_rescrape	wiki_rescrape
+A rather old mace.	一把相当古老的钉锤。	examine	wiki_rescrape	wiki_rescrape
+A small ornate lockbox.	一个华丽的小锁盒。	examine	wiki_rescrape	wiki_rescrape
+A rather nice dagger.	一把相当不错的匕首。	examine	wiki_rescrape	wiki_rescrape
+A scroll with some sort of grid on it.	一张画着某种网格的卷轴。	examine	wiki_rescrape	wiki_rescrape
+The weight of the book feels unusual.	这本书的重量感觉不太寻常。	examine	wiki_rescrape	wiki_rescrape
+A pretty gem.	一颗漂亮的宝石。	examine	wiki_rescrape	wiki_rescrape
+A very fancy book.	一本非常精美的书。	examine	wiki_rescrape	wiki_rescrape
+A book on vampyres.	一本关于吸血鬼的书。	examine	wiki_rescrape	wiki_rescrape
+A grey potion that's rather cloudy.	一瓶相当浑浊的灰色药水。	examine	wiki_rescrape	wiki_rescrape
+A black potion that feels totally weightless.	一瓶感觉完全没有重量的黑色药水。	examine	wiki_rescrape	wiki_rescrape
+A red potion that's very thick.	一瓶非常浓稠的红色药水。	examine	wiki_rescrape	wiki_rescrape
+A bluish-white potion that's cold to the touch.	一瓶摸起来冰凉的蓝白色药水。	examine	wiki_rescrape	wiki_rescrape
+Some notes on haemalchemy.	一些关于血炼术的笔记。	examine	wiki_rescrape	wiki_rescrape
+A vial of chemicals.	一瓶化学药剂。	examine	wiki_rescrape	wiki_rescrape
+A very old cog.	一个非常古老的齿轮。	examine	wiki_rescrape	wiki_rescrape
+A key with a symbol of House Jovkai on it.	一把刻有乔夫凯家族徽记的钥匙。	examine	wiki_rescrape	wiki_rescrape
+The loop half of a key. It doesn't look like much use on its own.	钥匙的环圈部分。单独看似乎没什么用。	examine	wiki_rescrape	wiki_rescrape
+The tooth half of a key. It doesn't look like much use on its own.	钥匙的齿牙部分。单独看似乎没什么用。	examine	wiki_rescrape	wiki_rescrape
+A key with a symbol of House Myrmel on it.	一把刻有米尔梅尔家族徽记的钥匙。	examine	wiki_rescrape	wiki_rescrape
+A key with a symbol of House Shadum on it.	一把刻有沙杜姆家族徽记的钥匙。	examine	wiki_rescrape	wiki_rescrape
+A key with a symbol of House Vitur on it.	一把刻有维图尔家族徽记的钥匙。	examine	wiki_rescrape	wiki_rescrape
+A rather unremarkable key.	一把相当不起眼的钥匙。	examine	wiki_rescrape	wiki_rescrape
+Not really a key, but kind of.	不完全是钥匙，但有点像。	examine	wiki_rescrape	wiki_rescrape
+A dusty old tome. Hard to make out what it's even titled.	一本布满灰尘的古老典籍。连书名都很难辨认。	examine	wiki_rescrape	wiki_rescrape
+A gnarly looking spine. This could do some damage.	一根看起来很狰狞的脊椎骨。这玩意儿能造成不小的伤害。	examine	wiki_rescrape	wiki_rescrape
+My inventory is going to smell like iron for weeks.	我的背包接下来几周都会有一股铁锈味。	examine	wiki_rescrape	wiki_rescrape
+This rope would be very angry, if it wasn't dead.	如果这根绳子不是死物的话，它现在一定很愤怒。	examine	wiki_rescrape	wiki_rescrape
+It's slowly swelling up with stolen blood.	它正慢慢地被偷来的血液胀大。	examine	wiki_rescrape	wiki_rescrape
+The pages appear to be written in blood.	书页似乎是用血写成的。	examine	wiki_rescrape	wiki_rescrape
+A thick layer of mould has begun to set in.	一层厚厚的霉菌已经开始形成。	examine	wiki_rescrape	wiki_rescrape
+Leaves from an odd plant.	一种奇怪植物的叶子。	examine	wiki_rescrape	wiki_rescrape
+A stew made with amitire leaves.	用阿米提尔叶炖的炖菜。	examine	wiki_rescrape	wiki_rescrape
+Currency from a previous age, made of pure silvthrill.	上一个时代的货币，由纯银瑟里尔合金制成。	examine	wiki_rescrape	wiki_rescrape
+Gives you that healing feeling.	给你带来治愈的感觉。	examine	wiki_rescrape	wiki_rescrape
+A powerful weapon forged from pure silvthrill.	一把由纯银瑟里尔合金锻造的强大武器。	examine	wiki_rescrape	wiki_rescrape
+A silvthrill tipped javelin.	一把银瑟里尔合金尖头的标枪。	examine	wiki_rescrape	wiki_rescrape
+Doesn't taste as bad as it looks.	味道没有看起来那么糟。	examine	wiki_rescrape	wiki_rescrape
+Doesn't smell great.	闻起来不怎么样。	examine	wiki_rescrape	wiki_rescrape
+The chunks just add a little texture.	这些块状物只是增加了一点口感。	examine	wiki_rescrape	wiki_rescrape
+Smooth like butter.	像黄油一样顺滑。	examine	wiki_rescrape	wiki_rescrape
+Wonder what gives it that froth?	想知道是什么让它起泡的？	examine	wiki_rescrape	wiki_rescrape
+Well, there isn't a warning label telling you not to consume the contents...	嗯，上面没有警告标签告诉你不要喝掉里面的东西……	examine	wiki_rescrape	wiki_rescrape
+Now with 30% less hair!	现在毛发含量减少了30%！	examine	wiki_rescrape	wiki_rescrape
+I wish I had a tree named after me.	真希望有棵树能以我的名字命名。	examine	wiki_rescrape	wiki_rescrape
+It's getting smaller, maybe there are goodies in the middle, like a piÃ¯Â¿Â½ata.	它越来越小了，也许中间有好东西，像个皮纳塔一样。	examine	wiki_rescrape	wiki_rescrape
+A juvinate vampyre. They're keeping an eye on the mine.	一个年轻的吸血鬼。他们正监视着矿场。	examine	wiki_rescrape	wiki_rescrape
+An angry-looking werewolf.	一只怒气冲冲的狼人。	examine	wiki_rescrape	wiki_rescrape
+It's me. I'm holding an axe.	是我。我正拿着一把斧头。	examine	wiki_rescrape	wiki_rescrape
+So many buckets... Where do they come from?	这么多桶……它们都是从哪来的？	examine	wiki_rescrape	wiki_rescrape
+It smells even worse than it looks.	它闻起来比看起来还要糟糕。	examine	wiki_rescrape	wiki_rescrape
+An unthinkable horror brought to life by Vampyrium's brutality.	一个由吸血鬼之地的残暴所催生出的难以想象的恐怖。	examine	wiki_rescrape	wiki_rescrape
+The way it writhes is... unsettling. You wouldn't want it under your skin.	它扭动的方式……令人不安。你不会希望它钻进你的皮肤底下。	examine	wiki_rescrape	wiki_rescrape
+A nasty fluffy thing with wings.	一个长着翅膀的恶心毛球。	examine	wiki_rescrape	wiki_rescrape
+Lyme's best friend.	莱姆最好的朋友。	examine	wiki_rescrape	wiki_rescrape
+A not so noble creature!	一个不那么高贵的生物！	examine	wiki_rescrape	wiki_rescrape
+I've a feeling we're not in Morytania anymore.	我有种感觉，我们不在莫利塔尼亚了。	examine	wiki_rescrape	wiki_rescrape
+An iron-rich reptilian.	一只富含铁质的爬行类生物。	examine	wiki_rescrape	wiki_rescrape
+Large, toothy, bloodthirsty dog.	一只大牙、嗜血的狗。	examine	wiki_rescrape	wiki_rescrape
+Larger, toothier, bloodthirstier dog.	一只体型更大、牙齿更多、更加嗜血的狗。	examine	wiki_rescrape	wiki_rescrape
+An aspiring young priest.	一位有抱负的年轻祭司。	examine	wiki_rescrape	wiki_rescrape
+Going undercover.	正在执行卧底任务。	examine	wiki_rescrape	wiki_rescrape
+He's in a spot of bother.	他遇到了一点麻烦。	examine	wiki_rescrape	wiki_rescrape
+He seems rather angry... and drunk.	他看起来相当愤怒……而且喝醉了。	examine	wiki_rescrape	wiki_rescrape
+He looks very weak.	他看起来非常虚弱。	examine	wiki_rescrape	wiki_rescrape
+He may not look the same, but he's still very much the old Safalaan.	他可能看起来不一样了，但他骨子里还是那个老萨法拉安。	examine	wiki_rescrape	wiki_rescrape
+He's not looking great.	他看起来不太好。	examine	wiki_rescrape	wiki_rescrape
+Ivan's making sure Safalaan is safe.	伊凡正在确保萨法拉安的安全。	examine	wiki_rescrape	wiki_rescrape
+Veliaf's making sure Safalaan is safe.	维利亚夫正在确保萨法拉安的安全。	examine	wiki_rescrape	wiki_rescrape
+Her injuries will never fully heal.	她的伤势永远无法完全愈合。	examine	wiki_rescrape	wiki_rescrape
+She's not looking so good.	她看起来不太好。	examine	wiki_rescrape	wiki_rescrape
+She looks to be in a bit of a tricky situation.	她看起来处境有点棘手。	examine	wiki_rescrape	wiki_rescrape
+The former ruler of Hallowvale.	霍洛维尔的前任统治者。	examine	wiki_rescrape	wiki_rescrape
+An imposing winged woman.	一位气势逼人的有翼女子。	examine	wiki_rescrape	wiki_rescrape
+A curious looking vampyre.	一个长相奇特的吸血鬼。	examine	wiki_rescrape	wiki_rescrape
+The ruler of Morytania.	莫利塔尼亚的统治者。	examine	wiki_rescrape	wiki_rescrape
+A nasty arachnid.	一只恶心的蛛形纲生物。	examine	wiki_rescrape	wiki_rescrape
+A rather large arachnid.	一只相当大的蛛形纲生物。	examine	wiki_rescrape	wiki_rescrape
+What has Safalaan become...	萨法拉安变成了什么……	examine	wiki_rescrape	wiki_rescrape
+A vampyre's prisoner.	一个吸血鬼的囚犯。	examine	wiki_rescrape	wiki_rescrape
+They look dirty and tired!	他们看起来又脏又累！	examine	wiki_rescrape	wiki_rescrape
+The ruler of Morytania and the Lord of Vampyrium, untethered.	莫利塔尼亚的统治者，吸血鬼之地的主人，挣脱了束缚。	examine	wiki_rescrape	wiki_rescrape
+Blood from Drakan's lifelong reserves.	来自德拉肯毕生储备的血液。	examine	wiki_rescrape	wiki_rescrape
+How many were killed to accumulate this much blood?	要杀多少人才能积累这么多血？	examine	wiki_rescrape	wiki_rescrape
+Dangerous, magical blood.	危险而充满魔力的血液。	examine	wiki_rescrape	wiki_rescrape
+An odd-looking crow.	一只长相奇怪的乌鸦。	examine	wiki_rescrape	wiki_rescrape
+If the ones back home weren't sick and twisted enough...	如果老家的那些还不够病态扭曲的话……	examine	wiki_rescrape	wiki_rescrape
+Given the empty sockets where the eyes should be, it's safe to say this creature is blind.	考虑到本该是眼睛的位置只有空洞的眼窝，可以肯定这只生物是瞎的。	examine	wiki_rescrape	wiki_rescrape
+Looking a little less tame than the ones seen in the Theatre.	看起来比剧院里看到的那些要少一点温顺。	examine	wiki_rescrape	wiki_rescrape
+Its very bitey, but displays great potential as a rope.	它非常喜欢咬人，但显示出作为绳子的巨大潜力。	examine	wiki_rescrape	wiki_rescrape
+These trees have spikes and they're not afraid to use them.	这些树长着尖刺，而且它们不介意用上这些尖刺。	examine	wiki_rescrape	wiki_rescrape
+Brings a feeling of safety.	带来一种安全感。	examine	wiki_rescrape	wiki_rescrape
+An ominous portal.	一个不祥的传送门。	examine	wiki_rescrape	wiki_rescrape
+Human juice.	人类汁液。	examine	wiki_rescrape	wiki_rescrape
+Suspicious looking stains.	看起来可疑的污渍。	examine	wiki_rescrape	wiki_rescrape
+Something bad happened here.	这里发生过不好的事情。	examine	wiki_rescrape	wiki_rescrape
+A hastily constructed yet sturdy prison gate.	一扇匆忙建造但很坚固的监狱大门。	examine	wiki_rescrape	wiki_rescrape
+The Chambers of Xeric was released on January 5th, 2017.	泽里克圣所于2017年1月5日开放。	examine	wiki_rescrape	wiki_rescrape
+For carting things around.	用来搬运东西的。	examine	wiki_rescrape	wiki_rescrape
+A cage for holding prisoners.	关押囚犯的笼子。	examine	wiki_rescrape	wiki_rescrape
+Seeps right through boots.	会渗进靴子里。	examine	wiki_rescrape	wiki_rescrape
+That won't come off easily...	那东西可不容易弄掉……	examine	wiki_rescrape	wiki_rescrape
+Bloody, festering meat.	血淋淋、溃烂的肉。	examine	wiki_rescrape	wiki_rescrape
+No time to hesitate.	没时间犹豫了。	examine	wiki_rescrape	wiki_rescrape
+A pile of sticks that could be used as spears, in a pinch.	一堆木棍，紧急时能当矛用。	examine	wiki_rescrape	wiki_rescrape
+Aptly named after the bird it's being used to bait.	用它来引诱的那种鸟的名字来命名，真是恰如其分。	examine	wiki_rescrape	wiki_rescrape
+Aptly named after the bird it has a symbiotic relationship with.	用它与之共生的那种鸟的名字来命名，真是恰如其分。	examine	wiki_rescrape	wiki_rescrape
+This should provide a bit of cover.	这应该能提供一点掩护。	examine	wiki_rescrape	wiki_rescrape
+The Theatre of Blood was released on June 7th, 2018.	血腥剧场于2018年6月7日发布。	examine	wiki_rescrape	wiki_rescrape
+One day, this might provide a bit of cover.	总有一天，这或许能提供一点掩护。	examine	wiki_rescrape	wiki_rescrape
+Some sturdy looking doors.	几扇看起来很结实的门。	examine	wiki_rescrape	wiki_rescrape
+An odd-looking shrub.	一株奇特的灌木。	examine	wiki_rescrape	wiki_rescrape
+Definitely a bush.	绝对是丛灌木。	examine	wiki_rescrape	wiki_rescrape
+An other-worldly tall tree.	一棵超凡脱俗的高大树。	examine	wiki_rescrape	wiki_rescrape
+An other-worldly fallen tree.	一棵异世界的倒下的树。	examine	wiki_rescrape	wiki_rescrape
+A rather red tree.	一棵相当红的树。	examine	wiki_rescrape	wiki_rescrape
+A rather red tree. It looks like it's bleeding.	一棵相当红的树。看起来像在流血。	examine	wiki_rescrape	wiki_rescrape
+The remains of a bloodwood tree.	一棵血木树的残骸。	examine	wiki_rescrape	wiki_rescrape
+An other-worldly small tree.	一棵异世界的小树。	examine	wiki_rescrape	wiki_rescrape
+The Tombs of Amascut was released on 24th August, 2022.	阿玛斯库特之墓于2022年8月24日发布。	examine	wiki_rescrape	wiki_rescrape
+Better not walk into it.	最好别撞上去。	examine	wiki_rescrape	wiki_rescrape
+The ancient remains of a vampyre shelter.	一处吸血鬼庇护所的古老遗迹。	examine	wiki_rescrape	wiki_rescrape
+The ancient remains of a makeshift fence.	一处临时栅栏的古老遗迹。	examine	wiki_rescrape	wiki_rescrape
+A very old well.	一口非常古老的井。	examine	wiki_rescrape	wiki_rescrape
+The remains of some skewered creature.	一些被串起来的生物的残骸。	examine	wiki_rescrape	wiki_rescrape
+A very old post.	一根非常古老的柱子。	examine	wiki_rescrape	wiki_rescrape
+Some ancient debris.	一些古老的碎片。	examine	wiki_rescrape	wiki_rescrape
+The remains of some ancient makeshift defences.	一些古老临时防御工事的残骸。	examine	wiki_rescrape	wiki_rescrape
+Decorated with a scary skull.	装饰着一个吓人的头骨。	examine	wiki_rescrape	wiki_rescrape
+It could be possible to climb down here.	也许可以从这里爬下去。	examine	wiki_rescrape	wiki_rescrape
+It could be possible to climb up here.	也许可以从这里爬上去。	examine	wiki_rescrape	wiki_rescrape
+It's fallen over.	它倒了。	examine	wiki_rescrape	wiki_rescrape
+An old table with some things on it.	一张旧桌子，上面放着些东西。	examine	wiki_rescrape	wiki_rescrape
+A big old table.	一张又大又旧的桌子。	examine	wiki_rescrape	wiki_rescrape
+Doesn't look like it's seen much use for some time.	看起来有段时间没怎么用了。	examine	wiki_rescrape	wiki_rescrape
+So even vampyres enjoyed a bit of democracy from time to time.	看来连吸血鬼偶尔也享受点民主。	examine	wiki_rescrape	wiki_rescrape
+An empty cabinet.	一个空柜子。	examine	wiki_rescrape	wiki_rescrape
+An old cabinet with some things in it.	一个旧柜子，里面放着些东西。	examine	wiki_rescrape	wiki_rescrape
+An old bookshelf.	一个旧书架。	examine	wiki_rescrape	wiki_rescrape
+A very old oven. Doesn't look usable.	一个非常旧的烤箱。看起来不能用了。	examine	wiki_rescrape	wiki_rescrape
+Looks to be well worn.	看起来磨损得很厉害。	examine	wiki_rescrape	wiki_rescrape
+Useful for collecting things... alive or dead.	用来收集东西……不管是活的还是死的。	examine	wiki_rescrape	wiki_rescrape
+I'm guessing it's for making vampyre clothes.	我猜是用来做吸血鬼衣服的。	examine	wiki_rescrape	wiki_rescrape
+Would usually light up a room... if it was lit.	通常能照亮房间……如果它被点亮的话。	examine	wiki_rescrape	wiki_rescrape
+An ominious statue.	一尊不祥的雕像。	examine	wiki_rescrape	wiki_rescrape
+Some nasty creature has been burrowing here.	有某种讨厌的生物在这里挖洞。	examine	wiki_rescrape	wiki_rescrape
+Looks very dangerous!	看起来非常危险！	examine	wiki_rescrape	wiki_rescrape
+A banner depicting an ancient symbol.	一面描绘着古老圣徽的旗帜。	examine	wiki_rescrape	wiki_rescrape
+Some fur is hanging here.	这里挂着一些毛皮。	examine	wiki_rescrape	wiki_rescrape
+Some hide is hanging here.	这里挂着一些兽皮。	examine	wiki_rescrape	wiki_rescrape
+Looks about as comfy as a coffin could be.	看起来和棺材能有的舒适度差不多。	examine	wiki_rescrape	wiki_rescrape
+A broken chair.	一把破损的椅子。	examine	wiki_rescrape	wiki_rescrape
+A broken cabinet.	一个破损的柜子。	examine	wiki_rescrape	wiki_rescrape
+A broken shelf.	一个破损的架子。	examine	wiki_rescrape	wiki_rescrape
+A broken table.	一张破损的桌子。	examine	wiki_rescrape	wiki_rescrape
+Ah, wonderful! A place to hang a corpse.	啊，太好了！挂尸体的好地方。	examine	wiki_rescrape	wiki_rescrape
+Some other-worldly tall trees.	几棵异世界的高大树。	examine	wiki_rescrape	wiki_rescrape
+Don't fall on these!	别摔在这些上面！	examine	wiki_rescrape	wiki_rescrape
+A venator smoothie bowl.	一碗猎手冰沙。	examine	wiki_rescrape	wiki_rescrape
+A sturdy barrel used for storing liquids. It's empty.	一个用来储存液体的结实桶。是空的。	examine	wiki_rescrape	wiki_rescrape
+A sturdy barrel used for storing liquids. It's full of water.	一个用来储存液体的结实桶。装满了水。	examine	wiki_rescrape	wiki_rescrape
+Looks stable.	看起来很稳。	examine	wiki_rescrape	wiki_rescrape
+Seems to be in the way.	似乎挡路了。	examine	wiki_rescrape	wiki_rescrape
+Seems stable.	看起来很稳。	examine	wiki_rescrape	wiki_rescrape
+A shrine to Sugadinti. The bowl on it is the right size for a venator heart.	一座供奉苏加丁提的神龛。上面的碗大小正好放得下一颗猎手心脏。	examine	wiki_rescrape	wiki_rescrape
+For holding things.	用来装东西的。	examine	wiki_rescrape	wiki_rescrape
+A shrine to the fallen Myreque.	一座供奉阵亡迈雷克成员的神龛。	examine	wiki_rescrape	wiki_rescrape
+Someone's had a few to drink.	有人喝了不少。	examine	wiki_rescrape	wiki_rescrape
+A small hole in the cave wall.	洞穴墙壁上的一个小洞。	examine	wiki_rescrape	wiki_rescrape
+A tunnel for mine carts.	矿车用的隧道。	examine	wiki_rescrape	wiki_rescrape
+Doesn't look inviting.	看起来不吸引人。	examine	wiki_rescrape	wiki_rescrape
+A strange vampyric shrine.	一座奇怪的吸血鬼神龛。	examine	wiki_rescrape	wiki_rescrape
+Yeah, pretty dead.	嗯，死透了。	examine	wiki_rescrape	wiki_rescrape
+That's quite the pose.	这姿势可真够摆的。	examine	wiki_rescrape	wiki_rescrape
+A big pile of rubble.	一大堆瓦砾。	examine	wiki_rescrape	wiki_rescrape
+Someone has excavated this entry fairly recently.	有人最近挖掘过这个入口。	examine	wiki_rescrape	wiki_rescrape
+A pool of blood.	一池血。	examine	wiki_rescrape	wiki_rescrape
+It looks quite old.	看起来相当古老。	examine	wiki_rescrape	wiki_rescrape
+She's not looking so great.	她看起来不太好。	examine	wiki_rescrape	wiki_rescrape
+They lead back downstairs.	它们通向楼下。	examine	wiki_rescrape	wiki_rescrape
+An ornately decorated window.	一扇装饰华丽的窗户。	examine	wiki_rescrape	wiki_rescrape
+An empty plinth. It's not really offering any support to anything.	一个空基座。它实际上没支撑任何东西。	examine	wiki_rescrape	wiki_rescrape
+A plinth with a book placed on it.	一个基座，上面放着一本书。	examine	wiki_rescrape	wiki_rescrape
+Old but solid bars.	老旧但结实的栏杆。	examine	wiki_rescrape	wiki_rescrape
+Some kind of game is set out on it.	上面摆着某种游戏。	examine	wiki_rescrape	wiki_rescrape
+A place to store things.	存放东西的地方。	examine	wiki_rescrape	wiki_rescrape
+That's a really comfy looking chair.	那椅子看起来真舒服。	examine	wiki_rescrape	wiki_rescrape
+That's a really comfy looking chair. Shame about the rips.	那椅子看起来真舒服。可惜破了几个口子。	examine	wiki_rescrape	wiki_rescrape
+Dinner was... messy.	晚餐吃得……真够乱的。	examine	wiki_rescrape	wiki_rescrape
+A place for things.	放东西的地方。	examine	wiki_rescrape	wiki_rescrape
+Not the nicest place to have a nap.	不是个打盹的好地方。	examine	wiki_rescrape	wiki_rescrape
+Some sort of strange magical device.	某种奇怪的魔法装置。	examine	wiki_rescrape	wiki_rescrape
+Better not think about what's inside.	最好别想里面有什么。	examine	wiki_rescrape	wiki_rescrape
+It's covered in some ominous substances.	上面沾满了某种不祥的物质。	examine	wiki_rescrape	wiki_rescrape
+Blood-stained medical storage.	沾满血迹的医疗储物柜。	examine	wiki_rescrape	wiki_rescrape
+Probably not used for anything nice.	大概不是用来做什么好事的。	examine	wiki_rescrape	wiki_rescrape
+Better not think about it.	最好别去想它。	examine	wiki_rescrape	wiki_rescrape
+Probably not a nice romance novel.	大概不是什么好看的浪漫小说。	examine	wiki_rescrape	wiki_rescrape
+Chances are nothing good took place here.	这里八成没发生过什么好事。	examine	wiki_rescrape	wiki_rescrape
+Filled with weapons.	装满了武器。	examine	wiki_rescrape	wiki_rescrape
+Stained with blood.	沾满了血。	examine	wiki_rescrape	wiki_rescrape
+Most cabinets don't have so much blood on them.	大多数柜子上可没这么多血。	examine	wiki_rescrape	wiki_rescrape
+There are various documents scattered across them.	上面散落着各种文件。	examine	wiki_rescrape	wiki_rescrape
+There seems to be blood leaking out of it.	似乎有血从里面渗出来。	examine	wiki_rescrape	wiki_rescrape
+There seems to be blood leaking out of them.	似乎有血从里面渗出来。	examine	wiki_rescrape	wiki_rescrape
+Filled with blood.	装满了血。	examine	wiki_rescrape	wiki_rescrape
+A rather solid looking door.	一扇看起来相当结实的门。	examine	wiki_rescrape	wiki_rescrape
+It's decorated with a new moon.	上面装饰着新月图案。	examine	wiki_rescrape	wiki_rescrape
+It's decorated with a half moon.	上面装饰着半月图案。	examine	wiki_rescrape	wiki_rescrape
+It's decorated with a gibbous moon.	上面装饰着凸月图案。	examine	wiki_rescrape	wiki_rescrape
+It's decorated with a full moon.	上面装饰着满月图案。	examine	wiki_rescrape	wiki_rescrape
+It's decorated with a crescent moon.	上面装饰着娥眉月图案。	examine	wiki_rescrape	wiki_rescrape
+A hole has been blown in it.	上面被炸开了一个洞。	examine	wiki_rescrape	wiki_rescrape
+An old bookcase with some books in it.	一个旧书架，里面放着一些书。	examine	wiki_rescrape	wiki_rescrape
+A passage hidden behind a bookcase.	一个藏在书架后面的通道。	examine	wiki_rescrape	wiki_rescrape
+An old bookcase that was hiding a secret passage.	一个原本藏着秘密通道的旧书架。	examine	wiki_rescrape	wiki_rescrape
+An old bookcase hiding a secret passage.	一个藏着秘密通道的旧书架。	examine	wiki_rescrape	wiki_rescrape
+A very fancy door.	一扇非常华丽的门。	examine	wiki_rescrape	wiki_rescrape
+Doesn't look to have been sat on for a long time.	看起来很久没人坐过了。	examine	wiki_rescrape	wiki_rescrape
+Looks like something could be put into it.	看起来可以往里面放点东西。	examine	wiki_rescrape	wiki_rescrape
+An emblem of House Drakan has been placed into it.	德拉坎家族的徽章已经被放了进去。	examine	wiki_rescrape	wiki_rescrape
+A fancy bust.	一个华丽的半身像。	examine	wiki_rescrape	wiki_rescrape
+A fancy bust with a lever under it. The lever is pointing down.	一个华丽的半身像，下面有个拉杆。拉杆指向下方。	examine	wiki_rescrape	wiki_rescrape
+A fancy bust with a lever under it. The lever is pointing up.	一个华丽的半身像，下面有个拉杆。拉杆指向上方。	examine	wiki_rescrape	wiki_rescrape
+A fancy grandfather clock.	一个华丽的落地大钟。	examine	wiki_rescrape	wiki_rescrape
+A large fireplace.	一个大壁炉。	examine	wiki_rescrape	wiki_rescrape
+A large fireplace with an odd slot above it.	一个大壁炉，上方有个奇怪的插槽。	examine	wiki_rescrape	wiki_rescrape
+A large fireplace with a crest above it.	一个大壁炉，上方有个纹章。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with nothing in it.	一个华丽的展示柜，里面空无一物。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with an hourglass in it.	一个华丽的展示柜，里面放着一个沙漏。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with a knife in it.	一个华丽的展示柜，里面放着一把刀。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with a skull in it.	一个华丽的展示柜，里面放着一个头骨。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with an hourglass and knife in it.	一个华丽的展示柜，里面放着一个沙漏和一把刀。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with an hourglass and skull in it.	一个华丽的展示柜，里面放着一个沙漏和一个头骨。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with a knife and skull in it.	一个华丽的展示柜，里面放着一把刀和一个头骨。	examine	wiki_rescrape	wiki_rescrape
+A fancy display case with an hourglass, knife and skull in it.	一个华丽的展示柜，里面放着一个沙漏、一把刀和一个头骨。	examine	wiki_rescrape	wiki_rescrape
+It's missing both of its eyes.	两只眼睛都不见了。	examine	wiki_rescrape	wiki_rescrape
+It's missing one of its eyes.	少了一只眼睛。	examine	wiki_rescrape	wiki_rescrape
+Both eyes have been replaced.	两只眼睛都被替换了。	examine	wiki_rescrape	wiki_rescrape
+A fancy bookcase.	一个华丽的书架。	examine	wiki_rescrape	wiki_rescrape
+Looks like something should be mounted here.	看起来这里应该挂点什么东西。	examine	wiki_rescrape	wiki_rescrape
+An ornate shield has been mounted here.	一面华丽的盾牌被挂在这里。	examine	wiki_rescrape	wiki_rescrape
+Could potentially be filled with something.	或许可以往里面装点东西。	examine	wiki_rescrape	wiki_rescrape
+An old set of shelves.	一套旧架子。	examine	wiki_rescrape	wiki_rescrape
+For refining chemical mixtures.	用于精炼化学混合物。	examine	wiki_rescrape	wiki_rescrape
+For testing chemical properties.	用于测试化学性质。	examine	wiki_rescrape	wiki_rescrape
+Some sort of large container holding a lot of blood.	某种装了大量血液的大型容器。	examine	wiki_rescrape	wiki_rescrape
+A portrait of a vampyre.	一幅吸血鬼的肖像。	examine	wiki_rescrape	wiki_rescrape
+An ornate plaque.	一块华丽的牌匾。	examine	wiki_rescrape	wiki_rescrape
+It's full of blood.	里面装满了血。	examine	wiki_rescrape	wiki_rescrape
+Not very usable anymore.	已经不太能用了。	examine	wiki_rescrape	wiki_rescrape
+A shield mounted on the wall.	一面挂在墙上的盾。	examine	wiki_rescrape	wiki_rescrape
+It looks like it's meant to be holding something.	看起来是用来固定什么东西的。	examine	wiki_rescrape	wiki_rescrape
+A statue holding a sword.	一尊手持剑的雕像。	examine	wiki_rescrape	wiki_rescrape
+A statue holding a spear.	一尊手持长矛的雕像。	examine	wiki_rescrape	wiki_rescrape
+A statue holding a mace.	一尊手持钉锤的雕像。	examine	wiki_rescrape	wiki_rescrape
+A statue holding a battleaxe.	一尊手持战斧的雕像。	examine	wiki_rescrape	wiki_rescrape
+It has some supplies in it.	里面有一些补给品。	examine	wiki_rescrape	wiki_rescrape
+For depositing things.	用于存放物品。	examine	wiki_rescrape	wiki_rescrape
+A small ominious statue.	一尊不祥的小雕像。	examine	wiki_rescrape	wiki_rescrape
+A chapel chair. It has some verses inscribed on it.	一把礼拜堂的椅子。上面刻着一些经文。	examine	wiki_rescrape	wiki_rescrape
+Doesn't look to be working.	看起来不能用了。	examine	wiki_rescrape	wiki_rescrape
+A very old piece of engineering.	一件非常古老的机械装置。	examine	wiki_rescrape	wiki_rescrape
+A place to store your favourite vampyric delicacies.	存放你最爱的吸血鬼美食的地方。	examine	wiki_rescrape	wiki_rescrape
+A cabinet filled with books.	一个装满书的柜子。	examine	wiki_rescrape	wiki_rescrape
+A closed door with a symbol of House Jovkai on it.	一扇关着的门，上面有约夫凯家族的标志。	examine	wiki_rescrape	wiki_rescrape
+A closed door with a symbol of House Myrmel on it.	一扇关着的门，上面有米尔梅尔家族的标志。	examine	wiki_rescrape	wiki_rescrape
+A closed door with a symbol of House Shadum on it.	一扇关着的门，上面有沙杜姆家族的标志。	examine	wiki_rescrape	wiki_rescrape
+A closed door with a symbol of House Vitur on it.	一扇关着的门，上面有维图尔家族的标志。	examine	wiki_rescrape	wiki_rescrape
+A closed door with a heavy duty chain draped across it.	一扇关着的门，上面横着一条沉重的锁链。	examine	wiki_rescrape	wiki_rescrape
+A closed door with a symbol depicting some sort of wheel on it.	一扇关着的门，上面有一个描绘某种轮子的标志。	examine	wiki_rescrape	wiki_rescrape
+What riches are they storing down there?	他们下面藏着什么宝贝？	examine	wiki_rescrape	wiki_rescrape
+It's dark and scary down there!	下面又黑又吓人！	examine	wiki_rescrape	wiki_rescrape
+A metal mechanism with a socket for something or other.	一个金属机构，上面有个插槽，用来插什么东西。	examine	wiki_rescrape	wiki_rescrape
+Full of vampyric tools I suppose.	我想里面装满了吸血鬼的工具。	examine	wiki_rescrape	wiki_rescrape
+An open door.	一扇打开的门。	examine	wiki_rescrape	wiki_rescrape
+An open door with a symbol of House Vitur on it.	一扇打开的门，上面有维图尔家族的标志。	examine	wiki_rescrape	wiki_rescrape
+An open door with a symbol of House Shadum on it.	一扇打开的门，上面有沙杜姆家族的标志。	examine	wiki_rescrape	wiki_rescrape
+An open door with a symbol of House Jovkai on it.	一扇打开的门，上面有约夫凯家族的标志。	examine	wiki_rescrape	wiki_rescrape
+An open door with a symbol of House Myrmel on it.	一扇打开的门，上面有米尔梅尔家族的标志。	examine	wiki_rescrape	wiki_rescrape
+An open door with a symbol depicting some sort of wheel on it.	一扇打开的门，上面有一个描绘某种轮子的标志。	examine	wiki_rescrape	wiki_rescrape
+Crumbles to dust at the slightest touch.	轻轻一碰就碎成粉末。	examine	wiki_rescrape	wiki_rescrape
+The dusty remnants of a vampyre.	一个吸血鬼的尘土遗骸。	examine	wiki_rescrape	wiki_rescrape
+Its crackling offers some level of comfort.	它噼啪作响的声音带来一丝慰藉。	examine	wiki_rescrape	wiki_rescrape
+This tree has an unusually long branch on it with a makeshift rope attached!	这棵树上有一根异常长的树枝，上面系着一条临时做的绳子！	examine	wiki_rescrape	wiki_rescrape
+An other-worldly tall tree. Its has a deep cut in one side.	一棵异世界的高大的树。它的一侧有一道深深的切口。	examine	wiki_rescrape	wiki_rescrape
+An axe is buried in the stump.	一把斧头嵌在树桩里。	examine	wiki_rescrape	wiki_rescrape
+The stump of a darkwood tree.	一棵暗木树的树桩。	examine	wiki_rescrape	wiki_rescrape
+Large, toothy, not-so-bloodthirsty, dead dog.	一只大牙、不那么嗜血、死了的狗。	examine	wiki_rescrape	wiki_rescrape
+A spooky cave covered in webs.	一个阴森的洞穴，布满蜘蛛网。	examine	wiki_rescrape	wiki_rescrape
+A tree covered in creepy webs.	一棵树上布满恐怖的蜘蛛网。	examine	wiki_rescrape	wiki_rescrape
+Looks like it has something meaty inside.	看起来里面包着肉。	examine	wiki_rescrape	wiki_rescrape
+Give me a sign!	给我个提示吧！	examine	wiki_rescrape	wiki_rescrape
+Doesn't look too inviting.	看起来不太吸引人。	examine	wiki_rescrape	wiki_rescrape
+A very old cave painting.	一幅非常古老的洞穴画作。	examine	wiki_rescrape	wiki_rescrape
+Some very old weapons.	一些非常古老的武器。	examine	wiki_rescrape	wiki_rescrape
+Various supplies have been laid out here.	这里摆放着各种补给品。	examine	wiki_rescrape	wiki_rescrape
+Packed with very crunchy nutrition.	富含嘎嘣脆的营养。	examine	wiki_rescrape	wiki_rescrape
+A good place to store things.	存放东西的好地方。	examine	wiki_rescrape	wiki_rescrape
+A crate full of blisterwood logs.	一箱装满水泡木原木的板条箱。	examine	wiki_rescrape	wiki_rescrape
+A sturdy barrel for storage.	一个结实的储物桶。	examine	wiki_rescrape	wiki_rescrape
+Sharp!	锋利！	examine	wiki_rescrape	wiki_rescrape
+Something's bubbling.	有什么东西在冒泡。	examine	wiki_rescrape	wiki_rescrape
+Various questionable supplies have been laid out here.	这里摆放着各种可疑的补给品。	examine	wiki_rescrape	wiki_rescrape
+A strange plant.	一株奇怪的植物。	examine	wiki_rescrape	wiki_rescrape
+An odd-looking plant.	一株长相古怪的植物。	examine	wiki_rescrape	wiki_rescrape
+Some odd-looking plants.	一些长相古怪的植物。	examine	wiki_rescrape	wiki_rescrape
+A crate full of potions.	一箱装满药水的板条箱。	examine	wiki_rescrape	wiki_rescrape
+The last line of defence.	最后一道防线。	examine	wiki_rescrape	wiki_rescrape
+A magical glyph.	一个魔法铭文。	examine	wiki_rescrape	wiki_rescrape
