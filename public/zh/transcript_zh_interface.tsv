@@ -20991,3 +20991,855 @@ You last logged in <Num0> days, <Num1> hour, <Num2> minutes ago.	你上次登录
 You last logged in <Num0> days, <Num1> hours, <Num2> minute ago.	你上次登录是在<Num0>天<Num1>小时<Num2>分钟前。	interface	loginScreen	missing_20260704
 The legendary <colNum0>Myreque questline</col> finally reaches its conclusion with <colNum1>The Blood Moon Rises</col>. Speak to <colNum2>Sarius Guile</col> in the <colNum3>Icyene Graveyard</col> to begin your final Myreque adventure.	传奇的<colNum0>迈雷克任务线</col>终于随<colNum1>《血月升起》</col>迎来终章。前往<colNum3>冰翼人墓地</col>与<colNum2>萨里乌斯.盖尔</col>对话，开始你最后的迈雷克冒险。	interface	welcomeScreen	missing_20260704b
 The legendary <colNum0>Myreque questline<colNum1> finally reaches its conclusion with <colNum2>The Blood Moon Rises<colNum3>. Speak to <colNum4>Sarius Guile<colNum5> in the <colNum6>Icyene Graveyard<colNum7> to begin your final Myreque adventure.	传奇的<colNum0>迈雷克任务线<colNum1>终于随<colNum2>《血月升起》<colNum3>迎来终章。前往<colNum6>冰翼人墓地<colNum7>与<colNum4>萨里乌斯.盖尔<colNum5>对话，开始你最后的迈雷克冒险。	interface	welcomeScreen	missing_20260704b
+
+Bald	光头	interface	hair_beard	manual_split
+Dreadlocks	脏辫	interface	hair_beard	manual_split
+Tonsure	剃度头	interface	hair_beard	manual_split
+Cropped	短寸	interface	hair_beard	manual_split
+Wild spikes	狂野尖刺	interface	hair_beard	manual_split
+Mohawk	莫西干	interface	hair_beard	manual_split
+Wind braids	风辫	interface	hair_beard	manual_split
+Quiff	飞机头	interface	hair_beard	manual_split
+Samurai	武士头	interface	hair_beard	manual_split
+Princely	王子头	interface	hair_beard	manual_split
+Long curtains	长窗帘头	interface	hair_beard	manual_split
+Front split	前分头	interface	hair_beard	manual_split
+Tousled	凌乱头	interface	hair_beard	manual_split
+Side wedge	侧楔头	interface	hair_beard	manual_split
+Front wedge	前楔头	interface	hair_beard	manual_split
+Front spikes	前尖刺	interface	hair_beard	manual_split
+Frohawk	非洲莫西干	interface	hair_beard	manual_split
+Rear skirt	后裙发	interface	hair_beard	manual_split
+Queue	辫子	interface	hair_beard	manual_split
+Bun	发髻	interface	hair_beard	manual_split
+Pigtails	双马尾	interface	hair_beard	manual_split
+Side pony	侧马尾	interface	hair_beard	manual_split
+Curls	卷发	interface	hair_beard	manual_split
+Ponytail	马尾	interface	hair_beard	manual_split
+Braids	编辫	interface	hair_beard	manual_split
+Bunches	双发髻	interface	hair_beard	manual_split
+Bob	波波头	interface	hair_beard	manual_split
+Straight	直发	interface	hair_beard	manual_split
+Straight Braids	直编辫	interface	hair_beard	manual_split
+Two-back	双后发	interface	hair_beard	manual_split
+Mullet	鲻鱼头	interface	hair_beard	manual_split
+Undercut	底削头	interface	hair_beard	manual_split
+Low Bun	低发髻	interface	hair_beard	manual_split
+Messy Bun	凌乱发髻	interface	hair_beard	manual_split
+Pompadour	蓬巴杜	interface	hair_beard	manual_split
+Short locs	短脏辫	interface	hair_beard	manual_split
+Spiky Mohawk	尖刺莫西干	interface	hair_beard	manual_split
+Slicked Mohawk	光滑莫西干	interface	hair_beard	manual_split
+Long Quiff	长飞机头	interface	hair_beard	manual_split
+Short Choppy	短碎发	interface	hair_beard	manual_split
+Side Afro	侧非洲式	interface	hair_beard	manual_split
+Punk	朋克头	interface	hair_beard	manual_split
+Half-shaved	半剃头	interface	hair_beard	manual_split
+Elven	精灵式	interface	hair_beard	manual_split
+Medium Coils	中卷	interface	hair_beard	manual_split
+High ponytail	高马尾	interface	hair_beard	manual_split
+Plaits	编辫	interface	hair_beard	manual_split
+High Bunches	高双马尾	interface	hair_beard	manual_split
+Goatee	山羊胡	interface	hair_beard	manual_split
+Handlebar	把手胡	interface	hair_beard	manual_split
+Moustache	小胡子	interface	hair_beard	manual_split
+Pointy	尖型胡	interface	hair_beard	manual_split
+Split	分叉胡	interface	hair_beard	manual_split
+Mutton	羊排胡	interface	hair_beard	manual_split
+Full Mutton	全羊排胡	interface	hair_beard	manual_split
+Big Moustache	大胡子	interface	hair_beard	manual_split
+Waxed Moustache	蜡胡	interface	hair_beard	manual_split
+Dali	达利胡	interface	hair_beard	manual_split
+Vizier	维齐尔胡	interface	hair_beard	manual_split
+at the Wizards' Tower.	法师塔	interface	music	manual_split
+on Neitiznot.	奈提兹诺镇	interface	music	manual_split
+during the Legends' Quest.	在传奇任务期间	interface	music	manual_split
+at Baxtorian Falls.	巴克斯托里安瀑布	interface	music	manual_split
+Waiting Game, The	等待游戏	interface	music	manual_split
+in the Soul Wars lobby.	灵魂战争大厅	interface	music	manual_split
+during the Lunar Diplomacy quest.	月亮外交任务期间	interface	music	manual_split
+during the Demon Slayer quest.	恶魔杀手任务期间	interface	music	manual_split
+in Draynor Village.	德雷诺村	interface	music	manual_split
+during the Clan Wars minigame.	氏族战争小游戏期间	interface	music	manual_split
+during the Song of the Elves quest.	精灵之歌任务期间	interface	music	manual_split
+in the Warrens.	沃伦斯	interface	music	manual_split
+during The Fremennik Trials quest.	费明尼克试炼任务期间	interface	music	manual_split
+at the Warriors' Guild.	战士公会	interface	music	manual_split
+Doors of Dinh, The	丁之门	interface	music	manual_split
+in the Northern Tundras.	北部冻原	interface	music	manual_split
+at the Baxtorian Falls.	巴克斯托里安瀑布	interface	music	manual_split
+in Mort Myre Swamp.	莫特迈耶沼泽	interface	music	manual_split
+in the Lunar Isle mine.	月亮岛矿井	interface	music	manual_split
+in the Karuulm Slayer Dungeon.	卡鲁尔姆杀戮者地牢	interface	music	manual_split
+in the Jiggig dungeon.	吉吉格地牢	interface	music	manual_split
+during the Fairytale II - Cure a Queen quest.	童话 II-治愈女王任务期间	interface	music	manual_split
+in Weiss.	魏斯聚落	interface	music	manual_split
+during the Regicide quest.	弑君任务期间	interface	music	manual_split
+during the Darkness of Hallowvale quest.	哈洛维尔的黑暗任务期间	interface	music	manual_split
+during the Eagles' Peak quest.	鹰峰任务期间	interface	music	manual_split
+in the Wilderness.	荒野	interface	music	manual_split
+in the Revenant Caves.	亡灵洞穴	interface	music	manual_split
+Wilderness 	荒野	interface	music	manual_split
+during a Christmas event.	圣诞节活动期间	interface	music	manual_split
+while fighting the Wintertodt.	与冬将军战斗时	interface	music	manual_split
+in the Asgarnian Ice Dungeon.	阿斯加尼亚冰地牢	interface	music	manual_split
+near the Legends' Guild.	在传奇公会附近	interface	music	manual_split
+at the Iorwerth Camp in Tirannwn.	提拉恩林地的伊尔沃斯营地	interface	music	manual_split
+Walk in the Woods, A	林中漫步	interface	music	manual_split
+in the Kourend Woodland.	库兰德林地	interface	music	manual_split
+Work, Work, Work	工作 工作 工作	interface	music	manual_split
+Work\t Work\t Work	工作 工作 工作	interface	music	manual_split
+during the Tower of Life quest.	生命之塔任务期间	interface	music	manual_split
+in Falador.	法拉多城	interface	music	manual_split
+in Tolna's Rift.	托尔纳的裂隙	interface	music	manual_split
+Part Where You Die, The	死亡之章	interface	music	manual_split
+during the A Kingdom Divided quest.	分裂的王国任务期间	interface	music	manual_split
+in the Theatre of Blood.	血腥剧场	interface	music	manual_split
+in the Waterbirth Island Dungeon.	水诞岛地牢	interface	music	manual_split
+Festive Party, A	节日派对	interface	music	manual_split
+in Lumbridge.	仑桥镇	interface	music	manual_split
+Spurned Demon, The	被抛弃的恶魔	interface	music	manual_split
+while fighting Zalcano.	与扎尔卡诺战斗时	interface	music	manual_split
+in the God Wars Dungeon.	神战地牢	interface	music	manual_split
+during the Land of the Goblins quest.	哥布林之地任务期间	interface	music	manual_split
+at the Water Altar.	水祭坛	interface	music	manual_split
+south of Castle Wars.	城堡战争以南	interface	music	manual_split
+during the Dragon Slayer II quest.	屠龙者 II 任务期间	interface	music	manual_split
+on Harmony Island.	和谐岛	interface	music	manual_split
+Old Ones, The	古老者	interface	music	manual_split
+during The Garden of Death quest.	死亡花园任务期间	interface	music	manual_split
+during the Secrets of the North quest.	北方的秘密任务期间	interface	music	manual_split
+Vault, The	金库	interface	music	manual_split
+during the Desert Treasure II - The Fallen Empire quest.	沙漠宝藏 II-陨落的帝国任务期间	interface	music	manual_split
+Fallen Empire, The	陨落的帝国	interface	music	manual_split
+Worthy Foe, A	值得尊敬的对手	interface	music	manual_split
+during The Path of Glouphrie quest.	格卢弗里之路任务期间	interface	music	manual_split
+Longramble Scramble, The	朗拉姆布尔的争夺	interface	music	manual_split
+during the Children of the Sun quest.	太阳之子任务期间	interface	music	manual_split
+Burning Sun, The	燃烧之日	interface	music	manual_split
+during the Defender of Varrock quest.	维洛克城守护者任务期间	interface	music	manual_split
+Dream Theatre, The	梦之剧场	interface	music	manual_split
+City of Sun, The	太阳之城	interface	music	manual_split
+in Civitas illa Fortis.	福蒂斯城	interface	music	manual_split
+Undying Light, The	不灭之光	interface	music	manual_split
+in the Avium Savannah.	阿维乌姆草原	interface	music	manual_split
+Guidance of Ralos, The	拉洛斯的指引	interface	music	manual_split
+on Ralos' Rise.	拉洛斯高峰	interface	music	manual_split
+in Cam Torum.	卡姆托鲁姆城	interface	music	manual_split
+in the Hunter Guild.	猎人公会	interface	music	manual_split
+in the Fortis Colosseum.	福蒂斯竞技场	interface	music	manual_split
+Moons of Ruin, The	毁灭之月	interface	music	manual_split
+during the Perilous Moons quest.	灾厄之月任务期间	interface	music	manual_split
+during the Easter  Holiday Event.	复活节假期活动期间	interface	music	manual_split
+Animal Magnetism	动物磁力	interface	quest	manual_split
+Learn how to equip Ava's ranged devices.	学习如何装备艾娃的远程装置	interface	quest	manual_split
+Another Slice of H.A.M.	反怪物人联的又一诡计	interface	quest	manual_split
+Learn how to use the Goblin Village teleport spheres.	学习如何使用哥布林村庄传送球	interface	quest	manual_split
+Ascent of Arceuus, The	阿西乌斯城崛起	interface	quest	manual_split
+The Ascent of Arceuus	阿西乌斯城崛起	interface	quest	manual_split
+Gain the Arceuus Memoirs teleport.	获得阿西乌斯回忆录传送	interface	quest	manual_split
+Alfred Grimhand's Barcrawl	阿尔弗雷德‧格林汉德的酒吧巡游	interface	quest	manual_split
+MQ: Alfred Grimhand's Barcrawl	迷你任务：阿尔弗雷德‧格林汉德的酒吧巡游	interface	quest	manual_split
+Embark on a Barbarian rite of passage.	踏上野蛮人成年礼之旅	interface	quest	manual_split
+Bear Your Soul	承载你的灵魂	interface	quest	manual_split
+MQ: Bear Your Soul	迷你任务：承载你的灵魂	interface	quest	manual_split
+Gain the Soul Bearer.	获得灵魂载体	interface	quest	manual_split
+Below Ice Mountain	冰山之下	interface	quest	manual_split
+Gain access to the Ruins of Camdozaal.	获得进入坎多扎尔废墟的权限	interface	quest	manual_split
+Between a Rock...	岩石之间…	interface	quest	manual_split
+Gain access to the Arzinian Gold Mine.	获得进入阿齐尼安金矿的权限	interface	quest	manual_split
+Big Chompy Bird Hunting	大型食人鸟狩猎	interface	quest	manual_split
+Learn how to hunt Chompy Birds.	学习如何狩猎食人鸟	interface	quest	manual_split
+Biohazard	生化危机	interface	quest	manual_split
+Unlock the West Ardougne teleport spell.	解锁西阿多尼城传送法术	interface	quest	manual_split
+Black Knights' Fortress	黑骑士要塞	interface	quest	manual_split
+Assist the White Knights with their investigation.	协助白骑士进行调查	interface	quest	manual_split
+Bone Voyage	骨头之旅	interface	quest	manual_split
+Gain access to Fossil Island.	获得进入化石岛的权限	interface	quest	manual_split
+Gain access to Mos'LeHarmless.	获得进入莫斯勒哈姆斯岛的权限	interface	quest	manual_split
+Client of Kourend	库兰德王国的客户	interface	quest	manual_split
+Gain Kharedst's Memoirs.	获得卡雷德斯的回忆录	interface	quest	manual_split
+Clock Tower	钟楼	interface	quest	manual_split
+Help Brother Kojo repair the Clock Tower.	帮助科乔兄弟修理钟楼	interface	quest	manual_split
+Cold War	冷战	interface	quest	manual_split
+Gain access to the Penguin Agility Course.	获得进入企鹅敏捷训练场的权限	interface	quest	manual_split
+Contact!	接触！	interface	quest	manual_split
+Gain the Keris dagger.	获得克里西斯匕首	interface	quest	manual_split
+Cook's Assistant	厨师助手	interface	quest	manual_split
+Help the Lumbridge Castle Cook out of his baking bind.	帮助仑桥镇城堡厨师摆脱烘焙困境	interface	quest	manual_split
+Corsair Curse, The	海盗诅咒	interface	quest	manual_split
+The Corsair Curse	海盗诅咒	interface	quest	manual_split
+Gain access to the Corsair Cove Bank.	获得进入海盗湾银行的权限	interface	quest	manual_split
+Creature of Fenkenstrain	芬肯斯特恩的怪物	interface	quest	manual_split
+Gain a Ring of Charos.	获得查罗斯戒指	interface	quest	manual_split
+Curse of the Empty Lord	空无之主的诅咒	interface	quest	manual_split
+MQ: Curse of the Empty Lord	迷你任务：空虚领主的诅咒	interface	quest	manual_split
+Gain a set of Ghostly Robes.	获得一套幽灵长袍	interface	quest	manual_split
+Daddy's Home	父亲的房子	interface	quest	manual_split
+MQ: Daddy's Home	迷你任务：父亲的房子	interface	quest	manual_split
+Learn about the Construction skill.	学习建筑技能	interface	quest	manual_split
+Darkness of Hallowvale	哈洛维尔的黑暗	interface	quest	manual_split
+Learn the reverse Temple Trekking routes.	学习镜像神殿徒步路线	interface	quest	manual_split
+Death Plateau	死亡高原	interface	quest	manual_split
+Gain a set of Climbing Boots.	获得一套登山靴	interface	quest	manual_split
+Death to the Dorgeshuun	多格舒恩之死	interface	quest	manual_split
+Gain access to the H.A.M Store Room.	获得进入反怪物人联储藏室的权限	interface	quest	manual_split
+Demon Slayer	恶魔杀手	interface	quest	manual_split
+Face your destiny in Varrock.	在维洛克城面对你的命运	interface	quest	manual_split
+Depths of Despair, The	绝望深渊	interface	quest	manual_split
+The Depths of Despair	绝望深渊	interface	quest	manual_split
+Gain the Hosidius Memoirs teleport.	获得霍西迪乌斯回忆录传送	interface	quest	manual_split
+Desert Treasure I	沙漠宝藏 I	interface	quest	manual_split
+Learn how to use the Ancient Magicks.	学习如何使用古代魔法	interface	quest	manual_split
+Devious Minds	诡计多端	interface	quest	manual_split
+Dig Site, The	考古挖掘场	interface	quest	manual_split
+The Dig Site	考古挖掘场	interface	quest	manual_split
+Learn how to clean specimens in Varrock Museum.	学习如何在维洛克博物馆清理标本	interface	quest	manual_split
+Doric's Quest	多里克的任务	interface	quest	manual_split
+Gain early game Mining XP.	获得游戏早期的采矿经验值	interface	quest	manual_split
+Dragon Slayer I	屠龙者 I	interface	quest	manual_split
+Learn how to equip Rune and Dragon Platebodies.	学习如何装备符文和龙金胸甲	interface	quest	manual_split
+Dragon Slayer II	屠龙者 II	interface	quest	manual_split
+Gain great XP and access to the Myth's Guild.	获得大量经验值并进入神话公会	interface	quest	manual_split
+Dream Mentor	梦境导师	interface	quest	manual_split
+Learn how to cast more Lunar spells.	学习如何施放更多月魔法	interface	quest	manual_split
+Druidic Ritual	德鲁伊仪式	interface	quest	manual_split
+Unlock the Herblore skill.	解锁草药学技能	interface	quest	manual_split
+Dwarf Cannon	矮人大炮	interface	quest	manual_split
+Learn how to use a Dwarf Multicannons.	学习如何使用矮人大炮	interface	quest	manual_split
+Eadgar's Ruse	埃德加的诡计	interface	quest	manual_split
+Learn how to grow and steal Goutweed.	学习如何种植和窃取痛风草	interface	quest	manual_split
+Gain access to the Eagle transportation and Box Traps.	获得使用老鹰运输系统和箱式陷阱的权限	interface	quest	manual_split
+Elemental Workshop I	元素工坊 I	interface	quest	manual_split
+Rediscover the knowledge hidden in Seers' Village.	重新发现隐藏在先知村的知识	interface	quest	manual_split
+Elemental Workshop II	元素工坊 II	interface	quest	manual_split
+Learn how to equip Mind equipment.	学习如何装备心灵装备	interface	quest	manual_split
+Enakhra's Lament	伊纳克拉的哀歌	interface	quest	manual_split
+Gain a Camulet.	获得骆驼护符	interface	quest	manual_split
+Enchanted Key, The	魔法钥匙	interface	quest	manual_split
+The Enchanted Key	魔法钥匙	interface	quest	manual_split
+MQ: The Enchanted Key	迷你任务：魔法钥匙	interface	quest	manual_split
+Hunt for hidden treasure using the Enchanted Key.	使用魔法钥匙寻找隐藏的宝藏	interface	quest	manual_split
+Enlightened Journey	启蒙之旅	interface	quest	manual_split
+Gain access to the Balloon transportation.	获得使用气球运输系统的权限	interface	quest	manual_split
+Enter the Abyss	进入深渊	interface	quest	manual_split
+MQ: Enter the Abyss	迷你任务：进入深渊	interface	quest	manual_split
+Gain access to the Abyss.	获得进入深渊的权限	interface	quest	manual_split
+Ernest the Chicken	小鸡欧内斯特	interface	quest	manual_split
+Investigate the whereabouts of Ernest.	调查欧内斯特的下落	interface	quest	manual_split
+Eyes of Glouphrie, The	格卢弗里的眼睛	interface	quest	manual_split
+The Eyes of Glouphrie	格卢弗里的眼睛	interface	quest	manual_split
+Gain a Crystal Saw Seed.	获得水晶锯种子	interface	quest	manual_split
+Fairytale I - Growing Pains	童话 I-成长的烦恼	interface	quest	manual_split
+Learn how to teleport using Fairy Rings (start Fairytale II).	学习如何使用仙女环传送 (开始童话 II)	interface	quest	manual_split
+Fairytale II - Cure a Queen	童话 II-治愈女王	interface	quest	manual_split
+Investigate what's really going on in Zanaris.	调查萨那利斯真正发生的事情	interface	quest	manual_split
+Family Crest	家徽	interface	quest	manual_split
+Gain Skill-imbued Gauntlets.	获得技能灌注手套	interface	quest	manual_split
+Family Pest	家族害虫	interface	quest	manual_split
+MQ: Family Pest	迷你任务：家族害虫	interface	quest	manual_split
+Gain the ability to own all Skill-imbued Gauntlets.	获得拥有所有技能灌注手套的能力	interface	quest	manual_split
+Feud, The	世仇	interface	quest	manual_split
+The Feud	世仇	interface	quest	manual_split
+Learn how to use a Blackjack.	学习如何使用短棍	interface	quest	manual_split
+Fight Arena	战斗竞技场	interface	quest	manual_split
+Gain the Khazard armour.	获得卡扎德盔甲	interface	quest	manual_split
+Fishing Contest	钓鱼大赛	interface	quest	manual_split
+Gain access to White Wolf Mountain Pass.	获得进入白狼山通道的权限	interface	quest	manual_split
+Forgettable Tale...	被遗忘的故事…	interface	quest	manual_split
+Forsaken Tower, The	被遗弃之塔	interface	quest	manual_split
+Gain the Lovakengj Memoirs teleport.	获得洛瓦肯吉回忆录传送	interface	quest	manual_split
+Fremennik Exiles, The	费明尼克流亡者	interface	quest	manual_split
+The Fremennik Exiles	费明尼克流亡者	interface	quest	manual_split
+Gain a V's Shield.	获得 V 的盾	interface	quest	manual_split
+Fremennik Isles, The	费明尼克群岛	interface	quest	manual_split
+The Fremennik Isles	费明尼克群岛	interface	quest	manual_split
+Gain a Helm of Neitiznot.	获得奈提兹诺头盔	interface	quest	manual_split
+Fremennik Trials, The	费明尼克试炼	interface	quest	manual_split
+The Fremennik Trials	费明尼克试炼	interface	quest	manual_split
+Gain great XP in several skills.	在多个技能中获得大量经验值	interface	quest	manual_split
+Garden of Tranquillity	宁静花园	interface	quest	manual_split
+Gain an Activated Ring of Charos.	获得已激活的查罗斯戒指	interface	quest	manual_split
+General's Shadow, The	将军之影	interface	quest	manual_split
+The General's Shadow	将军之影	interface	quest	manual_split
+MQ: The General's Shadow	迷你任务：将军之影	interface	quest	manual_split
+Gain the Shadow Sword.	获得暗影之剑	interface	quest	manual_split
+Gertrude's Cat	格特鲁德的猫	interface	quest	manual_split
+Gain a pet Kitten.	获得宠物小猫	interface	quest	manual_split
+Getting Ahead	领先一步	interface	quest	manual_split
+Help Gordon protect his farm.	帮助戈登保护他的农场	interface	quest	manual_split
+Ghosts Ahoy	幽灵出没	interface	quest	manual_split
+Gain access to Ectophial teleportation.	获得使用灵瓶传送的权限	interface	quest	manual_split
+Giant Dwarf, The	巨大的矮人	interface	quest	manual_split
+The Giant Dwarf	巨大的矮人	interface	quest	manual_split
+Learn how to travel by minecart.	学习如何乘坐矿车旅行	interface	quest	manual_split
+Goblin Diplomacy	哥布林外交	interface	quest	manual_split
+Investigate the disturbance in Goblin Village.	调查哥布林村庄的骚乱	interface	quest	manual_split
+Golem, The	魔像	interface	quest	manual_split
+Gain access to the Carpet rides to Uzer.	获得乘坐地毯前往乌泽的权限	interface	quest	manual_split
+Grand Tree, The	大树家园	interface	quest	manual_split
+The Grand Tree	大树家园	interface	quest	manual_split
+Gain access to the Gnome Glider transportation.	获得使用地精滑翔机运输系统的权限	interface	quest	manual_split
+Great Brain Robbery, The	脑袋大劫案	interface	quest	manual_split
+The Great Brain Robbery	脑袋大劫案	interface	quest	manual_split
+Gain a Barrelchest Anchor.	获得桶箱锚	interface	quest	manual_split
+Grim Tales	恐怖故事	interface	quest	manual_split
+Hand in the Sand, The	沙中之手	interface	quest	manual_split
+The Hand in the Sand	沙中之手	interface	quest	manual_split
+Gain access to the Wizards' Guild Rune Shop.	获得进入法师公会符文店的权限	interface	quest	manual_split
+Gain a Salve Amulet.	获得萨鲁夫护符	interface	quest	manual_split
+Hazeel Cult	哈兹尔邪教	interface	quest	manual_split
+Gain the Carnillean armour.	获得卡尼利安盔甲	interface	quest	manual_split
+Heroes' Quest	英雄任务	interface	quest	manual_split
+Learn how to wield Dragon Battleaxes and Maces.	学习如何使用龙金战斧和龙金钉锤	interface	quest	manual_split
+Holy Grail	圣杯	interface	quest	manual_split
+Gain great Prayer and Defence XP.	获得大量祈祷和防御经验值	interface	quest	manual_split
+Horror from the Deep	深海惊魂	interface	quest	manual_split
+Gain a God book.	获得神之书	interface	quest	manual_split
+Icthlarin's Little Helper	伊克哈林的小帮手	interface	quest	manual_split
+Gain access to Sophanem.	获得进入索法尼恩的权限	interface	quest	manual_split
+Imp Catcher	小恶魔捕手	interface	quest	manual_split
+Gain early game Magic XP.	获得游戏早期的魔法经验值	interface	quest	manual_split
+In Aid of the Myreque	援助迈雷克	interface	quest	manual_split
+Gain access to the Temple Trekking minigame.	获得进入神殿徒步小游戏的权限	interface	quest	manual_split
+In Search of Knowledge	寻找知识	interface	quest	manual_split
+MQ: In Search of Knowledge	迷你任务：寻找知识	interface	quest	manual_split
+Gain an XP Lamp.	获得经验值神灯	interface	quest	manual_split
+In Search of the Myreque	寻找迈雷克	interface	quest	manual_split
+Start the Myreque storyline.	开始迈雷克故事线	interface	quest	manual_split
+Jungle Potion	丛林药水	interface	quest	manual_split
+Assist Trufitus Shakaya with his ritual.	协助特鲁菲图斯‧沙卡亚进行仪式	interface	quest	manual_split
+Kingdom Divided, A	分裂的王国	interface	quest	manual_split
+A Kingdom Divided	分裂的王国	interface	quest	manual_split
+Learn how to cast Resurrection spells.	学习如何施放复活法术	interface	quest	manual_split
+King's Ransom	国王的赎金	interface	quest	manual_split
+Learn how to use the Chivalry and Piety prayers.	学习如何使用骑士精神和虔诚祈祷	interface	quest	manual_split
+Knight's Sword, The	骑士之剑	interface	quest	manual_split
+The Knight's Sword	骑士之剑	interface	quest	manual_split
+Gain great Smithing XP.	获得大量锻造经验值	interface	quest	manual_split
+MQ: Lair of Tarn Razorlor	迷你任务：塔恩‧雷泽洛尔的巢穴	interface	quest	manual_split
+Gain an enchanted Salve Amulet.	获得附魔的萨鲁夫护符	interface	quest	manual_split
+Legends' Quest	传奇任务	interface	quest	manual_split
+Gain access to the Legend's Guild.	获得进入传奇公会的权限	interface	quest	manual_split
+Lost City	失落之城	interface	quest	manual_split
+Gain access to Zanaris.	获得进入萨那利斯的权限	interface	quest	manual_split
+Lost Tribe, The	失落的部落	interface	quest	manual_split
+Gain access to the Bone Weapon Shop.	获得进入骨制武器店的权限	interface	quest	manual_split
+Lunar Diplomacy	月亮外交	interface	quest	manual_split
+Learn how to cast Lunar spells.	学习如何施放月魔法	interface	quest	manual_split
+Mage Arena I	魔法师竞技场 I	interface	quest	manual_split
+MQ: Mage Arena I	迷你任务：魔法师竞技场 I	interface	quest	manual_split
+Unlock the God spells.	解锁神术	interface	quest	manual_split
+Mage Arena II	魔法师竞技场 II	interface	quest	manual_split
+MQ: Mage Arena II	迷你任务：魔法师竞技场 II	interface	quest	manual_split
+Learn how to imbue the God Capes.	学习如何强化神之斗篷	interface	quest	manual_split
+Making Friends with My Arm	与''我的手臂''交朋友	interface	quest	manual_split
+Gain great XP and a disease-free herb patch.	获得大量经验值和无病害草药种植地	interface	quest	manual_split
+Making History	缔造历史	interface	quest	manual_split
+Help Jorral restore a historic location.	协助乔拉尔修复一处历史遗迹	interface	quest	manual_split
+Merlin's Crystal	梅林的水晶	interface	quest	manual_split
+Assist King Arthur in Camelot.	在卡美洛城堡协助亚瑟王	interface	quest	manual_split
+Misthalin Mystery	米斯特林之谜	interface	quest	manual_split
+Monkey Madness I	疯狂的猴子 I	interface	quest	manual_split
+Learn how to wield Dragon Scimitars.	学习如何使用龙金弯刀	interface	quest	manual_split
+Monkey Madness II	疯狂的猴子 II	interface	quest	manual_split
+Gain great XP and a Royal Seed Pod.	获得大量经验值和皇家种子荚	interface	quest	manual_split
+Monk's Friend	僧侣之友	interface	quest	manual_split
+Gain early game Woodcutting XP.	获得游戏早期的伐木经验值	interface	quest	manual_split
+Mountain Daughter	山的女儿	interface	quest	manual_split
+Help the people of the Mountain Tribe.	帮助山地部落的人民	interface	quest	manual_split
+Mourning's End Part I	哀悼的终结  I	interface	quest	manual_split
+Gain great Hitpoint and Thieving XP.	获得大量生命值和偷窃经验值	interface	quest	manual_split
+Mourning's End Part II	哀悼的终结 II	interface	quest	manual_split
+Learn how to craft Death Runes.	学习如何制作死亡符石	interface	quest	manual_split
+Murder Mystery	谋杀案之谜	interface	quest	manual_split
+Investigate a murder at Sinclair Mansion.	调查辛克莱尔公馆的谋杀案	interface	quest	manual_split
+My Arm's Big Adventure	'我的手臂''大冒险	interface	quest	manual_split
+Gain access to a disease-free herb patch.	获得免受病害影响的草药种植地	interface	quest	manual_split
+Nature Spirit	自然之灵	interface	quest	manual_split
+Gain access to Mort Myre and the Nature Altar.	获得进入莫特迈耶和自然祭坛的权限	interface	quest	manual_split
+Night at the Theatre, A	剧场之夜	interface	quest	manual_split
+A Night at the Theatre	剧场之夜	interface	quest	manual_split
+Experience the Theatre of Blood.	体验血腥剧场	interface	quest	manual_split
+Observatory Quest	天文台任务	interface	quest	manual_split
+Gain an Unholy Symbol Mould.	获得邪恶护符的模具	interface	quest	manual_split
+Olaf's Quest	奥拉夫的任务	interface	quest	manual_split
+Gain access to the Brine Rat Cavern.	获得进入盐水鼠洞穴的权限	interface	quest	manual_split
+One Small Favour	一个小忙	interface	quest	manual_split
+Learn how to brew Guthix Rest Tea.	学习如何酿造古斯休憩茶	interface	quest	manual_split
+Pirate's Treasure	海盗的宝藏	interface	quest	manual_split
+Explore a story about buried treasure.	探寻一段关于埋藏宝藏的故事	interface	quest	manual_split
+Plague City	瘟疫之城	interface	quest	manual_split
+Unlock the Ardougne teleport spell.	解锁阿多尼城传送法术	interface	quest	manual_split
+Porcine of Interest, A	有趣的猪	interface	quest	manual_split
+A Porcine of Interest	有趣的猪	interface	quest	manual_split
+Learn how to hunt Slayer monsters.	学习如何狩猎''杀戮目标''	interface	quest	manual_split
+Priest in Peril	危难中的祭司	interface	quest	manual_split
+Gain access to Morytania.	获得进入莫利塔尼亚的权限	interface	quest	manual_split
+Prince Ali Rescue	救援阿里王子	interface	quest	manual_split
+Unlock Sorceress's Garden and gain free use of the Al Kharid Gate.	解锁女巫的花园并获得免费使用阿尔卡里德大门的权限	interface	quest	manual_split
+Queen of Thieves, The	盗贼女王	interface	quest	manual_split
+The Queen of Thieves	盗贼女王	interface	quest	manual_split
+Gain the Port Piscarilius Memoirs teleport.	获得皮斯卡里琉斯港回忆录传送	interface	quest	manual_split
+Rag and Bone Man I	拾荒者 I	interface	quest	manual_split
+Assist the Odd Old Man with a collection.	协助怪异的老人完成他的收藏	interface	quest	manual_split
+Rag and Bone Man II	拾荒者 II	interface	quest	manual_split
+Further assist the Odd Old Man with a collection.	进一步协助怪异的老人完成他的收藏	interface	quest	manual_split
+Ratcatchers	捕鼠者	interface	quest	manual_split
+Learn new cat training methods.	学习新的猫咪训练方法	interface	quest	manual_split
+Recipe for Disaster	灾难食谱	interface	quest	manual_split
+Recruitment Drive	招募行动	interface	quest	manual_split
+Gain a set of Initiate Armour.	获得一套入教者盔甲	interface	quest	manual_split
+Regicide	弑君	interface	quest	manual_split
+Gain access to Zulrah's Shrine.	获得进入祖尔拉神殿的权限	interface	quest	manual_split
+Restless Ghost, The	不安的幽灵	interface	quest	manual_split
+The Restless Ghost	不安的幽灵	interface	quest	manual_split
+Gain a Ghostspeak Amulet.	获得鬼语护符	interface	quest	manual_split
+Romeo & Juliet	罗密欧与朱丽叶	interface	quest	manual_split
+Gain Quest Points.	获得任务点数	interface	quest	manual_split
+Roving Elves	游荡的精灵	interface	quest	manual_split
+Gain a Crystal Shield or Bow.	获得水晶盾或水晶弓	interface	quest	manual_split
+Royal Trouble	皇家麻烦	interface	quest	manual_split
+Gain enhanced rewards from Miscellenia.	从米斯凯尼亚国获得加强版奖励	interface	quest	manual_split
+Rum Deal	朗姆酒交易	interface	quest	manual_split
+Gain a Holy Wrench.	获得神圣扳手	interface	quest	manual_split
+Rune Mysteries	符石奥秘	interface	quest	manual_split
+Learn how to mine Rune Essence.	学习如何开采符文精华	interface	quest	manual_split
+Scorpion Catcher	蝎子捕手	interface	quest	manual_split
+Help Thormac with a scorpion problem.	帮助索马克解决蝎子问题	interface	quest	manual_split
+Sea Slug	海蛞蝓	interface	quest	manual_split
+Gain access to the Fishing Platform.	获得进入钓鱼平台的权限	interface	quest	manual_split
+Gain access to the Shades of Mort'ton minigame.	获得进入莫顿镇的阴影小游戏的权限	interface	quest	manual_split
+Shadow of the Storm	风暴之影	interface	quest	manual_split
+Assist Father Reen against an evil in the desert.	协助雷恩神父对抗沙漠中的邪恶势力	interface	quest	manual_split
+Sheep Herder	牧羊人	interface	quest	manual_split
+Assist Councillor Halgrive with some sheep.	协助哈尔格里夫议员处理一些羊	interface	quest	manual_split
+Sheep Shearer	剪羊毛	interface	quest	manual_split
+Gain early game Crafting XP.	获得游戏早期的制作经验值	interface	quest	manual_split
+Investigate the whereabouts of the Shield of Arrav.	调查阿拉夫之盾的下落	interface	quest	manual_split
+Shilo Village	希洛村	interface	quest	manual_split
+Gain access to Shilo Village.	获得进入希洛村的权限	interface	quest	manual_split
+Sins of the Father	父辈的罪孽	interface	quest	manual_split
+Gain access to Darkmeyer.	获得进入达克迈尔的权限	interface	quest	manual_split
+Skippy and the Mogres	斯基皮和莫格雷食人魔	interface	quest	manual_split
+MQ: Skippy and the Mogres	迷你任务：斯基皮和莫格雷食人魔	interface	quest	manual_split
+Learn how to fight Mogres.	学习如何与莫格雷食人魔战斗	interface	quest	manual_split
+Slug Menace, The	蛞蝓的威胁	interface	quest	manual_split
+The Slug Menace	蛞蝓的威胁	interface	quest	manual_split
+Learn how to equip Proselyte Armour.	学习如何装备皈依者盔甲	interface	quest	manual_split
+Gain access to Prifddinas.	获得进入普里夫迪纳斯城的权限	interface	quest	manual_split
+Soul's Bane, A	灵魂之灾	interface	quest	manual_split
+A Soul's Bane	灵魂之灾	interface	quest	manual_split
+Help Launa find her family.	帮助劳娜找到她的家人	interface	quest	manual_split
+Gain access to Nardah's fountain and shrine.	获得进入那尔达喷泉和神殿的权限	interface	quest	manual_split
+Swan Song	天鹅曲	interface	quest	manual_split
+Learn how to catch Monkfish.	学习如何捕捉僧侣鱼	interface	quest	manual_split
+Tai Bwo Wannai Trio	泰博瓦纳三重奏	interface	quest	manual_split
+Learn how to catch and cook Karambwan.	学习如何捕捉和烹饪卡拉姆班鱼	interface	quest	manual_split
+Tail of Two Cats, A	双猫记	interface	quest	manual_split
+A Tail of Two Cats	双猫记	interface	quest	manual_split
+Tale of the Righteous	正义传说	interface	quest	manual_split
+Gain the Shayzien Memoirs teleport.	获得谢兹恩回忆录传送	interface	quest	manual_split
+Taste of Hope, A	希望的味道	interface	quest	manual_split
+Gain Drakan's Medallion.	获得德拉坎奖章	interface	quest	manual_split
+Gain access to the Tears of Guthix minigame.	获得进入古斯之泪小游戏的权限	interface	quest	manual_split
+Temple of Ikov	伊科夫神殿	interface	quest	manual_split
+Throne of Miscellania	米斯凯尼亚王座	interface	quest	manual_split
+Learn how to manage the Kingdom of Miscellania.	学习如何管理米斯凯尼亚王国	interface	quest	manual_split
+Tourist Trap, The	旅游陷阱	interface	quest	manual_split
+The Tourist Trap	旅游陷阱	interface	quest	manual_split
+Learn how to smith Darts.	学习如何锻造飞镖	interface	quest	manual_split
+Tower of Life	生命之塔	interface	quest	manual_split
+Gain access to the Creature Creation minigame.	获得进入生物创造小游戏的权限	interface	quest	manual_split
+Tree Gnome Village	地精村庄	interface	quest	manual_split
+Gain access to Spirit Tree teleportation.	获得使用灵魂树传送的权限	interface	quest	manual_split
+Tribal Totem	部落图腾	interface	quest	manual_split
+Troll Romance	巨魔浪漫史	interface	quest	manual_split
+Gain a Sled.	获得雪橇	interface	quest	manual_split
+Gain access to the God Wars Dungeon.	获得进入神战地牢的权限	interface	quest	manual_split
+Gain Iban's Staff.	获得伊班的法杖	interface	quest	manual_split
+Vampyre Slayer	吸血鬼杀手	interface	quest	manual_split
+Help the people of Draynor Village with a vampyre problem.	帮助德雷诺村的村民解决吸血鬼问题	interface	quest	manual_split
+Wanted!	通缉！	interface	quest	manual_split
+Gain access to the White Knight Armoury.	获得进入白骑士军械库的权限	interface	quest	manual_split
+Watchtower	瞭望塔	interface	quest	manual_split
+Unlock the Watchtower teleport spell.	解锁瞭望塔传送法术	interface	quest	manual_split
+Waterfall Quest	瀑布任务	interface	quest	manual_split
+Gain great combat XP.	获得大量战斗经验值	interface	quest	manual_split
+What Lies Below	下方之物	interface	quest	manual_split
+Learn a shortcut to the Chaos Altar.	学习前往混沌祭坛的捷径	interface	quest	manual_split
+Witch's House	女巫小屋	interface	quest	manual_split
+Witch's Potion	女巫的药水	interface	quest	manual_split
+X Marks the Spot	X 标记地点	interface	quest	manual_split
+Learn about Clue Scrolls and Kourend.	了解线索卷轴和库兰德王国	interface	quest	manual_split
+Zogre Flesh Eaters	佐格雷食人魔	interface	quest	manual_split
+Learn how to make Relicym's Balm.	学习如何制作雷利姆药膏	interface	quest	manual_split
+Frozen Door, The	冰冻之门	interface	quest	manual_split
+The Frozen Door	冰冻之门	interface	quest	manual_split
+MQ: The Frozen Door	迷你任务：冰冻之门	interface	quest	manual_split
+Gain access to Nex in the God Wars Dungeon.	获得在神战地牢中挑战奈克斯的权限	interface	quest	manual_split
+Land of the Goblins	哥布林之地	interface	quest	manual_split
+Continue the Dorgeshuun storyline.	继续多格舒恩故事线	interface	quest	manual_split
+Hopespear's Will	霍普斯皮尔的遗愿	interface	quest	manual_split
+MQ: Hopespear's Will	迷你任务：霍普斯皮尔的遗愿	interface	quest	manual_split
+Gain great Prayer XP.	获得大量祈祷经验值	interface	quest	manual_split
+Gain access to the Guardians of the Rift minigame.	获得进入裂隙守护者小游戏的权限	interface	quest	manual_split
+Gain access to the Tombs of Amascut.	获得进入阿玛斯库特之墓的权限	interface	quest	manual_split
+Sleeping Giants	沉睡的巨人	interface	quest	manual_split
+Gain access to the Giants' Foundry.	获得进入巨人铸造厂的权限	interface	quest	manual_split
+Garden of Death, The	死亡花园	interface	quest	manual_split
+The Garden of Death	死亡花园	interface	quest	manual_split
+Uncover the fate of the Old Ones.	揭开古老者的命运	interface	quest	manual_split
+MQ: Into the Tombs	迷你任务：进入墓穴	interface	quest	manual_split
+Experience the Tombs of Amascut.	体验阿玛斯库特之墓	interface	quest	manual_split
+Recipe for Disaster Another Cook's Quest	灾难食谱 - 另一位厨师的任务	interface	quest	manual_split
+Recipe for Disaster - Another Cook's Quest	灾难食谱 - 另一位厨师的任务	interface	quest	manual_split
+Gain access to the Culinaromancer's Chest.	获得打开烹饪魔法师的宝箱的权限	interface	quest	manual_split
+Recipe for Disaster Dwarf	灾难食谱 - 矮人	interface	quest	manual_split
+Recipe for Disaster - Mountain Dwarf	灾难食谱 - 山地矮人	interface	quest	manual_split
+Gain further access to the Culinaromancer's Chest.	获得进一步打开烹饪魔法师的宝箱的权限	interface	quest	manual_split
+Recipe for Disaster Goblins	灾难食谱 - 哥布林	interface	quest	manual_split
+Recipe for Disaster - Wartface & Bentnoze	灾难食谱 - 疣脸与弯鼻	interface	quest	manual_split
+Recipe for Disaster Pirate	灾难食谱 - 海盗	interface	quest	manual_split
+Recipe for Disaster - Pirate Pete	灾难食谱 - 海盗皮特	interface	quest	manual_split
+Recipe for Disaster Lumbridge Guide	灾难食谱 - 仑桥镇的向导	interface	quest	manual_split
+Recipe for Disaster - Lumbridge Guide	灾难食谱 - 仑桥镇的向导	interface	quest	manual_split
+Recipe for Disaster Dave	灾难食谱 - 戴夫	interface	quest	manual_split
+Recipe for Disaster - Evil Dave	灾难食谱 - 邪恶戴夫	interface	quest	manual_split
+Recipe for Disaster Uglogwee	灾难食谱 - 乌格洛格维	interface	quest	manual_split
+Recipe for Disaster - Skrach Uglogwee	灾难食谱 - 斯克拉奇‧乌格洛格维	interface	quest	manual_split
+Recipe for Disaster Amik Varze	灾难食谱 - 阿米克‧瓦尔泽	interface	quest	manual_split
+Recipe for Disaster - Sir Amik Varze	灾难食谱 - 阿米克‧瓦尔泽爵士	interface	quest	manual_split
+Recipe for Disaster Awowogei	灾难食谱 - 阿沃沃盖	interface	quest	manual_split
+Recipe for Disaster - King Awowogei	灾难食谱 - 阿沃沃盖国王	interface	quest	manual_split
+Recipe for Disaster Culinaromancer	灾难食谱 - 烹饪魔法师	interface	quest	manual_split
+Recipe for Disaster - Culinaromancer	灾难食谱 - 烹饪魔法师	interface	quest	manual_split
+Complete the storyline and unlock the Barrows Gloves.	完成故事线并解锁巴罗斯手套	interface	quest	manual_split
+Uncover the Secrets of the North and unlock a new boss.	揭开北方的秘密并解锁新Boss	interface	quest	manual_split
+Desert Treasure II - The Fallen Empire	沙漠宝藏 II-陨落的帝国	interface	quest	manual_split
+Uncover the history of the Fallen Empire and unlock four new bosses.	揭开陨落的帝国的历史并解锁四个新Boss	interface	quest	manual_split
+MQ: His Faithful Servants	迷你任务：他忠诚的仆从	interface	quest	manual_split
+Take on the Barrows Brothers.	挑战巴罗斯兄弟	interface	quest	manual_split
+Path of Glouphrie, The	格卢弗里之路	interface	quest	manual_split
+The Path of Glouphrie	格卢弗里之路	interface	quest	manual_split
+Unlock the Poison Waste Dungeon.	解锁毒废地牢	interface	quest	manual_split
+Gain access to the Kingdom of Varlamore.	获得进入瓦拉莫尔王国的权限	interface	quest	manual_split
+Barbarian Training	野蛮人训练	interface	quest	manual_split
+MQ: Barbarian Training	迷你任务：野蛮人训练	interface	quest	manual_split
+Unlock the strength of a Barbarian.	解锁野蛮人的力量	interface	quest	manual_split
+Defender of Varrock	维洛克守护者	interface	quest	manual_split
+Defend Varrock from a zombie invasion.	保卫维洛克城免受僵尸入侵	interface	quest	manual_split
+While Guthix Sleeps	当古斯沉睡时	interface	quest	manual_split
+Stop a deadly Mahjarrat from finding an artefact of incomprehensible power.	阻止危险的玛哈加特找到强大的神器	interface	quest	manual_split
+Twilight's Promise	暮光之约	interface	quest	manual_split
+Take your first steps into Varlamore and unlock the Quetzal Transport System.	迈出进入瓦拉莫尔的第一步并解锁绿咬鹃运输系统	interface	quest	manual_split
+At First Light	晨曦之光	interface	quest	manual_split
+Learn about the role of the Hunter Guild and unlock higher tier rumours.	了解猎人公会的作用并解锁更高级别的情报	interface	quest	manual_split
+Perlious Moons	灾厄之月	interface	quest	manual_split
+Perilous Moons	灾厄之月	interface	quest	manual_split
+Explore an ancient ruin and unlock the Moons of Peril.	探索古代废墟并解锁灾厄之月	interface	quest	manual_split
+Ribbiting Tale of a Lily Pad Labour Dispute, The	蛙声一片：睡莲叶上的劳资纠纷	interface	quest	manual_split
+The Ribbiting Tale of a Lily Pad Labour Dispute	蛙声一片：睡莲叶上的劳资纠纷	interface	quest	manual_split
+Solve a ribbiting dispute and gain access to a new Hardwood Farming Patch.	解决蛙鸣纠纷并获得新的硬木种植地	interface	quest	manual_split
+Free Quests	免费任务	interface	quest	manual_split
+Members' Quests	会员任务	interface	quest	manual_split
+Miniquests	迷你任务	interface	quest	manual_split
+The Curse of Arrav	阿拉夫的诅咒	interface	quest	manual_split
+Death on the Isle	孤岛谋杀案	interface	quest	manual_split
+Ethically Acquired Antiquities	'合理''取得的文物	interface	quest	manual_split
+The Heart of Darkness	黑暗之心	interface	quest	manual_split
+Meat and Greet	肉食和问候	interface	quest	manual_split
+A	A	interface	quest	manual_split
+B	B	interface	quest	manual_split
+C	C	interface	quest	manual_split
+D	D	interface	quest	manual_split
+E	E	interface	quest	manual_split
+F	F	interface	quest	manual_split
+G	G	interface	quest	manual_split
+H	H	interface	quest	manual_split
+I	I	interface	quest	manual_split
+J	J	interface	quest	manual_split
+K	K	interface	quest	manual_split
+L	L	interface	quest	manual_split
+M	M	interface	quest	manual_split
+N	N	interface	quest	manual_split
+O	O	interface	quest	manual_split
+P	P	interface	quest	manual_split
+Q	Q	interface	quest	manual_split
+R	R	interface	quest	manual_split
+S	S	interface	quest	manual_split
+T	T	interface	quest	manual_split
+U	U	interface	quest	manual_split
+V	V	interface	quest	manual_split
+W	W	interface	quest	manual_split
+X	X	interface	quest	manual_split
+Y	Y	interface	quest	manual_split
+Z	Z	interface	quest	manual_split
+In Progress	进行中	interface	quest	manual_split
+Not Started	未开始	interface	quest	manual_split
+Completed	已完成	interface	quest	manual_split
+Grand Master	宗师	interface	quest	manual_split
+Dorgeshuun	多格舒恩	interface	quest	manual_split
+Dragonkin	龙裔	interface	quest	manual_split
+Elemental Workshop	元素工坊	interface	quest	manual_split
+Fairytale	童话	interface	quest	manual_split
+Kharidian	卡里迪安	interface	quest	manual_split
+Kourend	库兰德王国	interface	quest	manual_split
+Mahjarrat	玛哈加特	interface	quest	manual_split
+Myreque	迈雷克	interface	quest	manual_split
+Order of Wizards	巫师教团	interface	quest	manual_split
+Penguin	企鹅	interface	quest	manual_split
+Rag and Bone Man	拾荒者	interface	quest	manual_split
+Red Axe	红斧	interface	quest	manual_split
+Temple Knight	圣殿骑士	interface	quest	manual_split
+Troll	巨魔	interface	quest	manual_split
+Twilight Emissaries	暮光使者	interface	quest	manual_split
+Gargoyle Smasher	石像鬼粉碎者	interface	slayer_reward	manual_split
+Slug Salter	蛞蝓撒盐者	interface	slayer_reward	manual_split
+Reptile Freezer	爬行动物冷冻器	interface	slayer_reward	manual_split
+'Shroom Sprayer	蘑菇喷雾器	interface	slayer_reward	manual_split
+Malevolent Masquerade	恶毒伪装	interface	slayer_reward	manual_split
+Ring Bling	戒指闪闪	interface	slayer_reward	manual_split
+Broader Fletching	更宽的箭	interface	slayer_reward	manual_split
+Need More Darkness	需要更多的黑暗	interface	slayer_reward	manual_split
+Ankou Very Much	非常多的昂骷	interface	slayer_reward	manual_split
+Suq-a-nother One	再来一个苏卡	interface	slayer_reward	manual_split
+Fire & Darkness	火与黑暗	interface	slayer_reward	manual_split
+Pedal to the Metals	全力以赴	interface	slayer_reward	manual_split
+Spiritual Fervour	幽魂热忱	interface	slayer_reward	manual_split
+Augment My Abbies	增强我的深渊恶魔	interface	slayer_reward	manual_split
+It's Dark in Here	这里很黑	interface	slayer_reward	manual_split
+Greater Challenge	更大的挑战	interface	slayer_reward	manual_split
+Seeing Red	怒火中烧	interface	slayer_reward	manual_split
+I Hope You Mith Me	希望你想念我	interface	slayer_reward	manual_split
+Watch the Birdie	注意小鸟	interface	slayer_reward	manual_split
+Hot Stuff	热门物品	interface	slayer_reward	manual_split
+Like a Boss	像Boss一样	interface	slayer_reward	manual_split
+Bleed Me Dry	让我流血至干	interface	slayer_reward	manual_split
+Smell Ya Later	再见了臭家伙	interface	slayer_reward	manual_split
+Birds of a Feather	物以类聚	interface	slayer_reward	manual_split
+I Really Mith You	我真的想念你	interface	slayer_reward	manual_split
+Horrorific	恐怖无比	interface	slayer_reward	manual_split
+To Dust You Shall Return	你将归于尘土	interface	slayer_reward	manual_split
+Wyver-nother one	再来一只飞龙	interface	slayer_reward	manual_split
+Get Smashed	砸个痛快	interface	slayer_reward	manual_split
+Nechs Please	请给我更多的死灵恶魔	interface	slayer_reward	manual_split
+Krack On	全力以赴：克拉肯海怪	interface	slayer_reward	manual_split
+Reptile Got Ripped	爬虫变强了	interface	slayer_reward	manual_split
+King Black Bonnet	黑龙王兜帽	interface	slayer_reward	manual_split
+Kalphite Khat	卡尔夫特虫帽	interface	slayer_reward	manual_split
+Unholy Helmet	不洁头盔	interface	slayer_reward	manual_split
+Dark Mantle	黑暗披风	interface	slayer_reward	manual_split
+Bigger and Badder	更大更坏	interface	slayer_reward	manual_split
+Get Scabaright on It	正确处理斯卡巴拉斯	interface	slayer_reward	manual_split
+Duly Noted	正式记录	interface	slayer_reward	manual_split
+Wyver-nother Two	再来两只飞龙	interface	slayer_reward	manual_split
+Ada'mind Some More	再来一些精金	interface	slayer_reward	manual_split
+RUUUUUNE	符符符符符文	interface	slayer_reward	manual_split
+Undead Head	亡灵头颅	interface	slayer_reward	manual_split
+Stop the Wyvern	阻止飞龙	interface	slayer_reward	manual_split
+Double Trouble	双重麻烦	interface	slayer_reward	manual_split
+Use More Head	多用头脑	interface	slayer_reward	manual_split
+Basilonger	更多石化蜥蜴	interface	slayer_reward	manual_split
+Basilocked	解锁石化蜥蜴	interface	slayer_reward	manual_split
+Twisted Vision	扭曲视野	interface	slayer_reward	manual_split
+More at Stake	更多风险	interface	slayer_reward	manual_split
+Actual Vampyre Slayer	真正的吸血鬼杀手	interface	slayer_reward	manual_split
+Task Storage	任务存储	interface	slayer_reward	manual_split
+I Wildy More Slayer	我还要更多荒野杀戮者怪物	interface	slayer_reward	manual_split
+Revenenenenenants	亡亡亡亡灵	interface	slayer_reward	manual_split
+Warped Reality	扭曲现实	interface	slayer_reward	manual_split
+Automatically smash Gargoyles when they're on critical health, if you have the right tool.	如果你有正确的工具，当石像鬼生命值危急时自动粉碎它们。	interface	slayer_reward	manual_split
+Automatically salt Rockslugs when they're on critical health, if you have salt.	如果你有盐，当岩石蛞蝓生命值危急时自动撒盐。	interface	slayer_reward	manual_split
+Automatically freeze Desert Lizards when they're on critical health, if you have ice water.	如果你有冰水，当沙漠蜥蜴生命值危急时自动冻结它们。	interface	slayer_reward	manual_split
+Automatically spray Mutated Zygomites when they're on critical health, if you have fungicide.	如果你有杀真菌剂喷雾，当菇人生命值危急时自动喷洒它们。	interface	slayer_reward	manual_split
+Learn to combine the protective Slayer headgear and Slayer gem into one universal helmet, with level 55 Crafting.	学习使用 55 级制作技能将保护性杀戮者头饰和杀戮者宝石组合成一个通用头盔。	interface	slayer_reward	manual_split
+Learn to craft your own Slayer Rings, with level 75 Crafting.	学习使用 75 级制作技能制作你自己的杀戮者戒指。	interface	slayer_reward	manual_split
+Learn to fletch broad arrows (with level 52 Fletching), broad bolts (with level 55 Fletching) and amethyst broad bolts (with level 76 Fletching).	学习制作宽箭 (需要 52 级制箭)、宽弩箭 (需要 55 级制箭) 和紫水晶宽弩箭 (需要 76 级制箭)。	interface	slayer_reward	manual_split
+Whenever you get a Dark Beast task, it will be a bigger task.	每当你获得暗黑兽任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get an Ankou task, it will be a bigger task.	每当你获得昂骷任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Suqah task, it will be a bigger task.	每当你获得苏卡任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Black Dragon task, it will be a bigger task.	每当你获得黑龙任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Bronze, Iron or Steel Dragon task, it will be a bigger task.	每当你获得青铜、铁或钢龙任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Spiritual Creature task, it will be a bigger task.	每当你获得幽魂生物任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get an Abyssal Demon task, it will be a bigger task.	每当你获得深渊恶魔任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Black Demon task, it will be a bigger task.	每当你获得黑恶魔任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Greater Demon task, it will be a bigger task.	每当你获得大恶魔任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Konar, Duradel and Nieve will be able to assign Red Dragons as your task.	科纳尔、杜拉德尔和尼芙将能够分配红龙作为你的任务。	interface	slayer_reward	manual_split
+Konar, Duradel and Nieve will be able to assign Mithril Dragons as your task.	科纳尔、杜拉德尔和尼芙将能够分配秘银龙作为你的任务。	interface	slayer_reward	manual_split
+Konar, Duradel, Nieve, Chaeldar and Krystilia will be able to assign Aviansies as your task.	科纳尔、杜拉德尔、尼芙、查尔达和克里斯蒂莉亚将能够分配鸟人作为你的任务。	interface	slayer_reward	manual_split
+Duradel, Nieve and Chaeldar will be able to assign TzHaar as your task. You may also be offered a chance to slay TzTok-Jad or TzKal-Zuk.	杜拉德尔、尼芙和查尔达将能够分配特扎尔作为你的任务，你也可能有机会被分配击杀特兹托克‧贾德或特兹卡尔‧祖克。	interface	slayer_reward	manual_split
+Konar, Duradel, Nieve and Krystilia will be able to assign boss monsters as your task. They will choose which boss you must kill.	科纳尔、杜拉德尔、尼芙和克里斯蒂莉亚将能够分配Boss怪物作为你的任务，他们将选择你必须击杀的Boss。	interface	slayer_reward	manual_split
+Whenever you get a Bloodveld task, it will be a bigger task.	每当你获得血魔任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get an Aberrant Spectre task, it will be a bigger task.	每当你获得变异幽灵任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get an Aviansie task, it will be a bigger task.	每当你获得鸟人任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Mithril Dragon task, it will be a bigger task.	每当你获得秘银龙任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Cave Horror task, it will be a bigger task.	每当你获得洞穴恐怪任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Dust Devil task, it will be a bigger task.	每当你获得尘魔任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Skeletal Wyvern task, it will be a bigger task.	每当你获得骷髅飞龙任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Gargoyle task, it will be a bigger task.	每当你获得石像鬼任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Nechryael task, it will be a bigger task.	每当你获得死灵恶魔任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Cave Kraken task, it will be a bigger task.	每当你获得洞穴克拉肯海怪任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Konar, Duradel, Nieve and Chaeldar will be able to assign you Lizardmen.	科纳尔、杜拉德尔、尼芙和查尔达将能够分配蜥蜴人作为你的任务。	interface	slayer_reward	manual_split
+Learn how to combine a KBD head with your Slayer helmet to colour it black.	学习如何将黑龙王头颅与你的杀戮者头盔组合，将其染成黑色。	interface	slayer_reward	manual_split
+Learn how to combine a Kalphite Queen head with your Slayer helmet to colour it green.	学习如何将卡尔夫特虫后头颅与你的杀戮者头盔组合，将其染成绿色。	interface	slayer_reward	manual_split
+Learn how to combine an Abyssal Demon head with your Slayer helmet to colour it red.	学习如何将深渊恶魔头颅与你的杀戮者头盔组合，将其染成红色。	interface	slayer_reward	manual_split
+Learn how to combine a Dark Claw with your Slayer helmet to colour it purple.	学习如何将黑暗之爪与你的杀戮者头盔组合，将其染成紫色。	interface	slayer_reward	manual_split
+Increase the risk against certain Slayer monsters with the chance of a superior version spawning whilst on a Slayer task.	在执行杀戮任务时，某些屠戮怪物有几率会生成更强大的版本。	interface	slayer_reward	manual_split
+Whenever you get a Scabarite task, it will be a bigger task.	每当你获得斯卡巴赖特任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Mithril Dragons drop mithril bars in banknote form while killed on assignment.	秘银龙在任务中被击杀时会以银行票据形式掉落秘银锭。	interface	slayer_reward	manual_split
+Whenever you get a Fossil Island Wyvern task, it will be a bigger task.	每当你获得化石岛飞龙任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get an Adamant Dragon task, it will be a bigger task.	每当你获得精金龙任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Whenever you get a Rune Dragon task, it will be a bigger task.	每当你获得符文龙任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Learn how to combine Vorkath's head with your Slayer helmet to colour it turquoise.	学习如何将沃卡斯的头颅与你的杀戮者头盔组合，将其染成青绿色。	interface	slayer_reward	manual_split
+Stops you getting Fossil Island Wyvern tasks, without counting towards your blocked task limit.	阻止你获得化石岛飞龙任务，且不占用你的任务封锁位。	interface	slayer_reward	manual_split
+Slaying Dusk and Dawn now counts for two kills towards your task rather than one.	击杀怪诞守卫者‧黄昏和怪诞守卫者‧黎明现在算作两次击杀而非一次。	interface	slayer_reward	manual_split
+Learn how to combine a Hydra head with your Slayer helmet to theme it like the Alchemical Hydra.	学习如何将九头蛇头颅与你的杀戮者头盔组合，使其呈现出炼金九头蛇风格的外观。	interface	slayer_reward	manual_split
+Whenever you get a Basilisk task, it will be a bigger task.	每当你获得石化蜥蜴任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Konar, Duradel and Nieve will be able to assign Basilisks as your task.	科纳尔、杜拉德尔和尼芙将能够分配石化蜥蜴作为你的任务。	interface	slayer_reward	manual_split
+Learn how to combine Twisted Horns with your Slayer helmet to theme it like the Great Olm.	学习如何将扭曲角与你的杀戮者头盔组合，使其呈现出大奥姆风格的外观。	interface	slayer_reward	manual_split
+Whenever you get a Vampyre task, it will be a bigger task.	每当你获得吸血鬼任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task.	科纳尔、杜拉德尔、尼芙和查尔达将能够分配吸血鬼作为你的任务。	interface	slayer_reward	manual_split
+Gain the ability to store your task, allowing you to take it at a later point in time.	获得存储任务的能力，允许你在以后的时间点接取。	interface	slayer_reward	manual_split
+Krystilia will be able to assign Jellies, Dust Devils, Nechryaels and Abyssal Demons as your task.	克里斯蒂莉亚将能够分配果冻怪、尘魔、死灵恶魔和深渊恶魔作为你的任务。	interface	slayer_reward	manual_split
+Whenever you get a Revenants task, it will be a bigger task.	每当你获得亡灵任务时，任务的目标数量将会增加。	interface	slayer_reward	manual_split
+Konar, Duradel, Nieve and Chaeldar will be able to assign Warped Creatures as your task.	科纳尔、杜拉德尔、尼芙和查尔达将能够分配扭曲生物作为你的任务。	interface	slayer_reward	manual_split
+Karamja easy	卡拉姆詹岛 - 简单	interface	task	manual_split
+Karamja medium	卡拉姆詹岛 - 中等	interface	task	manual_split
+Karamja hard	卡拉姆詹岛 - 困难	interface	task	manual_split
+Karamja elite	卡拉姆詹岛 - 精英	interface	task	manual_split
+Ardougne easy	阿多尼城 - 简单	interface	task	manual_split
+Ardougne medium	阿多尼城 - 中等	interface	task	manual_split
+Ardougne hard	阿多尼城 - 困难	interface	task	manual_split
+Ardougne elite	阿多尼城 - 精英	interface	task	manual_split
+Falador easy	法拉多城 - 简单	interface	task	manual_split
+Falador medium	法拉多城 - 中等	interface	task	manual_split
+Falador hard	法拉多城 - 困难	interface	task	manual_split
+Falador elite	法拉多城 - 精英	interface	task	manual_split
+Fremennik easy	费明尼克 - 简单	interface	task	manual_split
+Fremennik medium	费明尼克 - 中等	interface	task	manual_split
+Fremennik hard	费明尼克 - 困难	interface	task	manual_split
+Fremennik elite	费明尼克 - 精英	interface	task	manual_split
+Kandarin easy	坎达林王国 - 简单	interface	task	manual_split
+Kandarin medium	坎达林王国 - 中等	interface	task	manual_split
+Kandarin hard	坎达林王国 - 困难	interface	task	manual_split
+Kandarin elite	坎达林王国 - 精英	interface	task	manual_split
+Desert easy	沙漠 - 简单	interface	task	manual_split
+Desert medium	沙漠 - 中等	interface	task	manual_split
+Desert hard	沙漠 - 困难	interface	task	manual_split
+Desert elite	沙漠 - 精英	interface	task	manual_split
+Lumbridge easy	仑桥镇 - 简单	interface	task	manual_split
+Lumbridge medium	仑桥镇 - 中等	interface	task	manual_split
+Lumbridge hard	仑桥镇 - 困难	interface	task	manual_split
+Lumbridge elite	仑桥镇 - 精英	interface	task	manual_split
+Morytania easy	莫利塔尼亚 - 简单	interface	task	manual_split
+Morytania medium	莫利塔尼亚 - 中等	interface	task	manual_split
+Morytania hard	莫利塔尼亚 - 困难	interface	task	manual_split
+Morytania elite	莫利塔尼亚 - 精英	interface	task	manual_split
+Varrock easy	维洛克城 - 简单	interface	task	manual_split
+Varrock medium	维洛克城 - 中等	interface	task	manual_split
+Varrock hard	维洛克城 - 困难	interface	task	manual_split
+Varrock elite	维洛克城 - 精英	interface	task	manual_split
+Wilderness easy	荒野 - 简单	interface	task	manual_split
+Wilderness medium	荒野 - 中等	interface	task	manual_split
+Wilderness hard	荒野 - 困难	interface	task	manual_split
+Wilderness elite	荒野 - 精英	interface	task	manual_split
+Western easy	西部 - 简单	interface	task	manual_split
+Western medium	西部 - 中等	interface	task	manual_split
+Western hard	西部 - 困难	interface	task	manual_split
+Western elite	西部 - 精英	interface	task	manual_split
+Kourend easy	库兰德王国 - 简单	interface	task	manual_split
+Kourend medium	库兰德王国 - 中等	interface	task	manual_split
+Kourend hard	库兰德王国 - 困难	interface	task	manual_split
+Kourend elite	库兰德王国 - 精英	interface	task	manual_split
+Discover an old coin.	发现一枚古币	interface	varrock_museum	manual_split
+Discover an ancient coin.	发现一枚古代金币	interface	varrock_museum	manual_split
+Discover an ancient symbol.	发现一个古代圣徽	interface	varrock_museum	manual_split
+Discover an old symbol.	发现一个古老的圣徽	interface	varrock_museum	manual_split
+Discover pottery remains.	发现陶器残骸	interface	varrock_museum	manual_split
+Learn about dragons.	了解巨龙	interface	varrock_museum	manual_split
+Learn about wyvern.	了解飞龙	interface	varrock_museum	manual_split
+Learn about tortoise.	了解陆龟	interface	varrock_museum	manual_split
+Learn about lizard.	了解蜥蜴	interface	varrock_museum	manual_split
+Learn about leech.	了解水蛭	interface	varrock_museum	manual_split
+Learn about camel.	了解骆驼	interface	varrock_museum	manual_split
+Learn about mole.	了解鼹鼠	interface	varrock_museum	manual_split
+Learn about penguin.	了解企鹅	interface	varrock_museum	manual_split
+Learn about terrorbird.	了解骇鸟	interface	varrock_museum	manual_split
+Learn about kalphite.	了解卡尔夫特虫	interface	varrock_museum	manual_split
+Learn about monkey.	了解猴子	interface	varrock_museum	manual_split
+Learn about seaslug.	了解海蛞蝓	interface	varrock_museum	manual_split
+Learn about snake.	了解蛇	interface	varrock_museum	manual_split
+Learn about snail.	了解蜗牛	interface	varrock_museum	manual_split
+Uncover knowledge about the Staff of Armadyl.	揭开关于阿玛杜尔杖的知识	interface	varrock_museum	manual_split
+Reveal further knowledge about the Staff of Armadyl.	揭示更多关于阿玛杜尔杖的知识	interface	varrock_museum	manual_split
+Return the Shield of Arrav to the museum.	将阿拉夫之盾归还给博物馆	interface	varrock_museum	manual_split
+Provide a diagram of the Observatory to the museum.	向博物馆提供天文台结构图	interface	varrock_museum	manual_split
+Provide information about King Arthur to the museum.	向博物馆提供关于亚瑟王的信息	interface	varrock_museum	manual_split
+Describe Silverlight for a museum display.	为博物馆展示描述银光剑	interface	varrock_museum	manual_split
+Give information about the Gnome gliders to the museum.	向博物馆提供关于地精滑翔机的信息	interface	varrock_museum	manual_split
+Uncover information about Bob the cat.	揭开关于鲍勃猫的信息	interface	varrock_museum	manual_split
+Discover knowledge about King Lathas and his ancestors.	探索关于拉萨斯国王及其祖先的知识	interface	varrock_museum	manual_split
+Provide information about the River Salve.	向博物馆提供关于萨鲁夫河的信息	interface	varrock_museum	manual_split
+Uncover further information about the River Salve.	揭开更多关于萨鲁夫河的信息	interface	varrock_museum	manual_split
+Delve into the story of the Carnillean family.	深入了解卡尼利安家族的故事	interface	varrock_museum	manual_split
+Find out about the cult of chaos mages near Varrock.	了解维洛克城附近的混沌法师邪教	interface	varrock_museum	manual_split
+Uncover the secrets of runecrafting.	揭开符石制作的秘密	interface	varrock_museum	manual_split
+Discover the secrets of the Shield of Arrav.	揭开阿拉夫之盾的秘密	interface	varrock_museum	manual_split
+Build the mermaid display.	建造美人鱼展示柜	interface	varrock_museum	manual_split
+Build the pufferfish display.	建造河豚展示柜	interface	varrock_museum	manual_split
+Build the hoopsnake display.	建造衔尾蛇展示柜	interface	varrock_museum	manual_split
+Build the wyvern egg display.	建造飞龙蛋展示柜	interface	varrock_museum	manual_split
+Build the fossil crab display.	建造化石蟹展示柜	interface	varrock_museum	manual_split
+Build the fossil fuel display.	建造化石燃料展示柜	interface	varrock_museum	manual_split
+Build the footprint display.	建造脚印展示柜	interface	varrock_museum	manual_split
+Build the ancient zygomite display.	建造古代菇人展示柜	interface	varrock_museum	manual_split
+Build the clamshell display.	建造蛤蜊壳展示柜	interface	varrock_museum	manual_split
+Build the unicorn footprint display.	建造独角兽脚印展示柜	interface	varrock_museum	manual_split
+Build the imprint display.	建造印记展示柜	interface	varrock_museum	manual_split
+Build the cave painting display.	建造洞穴壁画展示柜	interface	varrock_museum	manual_split
+Build the biclopse display.	建造双头怪展示柜	interface	varrock_museum	manual_split
+Build the wyvern skull display.	建造飞龙头骨展示柜	interface	varrock_museum	manual_split
+Build the lobstrosity display.	建造龙虾怪展示柜	interface	varrock_museum	manual_split
+Build the tar thing display.	建造焦油物展示柜	interface	varrock_museum	manual_split
+Build the merfsh display.	建造哥布林鱼展示柜	interface	varrock_museum	manual_split
+Build the twocan display.	建造双头怪展示柜	interface	varrock_museum	manual_split
+Build the terror snail display.	建造恐怖蜗牛展示柜	interface	varrock_museum	manual_split
+Build the mushtoise display.	建造蘑菇龟展示柜	interface	varrock_museum	manual_split
+Build the sharkbeast display.	建造鲨鱼兽展示柜	interface	varrock_museum	manual_split
+Build the mushroo display.	建造蘑菇兽展示柜	interface	varrock_museum	manual_split
+Build the sabre toothed squirrel display.	建造剑齿松鼠展示柜	interface	varrock_museum	manual_split
+Build the mandibular display.	建造巨颚兽展示柜	interface	varrock_museum	manual_split
+Build the dragonfly display.	建造蜻蜓展示柜	interface	varrock_museum	manual_split
+Build the lava beast display.	建造熔岩怪展示柜	interface	varrock_museum	manual_split
+Build part of the leviathan display.	建造利维坦展示的一部分	interface	varrock_museum	manual_split
+Build the mushtree display.	建造蘑菇树展示柜	interface	varrock_museum	manual_split
+Build the pitcher display.	建造猪笼草展示柜	interface	varrock_museum	manual_split
+Build the skroom display.	建造斯库姆菇展示柜	interface	varrock_museum	manual_split
+Build the spineplant display.	建造刺植物展示柜	interface	varrock_museum	manual_split
+Build the mushroom display.	建造蘑菇展示柜	interface	varrock_museum	manual_split
+Hand in an Ancient globe.	上交一个古代地球仪	interface	varrock_museum	manual_split
+Hand in an Ancient ledger.	上交一个古代分类账	interface	varrock_museum	manual_split
+Hand in an Ancient astroscope.	上交一个古代星盘	interface	varrock_museum	manual_split
+Hand in an Ancient treatise.	上交一个古代论文	interface	varrock_museum	manual_split
+Hand in an Ancient carcanet.	上交一个古代项链	interface	varrock_museum	manual_split
+Digsite Finds	考古挖掘场发现物	interface	varrock_museum	manual_split
+Natural History Displays	自然历史展示柜	interface	varrock_museum	manual_split
+Timeline Displays	时间线展示柜	interface	varrock_museum	manual_split
+Fossil Island Displays	化石岛展示柜	interface	varrock_museum	manual_split
+Camdozaal Relics	坎多扎尔遗物	interface	varrock_museum	manual_split
+Clean finds from the Digsite on the tables in the museum and place them in their cases.	清理考古挖掘场的发现物，放在博物馆的桌子上并将它们放入展示柜中	interface	varrock_museum	manual_split
+Examine the displays in the Natural History section of the museum and answer Orlando Smith's quiz.	检查博物馆自然历史部分的展示并回答奥兰多‧史密斯的测验	interface	varrock_museum	manual_split
+Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.	通过完成任务和其他活动收集基利诺尔各地的信息，然后与历史学家米纳斯交谈	interface	varrock_museum	manual_split
+Discover fossils on fossil island to complete the displays on the bottom floor of the museum.	在化石岛发现化石以完成博物馆底层的展示	interface	varrock_museum	manual_split
+Crush Barronite deposits in the ruins of Camdozaal to find relics and hand them in to the curator.	在坎多扎尔废墟中粉碎巴隆石矿床以找到遗物并将其交给馆长	interface	varrock_museum	manual_split
+The Ides of Milk	奶月望日	interface	quest	manual_split
+Learning the Ropes	初学航海	interface	quest	manual_split
+Current Affairs	时事动态	interface	quest	manual_split
+The Final Dawn	最终黎明	interface	quest	manual_split
+Pandemonium	潘德莫尼姆	interface	quest	manual_split
+Prying Times	撬开宝箱	interface	quest	manual_split
+Scrambled!	紧急行动！	interface	quest	manual_split
+Shadows of Custodia	卡斯托迪亚之影	interface	quest	manual_split
+Troubled Tortugans	困扰的海龟人	interface	quest	manual_split
+Shroom Sprayer	蘑菇喷雾器	interface	slayer_reward	manual_split

@@ -22277,3 +22277,280 @@ Cave painting	洞穴画作	name	wiki_rescrape	wiki_rescrape
 Supply table	补给桌	name	wiki_rescrape	wiki_rescrape
 Amitire plant	阿米提尔植物	name	wiki_rescrape	wiki_rescrape
 Damaged window	破损的窗户	name	wiki_rescrape	wiki_rescrape
+
+Barbarian Assault	野蛮人突袭	name	activity	manual_split
+Blast Furnace	高炉	name	activity	manual_split
+Castle Wars	城堡战争	name	activity	manual_split
+Fishing Trawler	捕鱼拖网	name	activity	manual_split
+Burthorpe Games Room	伯索普游戏室	name	activity	manual_split
+Nightmare Zone	噩梦地带	name	activity	manual_split
+Pest Control	虫害治理	name	activity	manual_split
+Rat Pits	鼠坑	name	activity	manual_split
+Shades of Mort'ton	莫顿镇的阴影	name	activity	manual_split
+Trouble Brewing	酿酒大战	name	activity	manual_split
+TzHaar Fight Pit	特扎尔战斗坑	name	activity	manual_split
+Shield of Arrav	阿拉夫之盾	name	activity	manual_split
+Clan Wars	氏族战争	name	activity	manual_split
+Giants' Foundry	巨人铸造厂	name	activity	manual_split
+God Wars	神战	name	activity	manual_split
+Guardians of the Rift	裂隙守护者	name	activity	manual_split
+Dagannoth Kings	深潜者之王	name	activity	manual_split
+Player Owned Houses	玩家的房屋	name	activity	manual_split
+Tithe Farm	什一税农场	name	activity	manual_split
+Last Man Standing	最后幸存者	name	activity	manual_split
+Volcanic Mine	火山矿场	name	activity	manual_split
+Soul Wars	灵魂战争	name	activity	manual_split
+Shooting Stars	流星	name	activity	manual_split
+Mage Training Arena	法师训练场	name	activity	manual_split
+Taverley	塔韦利村	name	location	manual_split
+Pollnivneach	波尼尼镇	name	location	manual_split
+Yanille	亚尼勒城	name	location	manual_split
+Desert	沙漠	name	location	manual_split
+Falador	法拉多城	name	location	manual_split
+Kandarin	坎达林王国	name	location	manual_split
+Lumbridge & Draynor	仑桥镇与德雷诺村	name	location	manual_split
+Varrock	维洛克城	name	location	manual_split
+Western Provinces	西部省份	name	location	manual_split
+Wilderness	荒野	name	location	manual_split
+Kourend & Kebos	库兰德王国与凯博斯	name	location	manual_split
+Shayzien	谢兹恩城	name	location	manual_split
+Arceuus	阿西乌斯城	name	location	manual_split
+Lovakengj	洛瓦肯吉城	name	location	manual_split
+Piscarilius	皮斯卡里琉斯城	name	location	manual_split
+Al Kharid	阿尔卡里德城	name	location	manual_split
+Burgh de Rott	伯格德罗特镇	name	location	manual_split
+Burthorpe	伯索普公国	name	location	manual_split
+Canifis	坎尼非斯村	name	location	manual_split
+Kharidian Desert	卡里迪安沙漠	name	location	manual_split
+Dorgesh-Kaan	多吉需戛纳	name	location	manual_split
+Draynor Village	德雷诺村	name	location	manual_split
+Feldip Hills	费迪普丘陵	name	location	manual_split
+Gnome Stronghold	地精要塞	name	location	manual_split
+Goblin Village	哥布林村庄	name	location	manual_split
+Kebos Lowlands	凯博斯低地	name	location	manual_split
+Keldagrim	凯尔达格林城	name	location	manual_split
+Kingstown	金斯敦	name	location	manual_split
+Lletya	莱蒂亚村	name	location	manual_split
+Lunar Isle	月亮岛	name	location	manual_split
+Meiyerditch	迈尔迪奇	name	location	manual_split
+Miscellania	米斯凯尼亚国	name	location	manual_split
+Mort'ton	莫顿镇	name	location	manual_split
+Mos Le'Harmless	莫斯勒哈姆斯岛	name	location	manual_split
+Nardah	那尔达城	name	location	manual_split
+Port Phasmatys	法斯提斯港	name	location	manual_split
+Port Piscarilius	皮斯卡里琉斯港	name	location	manual_split
+Port Sarim	沙林港	name	location	manual_split
+Seers' Village	先知村	name	location	manual_split
+Shilo Village	希洛村	name	location	manual_split
+Silvarea	希尔瓦雷亚	name	location	manual_split
+Slepe	斯莱普镇	name	location	manual_split
+Sophanem	索法尼恩城	name	location	manual_split
+Tai Bwo Wannai	泰博瓦纳村	name	location	manual_split
+Tree Gnome Village	地精村庄	name	location	manual_split
+Troll Stronghold	巨魔要塞	name	location	manual_split
+Civitas illa Fortis	福蒂斯城	name	location	manual_split
+Avium Savannah	阿维乌姆草原	name	location	manual_split
+Slayer Tower	杀戮者之塔	name	location	manual_split
+Catacombs of Kourend	库兰德王国地下墓穴	name	location	manual_split
+Stronghold Slayer Dungeon	杀戮者要塞地牢	name	location	manual_split
+Karuulm Slayer Dungeon	卡鲁尔姆杀戮者地牢	name	location	manual_split
+Chasm of Fire	火焰深渊地牢	name	location	manual_split
+Brimhaven Dungeon	布尔哈文地牢	name	location	manual_split
+Taverley Dungeon	塔韦利地牢	name	location	manual_split
+Witchaven Dungeon	女巫港地牢	name	location	manual_split
+Waterfall Dungeon	瀑布地牢	name	location	manual_split
+God Wars Dungeon	神战地牢	name	location	manual_split
+Kalphite Lair	卡尔夫特虫巢	name	location	manual_split
+task-only Kalphite Cave	任务专用卡尔夫特虫洞穴	name	location	manual_split
+Kraken Cove	克拉肯湾	name	location	manual_split
+Waterbirth Island	水诞岛	name	location	manual_split
+Lizardman Canyon	蜥蜴人峡谷	name	location	manual_split
+Lizardman Settlement	蜥蜴人定居点	name	location	manual_split
+Smoke Devil Dungeon	烟魔地牢	name	location	manual_split
+Death Plateau	死亡高原	name	location	manual_split
+South of Mount Quidamortem	奎达莫特山以南	name	location	manual_split
+Fremennik Slayer Dungeon	费明尼克杀戮者地牢	name	location	manual_split
+Myths' Guild Dungeon	神话公会地牢	name	location	manual_split
+Mourner Tunnels	哀悼者隧道	name	location	manual_split
+Lithkren Vault	利斯克伦金库	name	location	manual_split
+Ancient Cavern	古代洞穴	name	location	manual_split
+Stronghold of Security	安全要塞	name	location	manual_split
+Fossil Island	化石岛	name	location	manual_split
+Asgarnian Ice Dungeon	阿斯加尼亚冰原地牢	name	location	manual_split
+Ogre Enclave	食人魔飞地	name	location	manual_split
+Brine Rat Cavern	盐水鼠洞穴	name	location	manual_split
+Zanaris	失落之城	name	location	manual_split
+In the Lighthouse	灯塔内	name	location	manual_split
+Smoke Dungeon	烟雾地牢	name	location	manual_split
+Evil Chicken's Lair	邪恶鸡的巢穴	name	location	manual_split
+The Abyss	深渊	name	location	manual_split
+Molch	莫尔奇聚落	name	location	manual_split
+Kebos Swamp	凯博斯沼泽	name	location	manual_split
+The Battlefront	战场前线	name	location	manual_split
+Forthos Dungeon	福索斯地牢	name	location	manual_split
+Iorwerth Dungeon	伊尔沃斯地牢	name	location	manual_split
+Jormungand's Prison	耶梦加得的监狱	name	location	manual_split
+Darkmeyer	达克迈尔	name	location	manual_split
+Meiyerditch Laboratories	迈尔迪奇实验室	name	location	manual_split
+Isle of Souls	灵魂岛	name	location	manual_split
+Giants' Den	巨人巢穴	name	location	manual_split
+Fremennik Isles	费明尼克群岛	name	location	manual_split
+Poison Waste Dungeon	毒废地牢	name	location	manual_split
+Neypotzli	内波茨利监狱	name	location	manual_split
+The Teomat	特奥马特修道院	name	location	manual_split
+Sunset Coast	日落海岸	name	location	manual_split
+Hunter Guild	猎人公会	name	location	manual_split
+Cam Torum Entrance	卡姆托鲁姆城入口	name	location	manual_split
+Colossal Wyrm Remains	巨型蛇龙遗骸	name	location	manual_split
+Outer Fortis	福蒂斯外围	name	location	manual_split
+Ice Mountain	冰山	name	location	manual_split
+Corsair Cove	海盗湾	name	location	manual_split
+Shayzien Graveyard of Heroes	谢兹恩英雄墓园	name	location	manual_split
+Southern coast of Hosidius	霍西迪乌斯城南海岸	name	location	manual_split
+Draynor Manor cellar	德雷诺庄园地窖	name	location	manual_split
+Wizards' Tower	法师塔	name	location	manual_split
+Ardougne Rat Pits	阿多尼鼠坑	name	location	manual_split
+The Kendal's cave	肯达尔的洞穴	name	location	manual_split
+Ruins of Uzer	乌泽废墟	name	location	manual_split
+Crabclaw Caves or Waterbirth Island Dungeon	蟹爪洞穴或水诞岛地牢	name	location	manual_split
+Chaos Altar	混沌祭坛	name	location	manual_split
+Wyvern Cave on Fossil Island	化石岛飞龙洞穴	name	location	manual_split
+Trollweiss Mountain	巨魔山脉	name	location	manual_split
+Death Altar	死亡祭坛	name	location	manual_split
+Mos Le'Harmless Cave	莫斯勒哈姆斯洞穴	name	location	manual_split
+Coronation ceremony during A Kingdom Divided.	分裂的王国任务期间的加冕典礼	name	location	manual_split
+Fight with the Giant Roc during My Arm's Big Adventure.	'我的手臂''大冒险期间与巨型巨鸟的战斗	name	location	manual_split
+Scorpia's cave beneath the Scorpion Pit.	蝎子坑下方的天蝎洞穴	name	location	manual_split
+Beneath Cursed Sands	诅咒沙地之下	name	location	manual_split
+Perilous Moons	灾厄之月	name	location	manual_split
+PvP Arena	PvP 竞技场	name	location	manual_split
+Ferox Enclave	费罗飞地	name	location	manual_split
+Warrior's Guild	战士公会	name	location	manual_split
+Champion's Guild 	冠军公会	name	location	manual_split
+Monestery	修道院	name	location	manual_split
+Ranging Guild	射手公会	name	location	manual_split
+Falador Park	法拉多公园	name	location	manual_split
+Dondakan's Rock	东达坎之石	name	location	manual_split
+Barbarian Outpost	野蛮人前哨站	name	location	manual_split
+Tears of Guthix	古斯之泪	name	location	manual_split
+Wintertodt Camp	寒冬营地	name	location	manual_split
+Fishing Guild	钓鱼公会	name	location	manual_split
+Mining Guild	采矿公会	name	location	manual_split
+Crafting Guild	制作公会	name	location	manual_split
+Cooking Guild	厨师公会	name	location	manual_split
+Woodcutting Guild	伐木公会	name	location	manual_split
+Farming Guild	农业公会	name	location	manual_split
+Edgeville	边陲镇	name	location	manual_split
+Monkeys	猴子	name	slayer_mob	manual_split
+Goblins	哥布林	name	slayer_mob	manual_split
+Rats	老鼠	name	slayer_mob	manual_split
+Spiders	蜘蛛	name	slayer_mob	manual_split
+Birds	鸟类	name	slayer_mob	manual_split
+Cows	奶牛	name	slayer_mob	manual_split
+Scorpions	蝎子	name	slayer_mob	manual_split
+Bats	蝙蝠	name	slayer_mob	manual_split
+Wolves	狼	name	slayer_mob	manual_split
+Zombies	僵尸	name	slayer_mob	manual_split
+Skeletons	骷髅	name	slayer_mob	manual_split
+Ghosts	幽灵	name	slayer_mob	manual_split
+Bears	熊	name	slayer_mob	manual_split
+Hill Giants	丘陵巨人	name	slayer_mob	manual_split
+Ice Giants	冰巨人	name	slayer_mob	manual_split
+Fire Giants	火焰巨人	name	slayer_mob	manual_split
+Moss Giants	苔藓巨人	name	slayer_mob	manual_split
+Trolls	巨魔	name	slayer_mob	manual_split
+Ice Warriors	冰战士	name	slayer_mob	manual_split
+Ogres	食人魔	name	slayer_mob	manual_split
+Hobgoblins	大哥布林	name	slayer_mob	manual_split
+Dogs	狗	name	slayer_mob	manual_split
+Ghouls	食尸鬼	name	slayer_mob	manual_split
+Green Dragons	绿龙	name	slayer_mob	manual_split
+Blue Dragons	蓝龙	name	slayer_mob	manual_split
+Red Dragons	红龙	name	slayer_mob	manual_split
+Black Dragons	黑龙	name	slayer_mob	manual_split
+Lesser Demons	小恶魔	name	slayer_mob	manual_split
+Greater Demons	大恶魔	name	slayer_mob	manual_split
+Black Demons	黑恶魔	name	slayer_mob	manual_split
+Hellhounds	地狱犬	name	slayer_mob	manual_split
+Shadow Warriors	暗影战士	name	slayer_mob	manual_split
+Werewolves	狼人	name	slayer_mob	manual_split
+Vampyres	吸血鬼	name	slayer_mob	manual_split
+Cave Crawlers	洞穴爬虫	name	slayer_mob	manual_split
+Banshees	女妖	name	slayer_mob	manual_split
+Crawling Hands	爬行之手	name	slayer_mob	manual_split
+Infernal Mages	地狱法师	name	slayer_mob	manual_split
+Aberrant Spectres	变异幽灵	name	slayer_mob	manual_split
+Abyssal Demons	深渊恶魔	name	slayer_mob	manual_split
+Basilisks	石化蜥蜴	name	slayer_mob	manual_split
+Gargoyles	石像鬼	name	slayer_mob	manual_split
+Pyrefiends	烈焰魔	name	slayer_mob	manual_split
+Dust Devils	尘魔	name	slayer_mob	manual_split
+Jellies	果冻怪	name	slayer_mob	manual_split
+Rockslugs	岩石蛞蝓	name	slayer_mob	manual_split
+Kalphite	卡尔夫特虫	name	slayer_mob	manual_split
+Earth Warriors	土元素战士	name	slayer_mob	manual_split
+Otherworldly Beings	异界生物	name	slayer_mob	manual_split
+Elves	精灵	name	slayer_mob	manual_split
+Dwarves	矮人	name	slayer_mob	manual_split
+Bronze Dragons	青铜龙	name	slayer_mob	manual_split
+Iron Dragons	铁龙	name	slayer_mob	manual_split
+Steel Dragons	钢龙	name	slayer_mob	manual_split
+Wall Beasts	墙兽	name	slayer_mob	manual_split
+CaveSlimes	洞穴粘液怪	name	slayer_mob	manual_split
+CaveBugs	洞穴虫	name	slayer_mob	manual_split
+Shades	阴魂	name	slayer_mob	manual_split
+Crocodiles	鳄鱼	name	slayer_mob	manual_split
+Dark Beasts	暗黑兽	name	slayer_mob	manual_split
+Mogres	莫格雷食人魔	name	slayer_mob	manual_split
+Lizards	蜥蜴	name	slayer_mob	manual_split
+Fever Spiders	热病蜘蛛	name	slayer_mob	manual_split
+Harpie Bug Swarms	哈比虫群	name	slayer_mob	manual_split
+Sea Snakes	海蛇	name	slayer_mob	manual_split
+FossilIsland Wyverns	化石岛飞龙	name	slayer_mob	manual_split
+Skeletal Wyverns	骷髅飞龙	name	slayer_mob	manual_split
+Killerwatts	杀手瓦特	name	slayer_mob	manual_split
+Mutated Zygomites	菇人	name	slayer_mob	manual_split
+Icefiends	冰怪	name	slayer_mob	manual_split
+Minotaurs	牛头怪	name	slayer_mob	manual_split
+Fleshcrawlers	血肉爬虫	name	slayer_mob	manual_split
+Cave Horrors	洞穴恐怪	name	slayer_mob	manual_split
+Jungle Horrors	丛林恐怪	name	slayer_mob	manual_split
+Goraks	戈拉克	name	slayer_mob	manual_split
+Suqahs	苏卡	name	slayer_mob	manual_split
+Brine Rats	盐水鼠	name	slayer_mob	manual_split
+Minions of Scabaras	斯卡巴拉斯的仆从	name	slayer_mob	manual_split
+Terror Dogs	恐怖犬	name	slayer_mob	manual_split
+Molanisks	莫拉尼斯克	name	slayer_mob	manual_split
+Waterfiends	水魔	name	slayer_mob	manual_split
+Spiritual Creatures	幽魂怪物	name	slayer_mob	manual_split
+Lizardmen	蜥蜴人	name	slayer_mob	manual_split
+Magic Axes	魔法斧	name	slayer_mob	manual_split
+Mithril Dragons	秘银龙	name	slayer_mob	manual_split
+Adamant Dragons	精金龙	name	slayer_mob	manual_split
+Rune Dragons	符文龙	name	slayer_mob	manual_split
+Aviansies	鸟人	name	slayer_mob	manual_split
+Cave Kraken	洞穴克拉肯海怪	name	slayer_mob	manual_split
+Smoke Devils	烟魔	name	slayer_mob	manual_split
+TzHaar	特扎尔	name	slayer_mob	manual_split
+Bosses	Boss	name	slayer_mob	manual_split
+Mammoths	猛犸象	name	slayer_mob	manual_split
+Rogues	盗贼	name	slayer_mob	manual_split
+Ents	树精	name	slayer_mob	manual_split
+Bandits	强盗	name	slayer_mob	manual_split
+Dark Warriors	黑暗战士	name	slayer_mob	manual_split
+Lava Dragons	熔岩龙	name	slayer_mob	manual_split
+Revenants	亡灵	name	slayer_mob	manual_split
+Chaos Druids	混沌德鲁伊	name	slayer_mob	manual_split
+Wyrms	蛇龙	name	slayer_mob	manual_split
+Drakes	亚龙	name	slayer_mob	manual_split
+Hydras	九头蛇	name	slayer_mob	manual_split
+Brutal BlackDragons	残暴黑龙	name	slayer_mob	manual_split
+Sulphur Lizards	硫磺蜥	name	slayer_mob	manual_split
+Temple Spiders	神殿蜘蛛	name	slayer_mob	manual_split
+Undead Druids	亡灵德鲁伊	name	slayer_mob	manual_split
+Sand Crabs	沙蟹	name	slayer_mob	manual_split
+BlackKnights	黑骑士	name	slayer_mob	manual_split
+Pirates	海盗	name	slayer_mob	manual_split
+Sourhogs	酸猪	name	slayer_mob	manual_split
+Warped Creatures	扭曲生物	name	slayer_mob	manual_split
+Lesser Nagua	小那伽	name	slayer_mob	manual_split
