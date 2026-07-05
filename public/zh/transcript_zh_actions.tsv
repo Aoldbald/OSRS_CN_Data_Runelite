@@ -1751,3 +1751,193 @@ Turn-right	右转	actions	ptbr_import	ptbr
 Untether (if tethered)	解开绳索（如果已拴住）	actions	ptbr_import	ptbr
 but you can use a chisel on it	但你可以用凿子处理它	actions	ptbr_import	ptbrClimp-up	爬上去	actions	wiki_rescrape	wiki_rescrape
 Cimb-down	爬下来	actions	wiki_rescrape	wiki_rescrape
+Disable-XP	禁用经验值	actions	cachedump	cachedump
+Pull-back	拉回	actions	cachedump	cachedump
+Open-stomach	剖腹	actions	cachedump	cachedump
+Take-eggs	取蛋	actions	cachedump	cachedump
+Retrieve-gravestone	取回墓碑	actions	cachedump	cachedump
+Give-feathers	给予羽毛	actions	cachedump	cachedump
+Sangvesti	桑格维斯蒂	actions	cachedump	cachedump
+Trade-teeth	交易牙齿	actions	cachedump	cachedump
+Wrangle	争辩	actions	cachedump	cachedump
+Make-Canoe	制作独木舟	actions	cachedump	cachedump
+Use-Logs	使用原木	actions	cachedump	cachedump
+Warm-by	取暖	actions	cachedump	cachedump
+Ring-last-destination	戒指-最后目的地	actions	cachedump	cachedump
+Work	工作	actions	cachedump	cachedump
+Climp-up	爬上去	actions	cachedump	cachedump
+Resurface	重新浮出水面	actions	cachedump	cachedump
+Make-offering	献祭	actions	cachedump	cachedump
+Mine-through	挖穿	actions	cachedump	cachedump
+Pray-to	祈祷	actions	cachedump	cachedump
+Place-item	放置物品	actions	cachedump	cachedump
+Remove-emblem	移除徽章	actions	cachedump	cachedump
+Pull-lever	拉动拉杆	actions	cachedump	cachedump
+Harvest-from	收获	actions	cachedump	cachedump
+Default quantity: 1	默认数量：1	actions	cachedump	cachedump
+Set custom quantity	设置自定义数量	actions	cachedump	cachedump
+Deposit loot	存入战利品	actions	cachedump	cachedump
+Deposit potions	存入药水	actions	cachedump	cachedump
+Fill potions	装满药水	actions	cachedump	cachedump
+Discard-all	全部丢弃	actions	cachedump	cachedump
+Offer your opponent a draw	向对手提议和棋	actions	cachedump	cachedump
+Challenge player	挑战玩家	actions	cachedump	cachedump
+Drop piece	落子	actions	cachedump	cachedump
+Draw line	画线	actions	cachedump	cachedump
+Play piece	下棋	actions	cachedump	cachedump
+Create	创建	actions	cachedump	cachedump
+Move up	上移	actions	cachedump	cachedump
+Move down	下移	actions	cachedump	cachedump
+Add/Remove House	添加/移除房屋	actions	cachedump	cachedump
+Refresh Data	刷新数据	actions	cachedump	cachedump
+Deselect	取消选择	actions	cachedump	cachedump
+Buy-X	购买-X	actions	cachedump	cachedump
+Buy-All	全部购买	actions	cachedump	cachedump
+Sort	排序	actions	cachedump	cachedump
+Set prefix	设置前缀	actions	cachedump	cachedump
+Anyone	任何人	actions	cachedump	cachedump
+Any friends	任何好友	actions	cachedump	cachedump
+Only me	仅限自己	actions	cachedump	cachedump
+Insert coin	投入金币	actions	cachedump	cachedump
+Cancel exchange	取消交换	actions	cachedump	cachedump
+Accept exchange	接受交换	actions	cachedump	cachedump
+Toggle new renderer	切换新渲染器	actions	cachedump	cachedump
+Switch View	切换视图	actions	cachedump	cachedump
+Restore Defaults	恢复默认	actions	cachedump	cachedump
+Empty all to inventory	全部清空到背包	actions	cachedump	cachedump
+Fill box from inventory	从背包装满箱子	actions	cachedump	cachedump
+Unmorph	解除变形	actions	cachedump	cachedump
+Tracker	追踪器	actions	cachedump	cachedump
+Set to XP value	设置为经验值	actions	cachedump	cachedump
+Set to current XP	设置为当前经验	actions	cachedump	cachedump
+Lemantolly Undri	莱曼托利.昂德里	actions	cachedump	cachedump
+Aim left	向左瞄准	actions	cachedump	cachedump
+Aim right	向右瞄准	actions	cachedump	cachedump
+Aim up	向上瞄准	actions	cachedump	cachedump
+Aim down	向下瞄准	actions	cachedump	cachedump
+Unlock machine	解锁机器	actions	cachedump	cachedump
+Submit	提交	actions	cachedump	cachedump
+Turn page	翻页	actions	cachedump	cachedump
+Select option A	选择选项A	actions	cachedump	cachedump
+Select option B	选择选项B	actions	cachedump	cachedump
+Select option C	选择选项C	actions	cachedump	cachedump
+Activate machine	启动机器	actions	cachedump	cachedump
+Cancel operation	取消操作	actions	cachedump	cachedump
+Body type A	体型A	actions	cachedump	cachedump
+Body type B	体型B	actions	cachedump	cachedump
+Yama's Lair	阎魔巢穴	actions	cachedump	cachedump
+Cosmetics	外观	actions	cachedump	cachedump
+Swap-Effect	交换效果	actions	cachedump	cachedump
+Confirm Destroy	确认销毁	actions	cachedump	cachedump
+Withdraw all to	全部取出到	actions	cachedump	cachedump
+Set Junction	设置连接点	actions	cachedump	cachedump
+Move-right	右移	actions	cachedump	cachedump
+Move-left	左移	actions	cachedump	cachedump
+Decrease	减少	actions	cachedump	cachedump
+Exchange-1	兑换-1	actions	cachedump	cachedump
+Exchange-All	全部兑换	actions	cachedump	cachedump
+Pick refreshment	挑选茶点	actions	cachedump	cachedump
+Show key	显示图例	actions	cachedump	cachedump
+Off/On	关闭/开启	actions	cachedump	cachedump
+Open Link	打开链接	actions	cachedump	cachedump
+Use code	使用代码	actions	cachedump	cachedump
+Add Favourite	添加收藏	actions	cachedump	cachedump
+Remove Favourite	移除收藏	actions	cachedump	cachedump
+Rotate counter-clockwise	逆时针旋转	actions	cachedump	cachedump
+Go to Portal	前往传送门	actions	cachedump	cachedump
+Rotate the Fragment	旋转碎片	actions	cachedump	cachedump
+Move Fragment Up	向上移动碎片	actions	cachedump	cachedump
+Move Fragment Right	向右移动碎片	actions	cachedump	cachedump
+Move Fragment Left	向左移动碎片	actions	cachedump	cachedump
+Move Fragment Down	向下移动碎片	actions	cachedump	cachedump
+Flip Fragment Over	翻转碎片	actions	cachedump	cachedump
+Relax	放松	actions	cachedump	cachedump
+Bail	保释	actions	cachedump	cachedump
+Tug	拉拽	actions	cachedump	cachedump
+Emergency tug	紧急拉拽	actions	cachedump	cachedump
+Low Alchemy	低级炼金术	actions	cachedump	cachedump
+High Alchemy	高级炼金术	actions	cachedump	cachedump
+Poison egg	毒蛋	actions	cachedump	cachedump
+Explosive egg	爆炸蛋	actions	cachedump	cachedump
+Stun egg	眩晕蛋	actions	cachedump	cachedump
+View tutorial	查看教程	actions	cachedump	cachedump
+Advanced	高级	actions	cachedump	cachedump
+Level-up	升级	actions	cachedump	cachedump
+The Fremennik Provinces	弗瑞曼尼卡省	actions	cachedump	cachedump
+Kebos and Kourend	凯博斯与库兰德王国	actions	cachedump	cachedump
+Kourend and Kebos	库兰德王国与凯博斯	actions	cachedump	cachedump
+Health Info	生命信息	actions	cachedump	cachedump
+Spirit Info	灵魂信息	actions	cachedump	cachedump
+Armament Info	装备信息	actions	cachedump	cachedump
+Stairs to Natural History exhibit	楼梯通往自然历史展区	actions	cachedump	cachedump
+Stairs to Timeline exhibit	楼梯通往时间线展区	actions	cachedump	cachedump
+Stairs to Dig Site exhibit	楼梯通往考古挖掘场展区	actions	cachedump	cachedump
+Confirm Reset	确认重置	actions	cachedump	cachedump
+Cancel Reset	取消重置	actions	cachedump	cachedump
+Play-c	演奏-C	actions	cachedump	cachedump
+Play-d	演奏-D	actions	cachedump	cachedump
+Play-e	演奏-E	actions	cachedump	cachedump
+Play-f	演奏-F	actions	cachedump	cachedump
+Play-g	演奏-G	actions	cachedump	cachedump
+Play-a	演奏-A	actions	cachedump	cachedump
+Play-b	演奏-B	actions	cachedump	cachedump
+Switch-diamond	切换-钻石	actions	cachedump	cachedump
+Switch-onyx	切换-玛瑙	actions	cachedump	cachedump
+Switch-zenyte	切换-泽尼特	actions	cachedump	cachedump
+Switch-ruby	切换-红宝石	actions	cachedump	cachedump
+Switch-sapphire	切换-蓝宝石	actions	cachedump	cachedump
+Switch-emerald	切换-绿宝石	actions	cachedump	cachedump
+Enter name	输入名称	actions	cachedump	cachedump
+Set name	设置名称	actions	cachedump	cachedump
+Go in, I don't mind dying!	进去吧，我不怕死！	actions	cachedump	cachedump
+No, I'm holding too much stuff!	不了，我身上东西太多了！	actions	cachedump	cachedump
+Down	向下	actions	cachedump	cachedump
+Toggle set effect	切换套装效果	actions	cachedump	cachedump
+Set as default	设为默认	actions	cachedump	cachedump
+Abort	中止	actions	cachedump	cachedump
+Increase throttle	增加油门	actions	cachedump	cachedump
+Decrease throttle	减少油门	actions	cachedump	cachedump
+Steer right	向右转	actions	cachedump	cachedump
+Steer left	向左转	actions	cachedump	cachedump
+Add to Pool	加入池中	actions	cachedump	cachedump
+Review	回顾	actions	cachedump	cachedump
+Cycle Forward	向前循环	actions	cachedump	cachedump
+Cycle Back	向后循环	actions	cachedump	cachedump
+Deposit All from Inventory	从背包全部存入	actions	cachedump	cachedump
+Switch to	切换到	actions	cachedump	cachedump
+View Demonic Pacts	查看恶魔契约	actions	cachedump	cachedump
+View Areas	查看区域	actions	cachedump	cachedump
+View Relics	查看遗物	actions	cachedump	cachedump
+Edit	编辑	actions	cachedump	cachedump
+Don't jump!	别跳！	actions	cachedump	cachedump
+Storage Unlocks	存储解锁	actions	cachedump	cachedump
+Shuffle items up	向上洗牌物品	actions	cachedump	cachedump
+Save	保存	actions	cachedump	cachedump
+Mute Music	静音音乐	actions	cachedump	cachedump
+Unmute Music	取消静音音乐	actions	cachedump	cachedump
+Unequip all	卸下所有装备	actions	cachedump	cachedump
+View Info	查看信息	actions	cachedump	cachedump
+View Fragments	查看碎片	actions	cachedump	cachedump
+View Unlocks	查看解锁	actions	cachedump	cachedump
+Subtract	减去	actions	cachedump	cachedump
+Exclaim	呼喊	actions	cachedump	cachedump
+Survey	调查	actions	cachedump	cachedump
+Save settings	保存设置	actions	cachedump	cachedump
+Load preset settings	加载预设设置	actions	cachedump	cachedump
+Load last duel's settings	加载上次决斗设置	actions	cachedump	cachedump
+"Whip" settings	“鞭子”设置	actions	cachedump	cachedump
+"Boxing" settings	“拳击”设置	actions	cachedump	cachedump
+Recruitment Board	招募板	actions	cachedump	cachedump
+Unlist	取消挂牌	actions	cachedump	cachedump
+Disband	解散	actions	cachedump	cachedump
+Treat	治疗	actions	cachedump	cachedump
+Attempt Translation	尝试翻译	actions	cachedump	cachedump
+Close Info	关闭信息	actions	cachedump	cachedump
+Expanded	展开	actions	cachedump	cachedump
+Slide Left	向左滑动	actions	cachedump	cachedump
+Slide Right	向右滑动	actions	cachedump	cachedump
+Power-on	开机	actions	cachedump	cachedump
+Insert	插入	actions	cachedump	cachedump
+Clear Stat	清除属性	actions	cachedump	cachedump
+Show Target	显示目标	actions	cachedump	cachedump
+Free Cam	自由视角	actions	cachedump	cachedump

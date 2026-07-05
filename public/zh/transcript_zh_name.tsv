@@ -827,7 +827,7 @@ Yellow bead	黄珠子	name	item	Yellow bead
 Black bead	黑珠子	name	item	Black bead
 White bead	白珠子	name	item	White bead
 Amulet of accuracy	精准护符	name	item	Amulet of accuracy
-Orb of light	光法球	name	item	Orb of light
+Orb of light	光宝珠	name	item	Orb of light
 Oily cloth	油布	name	item	Oily cloth
 Piece of railing	栏杆碎片	name	item	Piece of railing
 Paladin's badge	圣骑士徽章	name	item	Paladin's badge
@@ -1028,7 +1028,7 @@ Technical plans	技术图纸	name	item	Technical plans
 Tenti pineapple	坦提菠萝	name	item	Tenti pineapple
 Bedabin key	贝达宾钥匙	name	item	Bedabin key
 Prototype dart tip	原型镖尖	name	item	Prototype dart tip
-Shantay pass	沙泰隘口通行证	name	item	Shantay pass
+Shantay pass	沙泰隘口	name	item	Shantay pass
 Guide book	指南书	name	item	Guide book
 Totem	图腾	name	item	Totem
 Address label	地址标签	name	item	Address label
@@ -1075,7 +1075,7 @@ Swamp tar	沼泽焦油	name	item	Swamp tar
 Raw swamp paste	生沼泽糊	name	item	Raw swamp paste
 Swamp paste	沼泽糊	name	item	Swamp paste
 Potato	土豆	name	item	Potato
-Egg	鸡蛋	name	item	Egg
+Egg	蛋	name	item	Egg
 Flour	面粉	name	item	Flour
 Grain	谷物	name	item	Grain
 Chef's hat	厨师帽	name	item	Chef's hat
@@ -1344,7 +1344,7 @@ Brown toy horsey	棕色玩具马	name	item	Brown toy horsey
 White toy horsey	白色玩具马	name	item	White toy horsey
 Black toy horsey	黑色玩具马	name	item	Black toy horsey
 Grey toy horsey	灰色玩具马	name	item	Grey toy horsey
-Lamp	神灯	name	item	Lamp
+Lamp	灯	name	item	Lamp
 Dead orb	死亡法球	name	item	Dead orb
 Iron fire arrow	铁制火箭	name	item	Iron fire arrow
 Iron fire arrow (lit)	铁制火箭 (已点燃)	name	item	Iron fire arrow (lit)
@@ -1619,7 +1619,7 @@ Strip of cloth	布条	name	item	Strip of cloth
 Raw rabbit	生兔子肉	name	item	Raw rabbit
 Cooked rabbit	熟兔子肉	name	item	Cooked rabbit
 Big book of bangs	爆炸大全	name	item	Big book of bangs
-Symbol	圣徽	name	item	Symbol
+Symbol	符号	name	item	Symbol
 Bark	树皮	name	item	Bark
 Man	男人	name	item	Man
 Farmer	农夫	name	item	Farmer
@@ -1741,7 +1741,7 @@ Gilded kiteshield	镀金鸢盾	name	item	Gilded kiteshield
 Boss helper tool	Boss辅助工具	name	item	Boss helper tool
 Flamtaer hammer	弗拉姆塔锤	name	item	Flamtaer hammer
 Shoe	鞋子	name	item	Shoe
-Fremennik	费明尼克人	name	item	Fremennik
+Fremennik	费明尼克	name	item	Fremennik
 Unstrung lyre	未穿线的竖琴	name	item	Unstrung lyre
 Lyre	竖琴	name	item	Lyre
 Enchanted lyre	魔法竖琴	name	item	Enchanted lyre
@@ -3633,7 +3633,7 @@ Item	物品	name	item	Item
 Bucket of rubble	一桶碎石	name	item	Bucket of rubble
 Plaster fragment	石膏碎片	name	item	Plaster fragment
 Dusty scroll	灰尘卷轴	name	item	Dusty scroll
-Crate	板条箱	name	item	Crate
+Crate	箱子	name	item	Crate
 Temple library key	神殿图书馆钥匙	name	item	Temple library key
 The sleeping seven	沉睡的七人	name	item	The sleeping seven
 Histories of the hallowland	圣地历史	name	item	Histories of the hallowland
@@ -7185,7 +7185,7 @@ Hand fan	扇子	name	item	Hand fan
 Minnow	米诺鱼	name	item	Minnow
 Master scroll book (empty)	大师卷轴书 (空)	name	item	Master scroll book (empty)
 Master scroll book	大师卷轴书	name	item	Master scroll book
-Brutal black dragon	残暴的黑龙	name	item	Brutal black dragon
+Brutal black dragon	残暴黑龙	name	item	Brutal black dragon
 Expert mining gloves	专业矿用手套	name	item	Expert mining gloves
 Karambwanji	卡拉姆班鱼	name	item	Karambwanji
 Wilderness cape	团队披风	name	item	Wilderness cape
@@ -10657,7 +10657,7 @@ Echo ahrim's staff 75	回响阿赫姆法杖 75	name	item	Echo ahrim's staff 75
 Echo ahrim's staff 50	回响阿赫姆法杖 50	name	item	Echo ahrim's staff 50
 Echo ahrim's staff 25	回响阿赫姆法杖 25	name	item	Echo ahrim's staff 25
 Echo ahrim's staff 0	回响阿赫姆法杖 0	name	item	Echo ahrim's staff 0
-Bounty supply crate	赏金猎人补给箱	name	item	Bounty supply crate
+Bounty supply crate	赏金补给箱	name	item	Bounty supply crate
 Bronze staff of collection	青铜藏品法杖	name	item	Bronze staff of collection
 Iron staff of collection	铁制藏品法杖	name	item	Iron staff of collection
 Steel staff of collection	钢制藏品法杖	name	item	Steel staff of collection
@@ -11735,7 +11735,7 @@ Vulnerability	脆弱术	name	menu	spellBookTab
 Earth Wave	土浪术	name	menu	spellBookTab
 Enfeeble	衰弱术	name	menu	spellBookTab
 Teleother Lumbridge	传送他人至仑桥镇	name	menu	spellBookTab
-Fire Wave	火浪术	name	menu	spellBookTab
+Fire Wave	火浪	name	menu	spellBookTab
 Entangle	缠绕术	name	menu	spellBookTab
 Stun	眩晕术	name	menu	spellBookTab
 Teleother Camelot	传送他人至卡美洛城堡	name	menu	spellBookTab
@@ -11800,7 +11800,7 @@ Dream	梦疗法	name	menu	spellBookTab
 String Jewellery	串起护符	name	menu	spellBookTab
 Stat Restore Pot Share	属性恢复药水共享	name	menu	spellBookTab
 Magic Imbue	魔法注魔	name	menu	spellBookTab
-Fertile Soil	沃土术	name	menu	spellBookTab
+Fertile Soil	肥沃的土壤	name	menu	spellBookTab
 Boost Potion Share	增益药水共享	name	menu	spellBookTab
 Fishing Guild Teleport	钓鱼公会传送术	name	menu	spellBookTab
 Tele Group Fishing Guild	群体传送至钓鱼公会	name	menu	spellBookTab
@@ -12096,7 +12096,7 @@ Small Lizard	小型蜥蜴	name	npc	Small Lizard
 Harpie Bug Swarm	哈比虫群	name	npc	Harpie Bug Swarm
 Skeletal Wyvern	骷髅飞龙	name	npc	Skeletal Wyvern
 Killerwatt	杀手瓦特	name	npc	Killerwatt
-Hole in the wall	墙洞怪	name	npc	Hole in the wall
+Hole in the wall	墙上的洞	name	npc	Hole in the wall
 Wall beast	墙兽	name	npc	Wall beast
 Giant frog	巨蛙	name	npc	Giant frog
 Big frog	大青蛙	name	npc	Big frog
@@ -13231,7 +13231,7 @@ Brian O'Richard	布莱恩‧奥理查德	name	npc	Brian O'Richard
 Rogue Guard	盗贼守卫	name	npc	Rogue Guard
 Martin Thwait	马丁‧斯韦特	name	npc	Martin Thwait
 Emerald Benedict	埃默拉尔德‧本尼迪克特	name	npc	Emerald Benedict
-Spin Blades	旋转刀刃	name	npc	Spin Blades
+Spin Blades	旋转刀片	name	npc	Spin Blades
 Candle maker	蜡烛制造商	name	npc	Candle maker
 Arhein	阿尔海因	name	npc	Arhein
 Jukat	朱卡特	name	npc	Jukat
@@ -13729,7 +13729,7 @@ Caleb	迦勒	name	npc	Caleb
 Renegade knight	叛变骑士	name	npc	Renegade knight
 Light creature	光之生物	name	npc	Light creature
 HAM member	反怪物人联成员	name	npc	HAM member
-Court judge	法庭法官	name	npc	Court judge
+Court judge	法官	name	npc	Court judge
 Jury	陪审团	name	npc	Jury
 Prosecutor	检察官	name	npc	Prosecutor
 Arthur	亚瑟	name	npc	Arthur
@@ -14445,7 +14445,7 @@ Ent	树精	name	npc	Ent
 Prifddinas guard	普里夫迪纳斯守卫	name	npc	Prifddinas guard
 Mandrith	曼德里思	name	npc	Mandrith
 Runite Golem	符文魔像	name	npc	Runite Golem
-Runite rocks	符文岩石	name	npc	Runite rocks
+Runite rocks	符文矿石	name	npc	Runite rocks
 Numpty	纳普蒂	name	npc	Numpty
 Mammoth	猛犸象	name	npc	Mammoth
 Elder Chaos druid	高阶混沌德鲁伊	name	npc	Elder Chaos druid
@@ -15024,7 +15024,7 @@ Driftwood	浮木	name	npc	Driftwood
 Pebble	鹅卵石	name	npc	Pebble
 Goat Poo	山羊粪	name	npc	Goat Poo
 Yellow Snow	黄雪	name	npc	Yellow Snow
-Odd Stone	奇怪的石头	name	npc	Odd Stone
+Odd Stone	怪石	name	npc	Odd Stone
 Combat Test (maxhit)	战斗测试 (最大命中)	name	npc	Combat Test (maxhit)
 Wizard Cromperty	法师克伦珀蒂	name	npc	Wizard Cromperty
 Eek	伊克	name	npc	Eek
@@ -15428,7 +15428,7 @@ Don	唐	name	npc	Don
 Debra	黛布拉	name	npc	Debra
 Red	雷德	name	npc	Red
 Ziggy	齐吉	name	npc	Ziggy
-Grave	格雷夫	name	npc	Grave
+Grave	坟墓	name	npc	Grave
 Bobawu	博巴乌	name	npc	Bobawu
 Marten	马滕	name	npc	Marten
 Ferox	费罗克斯	name	npc	Ferox
@@ -16085,7 +16085,7 @@ Helvia	赫尔维亚	name	npc	Helvia
 Warden	典狱长	name	npc	Warden
 Cuali, Teoki of Ralos	拉洛斯的神官库阿利	name	npc	Cuali, Teoki of Ralos
 Hegio, Teoki of Ranul	拉努尔的神官赫吉奥	name	npc	Hegio, Teoki of Ranul
-Spike	斯派克	name	npc	Spike
+Spike	尖刺	name	npc	Spike
 Silk Merchant	丝绸商人	name	npc	Silk Merchant
 Fur Merchant	毛皮商人	name	npc	Fur Merchant
 Gem Merchant	宝石商人	name	npc	Gem Merchant
@@ -16656,7 +16656,7 @@ Other	其他	name	npc
 Mimic	拟态怪	name	npc	
 Thermy	瑟米	name	npc	
 Chambers of Xeric: CM	泽里克圣所：CM	name	npc	
-Crate	板条箱	name	object	Crate
+Crate	箱子	name	object	Crate
 Cave Entrance	洞穴入口	name	object	Cave Entrance
 Door	门	name	object	Door
 Broken multicannon	破损的大炮	name	object	Broken multicannon
@@ -19824,7 +19824,7 @@ Empty ash pile	空灰烬堆	name	object	Empty ash pile
 Fossil Storage	化石储存	name	object	Fossil Storage
 Volcano Entrance	火山入口	name	object	Volcano Entrance
 Giant Boulder	巨型巨石	name	object	Giant Boulder
-Large Boulder	大巨石	name	object	Large Boulder
+Large Boulder	大岩石	name	object	Large Boulder
 Medium Boulder	中型巨石	name	object	Medium Boulder
 Small Boulder	小巨石	name	object	Small Boulder
 Volcanic vent	火山通风口	name	object	Volcanic vent
@@ -20065,7 +20065,7 @@ Pebble	鹅卵石	name	object	Pebble
 Goat Poo	山羊粪	name	object	Goat Poo
 Yellow Snow	黄雪	name	object	Yellow Snow
 Butterfly	蝴蝶	name	object	Butterfly
-Odd Stone	奇怪的石头	name	object	Odd Stone
+Odd Stone	怪石	name	object	Odd Stone
 Squirrel	松鼠	name	object	Squirrel
 Mountain goat	山羊	name	object	Mountain goat
 Ice wolf	冰狼	name	object	Ice wolf
@@ -22333,7 +22333,7 @@ Kingstown	金斯敦	name	location	manual_split
 Lletya	莱蒂亚村	name	location	manual_split
 Lunar Isle	月亮岛	name	location	manual_split
 Meiyerditch	迈尔迪奇	name	location	manual_split
-Miscellania	米斯凯尼亚国	name	location	manual_split
+Miscellania	米斯凯尼亚	name	location	manual_split
 Mort'ton	莫顿镇	name	location	manual_split
 Mos Le'Harmless	莫斯勒哈姆斯岛	name	location	manual_split
 Nardah	那尔达城	name	location	manual_split
@@ -22554,3 +22554,13 @@ Pirates	海盗	name	slayer_mob	manual_split
 Sourhogs	酸猪	name	slayer_mob	manual_split
 Warped Creatures	扭曲生物	name	slayer_mob	manual_split
 Lesser Nagua	小那伽	name	slayer_mob	manual_split
+Araxyte venom sac	阿拉克西特毒囊	name	cachedump	cachedump
+-> Runner	-> 跑者	name	cachedump	cachedump
+-> Queen	-> 女王	name	cachedump	cachedump
+fishing buff	钓鱼增益	name	cachedump	cachedump
+preparation buff	准备增益	name	cachedump	cachedump
+defence buff	防御增益	name	cachedump	cachedump
+mining buff	采矿增益	name	cachedump	cachedump
+luck buff	幸运增益	name	cachedump	cachedump
+boost buff	强化增益	name	cachedump	cachedump
+my failings	我的失败	name	cachedump	cachedump

@@ -3324,7 +3324,7 @@ Medium map	中型地图	examine	item	Medium map
 Large map	大地图	examine	item	Large map
 Oak cage	橡木笼	examine	item	Oak cage
 Oak and steel cage	橡木钢笼	examine	item	Oak and steel cage
-Steel cage	钢制笼	examine	item	Steel cage
+Steel cage	钢笼	examine	item	Steel cage
 Spiked cage	尖刺笼	examine	item	Spiked cage
 Bone cage	骨笼	examine	item	Bone cage
 Oubliette spikes	密室尖刺	examine	item	Spikes
@@ -25969,3 +25969,29 @@ Some odd-looking plants.	一些长相古怪的植物。	examine	wiki_rescrape	wi
 A crate full of potions.	一箱装满药水的板条箱。	examine	wiki_rescrape	wiki_rescrape
 The last line of defence.	最后一道防线。	examine	wiki_rescrape	wiki_rescrape
 A magical glyph.	一个魔法铭文。	examine	wiki_rescrape	wiki_rescrape
+A key made of solid iron.	一把纯铁制成的钥匙。	examine	cachedump	cachedump
+An odd diagram.	一张奇怪的图表。	examine	cachedump	cachedump
+Used to delete runes in Sudoku.	用于在数独中删除符文。	examine	cachedump	cachedump
+Used to cast a teleportation spell.	用于施放传送法术。	examine	cachedump	cachedump
+Not for drinking.	不可饮用。	examine	cachedump	cachedump
+A magical rune.	一枚魔法符文。	examine	cachedump	cachedump
+For helping plants grow.	用于帮助植物生长。	examine	cachedump	cachedump
+An amulet with a skull on it.	一枚带有头骨的护身符。	examine	cachedump	cachedump
+There's nothing left!	什么也不剩了！	examine	cachedump	cachedump
+A strange shard of dark stone.	一块奇怪的暗色石头碎片。	examine	cachedump	cachedump
+A priceless artifact from Varlamore.	一件来自瓦拉莫的无价神器。	examine	cachedump	cachedump
+An old Fremmenik artifact.	一件古老的弗瑞曼尼克神器。	examine	cachedump	cachedump
+Property of the Outpost.	前哨站财产。	examine	cachedump	cachedump
+A heart suspended in fluid within a canopic jar.	一颗悬浮在卡诺皮克罐液体中的心脏。	examine	cachedump	cachedump
+For a good boy.	给好孩子的。	examine	cachedump	cachedump
+A key to the basement.	通往地下室的钥匙。	examine	cachedump	cachedump
+A buffalo.	一头水牛。	examine	cachedump	cachedump
+A jaguar.	一只美洲豹。	examine	cachedump	cachedump
+An eagle.	一只鹰。	examine	cachedump	cachedump
+A scorpion.	一只蝎子。	examine	cachedump	cachedump
+A pretty plant.	一株漂亮的植物。	examine	cachedump	cachedump
+A flyer.	一张传单。	examine	cachedump	cachedump
+A pretty piece of coral with magical properties.	一块具有魔法特性的漂亮珊瑚。	examine	cachedump	cachedump
+A raft to sail the seas on.	一艘用于航海的木筏。	examine	cachedump	cachedump
+A skiff to sail the seas on.	一艘用于航海的小艇。	examine	cachedump	cachedump
+A sloop to sail the seas on.	一艘用于航海的单桅帆船。	examine	cachedump	cachedump
