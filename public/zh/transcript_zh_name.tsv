@@ -3290,7 +3290,7 @@ Jogre champion scroll	乔格雷食人魔的冠军勇士卷轴	name	item	Jogre ch
 Lesser demon champion scroll	小恶魔的冠军勇士卷轴	name	item	Lesser demon champion scroll
 Skeleton champion scroll	骷髅的冠军勇士卷轴	name	item	Skeleton champion scroll
 Zombie champion scroll	僵尸的冠军勇士卷轴	name	item	Zombie champion scroll
-Leon's champion scroll	莱昂‧德库尔的冠军勇士卷轴	name	item	Leon's champion scroll
+Leon's champion scroll	莱昂.德库尔的冠军勇士卷轴	name	item	Leon's champion scroll
 Granite legs	花岗岩腿甲	name	item	Granite legs
 Wyvern bonemeal	飞龙骨粉	name	item	Wyvern bonemeal
 Skeletal wyvern	骷髅飞龙	name	item	Skeletal wyvern
@@ -3809,7 +3809,7 @@ Watchtower teleport	瞭望塔传送术	name	item	Watchtower teleport
 Teleport to house	房屋传送术	name	item	Teleport to house
 Bones to bananas	化骨为蕉	name	item	Bones to bananas
 Enchant sapphire or opal	附魔蓝宝石或蛋白石	name	item	Enchant sapphire or opal
-Enchant emerald or jade	附魔祖母绿或翡翠	name	item	Enchant emerald or jade
+Enchant emerald or jade	附魔绿宝石或翡翠	name	item	Enchant emerald or jade
 Enchant ruby or topaz	附魔红宝石或托帕石	name	item	Enchant ruby or topaz
 Enchant diamond	附魔钻石	name	item	Enchant diamond
 Enchant dragonstone	附魔龙石	name	item	Enchant dragonstone
@@ -3856,7 +3856,7 @@ Guthix icon	古斯圣物	name	item	Guthix icon
 Bob icon	鲍勃''圣物''	name	item	Bob icon
 Oak altar	橡木祭坛	name	item	Oak altar
 Teak altar	柚木祭坛	name	item	Teak altar
-Cloth-covered altar	布覆盖祭坛	name	item	Cloth-covered altar
+Cloth-covered altar	覆布祭坛	name	item	Cloth-covered altar
 Mahogany altar	红木祭坛	name	item	Mahogany altar
 Limestone altar	石灰石祭坛	name	item	Limestone altar
 Marble altar	大理石祭坛	name	item	Marble altar
@@ -4360,7 +4360,7 @@ Empty vial	空瓶	name	item	Empty vial
 Waking sleep vial	清醒梦药剂	name	item	Waking sleep vial
 Guam vial	瓜姆药瓶	name	item	Guam vial
 Marr vial	马伦药瓶	name	item	Marr vial
-Guam-marr vial	瓜姆‧马伦药瓶	name	item	Guam-marr vial
+Guam-marr vial	瓜姆.马伦药瓶	name	item	Guam-marr vial
 Lunar staff - pt1	月之法杖 - 部件 1	name	item	Lunar staff - pt1
 Lunar staff - pt2	月之法杖 - 部件 2	name	item	Lunar staff - pt2
 Lunar staff - pt3	月之法杖 - 部件 3	name	item	Lunar staff - pt3
@@ -5381,7 +5381,7 @@ Hunting mix(2)	狩猎混合药水 (2)	name	item	Hunting mix(2)
 Hunting mix(1)	狩猎混合药水 (1)	name	item	Hunting mix(1)
 Zamorak mix(2)	扎莫拉克混合药水 (2)	name	item	Zamorak mix(2)
 Zamorak mix(1)	扎莫拉克混合药水 (1)	name	item	Zamorak mix(1)
-Mausoleum bridge repair	毛索利恩桥梁修理	name	item	Mausoleum bridge repair
+Mausoleum bridge repair	陵墓桥梁修理	name	item	Mausoleum bridge repair
 Water pump	水泵	name	item	Water pump
 Pottery wheel	陶轮	name	item	Pottery wheel
 Loom	织布机	name	item	Loom
@@ -5860,7 +5860,7 @@ Pet smoke devil	宠物烟魔	name	item	Pet smoke devil
 Pet kree'arra	宠物克里阿拉	name	item	Pet kree'arra
 Pet general graardor	宠物格拉多尔将军	name	item	Pet general graardor
 Pet zilyana	宠物齐利亚娜	name	item	Pet zilyana
-Pet k'ril tsutsaroth	宠物克里尔‧楚萨罗斯	name	item	Pet k'ril tsutsaroth
+Pet k'ril tsutsaroth	宠物克里尔.楚萨罗斯	name	item	Pet k'ril tsutsaroth
 Prince black dragon	黑龙王子	name	item	Prince black dragon
 Pet kraken	宠物克拉肯海怪	name	item	Pet kraken
 Junk	垃圾	name	item	Junk
@@ -6210,7 +6210,7 @@ Amur leopard toy	阿穆尔豹玩具	name	item	Amur leopard toy
 Music cape	音乐斗篷	name	item	Music cape
 Music cape(t)	音乐斗篷 (镶边)	name	item	Music cape(t)
 Music hood	音乐兜帽	name	item	Music hood
-Tzrek-jad	特兹雷克‧贾德	name	item	Tzrek-jad
+Tzrek-jad	特兹雷克.贾德	name	item	Tzrek-jad
 Herb sack	草药袋	name	item	Herb sack
 Eternal crystal	永恒水晶	name	item	Eternal crystal
 Pegasian crystal	天马水晶	name	item	Pegasian crystal
@@ -7143,7 +7143,7 @@ Eternal gem	永恒宝石	name	item	Eternal gem
 Skotos	斯科托斯	name	item	Skotos
 Dark claw	黑暗之爪	name	item	Dark claw
 Skull sceptre (i)	头骨权杖 (强化)	name	item	Skull sceptre (i)
-Tzhaar-hur	特扎尔‧赫尔	name	item	Tzhaar-hur
+Tzhaar-hur	特扎尔.赫尔	name	item	Tzhaar-hur
 Obsidian armour set	黑曜石盔甲套装	name	item	Obsidian armour set
 Infernal max hood	地狱至尊兜帽	name	item	Infernal max hood
 Infernal max cape	地狱至尊斗篷	name	item	Infernal max cape
@@ -7503,7 +7503,7 @@ Ancient effigy	古代雕像	name	item	Ancient effigy
 Ancient relic	古代遗物	name	item	Ancient relic
 Prop sword	道具剑	name	item	Prop sword
 Pet corporeal critter	宠物黑暗核心	name	item	Pet corporeal critter
-Tzrek-zuk	特兹雷克‧祖克	name	item	Tzrek-zuk
+Tzrek-zuk	特兹雷克.祖克	name	item	Tzrek-zuk
 Champion's lamp	冠军勇士神灯	name	item	Champion's lamp
 Rotten cabbage	烂卷心菜	name	item	Rotten cabbage
 Avernic defender	阿弗尼克格挡匕首	name	item	Avernic defender
@@ -7586,7 +7586,7 @@ The butcher	屠夫	name	item	The butcher
 Arachnids of vampyrium	凡皮里姆的蛛形纲	name	item	Arachnids of vampyrium
 The shadow realm	阴影领域	name	item	The shadow realm
 The wild hunt	狂野狩猎	name	item	The wild hunt
-Verzik vitur - patient record	维齐克‧维图尔 - 病人记录	name	item	Verzik vitur - patient record
+Verzik vitur - patient record	维齐克.维图尔 - 病人记录	name	item	Verzik vitur - patient record
 Dawnbringer	黎明使者	name	item	Dawnbringer
 Escape crystal	逃脱水晶	name	item	Escape crystal
 Coin pouch	钱袋	name	item	Coin pouch
@@ -8431,7 +8431,6 @@ Mahogany cupboard	红木橱柜	name	item	Mahogany cupboard
 Waxwood log	蜡木原木	name	item	Waxwood log
 Waxwood plank	蜡木木板	name	item	Waxwood plank
 Marlo's crate	马洛的板条箱	name	item	Marlo's crate
-Bp obj	银行密码储存器	name	item	Bp obj
 Reinforced goggles	加固的护目镜	name	item	Reinforced goggles
 Sourhog foot	酸猪脚	name	item	Sourhog foot
 Hallowed sack	圣物袋	name	item	Hallowed sack
@@ -8623,7 +8622,7 @@ Crystal body (beta)	水晶胸甲 (测试版)	name	item	Crystal body (beta)
 Crystal legs (beta)	水晶腿甲 (测试版)	name	item	Crystal legs (beta)
 Cursed banana	被诅咒的香蕉	name	item	Cursed banana
 Banana cape	香蕉斗篷	name	item	Banana cape
-Jalrek-jad	贾尔雷克‧贾德	name	item	Jalrek-jad
+Jalrek-jad	贾尔雷克.贾德	name	item	Jalrek-jad
 Jar of spirits	灵魂罐	name	item	Jar of spirits
 Jar of smoke	烟雾罐	name	item	Jar of smoke
 Stardust	星尘	name	item	Stardust
@@ -9733,12 +9732,12 @@ Arder powder	阿德尔粉末	name	item	Arder powder
 Resper mushroom	雷斯珀蘑菇	name	item	Resper mushroom
 Resper powder	雷斯珀粉末	name	item	Resper powder
 Salax salt	萨拉克盐	name	item	Salax salt
-Musca-holos poison	慕斯卡‧霍洛斯毒药	name	item	Musca-holos poison
-Arder-musca poison	阿德尔‧慕斯卡毒药	name	item	Arder-musca poison
-Musca-resper poison	慕斯卡‧雷斯珀毒药	name	item	Musca-resper poison
-Holos-arder poison	霍洛斯‧阿德尔毒药	name	item	Holos-arder poison
-Resper-holos poison	雷斯珀‧霍洛斯毒药	name	item	Resper-holos poison
-Arder-resper poison	阿德尔‧雷斯珀毒药	name	item	Arder-resper poison
+Musca-holos poison	慕斯卡.霍洛斯毒药	name	item	Musca-holos poison
+Arder-musca poison	阿德尔.慕斯卡毒药	name	item	Arder-musca poison
+Musca-resper poison	慕斯卡.雷斯珀毒药	name	item	Musca-resper poison
+Holos-arder poison	霍洛斯.阿德尔毒药	name	item	Holos-arder poison
+Resper-holos poison	雷斯珀.霍洛斯毒药	name	item	Resper-holos poison
+Arder-resper poison	阿德尔.雷斯珀毒药	name	item	Arder-resper poison
 Blackstone fragment	黑石碎片	name	item	Blackstone fragment
 Icon segment	圣物碎片	name	item	Icon segment
 Very long rope	非常长的绳	name	item	Very long rope
@@ -9954,7 +9953,7 @@ Bottle of mist	雾瓶	name	item	Bottle of mist
 Imbued barronite	注魔巴隆石	name	item	Imbued barronite
 Shield of arrav	阿拉夫之盾	name	item	Shield of arrav
 List of elders	长老名单	name	item	List of elders
-Elias white	伊莱亚斯‧怀特	name	item	Elias white
+Elias white	伊莱亚斯.怀特	name	item	Elias white
 Zombie axe	僵尸斧	name	item	Zombie axe
 Broken zombie axe	破损的僵尸斧	name	item	Broken zombie axe
 Granite tablet	花岗岩石板	name	item	Granite tablet
@@ -10367,7 +10366,7 @@ Extended anti-venom+(2)	长效抗毒药水+ (2)	name	item	Extended anti-venom+(2
 Extended anti-venom+(1)	长效抗毒药水+ (1)	name	item	Extended anti-venom+(1)
 Nid	尼德	name	item	Nid
 Rax	拉克斯	name	item	Rax
-Prince itzla arkan	伊茨拉‧阿坎王子	name	item	Prince itzla arkan
+Prince itzla arkan	伊茨拉.阿坎王子	name	item	Prince itzla arkan
 Emissary hood	使者兜帽	name	item	Emissary hood
 Emissary robe top	使者长袍上衣	name	item	Emissary robe top
 Emissary robe bottom	使者长袍下装	name	item	Emissary robe bottom
@@ -11957,7 +11956,7 @@ Hudo	胡多	name	npc	Hudo
 Piles	派尔斯	name	npc	Piles
 Rometti	罗梅蒂	name	npc	Rometti
 Gulluck	古拉克	name	npc	Gulluck
-Heckel Funch	赫克尔‧芬奇	name	npc	Heckel Funch
+Heckel Funch	赫克尔.芬奇	name	npc	Heckel Funch
 Rug Merchant	地毯商人	name	npc	Rug Merchant
 Monkey	猴	name	npc	Monkey
 Zombie	僵尸	name	npc	Zombie
@@ -11974,7 +11973,7 @@ Big Wolf	大狼	name	npc	Big Wolf
 Dog	狗	name	npc	Dog
 Wild dog	野狗	name	npc	Wild dog
 Guard dog	看门狗	name	npc	Guard dog
-Ignatius Vulcan	伊格内修斯‧火神	name	npc	Ignatius Vulcan
+Ignatius Vulcan	伊格内修斯.火神	name	npc	Ignatius Vulcan
 Aggie	阿吉	name	npc	Aggie
 Yama	阎魔	name	npc	Yama
 Left head	左头	name	npc	Left head
@@ -12020,7 +12019,7 @@ Cormorant	鸬鹚	name	npc	Cormorant
 Pelican	鹈鹕	name	npc	Pelican
 Eagle	鹰	name	npc	Eagle
 Mercenary	雇佣兵	name	npc	Mercenary
-Chartin' Charles McAtless	查廷‧查尔斯‧麦卡特利斯	name	npc	Chartin' Charles McAtless
+Chartin' Charles McAtless	查廷.查尔斯.麦卡特利斯	name	npc	Chartin' Charles McAtless
 Ghoul	食尸鬼	name	npc	Ghoul
 Dwarf	矮人	name	npc	Dwarf
 Chaos dwarf	混沌矮人	name	npc	Chaos dwarf
@@ -12028,7 +12027,7 @@ Adventurer Jon	冒险者乔恩	name	npc	Adventurer Jon
 Thordur	索杜尔	name	npc	Thordur
 Gunthor the brave	勇敢的冈索尔	name	npc	Gunthor the brave
 Jailer	狱卒	name	npc	Jailer
-Black Heather	布莱克‧希瑟	name	npc	Black Heather
+Black Heather	布莱克.希瑟	name	npc	Black Heather
 Donny the lad	小伙唐尼	name	npc	Donny the lad
 Speedy Keith	快手基思	name	npc	Speedy Keith
 Salarin the twisted	扭曲的萨拉林	name	npc	Salarin the twisted
@@ -12057,7 +12056,7 @@ Prison Pete	监狱皮特	name	npc	Prison Pete
 Balloon Animal	气球动物	name	npc	Balloon Animal
 Freaky Forester	怪异的护林员	name	npc	Freaky Forester
 Pheasant	雉鸡	name	npc	Pheasant
-Rick Turpentine	里克‧特平泰恩	name	npc	Rick Turpentine
+Rick Turpentine	里克.特平泰恩	name	npc	Rick Turpentine
 Phosani's Nightmare	弗萨尼的梦魇	name	npc	Phosani's Nightmare
 The Nightmare	梦魇	name	npc	The Nightmare
 Quiz Master	问答大师	name	npc	Quiz Master
@@ -12069,7 +12068,7 @@ Dark Core	黑暗核心	name	npc	Dark Core
 Evil Bob	邪恶鲍勃	name	npc	Evil Bob
 Trotters	特洛特斯	name	npc	Trotters
 Servant	仆从	name	npc	Servant
-Rod Fishing spot	钓鱼点	name	npc	Rod Fishing spot
+Rod Fishing spot	钓竿钓鱼点	name	npc	Rod Fishing spot
 Cat	猫	name	npc	Cat
 Jon	乔恩	name	npc	Jon
 Guard	守卫	name	npc	Guard
@@ -12247,7 +12246,7 @@ Cabin Boy Jenkins	船舱侍应詹金斯	name	npc	Cabin Boy Jenkins
 Larry	拉里	name	npc	Larry
 Penguin	企鹅	name	npc	Penguin
 KGP Guard	KGP 守卫	name	npc	KGP Guard
-Pescaling Pax	佩斯卡林‧帕克斯	name	npc	Pescaling Pax
+Pescaling Pax	佩斯卡林.帕克斯	name	npc	Pescaling Pax
 Ping	平	name	npc	Ping
 Pong	庞	name	npc	Pong
 KGP Agent	KGP 特工	name	npc	KGP Agent
@@ -12258,19 +12257,19 @@ Army Commander	军队指挥官	name	npc	Army Commander
 Icelord	冰霜领主	name	npc	Icelord
 Crusher	粉碎者	name	npc	Crusher
 Grish	格里什	name	npc	Grish
-Uglug Nar	乌格卢格‧纳尔	name	npc	Uglug Nar
+Uglug Nar	乌格卢格.纳尔	name	npc	Uglug Nar
 Pilg	皮尔格	name	npc	Pilg
 Grug	格鲁格	name	npc	Grug
 Ogre guard	食人魔守卫	name	npc	Ogre guard
 Zogre	佐格雷食人魔	name	npc	Zogre
 Skogre	斯科格	name	npc	Skogre
-Zavistic Rarve	扎维斯蒂克‧拉尔夫	name	npc	Zavistic Rarve
-Slash Bash	斯拉什‧巴什	name	npc	Slash Bash
-Sithik Ints	西锡克‧因茨	name	npc	Sithik Ints
+Zavistic Rarve	扎维斯蒂克.拉尔夫	name	npc	Zavistic Rarve
+Slash Bash	斯拉什.巴什	name	npc	Slash Bash
+Sithik Ints	西锡克.因茨	name	npc	Sithik Ints
 Gargh	加格	name	npc	Gargh
 Scarg	斯卡格	name	npc	Scarg
 Gruh	格鲁	name	npc	Gruh
-Irwin Feaselbaum	欧文‧费瑟尔鲍姆	name	npc	Irwin Feaselbaum
+Irwin Feaselbaum	欧文.费瑟尔鲍姆	name	npc	Irwin Feaselbaum
 Moss Guardian	苔藓守护者	name	npc	Moss Guardian
 Golrie	戈尔里	name	npc	Golrie
 Father Reen	雷恩神父	name	npc	Father Reen
@@ -12281,7 +12280,7 @@ Evil Dave	邪恶戴夫	name	npc	Evil Dave
 Matthew	马修	name	npc	Matthew
 Tanya	塔尼娅	name	npc	Tanya
 Patrick	帕特里克	name	npc	Patrick
-Agrith Naar	阿格里斯‧纳尔	name	npc	Agrith Naar
+Agrith Naar	阿格里斯.纳尔	name	npc	Agrith Naar
 Sand storm	沙尘暴	name	npc	Sand storm
 Clay golem	粘土魔像	name	npc	Clay golem
 Donie	多尼	name	npc	Donie
@@ -12295,7 +12294,7 @@ Dung	粪便	name	npc	Dung
 Ash	灰烬	name	npc	Ash
 Thrower Troll	巨魔投掷手	name	npc	Thrower Troll
 Mountain troll	山地巨魔	name	npc	Mountain troll
-Filliman Tarlock	菲利曼‧塔洛克	name	npc	Filliman Tarlock
+Filliman Tarlock	菲利曼.塔洛克	name	npc	Filliman Tarlock
 Nature Spirit	自然之灵	name	npc	Nature Spirit
 Ghast	恶灵	name	npc	Ghast
 Ulizius	乌利齐乌斯	name	npc	Ulizius
@@ -12308,7 +12307,7 @@ Kalphite Larva	卡尔夫特幼虫	name	npc	Kalphite Larva
 Anna	安娜	name	npc	Anna
 David	大卫	name	npc	David
 Dagannoth mother	深潜者之母	name	npc	Dagannoth mother
-Veliaf Hurtz	维利亚夫‧赫茨	name	npc	Veliaf Hurtz
+Veliaf Hurtz	维利亚夫.赫茨	name	npc	Veliaf Hurtz
 Sigmund	西格蒙德	name	npc	Sigmund
 Nardok	纳多克	name	npc	Nardok
 Dartog	达托格	name	npc	Dartog
@@ -12367,7 +12366,7 @@ Hops	霍普斯	name	npc	Hops
 Julie	朱莉	name	npc	Julie
 Guidor	吉多尔	name	npc	Guidor
 Woman	女人	name	npc	Woman
-Dominic Onion	多米尼克‧洋葱	name	npc	Dominic Onion
+Dominic Onion	多米尼克.洋葱	name	npc	Dominic Onion
 Barrelchest (hard)	桶箱怪 (困难)	name	npc	Barrelchest (hard)
 Giant Scarab (hard)	巨型圣甲虫 (困难)	name	npc	Giant Scarab (hard)
 Dessous (hard)	德索斯 (困难)	name	npc	Dessous (hard)
@@ -12394,8 +12393,8 @@ Li'l lamb	小羔羊	name	npc	Li'l lamb
 Lamb	羔羊	name	npc	Lamb
 ? ? ? ?	? ? ? ?	name	npc	? ? ? ?
 Claus the Chef	厨师克劳斯	name	npc	Claus the Chef
-Philipe Carnillean	菲利普‧卡尼利安	name	npc	Philipe Carnillean
-Henryeta Carnillean	亨丽埃塔‧卡尼利安	name	npc	Henryeta Carnillean
+Philipe Carnillean	菲利普.卡尼利安	name	npc	Philipe Carnillean
+Henryeta Carnillean	亨丽埃塔.卡尼利安	name	npc	Henryeta Carnillean
 Hazeel	哈兹尔	name	npc	Hazeel
 Hazeel Cultist	哈兹尔信徒	name	npc	Hazeel Cultist
 Khazard Guard	卡扎德守卫	name	npc	Khazard Guard
@@ -12440,9 +12439,9 @@ Asyn Shade	阿辛阴魂	name	npc	Asyn Shade
 Fiyr Shadow	菲尔之影	name	npc	Fiyr Shadow
 Fiyr Shade	菲尔阴魂	name	npc	Fiyr Shade
 Afflicted(Ulsquire)	被折磨者 (乌尔斯奎尔)	name	npc	Afflicted(Ulsquire)
-Ulsquire Shauncy	乌尔斯奎尔‧肖恩西	name	npc	Ulsquire Shauncy
+Ulsquire Shauncy	乌尔斯奎尔.肖恩西	name	npc	Ulsquire Shauncy
 Afflicted(Razmire)	被折磨者 (拉兹米尔)	name	npc	Afflicted(Razmire)
-Razmire Keelgan	拉兹米尔‧基尔根	name	npc	Razmire Keelgan
+Razmire Keelgan	拉兹米尔.基尔根	name	npc	Razmire Keelgan
 Mort'ton Local	莫顿镇居民	name	npc	Mort'ton Local
 Afflicted	被折磨者	name	npc	Afflicted
 Mort'ton local	莫顿镇居民	name	npc	Mort'ton local
@@ -12454,8 +12453,8 @@ Tina	蒂娜	name	npc	Tina
 Tarquin	塔昆	name	npc	Tarquin
 Sigurd	西格德	name	npc	Sigurd
 Hari	哈里	name	npc	Hari
-Barfy Bill	巴菲‧比尔	name	npc	Barfy Bill
-Jack Seagull	杰克‧海鸥	name	npc	Jack Seagull
+Barfy Bill	巴菲.比尔	name	npc	Barfy Bill
+Jack Seagull	杰克.海鸥	name	npc	Jack Seagull
 Longbow Ben	长弓本	name	npc	Longbow Ben
 Ahab	亚哈	name	npc	Ahab
 Seagull	海鸥	name	npc	Seagull
@@ -12466,14 +12465,14 @@ Sabre-toothed kebbit	剑齿凯比特兔	name	npc	Sabre-toothed kebbit
 Barb-tailed kebbit	钩尾凯比特兔	name	npc	Barb-tailed kebbit
 Wild kebbit	野生凯比特兔	name	npc	Wild kebbit
 Artimeus	阿提米乌斯	name	npc	Artimeus
-Seth Groats	塞斯‧格罗茨	name	npc	Seth Groats
-Tassie Slipcast	塔西‧斯利普卡斯特	name	npc	Tassie Slipcast
-Hammerspike Stoutbeard	锤刺‧厚须	name	npc	Hammerspike Stoutbeard
+Seth Groats	塞斯.格罗茨	name	npc	Seth Groats
+Tassie Slipcast	塔西.斯利普卡斯特	name	npc	Tassie Slipcast
+Hammerspike Stoutbeard	锤刺.厚须	name	npc	Hammerspike Stoutbeard
 Dwarf gang member	矮人帮派成员	name	npc	Dwarf gang member
-Phantuwti Fanstuwi Farsight	凡图蒂‧范斯图维‧法赛特	name	npc	Phantuwti Fanstuwi Farsight
-Tindel Marchant	廷德尔‧马钱特	name	npc	Tindel Marchant
-Petra Fiyed	佩特拉‧菲耶德	name	npc	Petra Fiyed
-Jimmy the Chisel	凿子‧吉米	name	npc	Jimmy the Chisel
+Phantuwti Fanstuwi Farsight	凡图蒂.范斯图维.法赛特	name	npc	Phantuwti Fanstuwi Farsight
+Tindel Marchant	廷德尔.马钱特	name	npc	Tindel Marchant
+Petra Fiyed	佩特拉.菲耶德	name	npc	Petra Fiyed
+Jimmy the Chisel	凿子.吉米	name	npc	Jimmy the Chisel
 Slagilith	斯拉吉利斯	name	npc	Slagilith
 Rock pile	岩石堆	name	npc	Rock pile
 Fire elemental	火元素	name	npc	Fire elemental
@@ -12492,8 +12491,8 @@ Bald Headed Eagle	秃头鹰	name	npc	Bald Headed Eagle
 Bernald	伯纳德	name	npc	Bernald
 Queen Ellamaria	埃拉玛利亚女王	name	npc	Queen Ellamaria
 Trolley	手推车	name	npc	Trolley
-Billy, a guard of Falador	法拉多城守卫‧比利	name	npc	Billy, a guard of Falador
-Bob, another guard of Falador	另一位法拉多城守卫‧鲍勃	name	npc	Bob, another guard of Falador
+Billy, a guard of Falador	法拉多城守卫.比利	name	npc	Billy, a guard of Falador
+Bob, another guard of Falador	另一位法拉多城守卫.鲍勃	name	npc	Bob, another guard of Falador
 Brother Althric	阿尔斯里克兄弟	name	npc	Brother Althric
 PKMaster0036	PKMaster0036	name	npc	PKMaster0036
 King Roald	罗尔德国王	name	npc	King Roald
@@ -12563,13 +12562,13 @@ Earth wizard	土法师	name	npc	Earth wizard
 Air wizard	风法师	name	npc	Air wizard
 Ordan	奥丹	name	npc	Ordan
 Jorzik	乔齐克	name	npc	Jorzik
-Smiddi Ryak (hard)	斯米迪‧莱亚克 (困难)	name	npc	Smiddi Ryak (hard)
-Rolayne Twickit (hard)	罗莱恩‧特威基特 (困难)	name	npc	Rolayne Twickit (hard)
-Jayene Kliyn (medium)	杰恩‧克林 (中等)	name	npc	Jayene Kliyn (medium)
-Valantay Eppel (medium)	瓦兰泰‧埃佩尔 (中等)	name	npc	Valantay Eppel (medium)
-Dalcian Fang (easy)	达尔西安‧方 (简单)	name	npc	Dalcian Fang (easy)
-Fyiona Fray (easy)	菲奥娜‧弗雷 (简单)	name	npc	Fyiona Fray (easy)
-Abidor Crank	阿比多尔‧克拉克	name	npc	Abidor Crank
+Smiddi Ryak (hard)	斯米迪.莱亚克 (困难)	name	npc	Smiddi Ryak (hard)
+Rolayne Twickit (hard)	罗莱恩.特威基特 (困难)	name	npc	Rolayne Twickit (hard)
+Jayene Kliyn (medium)	杰恩.克林 (中等)	name	npc	Jayene Kliyn (medium)
+Valantay Eppel (medium)	瓦兰泰.埃佩尔 (中等)	name	npc	Valantay Eppel (medium)
+Dalcian Fang (easy)	达尔西安.方 (简单)	name	npc	Dalcian Fang (easy)
+Fyiona Fray (easy)	菲奥娜.弗雷 (简单)	name	npc	Fyiona Fray (easy)
+Abidor Crank	阿比多尔.克拉克	name	npc	Abidor Crank
 Benjamin	本杰明	name	npc	Benjamin
 Liam	利亚姆	name	npc	Liam
 Miala	米娅拉	name	npc	Miala
@@ -12580,7 +12579,7 @@ Apprentice (medium)	学徒 (中等)	name	npc	Apprentice (medium)
 Ranger (medium)	射手 (中等)	name	npc	Ranger (medium)
 Adventurer (easy)	冒险者 (简单)	name	npc	Adventurer (easy)
 Mage (easy)	魔法师 (简单)	name	npc	Mage (easy)
-Hiylik Myna	希利克‧米娜	name	npc	Hiylik Myna
+Hiylik Myna	希利克.米娜	name	npc	Hiylik Myna
 Dummy	假人	name	npc	Dummy
 Gundai	贡代	name	npc	Gundai
 Lundail	伦代尔	name	npc	Lundail
@@ -12589,8 +12588,8 @@ Kolodion	科洛迪恩	name	npc	Kolodion
 Battle mage	战斗法师	name	npc	Battle mage
 Phials	菲尔斯	name	npc	Phials
 Banknote Exchange Merchant	票据兑换商人	name	npc	Banknote Exchange Merchant
-High Priestess Zul-Harcinqa	高阶女祭司祖尔‧哈辛卡	name	npc	High Priestess Zul-Harcinqa
-Priestess Zul-Gwenwynig	女祭司祖尔‧格温尼格	name	npc	Priestess Zul-Gwenwynig
+High Priestess Zul-Harcinqa	高阶女祭司祖尔.哈辛卡	name	npc	High Priestess Zul-Harcinqa
+Priestess Zul-Gwenwynig	女祭司祖尔.格温尼格	name	npc	Priestess Zul-Gwenwynig
 Hellcat	地狱猫	name	npc	Hellcat
 Lazy cat	懒猫	name	npc	Lazy cat
 Lazy hellcat	懒惰的地狱猫	name	npc	Lazy hellcat
@@ -12651,7 +12650,7 @@ Guardian mummy	守护者木乃伊	name	npc	Guardian mummy
 Annoyed guardian mummy	恼怒的守护者木乃伊	name	npc	Annoyed guardian mummy
 Tarik	塔里克	name	npc	Tarik
 Scarab Swarm	圣甲虫群	name	npc	Scarab Swarm
-Malignius Mortifer	马利尼乌斯‧莫蒂弗	name	npc	Malignius Mortifer
+Malignius Mortifer	马利尼乌斯.莫蒂弗	name	npc	Malignius Mortifer
 Skeleton mage	骷髅法师	name	npc	Skeleton mage
 Betty	贝蒂	name	npc	Betty
 Grum	格鲁姆	name	npc	Grum
@@ -12664,7 +12663,7 @@ Summer Elemental	夏之精灵	name	npc	Summer Elemental
 Sorceress	女巫	name	npc	Sorceress
 Apprentice	学徒	name	npc	Apprentice
 Osman	奥斯曼	name	npc	Osman
-Del-Monty	德尔‧蒙蒂	name	npc	Del-Monty
+Del-Monty	德尔.蒙蒂	name	npc	Del-Monty
 San Fan	珊芬	name	npc	San Fan
 Fancy Dan	花哨的丹	name	npc	Fancy Dan
 Honest Jimmy	诚实吉米	name	npc	Honest Jimmy
@@ -12686,7 +12685,7 @@ Fairy Very Wise	睿智仙子	name	npc	Fairy Very Wise
 Fairy	仙子	name	npc	Fairy
 Rabbit	兔子	name	npc	Rabbit
 Starflower	星花	name	npc	Starflower
-Sir Amik Varze	阿米克‧瓦尔泽爵士	name	npc	Sir Amik Varze
+Sir Amik Varze	阿米克.瓦尔泽爵士	name	npc	Sir Amik Varze
 Evil Chicken	邪恶鸡	name	npc	Evil Chicken
 Baby black dragon	黑龙幼崽	name	npc	Baby black dragon
 K'klik	克利克	name	npc	K'klik
@@ -12694,32 +12693,32 @@ Ice troll runt	冰巨魔幼崽	name	npc	Ice troll runt
 Ice troll male	冰巨魔雄性	name	npc	Ice troll male
 Ice troll female	冰巨魔雌性	name	npc	Ice troll female
 Ice troll grunt	冰巨魔步兵	name	npc	Ice troll grunt
-Mawnis Burowgar	莫尼斯‧布罗加	name	npc	Mawnis Burowgar
-Fridleif Shieldson	弗里德莱夫‧希尔森	name	npc	Fridleif Shieldson
-Thakkrad Sigmundson	萨克拉德‧西格蒙德森	name	npc	Thakkrad Sigmundson
-Maria Gunnars	玛丽亚‧冈纳斯	name	npc	Maria Gunnars
-Jofridr Mordstatter	约弗里德‧莫德斯塔特	name	npc	Jofridr Mordstatter
-Morten Holdstrom	莫滕‧霍尔德斯特罗姆	name	npc	Morten Holdstrom
-Gunnar Holdstrom	冈纳‧霍尔德斯特罗姆	name	npc	Gunnar Holdstrom
-Anne Isaakson	安妮‧伊萨克森	name	npc	Anne Isaakson
-Lisse Isaakson	莉丝‧伊萨克森	name	npc	Lisse Isaakson
+Mawnis Burowgar	莫尼斯.布罗加	name	npc	Mawnis Burowgar
+Fridleif Shieldson	弗里德莱夫.希尔森	name	npc	Fridleif Shieldson
+Thakkrad Sigmundson	萨克拉德.西格蒙德森	name	npc	Thakkrad Sigmundson
+Maria Gunnars	玛丽亚.冈纳斯	name	npc	Maria Gunnars
+Jofridr Mordstatter	约弗里德.莫德斯塔特	name	npc	Jofridr Mordstatter
+Morten Holdstrom	莫滕.霍尔德斯特罗姆	name	npc	Morten Holdstrom
+Gunnar Holdstrom	冈纳.霍尔德斯特罗姆	name	npc	Gunnar Holdstrom
+Anne Isaakson	安妮.伊萨克森	name	npc	Anne Isaakson
+Lisse Isaakson	莉丝.伊萨克森	name	npc	Lisse Isaakson
 Honour guard	荣誉守卫	name	npc	Honour guard
-Kjedelig Uppsen	克耶德利格‧阿普森	name	npc	Kjedelig Uppsen
-Trogen Konungarde	特罗根‧库努加德	name	npc	Trogen Konungarde
-Slug Hemligssen	斯拉格‧赫米利格森	name	npc	Slug Hemligssen
+Kjedelig Uppsen	克耶德利格.阿普森	name	npc	Kjedelig Uppsen
+Trogen Konungarde	特罗根.库努加德	name	npc	Trogen Konungarde
+Slug Hemligssen	斯拉格.赫米利格森	name	npc	Slug Hemligssen
 Candle seller	蜡烛商人	name	npc	Candle seller
-King Gjuki Sorvott IV	国王古基‧索沃特四世	name	npc	King Gjuki Sorvott IV
+King Gjuki Sorvott IV	国王古基.索沃特四世	name	npc	King Gjuki Sorvott IV
 HRH Hrafn	殿下赫拉芬	name	npc	HRH Hrafn
-Thorkel Silkbeard	索克尔‧丝须	name	npc	Thorkel Silkbeard
-Mord Gunnars	莫德‧冈纳斯	name	npc	Mord Gunnars
+Thorkel Silkbeard	索克尔.丝须	name	npc	Thorkel Silkbeard
+Mord Gunnars	莫德.冈纳斯	name	npc	Mord Gunnars
 Art Critic Jacques	艺术评论家雅克	name	npc	Art Critic Jacques
 Historian Minas	历史学家米纳斯	name	npc	Historian Minas
-Barnabus Hurma	巴纳布斯‧赫尔马	name	npc	Barnabus Hurma
-Marius Giste	马留斯‧吉斯特	name	npc	Marius Giste
-Caden Azro	卡登‧阿兹罗	name	npc	Caden Azro
-Thias Leacke	西亚斯‧利克	name	npc	Thias Leacke
-Sinco Doar	辛科‧多尔	name	npc	Sinco Doar
-Tinse Torpe	廷斯‧托普	name	npc	Tinse Torpe
+Barnabus Hurma	巴纳布斯.赫尔马	name	npc	Barnabus Hurma
+Marius Giste	马留斯.吉斯特	name	npc	Marius Giste
+Caden Azro	卡登.阿兹罗	name	npc	Caden Azro
+Thias Leacke	西亚斯.利克	name	npc	Thias Leacke
+Sinco Doar	辛科.多尔	name	npc	Sinco Doar
+Tinse Torpe	廷斯.托普	name	npc	Tinse Torpe
 Information clerk	信息职员	name	npc	Information clerk
 Museum guard	博物馆守卫	name	npc	Museum guard
 Teacher and pupil	教师与学生	name	npc	Teacher and pupil
@@ -12730,18 +12729,18 @@ Workman	工人	name	npc	Workman
 Dig Site workman	挖掘场工人	name	npc	Dig Site workman
 Barge workman	驳船工人	name	npc	Barge workman
 Barge foreman	驳船工头	name	npc	Barge foreman
-Ed Wood	埃德‧伍德	name	npc	Ed Wood
-Hring Hring	赫林‧赫林	name	npc	Hring Hring
-Flosi Dalksson	弗洛西‧达尔克森	name	npc	Flosi Dalksson
-Raum Urda-Stein	劳姆‧乌尔达‧斯坦	name	npc	Raum Urda-Stein
-Skuli Myrka	斯库利‧米尔卡	name	npc	Skuli Myrka
-Keepa Kettilon	基帕‧凯蒂隆	name	npc	Keepa Kettilon
+Ed Wood	埃德.伍德	name	npc	Ed Wood
+Hring Hring	赫林.赫林	name	npc	Hring Hring
+Flosi Dalksson	弗洛西.达尔克森	name	npc	Flosi Dalksson
+Raum Urda-Stein	劳姆.乌尔达.斯坦	name	npc	Raum Urda-Stein
+Skuli Myrka	斯库利.米尔卡	name	npc	Skuli Myrka
+Keepa Kettilon	基帕.凯蒂隆	name	npc	Keepa Kettilon
 Freygerd	弗雷格德	name	npc	Freygerd
 Lensa	伦萨	name	npc	Lensa
-Vanligga Gastfrihet	范利加‧加斯特弗里特	name	npc	Vanligga Gastfrihet
+Vanligga Gastfrihet	范利加.加斯特弗里特	name	npc	Vanligga Gastfrihet
 Sassilik	萨西利克	name	npc	Sassilik
 Miner	矿工	name	npc	Miner
-Gruva Patrull	格鲁瓦‧帕图尔	name	npc	Gruva Patrull
+Gruva Patrull	格鲁瓦.帕图尔	name	npc	Gruva Patrull
 Brendt	布伦特	name	npc	Brendt
 Grundt	格伦特	name	npc	Grundt
 Duckling	小鸭	name	npc	Duckling
@@ -12749,13 +12748,13 @@ Ducklings	小鸭群	name	npc	Ducklings
 Drake	亚龙	name	npc	Drake
 Lesser demon	小恶魔	name	npc	Lesser demon
 Greater demon	大恶魔	name	npc	Greater demon
-Zul-Urgish	祖尔‧乌尔吉什	name	npc	Zul-Urgish
-Zul-Cheray	祖尔‧切雷	name	npc	Zul-Cheray
-Zul-Gutusolly	祖尔‧古图索利	name	npc	Zul-Gutusolly
+Zul-Urgish	祖尔.乌尔吉什	name	npc	Zul-Urgish
+Zul-Cheray	祖尔.切雷	name	npc	Zul-Cheray
+Zul-Gutusolly	祖尔.古图索利	name	npc	Zul-Gutusolly
 Sacrifice	祭品	name	npc	Sacrifice
-Zul-Onan	祖尔‧奥南	name	npc	Zul-Onan
-Zul-Aniel	祖尔‧阿尼尔	name	npc	Zul-Aniel
-Zul-Areth	祖尔‧阿雷斯	name	npc	Zul-Areth
+Zul-Onan	祖尔.奥南	name	npc	Zul-Onan
+Zul-Aniel	祖尔.阿尼尔	name	npc	Zul-Aniel
+Zul-Areth	祖尔.阿雷斯	name	npc	Zul-Areth
 Broken Handz	断手	name	npc	Broken Handz
 Zulrah	祖尔拉	name	npc	Zulrah
 Snakeling	蛇崽	name	npc	Snakeling
@@ -12788,18 +12787,18 @@ Rory	罗里	name	npc	Rory
 Sraracha	斯拉拉查	name	npc	Sraracha
 Undead Druid	亡灵德鲁伊	name	npc	Undead Druid
 Grand Exchange Clerk	大交易所职员	name	npc	Grand Exchange Clerk
-Brugsen Bursen	布鲁格森‧伯森	name	npc	Brugsen Bursen
+Brugsen Bursen	布鲁格森.伯森	name	npc	Brugsen Bursen
 Gunnjorn	冈乔恩	name	npc	Gunnjorn
-TzHaar-Mej	特扎尔‧梅	name	npc	TzHaar-Mej
-TzHaar-Hur	特扎尔‧赫尔	name	npc	TzHaar-Hur
-TzHaar-Xil	特扎尔‧希尔	name	npc	TzHaar-Xil
-TzHaar-Ket	特扎尔‧凯特	name	npc	TzHaar-Ket
-TzHaar-Mej-Jal	特扎尔‧梅‧贾尔	name	npc	TzHaar-Mej-Jal
-TzHaar-Mej-Kah	特扎尔‧梅‧卡	name	npc	TzHaar-Mej-Kah
+TzHaar-Mej	特扎尔.梅	name	npc	TzHaar-Mej
+TzHaar-Hur	特扎尔.赫尔	name	npc	TzHaar-Hur
+TzHaar-Xil	特扎尔.希尔	name	npc	TzHaar-Xil
+TzHaar-Ket	特扎尔.凯特	name	npc	TzHaar-Ket
+TzHaar-Mej-Jal	特扎尔.梅.贾尔	name	npc	TzHaar-Mej-Jal
+TzHaar-Mej-Kah	特扎尔.梅.卡	name	npc	TzHaar-Mej-Kah
 Rock Golem	岩石魔像	name	npc	Rock Golem
-TzHaar-Hur-Tel	特扎尔‧赫尔‧特尔	name	npc	TzHaar-Hur-Tel
-TzHaar-Hur-Lek	特扎尔‧赫尔‧莱克	name	npc	TzHaar-Hur-Lek
-TzHaar-Mej-Roh	特扎尔‧梅‧罗	name	npc	TzHaar-Mej-Roh
+TzHaar-Hur-Tel	特扎尔.赫尔.特尔	name	npc	TzHaar-Hur-Tel
+TzHaar-Hur-Lek	特扎尔.赫尔.莱克	name	npc	TzHaar-Hur-Lek
+TzHaar-Mej-Roh	特扎尔.梅.罗	name	npc	TzHaar-Mej-Roh
 Tz-Kih	火焰蝠	name	npc	Tz-Kih
 Tz-Kek	岩浆怪	name	npc	Tz-Kek
 William	威廉	name	npc	William
@@ -12811,7 +12810,7 @@ Edmond	埃德蒙	name	npc	Edmond
 Simon	西蒙	name	npc	Simon
 Sam	山姆	name	npc	Sam
 Commander Zilyana	齐利亚娜指挥官	name	npc	Commander Zilyana
-Starlight	独角兽星光	name	npc	Starlight
+Starlight	星光	name	npc	Starlight
 Growler	咆哮者	name	npc	Growler
 Bree	布里	name	npc	Bree
 Saradomin priest	萨拉多明祭司	name	npc	Saradomin priest
@@ -12843,12 +12842,12 @@ Dagannoth Supreme	深潜者至尊	name	npc	Dagannoth Supreme
 Dagannoth Prime	深潜者主宰	name	npc	Dagannoth Prime
 Dagannoth Rex	深潜者帝王	name	npc	Dagannoth Rex
 Cave goblin	洞穴哥布林	name	npc	Cave goblin
-Ur-zek	乌尔‧泽克	name	npc	Ur-zek
-Ur-vass	乌尔‧瓦斯	name	npc	Ur-vass
-Ur-taal	乌尔‧塔尔	name	npc	Ur-taal
-Ur-meg	乌尔‧梅格	name	npc	Ur-meg
-Ur-lun	乌尔‧伦	name	npc	Ur-lun
-Ur-pel	乌尔‧佩尔	name	npc	Ur-pel
+Ur-zek	乌尔.泽克	name	npc	Ur-zek
+Ur-vass	乌尔.瓦斯	name	npc	Ur-vass
+Ur-taal	乌尔.塔尔	name	npc	Ur-taal
+Ur-meg	乌尔.梅格	name	npc	Ur-meg
+Ur-lun	乌尔.伦	name	npc	Ur-lun
+Ur-pel	乌尔.佩尔	name	npc	Ur-pel
 Bartak	巴塔克	name	npc	Bartak
 Turgall	图加尔	name	npc	Turgall
 Reldak	雷尔达克	name	npc	Reldak
@@ -12864,7 +12863,7 @@ Tindar	廷达尔	name	npc	Tindar
 Gundik	贡迪克	name	npc	Gundik
 Zenkog	曾科格	name	npc	Zenkog
 Lurgon	卢尔贡	name	npc	Lurgon
-Ur-tag	乌尔‧塔格	name	npc	Ur-tag
+Ur-tag	乌尔.塔格	name	npc	Ur-tag
 Zanik	扎尼克	name	npc	Zanik
 Young 'un	小家伙	name	npc	Young 'un
 Tyke	调皮鬼	name	npc	Tyke
@@ -12952,7 +12951,7 @@ Portal of Death	死亡传送门	name	npc	Portal of Death
 Flesh Crawler	血肉爬虫	name	npc	Flesh Crawler
 Giant rat	巨鼠	name	npc	Giant rat
 Ankou	昂骷	name	npc	Ankou
-Johanhus Ulsbrecht	约翰胡斯‧乌尔斯布雷希特	name	npc	Johanhus Ulsbrecht
+Johanhus Ulsbrecht	约翰胡斯.乌尔斯布雷希特	name	npc	Johanhus Ulsbrecht
 H.A.M. Guard	反怪物人联守卫	name	npc	H.A.M. Guard
 H.A.M. Deacon	反怪物人联执事	name	npc	H.A.M. Deacon
 H.A.M. Member	反怪物人联成员	name	npc	H.A.M. Member
@@ -13033,7 +13032,7 @@ Blood Blamish Snail	鲜血斑点蜗牛	name	npc	Blood Blamish Snail
 Ochre Blamish Snail	赭色斑点蜗牛	name	npc	Ochre Blamish Snail
 Bruise Blamish Snail	瘀青斑点蜗牛	name	npc	Bruise Blamish Snail
 Bark Blamish Snail	树皮斑点蜗牛	name	npc	Bark Blamish Snail
-Aluft Gianne snr.	老阿鲁夫特‧吉安	name	npc	Aluft Gianne snr.
+Aluft Gianne snr.	老阿鲁夫特.吉安	name	npc	Aluft Gianne snr.
 Gnome Waiter	地精服务员	name	npc	Gnome Waiter
 Head chef	主厨	name	npc	Head chef
 Purepker895	Purepker895	name	npc	Purepker895
@@ -13061,9 +13060,9 @@ Fayeth	费耶斯	name	npc	Fayeth
 Bolongo	博隆戈	name	npc	Bolongo
 Gileth	吉莱斯	name	npc	Gileth
 Frizzy Skernip	毛躁的斯克尼普	name	npc	Frizzy Skernip
-Yulf Squecks	尤尔夫‧斯奎克斯	name	npc	Yulf Squecks
-Praistan Ebola	普赖斯坦‧埃博拉	name	npc	Praistan Ebola
-Prissy Scilla	普里西‧希拉	name	npc	Prissy Scilla
+Yulf Squecks	尤尔夫.斯奎克斯	name	npc	Yulf Squecks
+Praistan Ebola	普赖斯坦.埃博拉	name	npc	Praistan Ebola
+Prissy Scilla	普里西.希拉	name	npc	Prissy Scilla
 Imiago	伊米亚戈	name	npc	Imiago
 Liliwen	莉莉文	name	npc	Liliwen
 Cool Mom227	Cool Mom227	name	npc	Cool Mom227
@@ -13135,7 +13134,7 @@ Chinchompa	炸弹鼠	name	npc	Chinchompa
 Carnivorous chinchompa	食肉炸弹鼠	name	npc	Carnivorous chinchompa
 Black chinchompa	黑色炸弹鼠	name	npc	Black chinchompa
 Master fisher	钓鱼大师	name	npc	Master fisher
-Otto Godblessed	奥托‧神佑	name	npc	Otto Godblessed
+Otto Godblessed	奥托.神佑	name	npc	Otto Godblessed
 Waterfiend	水魔	name	npc	Waterfiend
 Brutal green dragon	残暴的绿龙	name	npc	Brutal green dragon
 Mithril dragon	秘银龙	name	npc	Mithril dragon
@@ -13165,7 +13164,7 @@ Velorina	韦洛里娜	name	npc	Velorina
 Necrovarus	尼克罗瓦鲁斯	name	npc	Necrovarus
 Gravingas	格拉文加斯	name	npc	Gravingas
 Ghost disciple	幽灵门徒	name	npc	Ghost disciple
-Ak-Haranu	阿克‧哈兰努	name	npc	Ak-Haranu
+Ak-Haranu	阿克.哈兰努	name	npc	Ak-Haranu
 Undead cow	亡灵牛	name	npc	Undead cow
 Undead chicken	亡灵鸡	name	npc	Undead chicken
 Giant lobster	巨型龙虾	name	npc	Giant lobster
@@ -13204,20 +13203,20 @@ Sawmill operator	锯木厂操作员	name	npc	Sawmill operator
 Garden supplier	花园供应商	name	npc	Garden supplier
 Hans	汉斯	name	npc	Hans
 Farmer	农夫	name	npc	Farmer
-Farid Morrisane (ores and bars)	法里德‧莫里桑 (矿石和锭)	name	npc	Farid Morrisane (ores and bars)
+Farid Morrisane (ores and bars)	法里德.莫里桑 (矿石和锭)	name	npc	Farid Morrisane (ores and bars)
 Yt-MejKot	蜥蜴人牧师	name	npc	Yt-MejKot
 Ket-Zek	蜥蜴犬	name	npc	Ket-Zek
-TzTok-Jad	特兹托克‧贾德	name	npc	TzTok-Jad
+TzTok-Jad	特兹托克.贾德	name	npc	TzTok-Jad
 Yt-HurKot	蜥蜴人治疗者	name	npc	Yt-HurKot
-K'ril Tsutsaroth	克里尔‧楚萨罗斯	name	npc	K'ril Tsutsaroth
-Tstanon Karlak	斯塔农‧卡拉克	name	npc	Tstanon Karlak
-Zakl'n Gritch	扎克伦‧格里奇	name	npc	Zakl'n Gritch
-Balfrug Kreeyath	巴尔弗鲁格‧克里亚斯	name	npc	Balfrug Kreeyath
+K'ril Tsutsaroth	克里尔.楚萨罗斯	name	npc	K'ril Tsutsaroth
+Tstanon Karlak	斯塔农.卡拉克	name	npc	Tstanon Karlak
+Zakl'n Gritch	扎克伦.格里奇	name	npc	Zakl'n Gritch
+Balfrug Kreeyath	巴尔弗鲁格.克里亚斯	name	npc	Balfrug Kreeyath
 Imp	小恶魔	name	npc	Imp
 Feral Vampyre	狂暴吸血鬼	name	npc	Feral Vampyre
 Icefiend	冰怪	name	npc	Icefiend
 Gnome Coach	地精教练	name	npc	Gnome Coach
-Gnome baller	地精舞者	name	npc	Gnome baller
+Gnome baller	地精球员	name	npc	Gnome baller
 Gnome winger	地精边锋	name	npc	Gnome winger
 Gnome ball referee	地精球裁判	name	npc	Gnome ball referee
 Cheerleader	啦啦队员	name	npc	Cheerleader
@@ -13227,17 +13226,17 @@ Flockleader Geerin	鸟群领袖格林	name	npc	Flockleader Geerin
 Flight Kilisa	飞行者基利萨	name	npc	Flight Kilisa
 Aviansie	鸟人	name	npc	Aviansie
 Dagannoth spawn	深潜者幼体	name	npc	Dagannoth spawn
-Brian O'Richard	布莱恩‧奥理查德	name	npc	Brian O'Richard
+Brian O'Richard	布莱恩.奥理查德	name	npc	Brian O'Richard
 Rogue Guard	盗贼守卫	name	npc	Rogue Guard
-Martin Thwait	马丁‧斯韦特	name	npc	Martin Thwait
-Emerald Benedict	埃默拉尔德‧本尼迪克特	name	npc	Emerald Benedict
+Martin Thwait	马丁.斯韦特	name	npc	Martin Thwait
+Emerald Benedict	埃默拉尔德.本尼迪克特	name	npc	Emerald Benedict
 Spin Blades	旋转刀片	name	npc	Spin Blades
 Candle maker	蜡烛制造商	name	npc	Candle maker
 Arhein	阿尔海因	name	npc	Arhein
 Jukat	朱卡特	name	npc	Jukat
 Lunderwin	伦德温	name	npc	Lunderwin
 Irksol	伊克索尔	name	npc	Irksol
-Surok Magis	苏洛克‧马吉斯	name	npc	Surok Magis
+Surok Magis	苏洛克.马吉斯	name	npc	Surok Magis
 Gem merchant	宝石商人	name	npc	Gem merchant
 Baker	面包师	name	npc	Baker
 Spice seller	香料商人	name	npc	Spice seller
@@ -13329,14 +13328,14 @@ Jogre Champion	乔格雷食人魔冠军勇士	name	npc	Jogre Champion
 Lesser Demon Champion	小恶魔冠军勇士	name	npc	Lesser Demon Champion
 Skeleton Champion	骷髅冠军勇士	name	npc	Skeleton Champion
 Zombies Champion	僵尸冠军勇士	name	npc	Zombies Champion
-Leon d'Cour	莱昂‧德库尔	name	npc	Leon d'Cour
+Leon d'Cour	莱昂.德库尔	name	npc	Leon d'Cour
 Litara	利塔拉	name	npc	Litara
 Stankers	斯坦克斯	name	npc	Stankers
 Angel	天使	name	npc	Angel
 Elemental balance	平衡元素	name	npc	Elemental balance
 Mountain Dwarf	山地矮人	name	npc	Mountain Dwarf
 Awowogei	阿沃沃盖	name	npc	Awowogei
-Skrach Uglogwee	斯克拉奇‧乌格洛格维	name	npc	Skrach Uglogwee
+Skrach Uglogwee	斯克拉奇.乌格洛格维	name	npc	Skrach Uglogwee
 Culinaromancer	烹饪魔法师	name	npc	Culinaromancer
 Koftik	科夫蒂克	name	npc	Koftik
 Idris	伊德里斯	name	npc	Idris
@@ -13397,12 +13396,12 @@ Sir Pelleas	佩利亚斯爵士	name	npc	Sir Pelleas
 Sir Lucan	卢坎爵士	name	npc	Sir Lucan
 Sir Palomedes	帕洛梅德斯爵士	name	npc	Sir Palomedes
 Sir Mordred	莫德雷德爵士	name	npc	Sir Mordred
-Morgan Le Faye	摩根‧勒菲	name	npc	Morgan Le Faye
+Morgan Le Faye	摩根.勒菲	name	npc	Morgan Le Faye
 Merlin	梅林	name	npc	Merlin
 The Lady of the Lake	湖中女士	name	npc	The Lady of the Lake
 King Arthur	亚瑟王	name	npc	King Arthur
 Beggar	乞丐	name	npc	Beggar
-Ali Morrisane	阿里‧莫里桑	name	npc	Ali Morrisane
+Ali Morrisane	阿里.莫里桑	name	npc	Ali Morrisane
 Drunken Ali	醉汉阿里	name	npc	Drunken Ali
 Ali the Barman	酒保阿里	name	npc	Ali the Barman
 Ali the Kebab seller	烤肉贩阿里	name	npc	Ali the Kebab seller
@@ -13440,9 +13439,9 @@ Homunculus	人造人	name	npc	Homunculus
 Cage	笼子	name	npc	Cage
 'Transmute' The Alchemist	'转化''炼金术士	name	npc	'Transmute' The Alchemist
 'Currency' The Alchemist	'货币''炼金术士	name	npc	'Currency' The Alchemist
-'Black-eye'	'黑眼圈''	name	npc	'Black-eye'
+'Black-eye'	'黑眼圈'	name	npc	'Black-eye'
 'No fingers'	'无指''	name	npc	'No fingers'
-'Gummy'	'无牙''	name	npc	'Gummy'
+'Gummy'	'无牙'	name	npc	'Gummy'
 'The Guns'	'枪手''	name	npc	'The Guns'
 Frogeel	青蛙鳗	name	npc	Frogeel
 Unicow	独角牛	name	npc	Unicow
@@ -13457,17 +13456,17 @@ Possessed pickaxe	被附身的镐	name	npc	Possessed pickaxe
 Iron pickaxe	铁镐	name	npc	Iron pickaxe
 Corpse	尸体	name	npc	Corpse
 Skeletal miner	骷髅矿工	name	npc	Skeletal miner
-Treus Dayth	特鲁斯‧戴斯	name	npc	Treus Dayth
+Treus Dayth	特鲁斯.戴斯	name	npc	Treus Dayth
 Loading crane	装载起重机	name	npc	Loading crane
 Innocent-looking key	看似无害的钥匙	name	npc	Innocent-looking key
 Haze	迷雾	name	npc	Haze
 Mischievous ghost	淘气的幽灵	name	npc	Mischievous ghost
 Digsite workman	挖掘场工人	name	npc	Digsite workman
-Doug Deeping	道格‧迪平	name	npc	Doug Deeping
+Doug Deeping	道格.迪平	name	npc	Doug Deeping
 Student	学生	name	npc	Student
 Examiner	考官	name	npc	Examiner
 Researcher	研究员	name	npc	Researcher
-Terry Balando	特里‧巴兰多	name	npc	Terry Balando
+Terry Balando	特里.巴兰多	name	npc	Terry Balando
 Panning guide	淘金向导	name	npc	Panning guide
 Nick	尼克	name	npc	Nick
 Nisha	尼莎	name	npc	Nisha
@@ -13498,14 +13497,14 @@ Vampyre Juvinate	成熟吸血鬼	name	npc	Vampyre Juvinate
 Vampyre Juvenile	新生吸血鬼	name	npc	Vampyre Juvenile
 Former Vampyre	前吸血鬼	name	npc	Former Vampyre
 Vyrewatch	吸血鬼哨兵	name	npc	Vyrewatch
-Vanstrom Klause	范斯特罗姆‧克劳斯	name	npc	Vanstrom Klause
-Vanescula Drakan	范尼斯库拉‧德雷坎	name	npc	Vanescula Drakan
-Ranis Drakan	拉尼斯‧德雷坎	name	npc	Ranis Drakan
+Vanstrom Klause	范斯特罗姆.克劳斯	name	npc	Vanstrom Klause
+Vanescula Drakan	范尼斯库拉.德雷坎	name	npc	Vanescula Drakan
+Ranis Drakan	拉尼斯.德雷坎	name	npc	Ranis Drakan
 Flying female vampire	飞行女吸血鬼	name	npc	Flying female vampire
 Old Man Ral	老人拉尔	name	npc	Old Man Ral
-Aeonisig Raispher	埃奥尼西格‧莱斯弗	name	npc	Aeonisig Raispher
-Safalaan Hallow	萨法兰‧哈洛	name	npc	Safalaan Hallow
-Sarius Guile	萨里乌斯‧盖尔	name	npc	Sarius Guile
+Aeonisig Raispher	埃奥尼西格.莱斯弗	name	npc	Aeonisig Raispher
+Safalaan Hallow	萨法兰.哈洛	name	npc	Safalaan Hallow
+Sarius Guile	萨里乌斯.盖尔	name	npc	Sarius Guile
 Trader Sven	商人斯文	name	npc	Trader Sven
 Meiyerditch citizen	迈尔迪奇市民	name	npc	Meiyerditch citizen
 Meiyerditch miner	迈尔迪奇矿工	name	npc	Meiyerditch miner
@@ -13514,17 +13513,17 @@ Boat	船	name	npc	Boat
 Oneiromancer	梦境法师	name	npc	Oneiromancer
 House	房屋	name	npc	House
 Baba Yaga	芭芭雅嘎	name	npc	Baba Yaga
-Pauline Polaris	波琳‧波拉里斯	name	npc	Pauline Polaris
+Pauline Polaris	波琳.波拉里斯	name	npc	Pauline Polaris
 Meteora	梅特奥拉	name	npc	Meteora
-Melana Moonlander	梅拉娜‧月行者	name	npc	Melana Moonlander
+Melana Moonlander	梅拉娜.月行者	name	npc	Melana Moonlander
 Selene	塞勒涅	name	npc	Selene
-Rimae Sirsalis	里马‧西尔萨利斯	name	npc	Rimae Sirsalis
+Rimae Sirsalis	里马.西尔萨利斯	name	npc	Rimae Sirsalis
 Sirsal Banker	西尔萨利斯银行职员	name	npc	Sirsal Banker
 Clan Guard	氏族守卫	name	npc	Clan Guard
 Enchanted Broom	魔法扫帚	name	npc	Enchanted Broom
 Enchanted Bucket	魔法桶	name	npc	Enchanted Bucket
-Bouquet Mac Hyacinth	花束麦克‧风信子	name	npc	Bouquet Mac Hyacinth
-Lokar Searunner	洛卡尔‧海行者	name	npc	Lokar Searunner
+Bouquet Mac Hyacinth	花束麦克.风信子	name	npc	Bouquet Mac Hyacinth
+Lokar Searunner	洛卡尔.海行者	name	npc	Lokar Searunner
 Cabin boy	船舱侍应	name	npc	Cabin boy
 'Beefy' Burns	'壮汉''伯恩斯	name	npc	'Beefy' Burns
 'Eagle-eye' Shultz	'鹰眼''舒尔茨	name	npc	'Eagle-eye' Shultz
@@ -13536,11 +13535,11 @@ Bedread the bold	大胆的贝德雷德	name	npc	Bedread the bold
 Wilson	威尔逊	name	npc	Wilson
 Tommy 2-times	汤米两倍	name	npc	Tommy 2-times
 Murky Pat	阴暗的帕特	name	npc	Murky Pat
-Jack Sails	杰克‧赛尔斯	name	npc	Jack Sails
+Jack Sails	杰克.赛尔斯	name	npc	Jack Sails
 Palmer	帕尔默	name	npc	Palmer
 'Betty' B.Boppin	'贝蒂''B.博平	name	npc	'Betty' B.Boppin
 'Beedy-eye' Jones	'小眼睛''琼斯	name	npc	'Beedy-eye' Jones
-Jenny Blade	珍妮‧布莱德	name	npc	Jenny Blade
+Jenny Blade	珍妮.布莱德	name	npc	Jenny Blade
 'Lecherous' Lee	'色鬼''李	name	npc	'Lecherous' Lee
 'Sticky' Sanders	'粘手''桑德斯	name	npc	'Sticky' Sanders
 Jex	杰克斯	name	npc	Jex
@@ -13581,19 +13580,19 @@ Jennella	詹内拉	name	npc	Jennella
 Inga	英加	name	npc	Inga
 Fish monger	鱼贩	name	npc	Fish monger
 Legends' Guard	传奇守卫	name	npc	Legends' Guard
-Radimus Erkle	拉迪穆斯‧厄克尔	name	npc	Radimus Erkle
+Radimus Erkle	拉迪穆斯.厄克尔	name	npc	Radimus Erkle
 Jungle forester	丛林护林员	name	npc	Jungle forester
 Gujuo	古朱奥	name	npc	Gujuo
 Ungadulu	昂加杜鲁	name	npc	Ungadulu
 Tormented Warrior	被折磨的战士	name	npc	Tormented Warrior
 Fionella	菲奥内拉	name	npc	Fionella
-Siegfried Erkle	齐格弗里德‧厄克尔	name	npc	Siegfried Erkle
+Siegfried Erkle	齐格弗里德.厄克尔	name	npc	Siegfried Erkle
 Nezikchened	内齐克切内德	name	npc	Nezikchened
 Viyeldi	维耶尔迪	name	npc	Viyeldi
-San Tojalon	桑‧托贾隆	name	npc	San Tojalon
-Irvig Senay	伊尔维格‧塞奈	name	npc	Irvig Senay
-Ranalph Devere	拉纳尔夫‧德维尔	name	npc	Ranalph Devere
-Echned Zekin	埃克内德‧泽金	name	npc	Echned Zekin
+San Tojalon	桑.托贾隆	name	npc	San Tojalon
+Irvig Senay	伊尔维格.塞奈	name	npc	Irvig Senay
+Ranalph Devere	拉纳尔夫.德维尔	name	npc	Ranalph Devere
+Echned Zekin	埃克内德.泽金	name	npc	Echned Zekin
 Zombie rat	僵尸鼠	name	npc	Zombie rat
 Doctor Orbon	奥本医生	name	npc	Doctor Orbon
 Farmer Brumty	农夫布鲁姆蒂	name	npc	Farmer Brumty
@@ -13602,7 +13601,7 @@ Green Sheep	绿羊	name	npc	Green Sheep
 Blue Sheep	蓝羊	name	npc	Blue Sheep
 Yellow Sheep	黄羊	name	npc	Yellow Sheep
 Boy	男孩	name	npc	Boy
-Nora T. Hagg	诺拉‧T‧哈格	name	npc	Nora T. Hagg
+Nora T. Hagg	诺拉.T.哈格	name	npc	Nora T. Hagg
 Witch's experiment	女巫的实验	name	npc	Witch's experiment
 Witch's experiment (second form)	女巫的实验 (第二形态)	name	npc	Witch's experiment (second form)
 Witch's experiment (third form)	女巫的实验 (第三形态)	name	npc	Witch's experiment (third form)
@@ -13611,7 +13610,7 @@ Mouse	老鼠	name	npc	Mouse
 Chompy chick	小食人鸟	name	npc	Chompy chick
 Dark beast	暗黑兽	name	npc	Dark beast
 Thorgel	索格尔	name	npc	Thorgel
-Bill Teach	比尔‧蒂奇	name	npc	Bill Teach
+Bill Teach	比尔.蒂奇	name	npc	Bill Teach
 Charley	查利	name	npc	Charley
 Smith	史密斯	name	npc	Smith
 Mama	妈妈	name	npc	Mama
@@ -13662,11 +13661,11 @@ Berry	浆果	name	npc	Berry
 Thrower troll	巨魔投掷手	name	npc	Thrower troll
 Mushroom	蘑菇	name	npc	Mushroom
 Burntmeat	烧肉	name	npc	Burntmeat
-Rat Burgiss	拉特‧伯吉斯	name	npc	Rat Burgiss
-Anna Jones	安娜‧琼斯	name	npc	Anna Jones
-Mishkal'un Dorn	米什卡尔‧恩‧多恩	name	npc	Mishkal'un Dorn
-Dakh'thoulan Aegis	达克‧索兰‧埃吉斯	name	npc	Dakh'thoulan Aegis
-Sil'as Dahcsnu	西尔‧阿斯‧达赫克斯努	name	npc	Sil'as Dahcsnu
+Rat Burgiss	拉特.伯吉斯	name	npc	Rat Burgiss
+Anna Jones	安娜.琼斯	name	npc	Anna Jones
+Mishkal'un Dorn	米什卡尔.恩.多恩	name	npc	Mishkal'un Dorn
+Dakh'thoulan Aegis	达克.索兰.埃吉斯	name	npc	Dakh'thoulan Aegis
+Sil'as Dahcsnu	西尔.阿斯.达赫克斯努	name	npc	Sil'as Dahcsnu
 Outlaw	亡命徒	name	npc	Outlaw
 Bench	长凳	name	npc	Bench
 Hadley	哈德利	name	npc	Hadley
@@ -13706,22 +13705,22 @@ Head Thief	盗贼头目	name	npc	Head Thief
 Alrena	阿尔蕾娜	name	npc	Alrena
 Bravek	布拉维克	name	npc	Bravek
 Clerk	职员	name	npc	Clerk
-Ted Rehnison	泰德‧雷尼森	name	npc	Ted Rehnison
-Martha Rehnison	玛莎‧雷尼森	name	npc	Martha Rehnison
-Billy Rehnison	比利‧雷尼森	name	npc	Billy Rehnison
-Milli Rehnison	米莉‧雷尼森	name	npc	Milli Rehnison
+Ted Rehnison	泰德.雷尼森	name	npc	Ted Rehnison
+Martha Rehnison	玛莎.雷尼森	name	npc	Martha Rehnison
+Billy Rehnison	比利.雷尼森	name	npc	Billy Rehnison
+Milli Rehnison	米莉.雷尼森	name	npc	Milli Rehnison
 Leela	莉拉	name	npc	Leela
 Jail guard	监狱守卫	name	npc	Jail guard
 Ned	内德	name	npc	Ned
 Chancellor Hassan	哈桑大臣	name	npc	Chancellor Hassan
 Border Guard	边境守卫	name	npc	Border Guard
-Herman Caranos	赫尔曼‧卡拉诺斯	name	npc	Herman Caranos
-Franklin Caranos	富兰克林‧卡拉诺斯	name	npc	Franklin Caranos
-Arnold Lydspor	阿诺德‧利斯波	name	npc	Arnold Lydspor
-Devin Mendelberg	德文‧门德尔伯格	name	npc	Devin Mendelberg
-George Laxmeister	乔治‧拉克迈斯特	name	npc	George Laxmeister
-Ramara du Croissant	拉玛拉‧杜‧克鲁瓦桑	name	npc	Ramara du Croissant
-Kathy Corkat	凯西‧科卡特	name	npc	Kathy Corkat
+Herman Caranos	赫尔曼.卡拉诺斯	name	npc	Herman Caranos
+Franklin Caranos	富兰克林.卡拉诺斯	name	npc	Franklin Caranos
+Arnold Lydspor	阿诺德.利斯波	name	npc	Arnold Lydspor
+Devin Mendelberg	德文.门德尔伯格	name	npc	Devin Mendelberg
+George Laxmeister	乔治.拉克迈斯特	name	npc	George Laxmeister
+Ramara du Croissant	拉玛拉.杜.克鲁瓦桑	name	npc	Ramara du Croissant
+Kathy Corkat	凯西.科卡特	name	npc	Kathy Corkat
 Sea troll	海巨魔	name	npc	Sea troll
 Sea Troll General	海巨魔将军	name	npc	Sea Troll General
 Sea Troll Queen	海巨魔女王	name	npc	Sea Troll Queen
@@ -13754,7 +13753,7 @@ Sneaky undead fowl	鬼祟的亡灵禽鸟	name	npc	Sneaky undead fowl
 Cow31337Killer	奶牛 31337 杀手	name	npc	Cow31337Killer
 Jossik	乔西克	name	npc	Jossik
 Larrissa	拉里萨	name	npc	Larrissa
-Ivan Strom	伊万‧斯特罗姆	name	npc	Ivan Strom
+Ivan Strom	伊万.斯特罗姆	name	npc	Ivan Strom
 Elisabeta	伊丽莎白	name	npc	Elisabeta
 Aurel	奥雷尔	name	npc	Aurel
 Sorin	索林	name	npc	Sorin
@@ -13784,9 +13783,9 @@ Luminata	卢米纳塔	name	npc	Luminata
 Cornelius	科尼利厄斯	name	npc	Cornelius
 Wiskit	威斯基特	name	npc	Wiskit
 Gadderanks	加德兰克斯	name	npc	Gadderanks
-Olaf Hradson	奥拉夫‧赫拉德森	name	npc	Olaf Hradson
-Volf Olafson	沃尔夫‧奥拉夫森	name	npc	Volf Olafson
-Ingrid Hradson	英格丽德‧赫拉德森	name	npc	Ingrid Hradson
+Olaf Hradson	奥拉夫.赫拉德森	name	npc	Olaf Hradson
+Volf Olafson	沃尔夫.奥拉夫森	name	npc	Volf Olafson
+Ingrid Hradson	英格丽德.赫拉德森	name	npc	Ingrid Hradson
 Skeleton fremennik	费明尼克骷髅	name	npc	Skeleton fremennik
 Ulfric	乌尔弗里克	name	npc	Ulfric
 Brine rat	盐水鼠	name	npc	Brine rat
@@ -13807,10 +13806,10 @@ Zenesha	泽内莎	name	npc	Zenesha
 Grimesquit	格里姆斯奎特	name	npc	Grimesquit
 Phingspet	芬格斯佩特	name	npc	Phingspet
 Hooknosed Jack	钩鼻杰克	name	npc	Hooknosed Jack
-Jimmy Dazzler	吉米‧达兹勒	name	npc	Jimmy Dazzler
+Jimmy Dazzler	吉米.达兹勒	name	npc	Jimmy Dazzler
 The Face	面孔	name	npc	The Face
 Felkrash	费尔克拉什	name	npc	Felkrash
-Smokin' Joe	老烟枪‧乔	name	npc	Smokin' Joe
+Smokin' Joe	老烟枪.乔	name	npc	Smokin' Joe
 King rat	鼠王	name	npc	King rat
 Turbogroomer	涡轮梳毛者	name	npc	Turbogroomer
 Pusskins	帕斯金斯	name	npc	Pusskins
@@ -13828,15 +13827,15 @@ Sagira	萨吉拉	name	npc	Sagira
 Anleif	安莱夫	name	npc	Anleif
 Hetty	赫蒂	name	npc	Hetty
 Trufitus	特鲁菲图斯	name	npc	Trufitus
-Millie Miller	米莉‧米勒	name	npc	Millie Miller
-Gillie Groats	吉利‧格罗茨	name	npc	Gillie Groats
+Millie Miller	米莉.米勒	name	npc	Millie Miller
+Gillie Groats	吉利.格罗茨	name	npc	Gillie Groats
 Ana	安娜	name	npc	Ana
 Female slave	女奴隶	name	npc	Female slave
 Male slave	男奴隶	name	npc	Male slave
 Escaping slave	逃跑的奴隶	name	npc	Escaping slave
 Rowdy slave	吵闹的奴隶	name	npc	Rowdy slave
 Mercenary Captain	雇佣兵队长	name	npc	Mercenary Captain
-Al Shabim	阿尔‧沙比姆	name	npc	Al Shabim
+Al Shabim	阿尔.沙比姆	name	npc	Al Shabim
 Bedabin Nomad	贝达宾游牧民	name	npc	Bedabin Nomad
 Bedabin Nomad Guard	贝达宾游牧民守卫	name	npc	Bedabin Nomad Guard
 Irena	艾琳娜	name	npc	Irena
@@ -13854,13 +13853,13 @@ Cart Camel	推车骆驼	name	npc	Cart Camel
 Mine Cart	矿车	name	npc	Mine Cart
 Sir Spishyus	斯皮修斯爵士	name	npc	Sir Spishyus
 Lady Table	泰布尔女士	name	npc	Lady Table
-Sir Kuam Ferentse	库阿姆‧费伦斯爵士	name	npc	Sir Kuam Ferentse
+Sir Kuam Ferentse	库阿姆.费伦斯爵士	name	npc	Sir Kuam Ferentse
 Sir Leye	莱耶爵士	name	npc	Sir Leye
 Sir Tinley	廷利爵士	name	npc	Sir Tinley
-Sir Ren Itchood	伦‧伊奇胡德爵士	name	npc	Sir Ren Itchood
+Sir Ren Itchood	伦.伊奇胡德爵士	name	npc	Sir Ren Itchood
 Miss Cheevers	奇弗斯小姐	name	npc	Miss Cheevers
-Ms. Hynn Terprett	辛‧特普雷特女士	name	npc	Ms. Hynn Terprett
-Sir Tiffy Cashien	蒂菲‧卡申爵士	name	npc	Sir Tiffy Cashien
+Ms. Hynn Terprett	辛.特普雷特女士	name	npc	Ms. Hynn Terprett
+Sir Tiffy Cashien	蒂菲.卡申爵士	name	npc	Sir Tiffy Cashien
 Hopeless beast	绝望兽	name	npc	Hopeless beast
 Timfraku	蒂姆弗拉库	name	npc	Timfraku
 Tiadeche	蒂亚德切	name	npc	Tiadeche
@@ -13872,7 +13871,7 @@ Auguste	奥古斯特	name	npc	Auguste
 Assistant Serf	助手瑟夫	name	npc	Assistant Serf
 Assistant Brock	助手布洛克	name	npc	Assistant Brock
 Assistant Marrow	助手马罗	name	npc	Assistant Marrow
-Assistant Le Smith	助手勒‧史密斯	name	npc	Assistant Le Smith
+Assistant Le Smith	助手勒.史密斯	name	npc	Assistant Le Smith
 Assistant Stan	助手斯坦	name	npc	Assistant Stan
 Curly	卷毛	name	npc	Curly
 Moe	莫	name	npc	Moe
@@ -13915,7 +13914,7 @@ Black Cat	黑猫	name	npc	Black Cat
 Col. O'Niall	奥尼尔上校	name	npc	Col. O'Niall
 Mayor Hobb	霍布市长	name	npc	Mayor Hobb
 Brother Maledict	马勒迪克特兄弟	name	npc	Brother Maledict
-Ezekial Lovecraft	以赛亚‧洛夫克拉夫特	name	npc	Ezekial Lovecraft
+Ezekial Lovecraft	以赛亚.洛夫克拉夫特	name	npc	Ezekial Lovecraft
 Witchaven villager	女巫港村民	name	npc	Witchaven villager
 Mother Mallum	马勒姆母亲	name	npc	Mother Mallum
 Slug Prince	蛞蝓王子	name	npc	Slug Prince
@@ -13935,7 +13934,7 @@ Rantz	兰茨	name	npc	Rantz
 Ogre boat	食人魔船	name	npc	Ogre boat
 Balloon Toad	气球蟾蜍	name	npc	Balloon Toad
 Jubbly bird	胖食人鸟	name	npc	Jubbly bird
-Agrith-Na-Na	阿格里斯‧纳‧纳	name	npc	Agrith-Na-Na
+Agrith-Na-Na	阿格里斯.纳.纳	name	npc	Agrith-Na-Na
 Flambeed	火焰	name	npc	Flambeed
 Karamel	卡拉梅尔	name	npc	Karamel
 Dessourt	德苏尔特	name	npc	Dessourt
@@ -13965,7 +13964,7 @@ Velrak the explorer	探险家维尔拉克	name	npc	Velrak the explorer
 Pirate Guard	海盗守卫	name	npc	Pirate Guard
 Entrana firebird	恩特纳火鸟	name	npc	Entrana firebird
 Lord Daquarius	达夸里乌斯领主	name	npc	Lord Daquarius
-Solus Dellagar	索卢斯‧德拉加	name	npc	Solus Dellagar
+Solus Dellagar	索卢斯.德拉加	name	npc	Solus Dellagar
 Savant	学者	name	npc	Savant
 Ranger	射手	name	npc	Ranger
 King Bolren	博尔伦国王	name	npc	King Bolren
@@ -13990,16 +13989,16 @@ Juliet	朱丽叶	name	npc	Juliet
 Apothecary	药剂师	name	npc	Apothecary
 Romeo	罗密欧	name	npc	Romeo
 Father Lawrence	劳伦斯神父	name	npc	Father Lawrence
-Draul Leptoc	德劳尔‧莱普托克	name	npc	Draul Leptoc
+Draul Leptoc	德劳尔.莱普托克	name	npc	Draul Leptoc
 Phillipa	菲利帕	name	npc	Phillipa
-Martina Scorsby	马丁娜‧斯科尔斯比	name	npc	Martina Scorsby
-Jeremy Clerksin	杰里米‧克莱尔金	name	npc	Jeremy Clerksin
+Martina Scorsby	马丁娜.斯科尔斯比	name	npc	Martina Scorsby
+Jeremy Clerksin	杰里米.克莱尔金	name	npc	Jeremy Clerksin
 Suit of armour	一套盔甲	name	npc	Suit of armour
 Sanfew	桑福	name	npc	Sanfew
 Kaqemeex	卡基米克斯	name	npc	Kaqemeex
-Cyreg Paddlehorn	赛雷格‧帕德尔霍恩	name	npc	Cyreg Paddlehorn
-Radigad Ponfit	拉迪加德‧庞菲特	name	npc	Radigad Ponfit
-Polmafi Ferdygris	波尔马菲‧费迪格里斯	name	npc	Polmafi Ferdygris
+Cyreg Paddlehorn	赛雷格.帕德尔霍恩	name	npc	Cyreg Paddlehorn
+Radigad Ponfit	拉迪加德.庞菲特	name	npc	Radigad Ponfit
+Polmafi Ferdygris	波尔马菲.费迪格里斯	name	npc	Polmafi Ferdygris
 Skeleton Hellhound	骷髅地狱犬	name	npc	Skeleton Hellhound
 Kennith	肯尼斯	name	npc	Kennith
 Bailey	贝利	name	npc	Bailey
@@ -14040,7 +14039,7 @@ Baby green dragon	绿龙幼崽	name	npc	Baby green dragon
 Charlie the Tramp	流浪汉查理	name	npc	Charlie the Tramp
 Katrine	卡特琳	name	npc	Katrine
 Straven	斯特拉文	name	npc	Straven
-Curator Haig Halen	馆长海格‧哈伦	name	npc	Curator Haig Halen
+Curator Haig Halen	馆长海格.哈伦	name	npc	Curator Haig Halen
 Benny	本尼	name	npc	Benny
 Jig cart	治具推车	name	npc	Jig cart
 Kharid Scorpion	卡里德蝎子	name	npc	Kharid Scorpion
@@ -14088,21 +14087,21 @@ Iona	伊奥娜	name	npc	Iona
 Eluned	埃卢内德	name	npc	Eluned
 GPDT employee	吉利诺物流团队员工	name	npc	GPDT employee
 Horacio	霍拉西奥	name	npc	Horacio
-Kangai Mau	康盖‧毛	name	npc	Kangai Mau
+Kangai Mau	康盖.毛	name	npc	Kangai Mau
 Mistag	米斯塔格	name	npc	Mistag
 Cave goblin miner	洞穴哥布林矿工	name	npc	Cave goblin miner
 Cave goblin guard	洞穴哥布林守卫	name	npc	Cave goblin guard
-Mosol Rei	莫索尔‧雷	name	npc	Mosol Rei
+Mosol Rei	莫索尔.雷	name	npc	Mosol Rei
 Spirit of Zadimus	扎迪穆斯之灵	name	npc	Spirit of Zadimus
 Undead one	亡灵	name	npc	Undead one
 Rashiliyia	拉希利娅	name	npc	Rashiliyia
 Nazastarool	纳扎斯塔鲁尔	name	npc	Nazastarool
 Hajedy	哈杰迪	name	npc	Hajedy
 Vigroy	维格罗伊	name	npc	Vigroy
-Kaleb Paramaya	卡莱布‧帕拉玛雅	name	npc	Kaleb Paramaya
+Kaleb Paramaya	卡莱布.帕拉玛雅	name	npc	Kaleb Paramaya
 Yohnus	约努斯	name	npc	Yohnus
 Seravel	塞拉维尔	name	npc	Seravel
-Yanni Salika	雅尼‧萨利卡	name	npc	Yanni Salika
+Yanni Salika	雅尼.萨利卡	name	npc	Yanni Salika
 Obli	奥布利	name	npc	Obli
 Fernahei	费尔纳海	name	npc	Fernahei
 Captain Shanks	尚克斯船长	name	npc	Captain Shanks
@@ -14137,9 +14136,9 @@ Security Guard	安保守卫	name	npc	Security Guard
 Johnathon	乔纳森	name	npc	Johnathon
 Cap'n Hand	汉德船长	name	npc	Cap'n Hand
 Advisor Ghrim	顾问格里姆	name	npc	Advisor Ghrim
-Bob Barter (herbs)	鲍勃‧巴特 (草药)	name	npc	Bob Barter (herbs)
+Bob Barter (herbs)	鲍勃.巴特 (草药)	name	npc	Bob Barter (herbs)
 Murky Matt (runes)	阴暗的马特 (符文)	name	npc	Murky Matt (runes)
-Relobo Blinyo (logs)	雷洛博‧布林约 (原木)	name	npc	Relobo Blinyo (logs)
+Relobo Blinyo (logs)	雷洛博.布林约 (原木)	name	npc	Relobo Blinyo (logs)
 Hofuthand (weapons and armour)	霍夫桑德 (武器和盔甲)	name	npc	Hofuthand (weapons and armour)
 Reshi	雷希	name	npc	Reshi
 Thumpy	桑皮	name	npc	Thumpy
@@ -14157,12 +14156,12 @@ The 'Wedge'	'楔子''	name	npc	The 'Wedge'
 Elder Gnome child	较年长的地精小孩	name	npc	Elder Gnome child
 Two-pints	两品脱	name	npc	Two-pints
 Jarr	贾尔	name	npc	Jarr
-Le-sabrè	勒‧萨布雷	name	npc	Le-sabrè
+Le-sabrè	勒.萨布雷	name	npc	Le-sabrè
 Flax keeper	亚麻看守	name	npc	Flax keeper
-Hatius Cosaintus	哈提乌斯‧科赛因图斯	name	npc	Hatius Cosaintus
+Hatius Cosaintus	哈提乌斯.科赛因图斯	name	npc	Hatius Cosaintus
 Sir Rebral	雷布拉尔爵士	name	npc	Sir Rebral
 Toby	托比	name	npc	Toby
-Twiggy O'Korn	特威吉‧奥科恩	name	npc	Twiggy O'Korn
+Twiggy O'Korn	特威吉.奥科恩	name	npc	Twiggy O'Korn
 Spotted kebbit	斑点凯比特兔	name	npc	Spotted kebbit
 Dark kebbit	黑凯比特兔	name	npc	Dark kebbit
 Dashing kebbit	迅捷凯比特兔	name	npc	Dashing kebbit
@@ -14217,7 +14216,7 @@ Queen spawn	女王幼体	name	npc	Queen spawn
 Giant Mole	巨型鼹鼠	name	npc	Giant Mole
 Baby Mole	鼹鼠幼崽	name	npc	Baby Mole
 Juna	朱娜	name	npc	Juna
-Simon Templeton	西蒙‧坦普尔顿	name	npc	Simon Templeton
+Simon Templeton	西蒙.坦普尔顿	name	npc	Simon Templeton
 Pyramid block	金字塔方块	name	npc	Pyramid block
 Cap'n Izzy No-Beard	没有胡子的伊兹船长	name	npc	Cap'n Izzy No-Beard
 Raulyn	劳林	name	npc	Raulyn
@@ -14236,15 +14235,15 @@ Frenzied ice troll runt	狂怒冰巨魔幼崽	name	npc	Frenzied ice troll runt
 Frenzied ice troll male	狂怒冰巨魔雄性	name	npc	Frenzied ice troll male
 Frenzied ice troll female	狂怒冰巨魔雌性	name	npc	Frenzied ice troll female
 Frenzied ice troll grunt	狂怒冰巨魔步兵	name	npc	Frenzied ice troll grunt
-Bork Sigmundson	博克‧西格蒙德森	name	npc	Bork Sigmundson
+Bork Sigmundson	博克.西格蒙德森	name	npc	Bork Sigmundson
 Martin the Master Gardener	园艺大师马丁	name	npc	Martin the Master Gardener
 Storm cloud	风暴云	name	npc	Storm cloud
 Co-ordinator	协调员	name	npc	Co-ordinator
 Slim Louie	瘦路易	name	npc	Slim Louie
 Fat Rocco	胖罗科	name	npc	Fat Rocco
 Gatekeeper	守门人	name	npc	Gatekeeper
-Zandar Horfyre	赞达尔‧霍菲尔	name	npc	Zandar Horfyre
-Zanaris choir	萨那利斯合唱团	name	npc	Zanaris choir
+Zandar Horfyre	赞达尔.霍菲尔	name	npc	Zandar Horfyre
+Zanaris choir	扎纳里斯合唱团	name	npc	Zanaris choir
 Tanglefoot	缠足怪	name	npc	Tanglefoot
 Baby tanglefoot	小缠足怪	name	npc	Baby tanglefoot
 Fairy chef	仙子厨师	name	npc	Fairy chef
@@ -14253,7 +14252,7 @@ Summoned Soul	被召唤的灵魂	name	npc	Summoned Soul
 Patchy	帕奇	name	npc	Patchy
 Abyssal orphan	深渊孤儿	name	npc	Abyssal orphan
 Abyssal Sire	深渊领主	name	npc	Abyssal Sire
-TzRek-Jad	特兹雷克‧贾德	name	npc	TzRek-Jad
+TzRek-Jad	特兹雷克.贾德	name	npc	TzRek-Jad
 Bast	巴斯特	name	npc	Bast
 Drogo dwarf	矮人德罗戈	name	npc	Drogo dwarf
 Flynn	弗林	name	npc	Flynn
@@ -14309,7 +14308,7 @@ White Chisel Secretary	白凿秘书	name	npc	White Chisel Secretary
 Silver Cog Secretary	银齿轮秘书	name	npc	Silver Cog Secretary
 Brown Engine Secretary	棕引擎秘书	name	npc	Brown Engine Secretary
 Red Axe Secretary	红斧秘书	name	npc	Red Axe Secretary
-Orlando Smith	奥兰多‧史密斯	name	npc	Orlando Smith
+Orlando Smith	奥兰多.史密斯	name	npc	Orlando Smith
 Natural historian	自然历史学家	name	npc	Natural historian
 Leech display	水蛭展示柜	name	npc	Leech display
 Sea slugs display	海蛞蝓展示柜	name	npc	Sea slugs display
@@ -14367,12 +14366,12 @@ Ice Troll King (hard)	冰巨魔之王 (困难)	name	npc	Ice Troll King (hard)
 Black demon (hard)	黑恶魔 (困难)	name	npc	Black demon (hard)
 Bloodhound	寻血猎犬	name	npc	Bloodhound
 Glod (hard)	格洛德 (困难)	name	npc	Glod (hard)
-Treus Dayth (hard)	特鲁斯‧戴斯 (困难)	name	npc	Treus Dayth (hard)
+Treus Dayth (hard)	特鲁斯.戴斯 (困难)	name	npc	Treus Dayth (hard)
 Black Knight Titan (hard)	黑骑士泰坦 (困难)	name	npc	Black Knight Titan (hard)
 Dagannoth mother (hard)	深潜者之母 (困难)	name	npc	Dagannoth mother (hard)
 Evil Chicken (hard)	邪恶鸡 (困难)	name	npc	Evil Chicken (hard)
 Culinaromancer (hard)	烹饪魔法师 (困难)	name	npc	Culinaromancer (hard)
-Agrith-Na-Na (hard)	阿格里斯‧纳‧纳 (困难)	name	npc	Agrith-Na-Na (hard)
+Agrith-Na-Na (hard)	阿格里斯.纳.纳 (困难)	name	npc	Agrith-Na-Na (hard)
 Flambeed (hard)	火焰 (困难)	name	npc	Flambeed (hard)
 Karamel (hard)	卡拉梅尔 (困难)	name	npc	Karamel (hard)
 Dessourt (hard)	德苏尔特 (困难)	name	npc	Dessourt (hard)
@@ -14386,7 +14385,7 @@ Giant Roc (hard)	巨型巨鸟 (困难)	name	npc	Giant Roc (hard)
 Slagilith (hard)	斯拉吉利斯 (困难)	name	npc	Slagilith (hard)
 Moss Guardian (hard)	苔藓守护者 (困难)	name	npc	Moss Guardian (hard)
 Skeleton Hellhound (hard)	骷髅地狱犬 (困难)	name	npc	Skeleton Hellhound (hard)
-Agrith Naar (hard)	阿格里斯‧纳尔 (困难)	name	npc	Agrith Naar (hard)
+Agrith Naar (hard)	阿格里斯.纳尔 (困难)	name	npc	Agrith Naar (hard)
 King Roald (hard)	罗尔德国王 (困难)	name	npc	King Roald (hard)
 Khazard warlord (hard)	卡扎德军阀 (困难)	name	npc	Khazard warlord (hard)
 Dad (hard)	'爸爸'' (困难)	name	npc	Dad (hard)
@@ -14423,7 +14422,7 @@ Financial Seer	财务先知	name	npc	Financial Seer
 Callisto	卡利斯托	name	npc	Callisto
 Venenatis	维内纳蒂斯	name	npc	Venenatis
 Financial Wizard	财务法师	name	npc	Financial Wizard
-Magnus Gram	马格努斯‧格拉姆	name	npc	Magnus Gram
+Magnus Gram	马格努斯.格拉姆	name	npc	Magnus Gram
 Barker	巴克	name	npc	Barker
 Fidelio	菲德利奥	name	npc	Fidelio
 Sbott	斯博特	name	npc	Sbott
@@ -14431,7 +14430,7 @@ Roavar	罗阿瓦	name	npc	Roavar
 Herquin	赫昆	name	npc	Herquin
 Rommik	罗米克	name	npc	Rommik
 Blurberry	布鲁贝利	name	npc	Blurberry
-Romily Weaklax	罗米利‧威克拉克斯	name	npc	Romily Weaklax
+Romily Weaklax	罗米利.威克拉克斯	name	npc	Romily Weaklax
 Prospector Percy	探矿者珀西	name	npc	Prospector Percy
 Pay-dirt	富矿砂	name	npc	Pay-dirt
 Runite Minor	符文矿脉	name	npc	Runite Minor
@@ -14463,7 +14462,7 @@ Dagannoth Rex Jr.	深潜者帝王幼崽	name	npc	Dagannoth Rex Jr.
 Kree'arra Jr.	克里阿拉幼崽	name	npc	Kree'arra Jr.
 General Graardor Jr.	格拉多尔将军幼崽	name	npc	General Graardor Jr.
 Zilyana Jr.	齐利亚娜幼崽	name	npc	Zilyana Jr.
-K'ril Tsutsaroth Jr.	克里尔‧楚萨罗斯幼崽	name	npc	K'ril Tsutsaroth Jr.
+K'ril Tsutsaroth Jr.	克里尔.楚萨罗斯幼崽	name	npc	K'ril Tsutsaroth Jr.
 Prince Black Dragon	黑龙王子	name	npc	Prince Black Dragon
 Kalphite Princess	卡尔夫特虫公主	name	npc	Kalphite Princess
 Smoke Devil	烟魔	name	npc	Smoke Devil
@@ -14491,7 +14490,7 @@ Pieve	皮芙	name	npc	Pieve
 Combat Test	战斗测试	name	npc	Combat Test
 Maniacal monkey	疯狂的猴子	name	npc	Maniacal monkey
 Monkey guard	猴子守卫	name	npc	Monkey guard
-Lammy Langle	拉米‧兰格尔	name	npc	Lammy Langle
+Lammy Langle	拉米.兰格尔	name	npc	Lammy Langle
 Gee	吉	name	npc	Gee
 Great blue heron	大蓝鹭	name	npc	Great blue heron
 Wounded soldier	受伤的士兵	name	npc	Wounded soldier
@@ -14551,7 +14550,7 @@ Lorraine	洛林	name	npc	Lorraine
 Ross and Ben	罗斯和本	name	npc	Ross and Ben
 Dobwinkle	多布林克尔	name	npc	Dobwinkle
 Alexander	亚历山大	name	npc	Alexander
-Charlie Brown	查理‧布朗	name	npc	Charlie Brown
+Charlie Brown	查理.布朗	name	npc	Charlie Brown
 Reanimated goblin	被复活的哥布林	name	npc	Reanimated goblin
 Reanimated monkey	被复活的猴子	name	npc	Reanimated monkey
 Reanimated imp	被复活的小恶魔	name	npc	Reanimated imp
@@ -14590,7 +14589,7 @@ Rassain	拉赛恩	name	npc	Rassain
 Mofina	莫菲娜	name	npc	Mofina
 Novice	新手	name	npc	Novice
 Regath	雷加斯	name	npc	Regath
-Batt Mellamy	巴特‧梅拉米	name	npc	Batt Mellamy
+Batt Mellamy	巴特.梅拉米	name	npc	Batt Mellamy
 Freald	弗雷尔德	name	npc	Freald
 Cob	科布	name	npc	Cob
 Ouditor	审计员	name	npc	Ouditor
@@ -14649,7 +14648,7 @@ Altar	祭坛	name	npc	Altar
 Dark Ankou	黑暗昂骷	name	npc	Dark Ankou
 Kazgar	卡兹加	name	npc	Kazgar
 Watson	沃森	name	npc	Watson
-Gruff McScruff	格拉夫‧麦克斯卡夫	name	npc	Gruff McScruff
+Gruff McScruff	格拉夫.麦克斯卡夫	name	npc	Gruff McScruff
 Falo the Bard	吟游诗人法洛	name	npc	Falo the Bard
 Ancient Wizard	古代巫师	name	npc	Ancient Wizard
 Brassican Mage	卷心菜法师	name	npc	Brassican Mage
@@ -14696,7 +14695,7 @@ Marble gargoyle	大理石石像鬼	name	npc	Marble gargoyle
 Night beast	暗夜野兽	name	npc	Night beast
 Greater abyssal demon	大型深渊恶魔	name	npc	Greater abyssal demon
 Nechryarch	死灵魔领主	name	npc	Nechryarch
-Lieve McCracken	利芙‧麦克拉肯	name	npc	Lieve McCracken
+Lieve McCracken	利芙.麦克拉肯	name	npc	Lieve McCracken
 Undead Combat dummy	亡灵训练假人	name	npc	Undead Combat dummy
 Count Check	检查伯爵	name	npc	Count Check
 Bologa	博洛加	name	npc	Bologa
@@ -14725,7 +14724,7 @@ Pizazz Hat	皮扎兹帽	name	npc	Pizazz Hat
 Derwen	德文	name	npc	Derwen
 Energy ball	能量球	name	npc	Energy ball
 Porazdir	波拉兹迪尔	name	npc	Porazdir
-Gnormadium Avlafrim	格诺马迪姆‧阿夫拉弗里姆	name	npc	Gnormadium Avlafrim
+Gnormadium Avlafrim	格诺马迪姆.阿夫拉弗里姆	name	npc	Gnormadium Avlafrim
 Olmlet	小奥姆	name	npc	Olmlet
 Vanguard	先锋队	name	npc	Vanguard
 Vespula	维斯普拉	name	npc	Vespula
@@ -14743,7 +14742,7 @@ Deathly ranger	死亡射手	name	npc	Deathly ranger
 Deathly mage	死亡法师	name	npc	Deathly mage
 Muttadile	穆塔迪尔	name	npc	Muttadile
 Meat tree	血肉之树	name	npc	Meat tree
-Vasa Nistirio	瓦萨‧尼斯蒂里奥	name	npc	Vasa Nistirio
+Vasa Nistirio	瓦萨.尼斯蒂里奥	name	npc	Vasa Nistirio
 Glowing crystal	发光水晶	name	npc	Glowing crystal
 Guardian	守护者	name	npc	Guardian
 Jewelled Crab	宝石蟹	name	npc	Jewelled Crab
@@ -14796,33 +14795,33 @@ Hieve	希夫	name	npc	Hieve
 Disciple of Yama	阎魔的门徒	name	npc	Disciple of Yama
 Eve	夏娃	name	npc	Eve
 Solztun	索尔兹顿	name	npc	Solztun
-Jal-Nib-Rek	贾尔‧尼布‧雷克	name	npc	Jal-Nib-Rek
-TzHaar-Ket-Zuh	特扎尔‧凯特‧祖	name	npc	TzHaar-Ket-Zuh
-TzHaar-Ket-Yil	特扎尔‧凯特‧伊尔	name	npc	TzHaar-Ket-Yil
-TzHaar-Mej-Dir	特扎尔‧梅‧迪尔	name	npc	TzHaar-Mej-Dir
-TzHaar-Mej-Bal	特扎尔‧梅‧巴尔	name	npc	TzHaar-Mej-Bal
-TzHaar-Hur-Zal	特扎尔‧赫尔‧扎尔	name	npc	TzHaar-Hur-Zal
-TzHaar-Hur-Rin	特扎尔‧赫尔‧林	name	npc	TzHaar-Hur-Rin
-Jal-Nib	贾尔‧尼布	name	npc	Jal-Nib
-Jal-MejRah	贾尔‧梅拉	name	npc	Jal-MejRah
-Jal-Ak	贾尔‧阿克	name	npc	Jal-Ak
-Jal-AkRek-Mej	贾尔‧阿克雷克‧梅	name	npc	Jal-AkRek-Mej
-Jal-AkRek-Xil	贾尔‧阿克雷克‧希尔	name	npc	Jal-AkRek-Xil
-Jal-AkRek-Ket	贾尔‧阿克雷克‧凯特	name	npc	Jal-AkRek-Ket
+Jal-Nib-Rek	贾尔.尼布.雷克	name	npc	Jal-Nib-Rek
+TzHaar-Ket-Zuh	特扎尔.凯特.祖	name	npc	TzHaar-Ket-Zuh
+TzHaar-Ket-Yil	特扎尔.凯特.伊尔	name	npc	TzHaar-Ket-Yil
+TzHaar-Mej-Dir	特扎尔.梅.迪尔	name	npc	TzHaar-Mej-Dir
+TzHaar-Mej-Bal	特扎尔.梅.巴尔	name	npc	TzHaar-Mej-Bal
+TzHaar-Hur-Zal	特扎尔.赫尔.扎尔	name	npc	TzHaar-Hur-Zal
+TzHaar-Hur-Rin	特扎尔.赫尔.林	name	npc	TzHaar-Hur-Rin
+Jal-Nib	贾尔.尼布	name	npc	Jal-Nib
+Jal-MejRah	贾尔.梅拉	name	npc	Jal-MejRah
+Jal-Ak	贾尔.阿克	name	npc	Jal-Ak
+Jal-AkRek-Mej	贾尔.阿克雷克.梅	name	npc	Jal-AkRek-Mej
+Jal-AkRek-Xil	贾尔.阿克雷克.希尔	name	npc	Jal-AkRek-Xil
+Jal-AkRek-Ket	贾尔.阿克雷克.凯特	name	npc	Jal-AkRek-Ket
 Jal-ImKot	刺蛇	name	npc	Jal-ImKot
-Jal-Xil	贾尔‧希尔	name	npc	Jal-Xil
-Jal-Zek	贾尔‧泽克	name	npc	Jal-Zek
-JalTok-Jad	贾尔托克‧贾德	name	npc	JalTok-Jad
-TzKal-Zuk	特兹卡尔‧祖克	name	npc	TzKal-Zuk
+Jal-Xil	贾尔.希尔	name	npc	Jal-Xil
+Jal-Zek	贾尔.泽克	name	npc	Jal-Zek
+JalTok-Jad	贾尔托克.贾德	name	npc	JalTok-Jad
+TzKal-Zuk	特兹卡尔.祖克	name	npc	TzKal-Zuk
 Ancestral Glyph	先祖符文	name	npc	Ancestral Glyph
-Jal-MejJak	贾尔‧梅贾克	name	npc	Jal-MejJak
+Jal-MejJak	贾尔.梅贾克	name	npc	Jal-MejJak
 Rocky support	岩石支撑	name	npc	Rocky support
 Gadrin	加德林	name	npc	Gadrin
 Hendor	亨多尔	name	npc	Hendor
 Yarsul	亚尔苏尔	name	npc	Yarsul
 Belona	贝洛娜	name	npc	Belona
 Utrec	乌特雷克	name	npc	Utrec
-Kylie Minnow	凯莉‧米诺	name	npc	Kylie Minnow
+Kylie Minnow	凯莉.米诺	name	npc	Kylie Minnow
 Recruiter	招募员	name	npc	Recruiter
 Captain Cleive	克莱夫船长	name	npc	Captain Cleive
 Wizard Mizgog	魔法师米兹戈格	name	npc	Wizard Mizgog
@@ -14846,7 +14845,7 @@ Ceto	塞托	name	npc	Ceto
 Mairin	梅林	name	npc	Mairin
 Herbiboar	草药野猪	name	npc	Herbiboar
 Mattimeo	马蒂梅奥	name	npc	Mattimeo
-Charles Charlington	查尔斯‧查林顿	name	npc	Charles Charlington
+Charles Charlington	查尔斯.查林顿	name	npc	Charles Charlington
 Long-tailed Wyvern	长尾飞龙	name	npc	Long-tailed Wyvern
 Taloned Wyvern	利爪飞龙	name	npc	Taloned Wyvern
 Spitting Wyvern	喷吐飞龙	name	npc	Spitting Wyvern
@@ -14867,24 +14866,24 @@ Large boulder	大岩石	name	npc	Large boulder
 Medium boulder	中型岩石	name	npc	Medium boulder
 Small boulder	小岩石	name	npc	Small boulder
 Lava beast	熔岩兽	name	npc	Lava beast
-Dusk	怪诞守卫者‧黄昏	name	npc	Dusk
-Dawn	怪诞守卫者‧黎明	name	npc	Dawn
+Dusk	怪诞守卫者.黄昏	name	npc	Dusk
+Dawn	怪诞守卫者.黎明	name	npc	Dawn
 Revenant imp	亡灵小恶魔	name	npc	Revenant imp
 Midnight	午夜	name	npc	Midnight
 Noon	正午	name	npc	Noon
 Sand Snake (hard)	沙蛇 (困难)	name	npc	Sand Snake (hard)
 Sand Snake	沙蛇	name	npc	Sand Snake
-Artur Hosidius	阿图尔‧霍西迪乌斯	name	npc	Artur Hosidius
+Artur Hosidius	阿图尔.霍西迪乌斯	name	npc	Artur Hosidius
 Butler Jarvis	管家贾维斯	name	npc	Butler Jarvis
 Chef Olivia	厨师奥利维亚	name	npc	Chef Olivia
 Galana	加拉娜	name	npc	Galana
-Tomas Lawry	托马斯‧劳里	name	npc	Tomas Lawry
-Robert O'Reilly	罗伯特‧奥赖利	name	npc	Robert O'Reilly
-Devan Rutter	德文‧拉特	name	npc	Devan Rutter
-Conrad King	康拉德‧金	name	npc	Conrad King
+Tomas Lawry	托马斯.劳里	name	npc	Tomas Lawry
+Robert O'Reilly	罗伯特.奥赖利	name	npc	Robert O'Reilly
+Devan Rutter	德文.拉特	name	npc	Devan Rutter
+Conrad King	康拉德.金	name	npc	Conrad King
 The Queen of Thieves	盗贼女王	name	npc	The Queen of Thieves
 Lady Shauna Piscarilius	皮斯卡里琉斯夫人肖娜	name	npc	Lady Shauna Piscarilius
-Sophia Hughes	索菲娅‧休斯	name	npc	Sophia Hughes
+Sophia Hughes	索菲娅.休斯	name	npc	Sophia Hughes
 Revenant goblin	亡灵哥布林	name	npc	Revenant goblin
 Revenant pyrefiend	亡灵烈焰魔	name	npc	Revenant pyrefiend
 Revenant hobgoblin	亡灵大哥布林	name	npc	Revenant hobgoblin
@@ -14897,7 +14896,7 @@ Revenant knight	亡灵骑士	name	npc	Revenant knight
 Revenant dragon	亡灵龙	name	npc	Revenant dragon
 Corsair Traitor (hard)	海盗叛徒 (困难)	name	npc	Corsair Traitor (hard)
 Corsair Traitor	海盗叛徒	name	npc	Corsair Traitor
-Alec Kincade	亚历克‧金凯德	name	npc	Alec Kincade
+Alec Kincade	亚历克.金凯德	name	npc	Alec Kincade
 Ponts the Bridgemaster	桥梁大师庞茨	name	npc	Ponts the Bridgemaster
 Erdan	埃尔丹	name	npc	Erdan
 Primula	普里穆拉	name	npc	Primula
@@ -14920,7 +14919,7 @@ Ogress Warrior	女食人魔战士	name	npc	Ogress Warrior
 Ogress Shaman	女食人魔萨满	name	npc	Ogress Shaman
 Corrupt Lizardman (hard)	堕落蜥蜴人 (困难)	name	npc	Corrupt Lizardman (hard)
 Corrupt Lizardman	堕落蜥蜴人	name	npc	Corrupt Lizardman
-Phileas Rimor	菲利亚斯‧里莫尔	name	npc	Phileas Rimor
+Phileas Rimor	菲利亚斯.里莫尔	name	npc	Phileas Rimor
 Crunchy	克伦奇	name	npc	Crunchy
 Tim	蒂姆	name	npc	Tim
 Dave	戴夫	name	npc	Dave
@@ -14929,8 +14928,8 @@ Art	阿特	name	npc	Art
 Gnosi	格诺西	name	npc	Gnosi
 Historian Duffy	历史学家达菲	name	npc	Historian Duffy
 Corporeal Critter	实体生物	name	npc	Corporeal Critter
-TzRek-Zuk	特兹雷克‧祖克	name	npc	TzRek-Zuk
-King Narnode Shareen	纳罗德‧沙林国王	name	npc	King Narnode Shareen
+TzRek-Zuk	特兹雷克.祖克	name	npc	TzRek-Zuk
+King Narnode Shareen	纳罗德.沙林国王	name	npc	King Narnode Shareen
 Natural Historian	自然历史学家	name	npc	Natural Historian
 Mysterious Voice	神秘声音	name	npc	Mysterious Voice
 Vorki	小沃卡斯	name	npc	Vorki
@@ -14947,7 +14946,7 @@ Zombified Spawn	僵尸化幼体	name	npc	Zombified Spawn
 Stone Guardian	石头守护者	name	npc	Stone Guardian
 Galvek	加尔维克	name	npc	Galvek
 Tsunami	海啸	name	npc	Tsunami
-Dallas Jones	达拉斯‧琼斯	name	npc	Dallas Jones
+Dallas Jones	达拉斯.琼斯	name	npc	Dallas Jones
 Not Bob	不是鲍勃	name	npc	Not Bob
 Camorra	卡莫拉	name	npc	Camorra
 Tristan	特里斯坦	name	npc	Tristan
@@ -14974,15 +14973,15 @@ Mysterious Stranger	神秘陌生人	name	npc	Mysterious Stranger
 Vyrelord	吸血鬼领主	name	npc	Vyrelord
 Vyrelady	吸血鬼女领主	name	npc	Vyrelady
 Harpert	哈珀特	name	npc	Harpert
-Vertida Sefalatis	维尔蒂达‧塞法拉蒂斯	name	npc	Vertida Sefalatis
-Flaygian Screwte	弗莱吉恩‧斯克鲁特	name	npc	Flaygian Screwte
-Mekritus A'hara	梅克里图斯‧阿哈拉	name	npc	Mekritus A'hara
-Andiess Juip	安迪耶斯‧朱伊普	name	npc	Andiess Juip
-Kael Forshaw	凯尔‧福肖	name	npc	Kael Forshaw
-Verzik Vitur	维齐克‧维图尔	name	npc	Verzik Vitur
+Vertida Sefalatis	维尔蒂达.塞法拉蒂斯	name	npc	Vertida Sefalatis
+Flaygian Screwte	弗莱吉恩.斯克鲁特	name	npc	Flaygian Screwte
+Mekritus A'hara	梅克里图斯.阿哈拉	name	npc	Mekritus A'hara
+Andiess Juip	安迪耶斯.朱伊普	name	npc	Andiess Juip
+Kael Forshaw	凯尔.福肖	name	npc	Kael Forshaw
+Verzik Vitur	维齐克.维图尔	name	npc	Verzik Vitur
 Abomination	憎恶怪	name	npc	Abomination
-Nylocas Ischyros	尼洛卡斯‧伊斯奇罗斯	name	npc	Nylocas Ischyros
-Nylocas Toxobolos	尼洛卡斯‧托克索博洛斯	name	npc	Nylocas Toxobolos
+Nylocas Ischyros	尼洛卡斯.伊斯奇罗斯	name	npc	Nylocas Ischyros
+Nylocas Toxobolos	尼洛卡斯.托克索博洛斯	name	npc	Nylocas Toxobolos
 Andras	安德拉斯	name	npc	Andras
 Yenrab	延拉布	name	npc	Yenrab
 Lahsram	拉赫斯拉姆	name	npc	Lahsram
@@ -14998,17 +14997,17 @@ Swampy log	沼泽原木	name	npc	Swampy log
 Vyre Orator	吸血鬼演说家	name	npc	Vyre Orator
 Lil' Zik	小齐克	name	npc	Lil' Zik
 Xarpus	扎普斯	name	npc	Xarpus
-Nylocas Hagios	尼洛卡斯‧哈吉奥斯	name	npc	Nylocas Hagios
-Nylocas Vasilias	尼洛卡斯‧瓦西利亚斯	name	npc	Nylocas Vasilias
+Nylocas Hagios	尼洛卡斯.哈吉奥斯	name	npc	Nylocas Hagios
+Nylocas Vasilias	尼洛卡斯.瓦西利亚斯	name	npc	Nylocas Vasilias
 Pestilent Bloat	瘟疫肿胀怪	name	npc	Pestilent Bloat
 The Maiden of Sugadinti	苏加丁蒂的少女	name	npc	The Maiden of Sugadinti
-Nylocas Matomenos	尼洛卡斯‧马托梅诺斯	name	npc	Nylocas Matomenos
+Nylocas Matomenos	尼洛卡斯.马托梅诺斯	name	npc	Nylocas Matomenos
 Blood spawn	血裔	name	npc	Blood spawn
 Abigaila	阿比盖拉	name	npc	Abigaila
 Web	网	name	npc	Web
 Collapsing Pillar	崩塌的柱子	name	npc	Collapsing Pillar
 Supporting Pillar	支撑柱	name	npc	Supporting Pillar
-Nylocas Athanatos	尼洛卡斯‧阿塔纳托斯	name	npc	Nylocas Athanatos
+Nylocas Athanatos	尼洛卡斯.阿塔纳托斯	name	npc	Nylocas Athanatos
 Sotetseg	索特塞格	name	npc	Sotetseg
 Nigel	奈杰尔	name	npc	Nigel
 Askeladden	阿斯卡拉登	name	npc	Askeladden
@@ -15045,55 +15044,53 @@ Nikkie	尼基	name	npc	Nikkie
 Rosie	罗西	name	npc	Rosie
 Alan	艾伦	name	npc	Alan
 Alexandra	亚历山德拉	name	npc	Alexandra
-Latlink Fastbell	拉特林克‧法斯特贝尔	name	npc	Latlink Fastbell
+Latlink Fastbell	拉特林克.法斯特贝尔	name	npc	Latlink Fastbell
 Elise	伊莉丝	name	npc	Elise
-arc_test_01	arc_test_01	name	npc	arc_test_01
-arc_test_02	arc_test_02	name	npc	arc_test_02
 Royal Guard	皇家守卫	name	npc	Royal Guard
 Undor	昂多尔	name	npc	Undor
 Thirus	西鲁斯	name	npc	Thirus
-Darcor quo Narga	达尔科‧夸‧纳尔加	name	npc	Darcor quo Narga
-Uurrak quo Narga	乌拉拉克‧夸‧纳尔加	name	npc	Uurrak quo Narga
-Marmor quo Narga	马莫尔‧夸‧纳尔加	name	npc	Marmor quo Narga
-Lornor quo Narga	洛诺尔‧夸‧纳尔加	name	npc	Lornor quo Narga
-Gorhak quo Narga	戈哈克‧夸‧纳尔加	name	npc	Gorhak quo Narga
-Fornek quo Maten	福内克‧夸‧马滕	name	npc	Fornek quo Maten
-Vornas quo Maten	沃纳斯‧夸‧马滕	name	npc	Vornas quo Maten
-Xorrah quo Sihar	索拉‧夸‧西哈尔	name	npc	Xorrah quo Sihar
-Corkat quo Sihar	科卡特‧夸‧西哈尔	name	npc	Corkat quo Sihar
-Lokraa quo Sihar	洛克拉‧夸‧西哈尔	name	npc	Lokraa quo Sihar
-Wengra quo Sihar	温格拉‧夸‧西哈尔	name	npc	Wengra quo Sihar
-Haldor quo Keran	哈尔多尔‧夸‧克兰	name	npc	Haldor quo Keran
-Vortas quo Keran	沃塔斯‧夸‧克兰	name	npc	Vortas quo Keran
-Mallak quo Keran	马拉克‧夸‧克兰	name	npc	Mallak quo Keran
-Richard Flintmaul	理查德‧弗林特莫尔	name	npc	Richard Flintmaul
+Darcor quo Narga	达尔科.夸.纳尔加	name	npc	Darcor quo Narga
+Uurrak quo Narga	乌拉拉克.夸.纳尔加	name	npc	Uurrak quo Narga
+Marmor quo Narga	马莫尔.夸.纳尔加	name	npc	Marmor quo Narga
+Lornor quo Narga	洛诺尔.夸.纳尔加	name	npc	Lornor quo Narga
+Gorhak quo Narga	戈哈克.夸.纳尔加	name	npc	Gorhak quo Narga
+Fornek quo Maten	福内克.夸.马滕	name	npc	Fornek quo Maten
+Vornas quo Maten	沃纳斯.夸.马滕	name	npc	Vornas quo Maten
+Xorrah quo Sihar	索拉.夸.西哈尔	name	npc	Xorrah quo Sihar
+Corkat quo Sihar	科卡特.夸.西哈尔	name	npc	Corkat quo Sihar
+Lokraa quo Sihar	洛克拉.夸.西哈尔	name	npc	Lokraa quo Sihar
+Wengra quo Sihar	温格拉.夸.西哈尔	name	npc	Wengra quo Sihar
+Haldor quo Keran	哈尔多尔.夸.克兰	name	npc	Haldor quo Keran
+Vortas quo Keran	沃塔斯.夸.克兰	name	npc	Vortas quo Keran
+Mallak quo Keran	马拉克.夸.克兰	name	npc	Mallak quo Keran
+Richard Flintmaul	理查德.弗林特莫尔	name	npc	Richard Flintmaul
 Doyen	资深成员	name	npc	Doyen
-Nurse Emma Gentsy	艾玛‧根齐护士	name	npc	Nurse Emma Gentsy
+Nurse Emma Gentsy	艾玛.根齐护士	name	npc	Nurse Emma Gentsy
 Lovakengj Engineer	洛瓦肯吉工程师	name	npc	Lovakengj Engineer
 General Vir	维尔将军	name	npc	General Vir
 Swamp frog	沼泽青蛙	name	npc	Swamp frog
 Shayzien Infiltrator	谢兹恩渗透者	name	npc	Shayzien Infiltrator
-Ket'sal K'uk	凯特萨尔‧库克	name	npc	Ket'sal K'uk
-Ek'ans Chan	埃坎斯‧陈	name	npc	Ek'ans Chan
+Ket'sal K'uk	凯特萨尔.库克	name	npc	Ket'sal K'uk
+Ek'ans Chan	埃坎斯.陈	name	npc	Ek'ans Chan
 Hespori	赫斯波里	name	npc	Hespori
 Flower	花	name	npc	Flower
-Guildmaster Jane	公会大师‧简	name	npc	Guildmaster Jane
+Guildmaster Jane	公会大师.简	name	npc	Guildmaster Jane
 Arno	阿诺	name	npc	Arno
-Felfiz Yaryus	费尔菲兹‧亚里乌斯	name	npc	Felfiz Yaryus
+Felfiz Yaryus	费尔菲兹.亚里乌斯	name	npc	Felfiz Yaryus
 Keith	基思	name	npc	Keith
 Ornate combat dummy	华丽的训练假人	name	npc	Ornate combat dummy
-Kaal-Ket-Jor	卡尔‧凯特‧乔尔	name	npc	Kaal-Ket-Jor
-Kaal-Mej-San	卡尔‧梅‧桑	name	npc	Kaal-Mej-San
-Kaal-Xil-Dar	卡尔‧希尔‧达尔	name	npc	Kaal-Xil-Dar
-Tarfol quo Maten	塔福尔‧夸‧马滕	name	npc	Tarfol quo Maten
-Kormar quo Maten	科马尔‧夸‧马滕	name	npc	Kormar quo Maten
-Garbek quo Maten	加贝克‧夸‧马滕	name	npc	Garbek quo Maten
-Orrvor quo Maten	奥尔沃尔‧夸‧马滕	name	npc	Orrvor quo Maten
+Kaal-Ket-Jor	卡尔.凯特.乔尔	name	npc	Kaal-Ket-Jor
+Kaal-Mej-San	卡尔.梅.桑	name	npc	Kaal-Mej-San
+Kaal-Xil-Dar	卡尔.希尔.达尔	name	npc	Kaal-Xil-Dar
+Tarfol quo Maten	塔福尔.夸.马滕	name	npc	Tarfol quo Maten
+Kormar quo Maten	科马尔.夸.马滕	name	npc	Kormar quo Maten
+Garbek quo Maten	加贝克.夸.马滕	name	npc	Garbek quo Maten
+Orrvor quo Maten	奥尔沃尔.夸.马滕	name	npc	Orrvor quo Maten
 Hydra	九头蛇	name	npc	Hydra
 Wyrm	蛇龙	name	npc	Wyrm
 Sulphur Lizard	硫磺蜥	name	npc	Sulphur Lizard
 Alchemical Hydra	炼金九头蛇	name	npc	Alchemical Hydra
-Konar quo Maten	科纳尔‧夸‧马滕	name	npc	Konar quo Maten
+Konar quo Maten	科纳尔.夸.马滕	name	npc	Konar quo Maten
 Taylor	泰勒	name	npc	Taylor
 Seaman Morris	水手莫里斯	name	npc	Seaman Morris
 Third Age Warrior	第三纪元战士	name	npc	Third Age Warrior
@@ -15113,7 +15110,7 @@ Fat Tony	胖托尼	name	npc	Fat Tony
 Ancient Fungi	古代真菌	name	npc	Ancient Fungi
 Noterazzo	诺特拉佐	name	npc	Noterazzo
 Diango	迪亚戈	name	npc	Diango
-Leke quo Keran	莱克‧夸‧克兰	name	npc	Leke quo Keran
+Leke quo Keran	莱克.夸.克兰	name	npc	Leke quo Keran
 Larran	拉兰	name	npc	Larran
 Temple Spider	神殿蜘蛛	name	npc	Temple Spider
 Brother Aimeri	艾梅里兄弟	name	npc	Brother Aimeri
@@ -15264,8 +15261,8 @@ Galathil	加拉希尔	name	npc	Galathil
 Turgon	图尔巩	name	npc	Turgon
 Lenwe	伦威	name	npc	Lenwe
 Aranwe	阿兰威	name	npc	Aranwe
-Lord Baxtorian Cadarn	巴克斯托里安‧卡达恩领主	name	npc	Lord Baxtorian Cadarn
-Lord Iestin Iorwerth	伊斯廷‧伊尔沃斯领主	name	npc	Lord Iestin Iorwerth
+Lord Baxtorian Cadarn	巴克斯托里安.卡达恩领主	name	npc	Lord Baxtorian Cadarn
+Lord Iestin Iorwerth	伊斯廷.伊尔沃斯领主	name	npc	Lord Iestin Iorwerth
 Reese	里斯	name	npc	Reese
 Conwenna	康薇娜	name	npc	Conwenna
 Alwyn	阿尔温	name	npc	Alwyn
@@ -15295,11 +15292,11 @@ Llio	利奥	name	npc	Llio
 Efa	艾法	name	npc	Efa
 Lliann	利安	name	npc	Lliann
 Rhoddwr Tan	塔恩罗多尔	name	npc	Rhoddwr Tan
-Meddwl Ymlaen Llaw	梅德维尔‧伊姆莱恩‧拉乌	name	npc	Meddwl Ymlaen Llaw
-Lleidr Golau	莱德尔‧戈劳	name	npc	Lleidr Golau
-Gwerin Hapus	格韦林‧哈普斯	name	npc	Gwerin Hapus
-Preswylwyr Dall	普雷斯威尔维尔‧达尔	name	npc	Preswylwyr Dall
-Marwolaeth Dawnsio	马沃尔莱斯‧道恩西奥	name	npc	Marwolaeth Dawnsio
+Meddwl Ymlaen Llaw	梅德维尔.伊姆莱恩.拉乌	name	npc	Meddwl Ymlaen Llaw
+Lleidr Golau	莱德尔.戈劳	name	npc	Lleidr Golau
+Gwerin Hapus	格韦林.哈普斯	name	npc	Gwerin Hapus
+Preswylwyr Dall	普雷斯威尔维尔.达尔	name	npc	Preswylwyr Dall
+Marwolaeth Dawnsio	马沃尔莱斯.道恩西奥	name	npc	Marwolaeth Dawnsio
 Raven	雷文	name	npc	Raven
 Lenny	伦尼	name	npc	Lenny
 Floki	弗洛基	name	npc	Floki
@@ -15334,7 +15331,7 @@ Sister Aseret	阿塞雷特修女	name	npc	Sister Aseret
 Sister Naoj	娜奥吉修女	name	npc	Sister Naoj
 Sister Salohcin	萨洛欣修女	name	npc	Sister Salohcin
 Lumiere	卢米埃尔	name	npc	Lumiere
-Daer Krand	戴尔‧克兰德	name	npc	Daer Krand
+Daer Krand	戴尔.克兰德	name	npc	Daer Krand
 Strong Ronny	强壮的罗尼	name	npc	Strong Ronny
 Shura	舒拉	name	npc	Shura
 Acorn	橡子	name	npc	Acorn
@@ -15343,7 +15340,7 @@ Parasite	寄生虫	name	npc	Parasite
 Husk	空壳	name	npc	Husk
 Infernal pyrelord	地狱火焰领主	name	npc	Infernal pyrelord
 Sister Senga	森加修女	name	npc	Sister Senga
-Ent trunk	树精树干	name	npc	Ent trunk
+Ent trunk	树人树干	name	npc	Ent trunk
 Master Navigator	首席航海家	name	npc	Master Navigator
 Hameln the Jester	小丑哈梅林	name	npc	Hameln the Jester
 Hanchen the Hound	猎犬汉钦	name	npc	Hanchen the Hound
@@ -15352,20 +15349,20 @@ Enraged Tektiny	愤怒的小泰克顿	name	npc	Enraged Tektiny
 Flying Vespina	飞翔的小维斯皮娜	name	npc	Flying Vespina
 Carl	卡尔	name	npc	Carl
 Kroy	克罗伊	name	npc	Kroy
-Damien Leucurte	达米恩‧勒库尔特	name	npc	Damien Leucurte
+Damien Leucurte	达米恩.勒库尔特	name	npc	Damien Leucurte
 Lord Crombwick	克伦布威克领主	name	npc	Lord Crombwick
 Acidic Bloodveld	酸血魔	name	npc	Acidic Bloodveld
-Lord Alexei Jovkai	阿列克谢‧乔夫凯领主	name	npc	Lord Alexei Jovkai
-Lowerniel Drakan	洛厄尼尔‧德雷坎	name	npc	Lowerniel Drakan
+Lord Alexei Jovkai	阿列克谢.乔夫凯领主	name	npc	Lord Alexei Jovkai
+Lowerniel Drakan	洛厄尼尔.德雷坎	name	npc	Lowerniel Drakan
 Prisoner	囚犯	name	npc	Prisoner
-Desmodus Lasiurus	德斯莫杜斯‧拉西乌鲁斯	name	npc	Desmodus Lasiurus
-Mordan Nikazsi	莫尔丹‧尼卡兹西	name	npc	Mordan Nikazsi
-Maria Gadderanks	玛丽亚‧加德兰克斯	name	npc	Maria Gadderanks
-Ron Gadderanks	罗恩‧加德兰克斯	name	npc	Ron Gadderanks
+Desmodus Lasiurus	德斯莫杜斯.拉西乌鲁斯	name	npc	Desmodus Lasiurus
+Mordan Nikazsi	莫尔丹.尼卡兹西	name	npc	Mordan Nikazsi
+Maria Gadderanks	玛丽亚.加德兰克斯	name	npc	Maria Gadderanks
+Ron Gadderanks	罗恩.加德兰克斯	name	npc	Ron Gadderanks
 Vyrewatch Sentinel	精锐吸血鬼哨兵	name	npc	Vyrewatch Sentinel
-Curpile Fyod	库皮尔‧菲奥德	name	npc	Curpile Fyod
-Sani Piliu	萨尼‧皮利乌	name	npc	Sani Piliu
-Harold Evans	哈罗德‧埃文斯	name	npc	Harold Evans
+Curpile Fyod	库皮尔.菲奥德	name	npc	Curpile Fyod
+Sani Piliu	萨尼.皮利乌	name	npc	Sani Piliu
+Harold Evans	哈罗德.埃文斯	name	npc	Harold Evans
 Drezel	德雷泽尔	name	npc	Drezel
 Dark Squirrel	黑暗松鼠	name	npc	Dark Squirrel
 Knight of the Owl	猫头鹰骑士	name	npc	Knight of the Owl
@@ -15382,44 +15379,44 @@ fishrunner82	fishrunner82	name	npc	fishrunner82
 weast side49	weast side49	name	npc	weast side49
 c0lect0r890	c0lect0r890	name	npc	c0lect0r890
 Owl	猫头鹰	name	npc	Owl
-Noranna Tytanin	诺兰娜‧泰塔宁	name	npc	Noranna Tytanin
-Valentin Rasputin	瓦伦丁‧拉斯普京	name	npc	Valentin Rasputin
-Von van Von	冯‧范‧冯	name	npc	Von van Von
-Vlad Bechstein	弗拉德‧贝希斯坦	name	npc	Vlad Bechstein
-Draconis Sanguine	德拉科尼斯‧桑奎因	name	npc	Draconis Sanguine
-Mort Nightshade	莫特‧奈特谢德	name	npc	Mort Nightshade
+Noranna Tytanin	诺兰娜.泰塔宁	name	npc	Noranna Tytanin
+Valentin Rasputin	瓦伦丁.拉斯普京	name	npc	Valentin Rasputin
+Von van Von	冯.范.冯	name	npc	Von van Von
+Vlad Bechstein	弗拉德.贝希斯坦	name	npc	Vlad Bechstein
+Draconis Sanguine	德拉科尼斯.桑奎因	name	npc	Draconis Sanguine
+Mort Nightshade	莫特.奈特谢德	name	npc	Mort Nightshade
 Vampyrus Diaemus	吸血鬼迪亚姆斯	name	npc	Vampyrus Diaemus
-Carnivus Belamorta	卡尼乌斯‧贝拉莫塔	name	npc	Carnivus Belamorta
-Vormar Vakan	沃马尔‧瓦坎	name	npc	Vormar Vakan
-Misdrievus Shadum	米斯德里乌斯‧沙杜姆	name	npc	Misdrievus Shadum
-Vlad Diaemus	弗拉德‧迪亚姆斯	name	npc	Vlad Diaemus
-Noctillion Lugosi	诺克蒂利恩‧卢戈西	name	npc	Noctillion Lugosi
-Alek Constantine	阿列克‧康斯坦丁	name	npc	Alek Constantine
-Grigor Rasputin	格里戈尔‧拉斯普京	name	npc	Grigor Rasputin
-Haemas Lamescus	海马斯‧拉梅斯库斯	name	npc	Haemas Lamescus
-Remus Kaninus	雷穆斯‧卡尼努斯	name	npc	Remus Kaninus
-Vallessia Dracyula	瓦莱西亚‧德拉库拉	name	npc	Vallessia Dracyula
-Violetta Sanguine	紫罗兰‧桑奎因	name	npc	Violetta Sanguine
-Diphylla Bechstein	迪菲拉‧贝希斯坦	name	npc	Diphylla Bechstein
-Episcula Helsing	埃皮斯库拉‧海尔辛	name	npc	Episcula Helsing
-Vampyressa van Von	女吸血鬼范‧冯	name	npc	Vampyressa van Von
-Vallessia von Pitt	瓦莱西亚‧冯‧皮特	name	npc	Vallessia von Pitt
-Vonnetta Varnis	冯内塔‧瓦尼斯	name	npc	Vonnetta Varnis
-Natalidae Shadum	纳塔利达‧沙杜姆	name	npc	Natalidae Shadum
-Mortina Daubenton	莫蒂娜‧多邦顿	name	npc	Mortina Daubenton
-Lasenna Rasputin	拉森娜‧拉斯普京	name	npc	Lasenna Rasputin
-Caninelle Draynar	卡尼内尔‧德雷纳	name	npc	Caninelle Draynar
-Valentina Diaemus	瓦伦蒂娜‧迪亚姆斯	name	npc	Valentina Diaemus
-Nakasa Jovkai	纳卡萨‧乔夫凯	name	npc	Nakasa Jovkai
-Crimsonette van Marr	克里姆森内特‧范‧马尔	name	npc	Crimsonette van Marr
-Pipistrelle Draynar	皮皮斯特雷尔‧德雷纳	name	npc	Pipistrelle Draynar
-Lady Nadezhda Shadum	娜杰日达‧沙杜姆夫人	name	npc	Lady Nadezhda Shadum
-Lord Mischa Myrmel	米沙‧米梅尔领主	name	npc	Lord Mischa Myrmel
-Grinka Krast	格林卡‧克拉斯特	name	npc	Grinka Krast
-Drasdan Ranor	德拉斯丹‧拉诺尔	name	npc	Drasdan Ranor
-Despoina Callidra	德斯波伊娜‧卡利德拉	name	npc	Despoina Callidra
-Lenyig Karna	莱尼格‧卡纳	name	npc	Lenyig Karna
-Varrian Sobak	瓦里安‧索巴克	name	npc	Varrian Sobak
+Carnivus Belamorta	卡尼乌斯.贝拉莫塔	name	npc	Carnivus Belamorta
+Vormar Vakan	沃马尔.瓦坎	name	npc	Vormar Vakan
+Misdrievus Shadum	米斯德里乌斯.沙杜姆	name	npc	Misdrievus Shadum
+Vlad Diaemus	弗拉德.迪亚姆斯	name	npc	Vlad Diaemus
+Noctillion Lugosi	诺克蒂利恩.卢戈西	name	npc	Noctillion Lugosi
+Alek Constantine	阿列克.康斯坦丁	name	npc	Alek Constantine
+Grigor Rasputin	格里戈尔.拉斯普京	name	npc	Grigor Rasputin
+Haemas Lamescus	海马斯.拉梅斯库斯	name	npc	Haemas Lamescus
+Remus Kaninus	雷穆斯.卡尼努斯	name	npc	Remus Kaninus
+Vallessia Dracyula	瓦莱西亚.德拉库拉	name	npc	Vallessia Dracyula
+Violetta Sanguine	紫罗兰.桑奎因	name	npc	Violetta Sanguine
+Diphylla Bechstein	迪菲拉.贝希斯坦	name	npc	Diphylla Bechstein
+Episcula Helsing	埃皮斯库拉.海尔辛	name	npc	Episcula Helsing
+Vampyressa van Von	女吸血鬼范.冯	name	npc	Vampyressa van Von
+Vallessia von Pitt	瓦莱西亚.冯.皮特	name	npc	Vallessia von Pitt
+Vonnetta Varnis	冯内塔.瓦尼斯	name	npc	Vonnetta Varnis
+Natalidae Shadum	纳塔利达.沙杜姆	name	npc	Natalidae Shadum
+Mortina Daubenton	莫蒂娜.多邦顿	name	npc	Mortina Daubenton
+Lasenna Rasputin	拉森娜.拉斯普京	name	npc	Lasenna Rasputin
+Caninelle Draynar	卡尼内尔.德雷纳	name	npc	Caninelle Draynar
+Valentina Diaemus	瓦伦蒂娜.迪亚姆斯	name	npc	Valentina Diaemus
+Nakasa Jovkai	纳卡萨.乔夫凯	name	npc	Nakasa Jovkai
+Crimsonette van Marr	克里姆森内特.范.马尔	name	npc	Crimsonette van Marr
+Pipistrelle Draynar	皮皮斯特雷尔.德雷纳	name	npc	Pipistrelle Draynar
+Lady Nadezhda Shadum	娜杰日达.沙杜姆夫人	name	npc	Lady Nadezhda Shadum
+Lord Mischa Myrmel	米沙.米梅尔领主	name	npc	Lord Mischa Myrmel
+Grinka Krast	格林卡.克拉斯特	name	npc	Grinka Krast
+Drasdan Ranor	德拉斯丹.拉诺尔	name	npc	Drasdan Ranor
+Despoina Callidra	德斯波伊娜.卡利德拉	name	npc	Despoina Callidra
+Lenyig Karna	莱尼格.卡纳	name	npc	Lenyig Karna
+Varrian Sobak	瓦里安.索巴克	name	npc	Varrian Sobak
 Auctioneer	拍卖师	name	npc	Auctioneer
 Roy	罗伊	name	npc	Roy
 Painted One	彩绘者	name	npc	Painted One
@@ -15436,9 +15433,9 @@ Sigismund	西吉斯蒙德	name	npc	Sigismund
 Zamorakian Acolyte	扎莫拉克侍从	name	npc	Zamorakian Acolyte
 Skully	斯卡利	name	npc	Skully
 Refugee	难民	name	npc	Refugee
-Phabelle Bile	法贝尔‧拜尔	name	npc	Phabelle Bile
-Derse Venator	德尔斯‧维纳托	name	npc	Derse Venator
-Andros Mai	安德罗斯‧迈	name	npc	Andros Mai
+Phabelle Bile	法贝尔.拜尔	name	npc	Phabelle Bile
+Derse Venator	德尔斯.维纳托	name	npc	Derse Venator
+Andros Mai	安德罗斯.迈	name	npc	Andros Mai
 Camarst	卡马斯特	name	npc	Camarst
 Warrior of Murahs	穆拉赫战士	name	npc	Warrior of Murahs
 Spiked Turoth	尖刺图罗斯	name	npc	Spiked Turoth
@@ -15500,7 +15497,7 @@ Spirit Angler	海灵垂钓者	name	npc	Spirit Angler
 Ferryman Sathwood	渡船夫萨斯伍德	name	npc	Ferryman Sathwood
 Ferryman Nathwood	渡船夫纳斯伍德	name	npc	Ferryman Nathwood
 Retired sailor	退休水手	name	npc	Retired sailor
-Gita Prymes	吉塔‧普莱姆斯	name	npc	Gita Prymes
+Gita Prymes	吉塔.普莱姆斯	name	npc	Gita Prymes
 Taiman	泰曼	name	npc	Taiman
 Koanee	科尼	name	npc	Koanee
 Timallus	蒂马卢斯	name	npc	Timallus
@@ -15536,35 +15533,35 @@ Lil' Bloat	小肿胀怪	name	npc	Lil' Bloat
 Lil' Nylo	小尼洛	name	npc	Lil' Nylo
 Lil' Sot	小腐烂者	name	npc	Lil' Sot
 Lil' Xarp	小扎普	name	npc	Lil' Xarp
-Nylocas Prinkipas	尼洛卡斯‧普林基帕斯	name	npc	Nylocas Prinkipas
-Asteros Arceuus	阿斯特罗斯‧阿西乌斯	name	npc	Asteros Arceuus
-Martin Holt	马丁‧霍尔特	name	npc	Martin Holt
+Nylocas Prinkipas	尼洛卡斯.普林基帕斯	name	npc	Nylocas Prinkipas
+Asteros Arceuus	阿斯特罗斯.阿西乌斯	name	npc	Asteros Arceuus
+Martin Holt	马丁.霍尔特	name	npc	Martin Holt
 Protest Leader	抗议领袖	name	npc	Protest Leader
 Protester	抗议者	name	npc	Protester
 Commander Fullore	富洛尔指挥官	name	npc	Commander Fullore
 Councillor Andrews	安德鲁斯议员	name	npc	Councillor Andrews
-David Andrews	大卫‧安德鲁斯	name	npc	David Andrews
+David Andrews	大卫.安德鲁斯	name	npc	David Andrews
 Cabin Boy Herbert	船舱侍应赫伯特	name	npc	Cabin Boy Herbert
 Judge of Yama	阎魔法官	name	npc	Judge of Yama
 Councillor Orson	奥森议员	name	npc	Councillor Orson
 Xamphur	赞弗尔	name	npc	Xamphur
 Phantom Hand	幻影之手	name	npc	Phantom Hand
-Kubec Unkar	库贝克‧昂卡尔	name	npc	Kubec Unkar
+Kubec Unkar	库贝克.昂卡尔	name	npc	Kubec Unkar
 Councillor Unkar	昂卡尔议员	name	npc	Councillor Unkar
-Lord Shiro Shayzien	西罗‧谢兹恩领主	name	npc	Lord Shiro Shayzien
-Lord Kandur Hosidius	坎杜尔‧霍西迪乌斯领主	name	npc	Lord Kandur Hosidius
-King Kandur Hosidius	坎杜尔‧霍西迪乌斯国王	name	npc	King Kandur Hosidius
-Lady Vulcana Lovakengj	武尔卡纳‧洛瓦肯吉夫人	name	npc	Lady Vulcana Lovakengj
-King Artur Hosidius	阿图尔‧霍西迪乌斯国王	name	npc	King Artur Hosidius
-Lord Pandur Hosidius	潘杜尔‧霍西迪乌斯领主	name	npc	Lord Pandur Hosidius
-Pandur Hosidius	潘杜尔‧霍西迪乌斯	name	npc	Pandur Hosidius
-Elena Hosidius	埃琳娜‧霍西迪乌斯	name	npc	Elena Hosidius
+Lord Shiro Shayzien	西罗.谢兹恩领主	name	npc	Lord Shiro Shayzien
+Lord Kandur Hosidius	坎杜尔.霍西迪乌斯领主	name	npc	Lord Kandur Hosidius
+King Kandur Hosidius	坎杜尔.霍西迪乌斯国王	name	npc	King Kandur Hosidius
+Lady Vulcana Lovakengj	武尔卡纳.洛瓦肯吉夫人	name	npc	Lady Vulcana Lovakengj
+King Artur Hosidius	阿图尔.霍西迪乌斯国王	name	npc	King Artur Hosidius
+Lord Pandur Hosidius	潘杜尔.霍西迪乌斯领主	name	npc	Lord Pandur Hosidius
+Pandur Hosidius	潘杜尔.霍西迪乌斯	name	npc	Pandur Hosidius
+Elena Hosidius	埃琳娜.霍西迪乌斯	name	npc	Elena Hosidius
 Barbarian Warlord	野蛮人军阀	name	npc	Barbarian Warlord
-Queen Zyanyi Arkan	齐安伊‧阿坎女王	name	npc	Queen Zyanyi Arkan
+Queen Zyanyi Arkan	齐安伊.阿坎女王	name	npc	Queen Zyanyi Arkan
 Kualti	库阿尔蒂	name	npc	Kualti
 Ice chunks	冰块	name	npc	Ice chunks
 Jorra	乔拉	name	npc	Jorra
-Kaht B'alam	卡赫特‧巴兰	name	npc	Kaht B'alam
+Kaht B'alam	卡赫特.巴兰	name	npc	Kaht B'alam
 Blair	布莱尔	name	npc	Blair
 Daryl	达里尔	name	npc	Daryl
 Robyn	罗宾	name	npc	Robyn
@@ -15584,9 +15581,9 @@ Lynx	猞猁	name	npc	Lynx
 Lynx Tamer	猞猁驯兽师	name	npc	Lynx Tamer
 Farolt	法罗尔特	name	npc	Farolt
 Istoria	伊斯托里亚	name	npc	Istoria
-Dusty Aliv	达斯蒂‧阿利夫	name	npc	Dusty Aliv
+Dusty Aliv	达斯蒂.阿利夫	name	npc	Dusty Aliv
 Araxyte	阿拉克西特	name	npc	Araxyte
-Vulcan Orvoros	武尔坎‧奥沃罗斯	name	npc	Vulcan Orvoros
+Vulcan Orvoros	武尔坎.奥沃罗斯	name	npc	Vulcan Orvoros
 Nylocas Queen	尼洛卡斯蛛女王	name	npc	Nylocas Queen
 Nylocas	尼洛卡斯蛛	name	npc	Nylocas
 D3ad1i F15her	D3ad1i F15her	name	npc	D3ad1i F15her
@@ -15616,7 +15613,7 @@ Umbra	翁布拉	name	npc	Umbra
 Cruor	克鲁奥尔	name	npc	Cruor
 Glacies	格拉西斯	name	npc	Glacies
 Messenger	信使	name	npc	Messenger
-Ashuelot Reis	阿舒洛特‧雷斯	name	npc	Ashuelot Reis
+Ashuelot Reis	阿舒洛特.雷斯	name	npc	Ashuelot Reis
 Spiritual Warrior	幽魂战士	name	npc	Spiritual Warrior
 Spiritual Ranger	幽魂射手	name	npc	Spiritual Ranger
 Spiritual Mage	幽魂法师	name	npc	Spiritual Mage
@@ -15762,8 +15759,8 @@ Spindel's Spiderling	斯平德尔的小蜘蛛	name	npc	Spindel's Spiderling
 Muphin	穆芬	name	npc	Muphin
 Door Guard	门卫	name	npc	Door Guard
 Lady Servil	塞尔维尔夫人	name	npc	Lady Servil
-Sammy Servil	萨米‧塞尔维尔	name	npc	Sammy Servil
-Justin Servil	贾斯汀‧塞尔维尔	name	npc	Justin Servil
+Sammy Servil	萨米.塞尔维尔	name	npc	Sammy Servil
+Justin Servil	贾斯汀.塞尔维尔	name	npc	Justin Servil
 Evelot	埃韦洛特	name	npc	Evelot
 Clivet	克利维特	name	npc	Clivet
 Big Fish	大鱼	name	npc	Big Fish
@@ -15774,7 +15771,7 @@ Khazard Soldier	卡扎德士兵	name	npc	Khazard Soldier
 Captain Malleta	马莱塔船长	name	npc	Captain Malleta
 Sergeant Raymond	雷蒙德中士	name	npc	Sergeant Raymond
 Phantom Muspah	幻影穆斯帕	name	npc	Phantom Muspah
-Ceril Carnillean	塞里尔‧卡尼利安	name	npc	Ceril Carnillean
+Ceril Carnillean	塞里尔.卡尼利安	name	npc	Ceril Carnillean
 Butler Jones	管家琼斯	name	npc	Butler Jones
 Jones	琼斯	name	npc	Jones
 Alomone	阿洛蒙	name	npc	Alomone
@@ -15788,7 +15785,7 @@ Corrupted Warrior	堕落战士	name	npc	Corrupted Warrior
 Emma	艾玛	name	npc	Emma
 Suzie	苏西	name	npc	Suzie
 Flowering bush (Lilac)	开花灌木 (淡紫色)	name	npc	Flowering bush (Lilac)
-Sir Pear Visor	皮尔‧维泽尔爵士	name	npc	Sir Pear Visor
+Sir Pear Visor	皮尔.维泽尔爵士	name	npc	Sir Pear Visor
 Strange bush (Lilac)	奇怪的灌木 (淡紫色)	name	npc	Strange bush (Lilac)
 Flowering bush (Pink)	开花灌木 (粉色)	name	npc	Flowering bush (Pink)
 Strange bush (Pink)	奇怪的灌木 (粉色)	name	npc	Strange bush (Pink)
@@ -15891,8 +15888,8 @@ Bloodthirsty banshee	嗜血女妖	name	npc	Bloodthirsty banshee
 Fox trap	狐狸陷阱	name	npc	Fox trap
 Bloodthirsty twisted banshee	嗜血扭曲女妖	name	npc	Bloodthirsty twisted banshee
 Entling	小树精	name	npc	Entling
-Pruned Entling	被修剪的小树精	name	npc	Pruned Entling
-Friendly Ent	友好的树精	name	npc	Friendly Ent
+Pruned Entling	被修剪的小树人	name	npc	Pruned Entling
+Friendly Ent	友好的树人	name	npc	Friendly Ent
 Poacher	偷猎者	name	npc	Poacher
 Frightened Fox	受惊的狐狸	name	npc	Frightened Fox
 Bloodthirst rockslug	嗜血岩石蜗牛	name	npc	Bloodthirst rockslug
@@ -15926,22 +15923,22 @@ Branda the Fire Queen	火之女王布兰达	name	npc	Branda the Fire Queen
 Goose	鹅	name	npc	Goose
 Anti-Santa	反圣诞老人	name	npc	Anti-Santa
 Key Master	钥匙守护者	name	npc	Key Master
-Guss Mistletoad	格斯‧米斯特尔托德	name	npc	Guss Mistletoad
+Guss Mistletoad	格斯.米斯特尔托德	name	npc	Guss Mistletoad
 Santa's scribe	圣诞人的抄写员	name	npc	Santa's scribe
 Santa Claus	圣诞老人	name	npc	Santa Claus
 Barbarian bartender	野蛮人酒保	name	npc	Barbarian bartender
 Waitress	女服务员	name	npc	Waitress
-Elias White	伊莱亚斯‧怀特	name	npc	Elias White
+Elias White	伊莱亚斯.怀特	name	npc	Elias White
 Arrav	阿拉夫	name	npc	Arrav
 Zemouregal	泽莫雷加尔	name	npc	Zemouregal
 Sharathteerk	沙拉什蒂尔克	name	npc	Sharathteerk
 Alina	阿琳娜	name	npc	Alina
 Noah	诺亚	name	npc	Noah
 Sergeant Tobyn	托宾中士	name	npc	Sergeant Tobyn
-Prince Itzla Arkan	伊茨拉‧阿坎王子	name	npc	Prince Itzla Arkan
+Prince Itzla Arkan	伊茨拉.阿坎王子	name	npc	Prince Itzla Arkan
 Servius, Teokan of Ralos	拉洛斯的神官塞维乌斯	name	npc	Servius, Teokan of Ralos
-Furia Tullus	弗里亚‧图卢斯	name	npc	Furia Tullus
-Ennius Tullus	恩尼乌斯‧图卢斯	name	npc	Ennius Tullus
+Furia Tullus	弗里亚.图卢斯	name	npc	Furia Tullus
+Ennius Tullus	恩尼乌斯.图卢斯	name	npc	Ennius Tullus
 Hosa	霍萨	name	npc	Hosa
 Lovada	洛瓦达	name	npc	Lovada
 Ferain	费兰	name	npc	Ferain
@@ -15968,7 +15965,7 @@ Javelin Colossus	标枪巨像	name	npc	Javelin Colossus
 Manticore	曼提柯尔	name	npc	Manticore
 Shockwave Colossus	冲击波巨像	name	npc	Shockwave Colossus
 Pillar	柱子	name	npc	Pillar
-Sol Heredit	索尔‧赫雷迪特	name	npc	Sol Heredit
+Sol Heredit	索尔.赫雷迪特	name	npc	Sol Heredit
 Doom Scorpion	厄运蝎子	name	npc	Doom Scorpion
 Bee Swarm	蜂群	name	npc	Bee Swarm
 Healing totem	治疗图腾	name	npc	Healing totem
@@ -15980,7 +15977,7 @@ Jessamine	杰萨明	name	npc	Jessamine
 Eyatlalli	埃亚特拉利	name	npc	Eyatlalli
 Sulphur Nagua	硫磺那伽	name	npc	Sulphur Nagua
 Blacksmith	铁匠	name	npc	Blacksmith
-Regulus Cento	雷古卢斯‧森托	name	npc	Regulus Cento
+Regulus Cento	雷古卢斯.森托	name	npc	Regulus Cento
 Quetzal	绿咬鹃	name	npc	Quetzal
 Primio	普里米奥	name	npc	Primio
 Metzli, Teokan of Ranul	拉努尔的神官梅茨利	name	npc	Metzli, Teokan of Ranul
@@ -16053,7 +16050,7 @@ Pellem	佩勒姆	name	npc	Pellem
 Imia	伊米亚	name	npc	Imia
 Moonlight antelope	月光羚羊	name	npc	Moonlight antelope
 Sunlight antelope	日光羚羊	name	npc	Sunlight antelope
-Soar Leader Pitri	翱翔队长‧皮特里	name	npc	Soar Leader Pitri
+Soar Leader Pitri	翱翔队长.皮特里	name	npc	Soar Leader Pitri
 Orsaga	奥萨加	name	npc	Orsaga
 Orsaga's chinchompa	奥萨加的炸弹鼠	name	npc	Orsaga's chinchompa
 Pyre fox	火葬狐	name	npc	Pyre fox
@@ -16101,12 +16098,12 @@ Ueman, Teoki of Ralos	拉洛斯的神官乌曼	name	npc	Ueman, Teoki of Ralos
 Seia, Teoki of Ranul	拉努尔的神官塞娅	name	npc	Seia, Teoki of Ranul
 Hunter guild member	猎人公会成员	name	npc	Hunter guild member
 Red skink	红色石龙子	name	npc	Red skink
-Harrallak Menarous	哈拉拉克‧梅纳鲁斯	name	npc	Harrallak Menarous
+Harrallak Menarous	哈拉拉克.梅纳鲁斯	name	npc	Harrallak Menarous
 Turael	图拉尔	name	npc	Turael
 Ghommal	戈马尔	name	npc	Ghommal
 Mazchna	马斯纳	name	npc	Mazchna
 Duradel	杜拉德尔	name	npc	Duradel
-Sir Kit Breaker	基特‧布雷克爵士	name	npc	Sir Kit Breaker
+Sir Kit Breaker	基特.布雷克爵士	name	npc	Sir Kit Breaker
 Frog Prin	青蛙普林	name	npc	Frog Prin
 Frog Prince	青蛙王子	name	npc	Frog Prince
 Frog Princess	青蛙公主	name	npc	Frog Princess
@@ -16127,7 +16124,7 @@ Earth spell	土系法术	name	npc	Earth spell
 Water spell	水系法术	name	npc	Water spell
 Fire spell	火系法术	name	npc	Fire spell
 Wind spell	风系法术	name	npc	Wind spell
-Ivy Sophista	艾薇‧索菲斯塔	name	npc	Ivy Sophista
+Ivy Sophista	艾薇.索菲斯塔	name	npc	Ivy Sophista
 Thaerisk	赛里斯克	name	npc	Thaerisk
 Khazard Launderer	卡扎德洗衣工	name	npc	Khazard Launderer
 Wild broav	野生布罗夫	name	npc	Wild broav
@@ -16150,10 +16147,8 @@ Strisath	斯特里萨斯	name	npc	Strisath
 Strange tube	奇怪的管子	name	npc	Strange tube
 V	V	name	npc	V
 Tormented Demon	被折磨的恶魔	name	npc	Tormented Demon
-Debug Man	调试男人	name	npc	Debug Man
-Debug Woman	调试女人	name	npc	Debug Woman
-Laidee Gnonock	莱迪‧格诺克	name	npc	Laidee Gnonock
-Yadech Strongarm	雅德克‧强臂	name	npc	Yadech Strongarm
+Laidee Gnonock	莱迪.格诺克	name	npc	Laidee Gnonock
+Yadech Strongarm	雅德克.强臂	name	npc	Yadech Strongarm
 Aya	阿雅	name	npc	Aya
 Achtryn	阿赫特林	name	npc	Achtryn
 Kuradal	库拉达尔	name	npc	Kuradal
@@ -16243,7 +16238,7 @@ Necto	内克托	name	npc	Necto
 Overseer Khougo	监督者胡戈	name	npc	Overseer Khougo
 Techichi	特奇奇	name	npc	Techichi
 Chiribaya	奇里巴亚	name	npc	Chiribaya
-Locke McScruff	洛克‧麦斯卡夫	name	npc	Locke McScruff
+Locke McScruff	洛克.麦斯卡夫	name	npc	Locke McScruff
 Woofson	伍夫森	name	npc	Woofson
 Porcupine	豪猪	name	npc	Porcupine
 Salius	萨利乌斯	name	npc	Salius
@@ -16318,7 +16313,7 @@ Emissary Archer	使者射手	name	npc	Emissary Archer
 Tonali Teleporter	托纳利传送者	name	npc	Tonali Teleporter
 Earthen Nagua	土那伽	name	npc	Earthen Nagua
 Forebearer Honos	先驱者霍诺斯	name	npc	Forebearer Honos
-Humphrey Dumphrey	汉弗莱‧邓弗莱	name	npc	Humphrey Dumphrey
+Humphrey Dumphrey	汉弗莱.邓弗莱	name	npc	Humphrey Dumphrey
 Chicken Egg	鸡蛋	name	npc	Chicken Egg
 Dragon Egg	龙蛋	name	npc	Dragon Egg
 Jaguar Egg	美洲豹蛋	name	npc	Jaguar Egg
@@ -16391,7 +16386,7 @@ Teicuh	特伊库	name	npc	Teicuh
 Arcuani	阿库阿尼	name	npc	Arcuani
 Gemstone Crab	宝石蟹	name	npc	Gemstone Crab
 Gemstone Crab Shell	宝石蟹壳	name	npc	Gemstone Crab Shell
-Ru Merald	鲁‧梅拉尔德	name	npc	Ru Merald
+Ru Merald	鲁.梅拉尔德	name	npc	Ru Merald
 Bryophyta (Chest)	布赖奥菲塔 (胸部)	name	npc	Bryophyta (Chest)
 Obor (Chest)	奥博尔 (胸部)	name	npc	Obor (Chest)
 Giant demonic range larva	巨型恶魔射手幼虫	name	npc	Giant demonic range larva
@@ -16443,7 +16438,7 @@ Polly	波莉	name	npc	Polly
 Brass Hand Harry	铜手哈里	name	npc	Brass Hand Harry
 Kebba	凯巴	name	npc	Kebba
 Yann the unlucky	不幸的扬	name	npc	Yann the unlucky
-Cap'n Anne Boney	安妮‧邦尼船长	name	npc	Cap'n Anne Boney
+Cap'n Anne Boney	安妮.邦尼船长	name	npc	Cap'n Anne Boney
 Brain	大脑	name	npc	Brain
 Jail Guard	监狱守卫	name	npc	Jail Guard
 Netmaster Kellan	网大师凯兰	name	npc	Netmaster Kellan
@@ -16466,14 +16461,14 @@ Frost dragon	霜龙	name	npc	Frost dragon
 Soup	汤	name	npc	Soup
 Gulliver	格列佛	name	npc	Gulliver
 Rebecca	丽贝卡	name	npc	Rebecca
-Victoria Kebbit-Monkfish	维多利亚‧凯比特 - 僧侣鱼	name	npc	Victoria Kebbit-Monkfish
+Victoria Kebbit-Monkfish	维多利亚.凯比特 - 僧侣鱼	name	npc	Victoria Kebbit-Monkfish
 Anne	安妮	name	npc	Anne
 Councillor Catherine	凯瑟琳议员	name	npc	Councillor Catherine
-Charles Charlington II	查尔斯‧查林顿二世	name	npc	Charles Charlington II
-Draven Quillshade	德雷文‧奎尔谢德	name	npc	Draven Quillshade
-Fenric Hollowspire	芬里克‧霍洛斯派尔	name	npc	Fenric Hollowspire
+Charles Charlington II	查尔斯.查林顿二世	name	npc	Charles Charlington II
+Draven Quillshade	德雷文.奎尔谢德	name	npc	Draven Quillshade
+Fenric Hollowspire	芬里克.霍洛斯派尔	name	npc	Fenric Hollowspire
 Will	威尔	name	npc	Will
-'Squawking' Steve Beanie	'嘎嘎叫''史蒂夫‧比尼	name	npc	'Squawking' Steve Beanie
+'Squawking' Steve Beanie	'嘎嘎叫''史蒂夫.比尼	name	npc	'Squawking' Steve Beanie
 Ribs	肋骨	name	npc	Ribs
 Junior Jim	小吉姆	name	npc	Junior Jim
 Old Grog	老格罗格	name	npc	Old Grog
@@ -16488,8 +16483,8 @@ Elder Raley	长老雷利	name	npc	Elder Raley
 Elder Hubber	长老哈伯	name	npc	Elder Hubber
 Elder Root	长老鲁特	name	npc	Elder Root
 Receptionist	接待员	name	npc	Receptionist
-Theodore Paxton	西奥多‧帕克斯顿	name	npc	Theodore Paxton
-Spencer Brentwood	斯宾塞‧布伦特伍德	name	npc	Spencer Brentwood
+Theodore Paxton	西奥多.帕克斯顿	name	npc	Theodore Paxton
+Spencer Brentwood	斯宾塞.布伦特伍德	name	npc	Spencer Brentwood
 Black Eye Bethel	黑眼圈贝瑟尔	name	npc	Black Eye Bethel
 Chief Engineer Greyson	首席工程师格雷森	name	npc	Chief Engineer Greyson
 Captain Maclean	麦克莱恩船长	name	npc	Captain Maclean
@@ -16527,10 +16522,10 @@ Lost casket (master)	丢失的宝箱 (大师)	name	npc	Lost casket (master)
 Castaway	漂流者	name	npc	Castaway
 Current duck	海流鸭	name	npc	Current duck
 Meaty Aura Logist	'气象学家''	name	npc	Meaty Aura Logist
-Marina Kebbit-Monkfish	玛丽娜‧凯比特 - 僧侣鱼	name	npc	Marina Kebbit-Monkfish
-Selina Kebbit-Monkfish	塞莉娜‧凯比特 - 僧侣鱼	name	npc	Selina Kebbit-Monkfish
-Gloria Kebbit-Monkfish	格洛丽亚‧凯比特 - 僧侣鱼	name	npc	Gloria Kebbit-Monkfish
-Christina Kebbit-Monkfish	克里斯蒂娜‧凯比特 - 僧侣鱼	name	npc	Christina Kebbit-Monkfish
+Marina Kebbit-Monkfish	玛丽娜.凯比特 - 僧侣鱼	name	npc	Marina Kebbit-Monkfish
+Selina Kebbit-Monkfish	塞莉娜.凯比特 - 僧侣鱼	name	npc	Selina Kebbit-Monkfish
+Gloria Kebbit-Monkfish	格洛丽亚.凯比特 - 僧侣鱼	name	npc	Gloria Kebbit-Monkfish
+Christina Kebbit-Monkfish	克里斯蒂娜.凯比特 - 僧侣鱼	name	npc	Christina Kebbit-Monkfish
 Banana	香蕉	name	npc	Banana
 Mystery fruit	神秘水果	name	npc	Mystery fruit
 Drink troll	酒鬼巨魔	name	npc	Drink troll
@@ -16603,7 +16598,7 @@ Port Wizard Petra	港口法师佩特拉	name	npc	Port Wizard Petra
 Port Wizard Paulie	港口法师保利	name	npc	Port Wizard Paulie
 Kragin	克拉金	name	npc	Kragin
 Petrus	佩特鲁斯	name	npc	Petrus
-Sleve McDichael	斯莱夫‧麦克迈克尔	name	npc	Sleve McDichael
+Sleve McDichael	斯莱夫.麦克迈克尔	name	npc	Sleve McDichael
 Biles	拜尔斯	name	npc	Biles
 Thigo	蒂戈	name	npc	Thigo
 Brikka	布里卡	name	npc	Brikka
@@ -17639,7 +17634,7 @@ Ogre Drums	食人魔鼓	name	object	Ogre Drums
 Ogre stone door	食人魔石门	name	object	Ogre stone door
 Ogre barricade	食人魔路障	name	object	Ogre barricade
 Crushed barricade	被压碎的路障	name	object	Crushed barricade
-Sithik Ints	西锡克‧因茨	name	object	Sithik Ints
+Sithik Ints	西锡克.因茨	name	object	Sithik Ints
 Stand	支架	name	object	Stand
 Rubble	瓦砾	name	object	Rubble
 Big, big boulder...	巨大的巨石…	name	object	Big, big boulder...
@@ -17977,7 +17972,7 @@ Slave	奴隶	name	object	Slave
 Light door	光之门	name	object	Light door
 Pillar of Light	光之柱	name	object	Pillar of Light
 Final Pillar	最后的石柱	name	object	Final Pillar
-Mausoleum	毛索利恩	name	object	Mausoleum
+Mausoleum	陵墓	name	object	Mausoleum
 Grand Exchange booth	大交易所摊位	name	object	Grand Exchange booth
 Staff of Bob the Cat	鲍勃猫法杖	name	object	Staff of Bob the Cat
 Copper rocks	铜矿石	name	object	Copper rocks
@@ -18194,8 +18189,8 @@ General Wartface	疣脸将军	name	object	General Wartface
 General Bentnoze	弯鼻将军	name	object	General Bentnoze
 Lumbridge Guide	仑桥镇向导	name	object	Lumbridge Guide
 Evil Dave	邪恶戴夫	name	object	Evil Dave
-Sir Amik Varze	阿米克‧瓦尔泽爵士	name	object	Sir Amik Varze
-Skrach Uglogwee	斯克拉奇‧乌格洛格维	name	object	Skrach Uglogwee
+Sir Amik Varze	阿米克.瓦尔泽爵士	name	object	Sir Amik Varze
+Skrach Uglogwee	斯克拉奇.乌格洛格维	name	object	Skrach Uglogwee
 Sack Pile	麻袋堆	name	object	Sack Pile
 Explosion	爆炸	name	object	Explosion
 Saucepan	平底锅	name	object	Saucepan
@@ -18970,7 +18965,7 @@ Interrogation chair	审讯椅	name	object	Interrogation chair
 Steam generator	蒸汽发生器	name	object	Steam generator
 Gigantic penguin	巨型企鹅	name	object	Gigantic penguin
 Lockers	储物柜	name	object	Lockers
-Foot lockers	脚柜	name	object	Foot lockers
+Foot lockers	储物脚柜	name	object	Foot lockers
 Cello	大提琴	name	object	Cello
 Guitar	吉他	name	object	Guitar
 Flute	长笛	name	object	Flute
@@ -19007,7 +19002,7 @@ Swords	剑	name	object	Swords
 Chopping table	切剁桌	name	object	Chopping table
 Ore crate	矿石箱	name	object	Ore crate
 Ore table	矿石桌	name	object	Ore table
-Ore stones	矿石	name	object	Ore stones
+Ore stones	矿石堆	name	object	Ore stones
 Shield display	盾牌展示柜	name	object	Shield display
 Armour display	装备展示柜	name	object	Armour display
 Arch	拱门	name	object	Arch
@@ -19227,7 +19222,7 @@ Dragon corpse	龙尸	name	object	Dragon corpse
 A shabby tent	一顶破旧的帐篷	name	object	A shabby tent
 A flag	一面旗帜	name	object	A flag
 Aged log	古老的原木	name	object	Aged log
-funeral pyre	葬礼火葬堆	name	object	funeral pyre
+funeral pyre	火葬堆	name	object	funeral pyre
 Barbarian bed	野蛮人床	name	object	Barbarian bed
 Barbarian table	野蛮人桌	name	object	Barbarian table
 Barbarian chair	野蛮人椅	name	object	Barbarian chair
@@ -19407,16 +19402,16 @@ Buffet table	自助餐桌	name	object	Buffet table
 Tithe patch	什一税种植地	name	object	Tithe patch
 Golovanova seedling	戈洛瓦诺瓦幼苗	name	object	Golovanova seedling
 Blighted Golovanova seedling	枯萎的戈洛瓦诺瓦幼苗	name	object	Blighted Golovanova seedling
-Golovanova plant	戈洛瓦诺瓦	name	object	Golovanova plant
-Blighted Golovanova plant	枯萎的戈洛瓦诺瓦	name	object	Blighted Golovanova plant
+Golovanova plant	戈洛瓦诺瓦植物	name	object	Golovanova plant
+Blighted Golovanova plant	枯萎的戈洛瓦诺瓦植物	name	object	Blighted Golovanova plant
 Bologano seedling	博洛加诺幼苗	name	object	Bologano seedling
 Blighted Bologano seedling	枯萎的博洛加诺幼苗	name	object	Blighted Bologano seedling
 Bologano plant	博洛加诺植物	name	object	Bologano plant
-Blighted Bologano plant	枯萎的博洛加诺	name	object	Blighted Bologano plant
+Blighted Bologano plant	枯萎的博洛加诺植物	name	object	Blighted Bologano plant
 Logavano seedling	洛加瓦诺幼苗	name	object	Logavano seedling
 Blighted Logavano seedling	枯萎的洛加瓦诺幼苗	name	object	Blighted Logavano seedling
 Logavano plant	洛加瓦诺植物	name	object	Logavano plant
-Blighted Logavano plant	枯萎的洛加瓦诺	name	object	Blighted Logavano plant
+Blighted Logavano plant	枯萎的洛加瓦诺植物	name	object	Blighted Logavano plant
 Fruit cart	水果车	name	object	Fruit cart
 Seed table	种子桌	name	object	Seed table
 Saltpetre	硝石	name	object	Saltpetre
@@ -19883,8 +19878,8 @@ Stone Plinth	石基座	name	object	Stone Plinth
 Roof Entrance	屋顶入口	name	object	Roof Entrance
 Roof Exit	屋顶出口	name	object	Roof Exit
 Magical Chest	魔法箱	name	object	Magical Chest
-Dusk	怪诞守卫者‧黄昏	name	object	Dusk
-Dawn	怪诞守卫者‧黎明	name	object	Dawn
+Dusk	怪诞守卫者.黄昏	name	object	Dusk
+Dawn	怪诞守卫者.黎明	name	object	Dawn
 Energy Sphere	能量球	name	object	Energy Sphere
 The Cloister Bell	修道院钟	name	object	The Cloister Bell
 Grotesque Guardians' display	怪诞守卫者展示柜	name	object	Grotesque Guardians' display
@@ -19928,7 +19923,7 @@ Elite clue scroll display	精英线索卷轴展示柜	name	object	Elite clue scr
 Master clue scroll display	大师线索卷轴展示柜	name	object	Master clue scroll display
 Runite Minor	符文矿脉	name	object	Runite Minor
 Great Olm display	大奥姆展示柜	name	object	Great Olm display
-Tzkal-Zuk display	特兹卡尔‧祖克展示柜	name	object	Tzkal-Zuk display
+Tzkal-Zuk display	特兹卡尔.祖克展示柜	name	object	Tzkal-Zuk display
 General Graardor display	格拉多尔将军展示柜	name	object	General Graardor display
 Corporeal Beast display	实体巨兽展示柜	name	object	Corporeal Beast display
 Ornate Jewellery Box	精致首饰盒	name	object	Ornate Jewellery Box
@@ -20009,9 +20004,9 @@ Damaged Vent	破损的通风口	name	object	Damaged Vent
 Broken Fountain	破损的喷泉	name	object	Broken Fountain
 Meiyerditch citizen	迈尔迪奇市民	name	object	Meiyerditch citizen
 Old Man Ral	老人拉尔	name	object	Old Man Ral
-Kael Forshaw	凯尔‧福肖	name	object	Kael Forshaw
+Kael Forshaw	凯尔.福肖	name	object	Kael Forshaw
 Theatre of Blood	血腥剧场	name	object	Theatre of Blood
-Ranis Drakan	拉尼斯‧德雷坎	name	object	Ranis Drakan
+Ranis Drakan	拉尼斯.德雷坎	name	object	Ranis Drakan
 Cloak rack	斗篷架	name	object	Cloak rack
 Drapes	窗帘	name	object	Drapes
 Altar of Zamorak	扎莫拉克祭坛	name	object	Altar of Zamorak
@@ -20020,7 +20015,7 @@ Hidden Statue	隐藏的雕像	name	object	Hidden Statue
 Vyre well	吸血鬼井	name	object	Vyre well
 Verzik's throne	维齐克的王座	name	object	Verzik's throne
 Supporting Pillar	支撑柱	name	object	Supporting Pillar
-Verzik Vitur	维齐克‧维图尔	name	object	Verzik Vitur
+Verzik Vitur	维齐克.维图尔	name	object	Verzik Vitur
 Treasure room	宝藏室	name	object	Treasure room
 Exhumed	出土的残骸	name	object	Exhumed
 Acidic miasma	酸性瘴气	name	object	Acidic miasma
@@ -20194,7 +20189,7 @@ Mysterious pipe	神秘管道	name	object	Mysterious pipe
 Chemical waste pipe	化学废料管道	name	object	Chemical waste pipe
 The Sheared Ram	剪毛公羊酒馆	name	object	The Sheared Ram
 Brimstone chest	硫磺宝箱	name	object	Brimstone chest
-Verzik Vitur display	维齐克‧维图尔展示柜	name	object	Verzik Vitur display
+Verzik Vitur display	维齐克.维图尔展示柜	name	object	Verzik Vitur display
 Making Friends with My Arm display	与''我的手臂''交朋友展示柜	name	object	Making Friends with My Arm display
 Magic Mirror	魔法镜子	name	object	Magic Mirror
 Attas plant display	阿塔斯花展示柜	name	object	Attas plant display
@@ -20386,7 +20381,7 @@ Wolf Statue	狼雕像	name	object	Wolf Statue
 Unicorn Statue	独角兽雕像	name	object	Unicorn Statue
 Owl Statue	猫头鹰雕像	name	object	Owl Statue
 Justiciar Statue	审判官雕像	name	object	Justiciar Statue
-Mausoleum Door	毛索利恩门	name	object	Mausoleum Door
+Mausoleum Door	陵墓门	name	object	Mausoleum Door
 Broken Statue	破损的雕像	name	object	Broken Statue
 Saradomin Brazier	萨拉多明火盆	name	object	Saradomin Brazier
 Tile	瓷砖	name	object	Tile
@@ -20609,7 +20604,6 @@ Ancient Plaque	古代牌匾	name	object	Ancient Plaque
 Ancient Forge	古代熔炉	name	object	Ancient Forge
 Ancient Barrier	古代屏障	name	object	Ancient Barrier
 Shadow	阴影	name	object	Shadow
-REPLACE ME	待替换	name	object	REPLACE ME
 Runestone basalt	符文石玄武岩	name	object	Runestone basalt
 Lumbridge Waystone	仑桥镇路标石	name	object	Lumbridge Waystone
 Falador Waystone	法拉多城路标石	name	object	Falador Waystone
@@ -20802,7 +20796,7 @@ Golden Snow	金色雪	name	object	Golden Snow
 Snowballs	雪球	name	object	Snowballs
 Locked Door	锁着的门	name	object	Locked Door
 Santa's log	圣诞老人的原木	name	object	Santa's log
-Ceril Carnillean	塞里尔‧卡尼利安	name	object	Ceril Carnillean
+Ceril Carnillean	塞里尔.卡尼利安	name	object	Ceril Carnillean
 Broken Window	破损的窗户	name	object	Broken Window
 Broken Glass	碎玻璃	name	object	Broken Glass
 Damaged Table	破损的桌子	name	object	Damaged Table
@@ -21004,7 +20998,7 @@ Forester's Campfire	护林员的营火	name	object	Forester's Campfire
 End of Rainbow	彩虹尽头	name	object	End of Rainbow
 Clovers	三叶草	name	object	Clovers
 Pheasant Nest	雉鸡巢	name	object	Pheasant Nest
-Fiery Ornate Pool of Rejuvenation	华丽的回春池	name	object	Fiery Ornate Pool of Rejuvenation
+Fiery Ornate Pool of Rejuvenation	炽热华丽的回春池	name	object	Fiery Ornate Pool of Rejuvenation
 Info Board	信息板	name	object	Info Board
 Snow shark	雪鲨	name	object	Snow shark
 Varrock Census	维洛克城人口普查	name	object	Varrock Census
@@ -21196,8 +21190,6 @@ Fire rune pile	一堆火符石	name	object	Fire rune pile
 Death rune pile	一堆死亡符石	name	object	Death rune pile
 Magic logs pile	一堆魔法原木	name	object	Magic logs pile
 Display dial	展示表盘	name	object	Display dial
-Debug Man	调试男人	name	object	Debug Man
-Debug Woman	调试女人	name	object	Debug Woman
 Web tunnel	蛛网隧道	name	object	Web tunnel
 Araxxor display	阿拉克索展示柜	name	object	Araxxor display
 Icy pool	冰冷池	name	object	Icy pool
@@ -21381,7 +21373,7 @@ Scorpion totem	蝎子图腾	name	object	Scorpion totem
 Beautiful log	美丽的原木	name	object	Beautiful log
 Beautiful tree stump	美丽的树桩	name	object	Beautiful tree stump
 Beautiful rock	美丽的岩石	name	object	Beautiful rock
-Ent trail	树精踪迹	name	object	Ent trail
+Ent trail	树人踪迹	name	object	Ent trail
 Entling	小树精	name	object	Entling
 Redwood slices	红杉木片	name	object	Redwood slices
 Chopped trees	被砍伐的树	name	object	Chopped trees
@@ -21687,7 +21679,6 @@ Ancient mould	古代模具	name	object	Ancient mould
 Large stone ledges	大石壁架	name	object	Large stone ledges
 Uneven stone ledges	不平的石壁架	name	object	Uneven stone ledges
 Seagull nest	海鸥巢	name	object	Seagull nest
-minotaurs_rest_cave_wall_upper	牛头怪安息地洞穴墙上部	name	object	minotaurs_rest_cave_wall_upper
 Table of coral	珊瑚桌	name	object	Table of coral
 Pallets	托盘	name	object	Pallets
 Ledger table	分类账桌	name	object	Ledger table
@@ -22004,7 +21995,7 @@ Mister U.	U先生	name	chisel_rescrape	chisel_rescrape
 Old Jack	老杰克	name	chisel_rescrape	chisel_rescrape
 Mute Jack	哑巴杰克	name	chisel_rescrape	chisel_rescrape
 Bloody Jack	血腥杰克	name	chisel_rescrape	chisel_rescrape
-Captain Ruban Acer	船长.鲁班.艾瑟	name	chisel_rescrape	chisel_rescrape
+Captain Ruban Acer	鲁班.艾瑟船长	name	chisel_rescrape	chisel_rescrape
 Captain Jack	杰克船长	name	chisel_rescrape	chisel_rescrape
 Test Pirate Ranger	测试海盗射手	name	chisel_rescrape	chisel_rescrape
 Test Pirate Mage	测试海盗法师	name	chisel_rescrape	chisel_rescrape
@@ -22034,8 +22025,8 @@ Diseased dwarf weed	患病的矮人草	name	chisel_rescrape	chisel_rescrape
 Diseased torstol	患病的托斯托尔草	name	chisel_rescrape	chisel_rescrape
 Diseased snapdragon	患病的金鱼草	name	chisel_rescrape	chisel_rescrape
 Diseased huasca	患病的死藤	name	chisel_rescrape	chisel_rescrape
-Rubium rocks	红宝石矿石	name	chisel_rescrape	chisel_rescrape
-Rubium deposit	红宝石矿脉	name	chisel_rescrape	chisel_rescrape
+Rubium rocks	红铷矿石	name	chisel_rescrape	chisel_rescrape
+Rubium deposit	红铷矿脉	name	chisel_rescrape	chisel_rescrape
 Keg of kraken ink stout	克拉肯墨汁黑啤酒酒桶	name	chisel_rescrape	chisel_rescrape
 Diving bell	潜水钟	name	chisel_rescrape	chisel_rescrape
 Note on a table	桌上的便条	name	chisel_rescrape	chisel_rescrape

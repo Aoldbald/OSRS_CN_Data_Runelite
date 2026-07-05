@@ -49,7 +49,7 @@ Remove-legs	卸下腿甲	inventoryActions	item	Swamp toad
 Prepare	准备	inventoryActions	item	Half baked bowl
 Empty Tray	清空托盘	inventoryActions	item	Burnt crunchies
 Empty Tin	清空罐子	inventoryActions	item	Burnt batta
-Empty Dish	清空菜盘 / 碗	inventoryActions	item	Burnt pie
+Empty Dish	清空菜盘	inventoryActions	item	Burnt pie
 Guzzle	大口吞食	inventoryActions	item	Rock cake
 Play-with	玩耍	inventoryActions	item	Brown toy horsey
 Recharge Dragonstone	充能龙石	inventoryActions	item	Dead orb
@@ -265,7 +265,7 @@ Untrim	拆除饰边	inventoryActions	item	Quest point cape (t)
 Karamja (Shilo)	传送至卡拉姆詹岛的希洛村	inventoryActions	item	Achievement diary cape (t)
 Western Provinces	传送至西部省份	inventoryActions	item	Achievement diary cape (t)
 Karamja (Jungle)	传送至卡拉姆詹岛的丛林	inventoryActions	item	Achievement diary cape (t)
-Twiggy O'Korn	传送至特威吉‧奥科恩	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	传送至特威吉.奥科恩	inventoryActions	item	Achievement diary cape (t)
 Karamja (Mor Ul Rek)	传送至卡拉姆詹岛的特扎尔地下城	inventoryActions	item	Achievement diary cape (t)
 Ardougne	传送至阿多尼城	inventoryActions	item	Achievement diary cape (t)
 Desert	传送至沙漠	inventoryActions	item	Achievement diary cape (t)
@@ -328,21 +328,21 @@ Lap-count	圈数统计	inventoryActions	item	Monkey
 Combine	组合	inventoryActions	item	Torn clue scroll (part 1)
 Recoil settings	反伤设置	inventoryActions	item	Ring of suffering (r)
 Recoil Settings	反伤设置	inventoryActions	item	Ring of suffering (r)
-Pages	管理书页	inventoryActions	item	Tome of fire
+Pages	书页	inventoryActions	item	Tome of fire
 Swap	交换	inventoryActions	item	Bruma torch
 Invigorate	激发 / 鼓舞	inventoryActions	item	Imbued heart
 Look at	查看	inventoryActions	item	Snow globe
 Snow	生成雪堆	inventoryActions	item	Snow globe
-The Outpost	传送至前哨站	inventoryActions	item	Necklace of passage(5)
-Eagles' Eyrie	传送至鹰巢	inventoryActions	item	Necklace of passage(5)
+The Outpost	前哨站	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	鹰巢	inventoryActions	item	Necklace of passage(5)
 Wizards' Tower	传送至法师塔	inventoryActions	item	Necklace of passage(5)
 Options	选项	inventoryActions	item	Amulet of chemistry
-Bandit Camp	传送至强盗营地	inventoryActions	item	Burning amulet(5)
-Lava Maze	传送至熔岩迷宫	inventoryActions	item	Burning amulet(5)
-Chaos Temple	传送至混沌神殿	inventoryActions	item	Burning amulet(5)
+Bandit Camp	强盗营地	inventoryActions	item	Burning amulet(5)
+Lava Maze	熔岩迷宫	inventoryActions	item	Burning amulet(5)
+Chaos Temple	混沌神殿	inventoryActions	item	Burning amulet(5)
 Change-style	切换风格	inventoryActions	item	Rainbow scarf
 Chill	扇风	inventoryActions	item	Hand fan
-Remove default	移除预设传送点	inventoryActions	item	Master scroll book
+Remove default	移除预设	inventoryActions	item	Master scroll book
 Throw-water	泼水	inventoryActions	item	Heat-proof vessel
 Throw-water direction	选择泼水方向	inventoryActions	item	Heat-proof vessel
 Check-level	查看等级	inventoryActions	item	Heat-proof vessel
@@ -370,7 +370,7 @@ Control	控制 / 操纵	inventoryActions	item	Rotten cabbage
 Spectate	旁观	inventoryActions	item	Rotten cabbage
 Charge	充能	inventoryActions	item	Sanguinesti staff
 Scry	占卜	inventoryActions	item	Oculus orb
-Ver Sinhaza	传送至维尔‧辛哈扎城堡	inventoryActions	item	Drakan's medallion
+Ver Sinhaza	传送至维尔.辛哈扎城堡	inventoryActions	item	Drakan's medallion
 Darkmeyer	传送至达克迈尔	inventoryActions	item	Drakan's medallion
 Slepe	传送至斯莱普镇	inventoryActions	item	Drakan's medallion
 Tele	传送	inventoryActions	item	Rotten carrot
@@ -410,8 +410,8 @@ Fairy-Ring	传送至仙女环	inventoryActions	item	Fairy mushroom
 Spirit-tree	传送至灵魂树	inventoryActions	item	Fairy mushroom
 Tool-leprechauns	传送至工具小妖精	inventoryActions	item	Fairy mushroom
 Teleport-back	传送回去	inventoryActions	item	Crystal of echoes
-Check-memories	检查纪录	inventoryActions	item	Crystal of echoes
-Save-memory	保存纪录	inventoryActions	item	Crystal of echoes
+Check-memories	检查记忆	inventoryActions	item	Crystal of echoes
+Save-memory	保存记忆	inventoryActions	item	Crystal of echoes
 Withdraw	取出	inventoryActions	item	Extradimensional bag
 Settings/Destroy	设置 / 销毁	inventoryActions	item	Extradimensional bag
 League Debug	联盟调试	inventoryActions	item	League tomato
@@ -431,12 +431,12 @@ Read-tag	阅读标签	inventoryActions	item	Secret santa present (red)
 Change-colour	切换颜色	inventoryActions	item	Secret santa present (red)
 Dismantle kit	拆解套件	inventoryActions	item	Abyssal whip (or)
 Skill Emote	技能表情动作	inventoryActions	item	Shattered cane
-Boss Emote	Boss表情动作	inventoryActions	item	Shattered cane
+Boss Emote	首领表情动作	inventoryActions	item	Shattered cane
 Quest Emote	任务表情动作	inventoryActions	item	Shattered cane
 Fragment Emote	碎片表情动作	inventoryActions	item	Shattered cane
 Change Spellbook	切换法术书	inventoryActions	item	Arcane grimoire
 Previous Spellbook	切换至上一个法术书	inventoryActions	item	Arcane grimoire
-Check Previous	查看上次记录	inventoryActions	item	Arcane grimoire
+Check Previous	检查上次记录	inventoryActions	item	Arcane grimoire
 Unimbue	取消强化	inventoryActions	item	Wristbands of the arena (i)
 Last Destination	传送至上次目的地	inventoryActions	item	Ring of the elements
 Air Altar	传送至风祭坛	inventoryActions	item	Ring of the elements
@@ -487,7 +487,7 @@ Dismiss	解散	inventoryActions	item	Guardian horn
 Toggle-modes	切换模式	inventoryActions	item	Guardian horn
 Change-outfit	切换外观	inventoryActions	item	Guardian horn
 Change Prayerbook	切换祈祷书	inventoryActions	item	Ruinous powers
-Toggle-activity	开启 / 关闭功能	inventoryActions	item	Echo boots
+Toggle-activity	切换活动	inventoryActions	item	Echo boots
 Signal	呼叫绿咬鹃	inventoryActions	item	Basic quetzal whistle
 Rumour	查看猎人情报任务详请	inventoryActions	item	Basic quetzal whistle
 Break-down	分解	inventoryActions	item	Blessed bone statuette
@@ -522,7 +522,7 @@ Fo. Breath	发动气绝效果	inventoryActions	item	Contract of forfeit breath
 Chomp	咬	inventoryActions	item	Rotten turnip
 Touch	触摸	inventoryActions	item	Keystone fragment
 Breaches	探测裂隙	inventoryActions	item	Events tool
-Events	事件选单	inventoryActions	item	Events tool
+Events	事件	inventoryActions	item	Events tool
 Rummage	翻找	inventoryActions	item	Vale offerings
 Hasty-rummage	快速翻找	inventoryActions	item	Vale offerings
 Boat Teleport	传送船只至潘德莫尼姆岛	inventoryActions	item	Sailing cape
@@ -550,7 +550,7 @@ Add	添加	inventoryActions	item
 Add-5	添加5个	inventoryActions	item	
 Add-10	添加10个	inventoryActions	item	
 Add-All	添加全部	inventoryActions	item	
-Add-X	添加 X个	inventoryActions	item	
+Add-X	添加X个	inventoryActions	item	
 Withdraw-1	取出1个	inventoryActions	item	
 Withdraw-X	取出指定数量	inventoryActions	item	
 Withdraw-All-but-1	只留一个	inventoryActions	item	

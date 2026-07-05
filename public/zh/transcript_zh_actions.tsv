@@ -37,7 +37,7 @@ Deflect	偏转	actions	menu	combatOptionsTab
 Fend	抵挡	actions	menu	combatOptionsTab
 Bash	重击	actions	menu	combatOptionsTab
 Blaze	燃烧	actions	menu	combatOptionsTab
-Scorch	横扫	actions	menu	combatOptionsTab
+Scorch	灼烧	actions	menu	combatOptionsTab
 Flare	闪燃	actions	menu	combatOptionsTab
 Punch	拳击	actions	menu	combatOptionsTab
 Kick	踢击	actions	menu	combatOptionsTab
@@ -233,7 +233,7 @@ Open <colNum0>Western Provinces Journal</col>	打开<colNum0>西部省份日志<
 Wiki <colNum0>Wilderness Journal</col>	维基<colNum0>荒野日志</col>	actions	menu	achievementDiaryTab
 Open <colNum0>Wilderness Journal</col>	打开<colNum0>荒野日志</col>	actions	menu	achievementDiaryTab
 View equipment stats	查看装备属性	actions	menu	wornEquipmentTab
-View guide prices	查看指导价格	actions	menu	wornEquipmentTab
+View guide prices	查看指导价	actions	menu	wornEquipmentTab
 View items kept on death	查看死亡后保留的物品	actions	menu	wornEquipmentTab
 Call follower	召唤追随者	actions	menu	wornEquipmentTab
 Disable prayer reordering	关闭自定义祈祷排序	actions	menu	
@@ -286,7 +286,7 @@ Toggle skull prevention	切换骷髅头保护机制	actions	menu	settingsTab
 Toggle Accept Aid	切换接受援助开关	actions	menu	settingsTab
 Toggle Run	切换跑步开关	actions	menu	settingsTab
 View House Options	查看房屋选项	actions	menu	settingsTab
-Open Bond Pouch	打开的债券袋	actions	menu	settingsTab
+Open Bond Pouch	打开债券袋	actions	menu	settingsTab
 All Settings	所有设置	actions	menu	settingsTab
 Controls	控制	actions	menu	settingsTab
 Display	显示	actions	menu	settingsTab
@@ -442,11 +442,11 @@ talk	交谈	actions	npc	Gate of War
 Get job (easy)	接取简单工作	actions	npc	Gianne jnr.
 Get job (hard)	接取困难工作	actions	npc	Gianne jnr.
 Repairs	修理	actions	npc	Dark Mage
-Sober-Up	弄醒	actions	npc	Skippy
+Sober-Up	醒酒	actions	npc	Skippy
 Walk here	走到这里	actions	npc	Purepker895
 Follow	跟随	actions	npc	Purepker895
 Pay (north-west)	支付西北种植地工钱	actions	npc	Elstan
-Pay (south-east)	支付种植地工钱	actions	npc	Elstan
+Pay (south-east)	支付东南种植地工钱	actions	npc	Elstan
 Pay (north)	支付北边种植地工钱	actions	npc	Dantaera
 Pay (south)	支付南边种植地工钱	actions	npc	Dantaera
 Detach	取下装备	actions	npc	Combat dummy
@@ -460,7 +460,7 @@ Leave	离开	actions	npc	Squire
 Claim-slime	领取史莱姆	actions	npc	Robin
 Use	使用	actions	npc	Portal
 Exit	退出	actions	npc	Portal
-Relocate	搬屋	actions	npc	Estate agent
+Relocate	搬迁	actions	npc	Estate agent
 Redecorate	重新装饰	actions	npc	Estate agent
 Buy-plank	购买木板	actions	npc	Sawmill operator
 Age	查看帐号年龄	actions	npc	Hans
@@ -499,7 +499,7 @@ Potions	药水制作	actions	npc	Apothecary
 Grab-feather	拔取羽毛	actions	npc	Desert Phoenix
 Take-from	拿取	actions	npc	Jig cart
 Pay-fare	支付车资	actions	npc	Hajedy
-Coffer	开启保险箱界面	actions	npc	Yohnus
+Coffer	保险箱	actions	npc	Yohnus
 Attract	吸引	actions	npc	Light creature
 Call-Over	叫过来	actions	npc	Zombie
 Insult	羞辱	actions	npc	Zombie
@@ -517,7 +517,7 @@ View Laps	查看圈数	actions	npc	Grace
 Toggle Counter	切换计数器	actions	npc	Grace
 Tap	轻轻踢球	actions	npc	Skullball
 Show-Goal	显示目标位置	actions	npc	Skullball
-Give-Stick	交出金字塔顶	actions	npc	Agility Trainer
+Give-Stick	交出棍子	actions	npc	Agility Trainer
 Waterbirth Island	水诞岛	actions	npc	Jarvald
 Take-flyer	领取传单	actions	npc	Ali the Leaflet Dropper
 Trade-with	交易	actions	npc	Rewards Guardian
@@ -560,7 +560,7 @@ Claim-cape	领取斗篷	actions	npc	Captain Rimor
 Set-difficulty	设置难度	actions	npc	Captain Rimor
 Fight	战斗	actions	npc	Abigale
 Bars	前往酒吧	actions	npc	Pirate Jackie the Fruit
-Toggle-minerals	切换未知矿物设定	actions	npc	Belona
+Toggle-minerals	切换矿物	actions	npc	Belona
 Kitten	购买小猫	actions	npc	Gertrude
 Toggle-vials	切换自动碎瓶设定	actions	npc	Barbarian guard
 Redeem-code	兑换代码	actions	npc	Recruiter
@@ -578,7 +578,7 @@ Quick-Travel	快速旅行	actions	npc	Barge guard
 Escape	逃跑	actions	npc	Brundt the Chieftain
 Scry	占卜	actions	npc	Abigaila
 Claim Pet Rock	领取宠物石	actions	npc	Askeladden
-Standard Variant	切换至标准伤害模式	actions	npc	Combat Test (maxhit)
+Standard Variant	标准变体	actions	npc	Combat Test (maxhit)
 Get-log	领取收藏日志	actions	npc	The Collector
 Claim-log-rewards	领取日志奖励	actions	npc	The Collector
 Get bird	领取鹈鹕	actions	npc	Alry the Angler
@@ -588,8 +588,8 @@ Pay (Redwood tree)	支付红杉树种植地工钱	actions	npc	Alexandra
 Pay (Spirit tree)	支付灵魂树种植地工钱	actions	npc	Latlink Fastbell
 Swap	交换	actions	npc	Ornate combat dummy
 Pay (Celastrus tree)	支付南蛇藤树种植地工钱	actions	npc	Taylor
-Land's End	航向兰兹角村	actions	npc	Veos
-Musa Point	航向穆萨角	actions	npc	Seaman Morris
+Land's End	兰兹角	actions	npc	Veos
+Musa Point	穆萨角	actions	npc	Seaman Morris
 Join Castle Wars	加入城堡战争	actions	npc	Saradominist recruiter
 Holiday-items	领取节日物品	actions	npc	Diango
 Tan-hides	鞣皮	actions	npc	Eodan
@@ -623,7 +623,7 @@ Spectate	观战	actions	npc	The Nightmare
 Convert-shards	兑换碎片	actions	npc	Noranna Tytanin
 Loot	搜刮 / 领取 / 转移战利品	actions	npc	Grave
 Lap-count	圈数统计	actions	npc	Bobawu
-Value	查看物品价值	actions	npc	Skully
+Value	价值	actions	npc	Skully
 Ungael	航向至恩盖尔	actions	npc	Torfinn
 Glider-to Ta Quir Priw	滑翔至大树家园	actions	npc	Gnormadium Avlafrim
 Glider-to Gandius	滑翔至甘迪乌斯	actions	npc	Gnormadium Avlafrim
@@ -641,14 +641,14 @@ Locks	锁	actions	npc	Dampe
 Take-net	拿取渔网	actions	npc	Spirit Angler
 Ferry	渡船	actions	npc	Ferryman Sathwood
 Awaken	唤醒	actions	npc	Rubble
-Items	领取物品	actions	npc	Clerk
+Items	物品	actions	npc	Clerk
 Buy-sphere	购买宝珠	actions	npc	Oldak
 Power-up	强化	actions	npc	The Great Guardian
 Buy-crystals	购买水晶	actions	npc	Rick
 Quick-lock	快速锁定	actions	npc	Apprentice Tamara
 Strike	打击	actions	npc	Hill Giant
 Hand-in	上交	actions	npc	Kovac
-Commission	查看委托订单	actions	npc	Kovac
+Commission	委托	actions	npc	Kovac
 Talk	交谈	actions	npc	Hannibal
 Proceed	继续	actions	npc	Osmumten
 Begin	开始	actions	npc	Osmumten
@@ -695,9 +695,9 @@ Take pages	拿取书页	actions	npc	Branda the Fire Queen
 Whack	重击	actions	npc	Forebearer Janus
 Translate	翻译	actions	npc	Prince Itzla Arkan
 Fix	修复	actions	npc	Humphrey Dumphrey
-Tal Teklan	前往塔尔‧特克兰聚落	actions	npc	Achilka
+Tal Teklan	塔尔.特克兰	actions	npc	Achilka
 Gloomthorn Trail	前往幽刺小径	actions	npc	Achilka
-Kastori	前往卡斯托里聚落	actions	npc	Achilka
+Kastori	卡斯托里	actions	npc	Achilka
 Directions	导航	actions	npc	Ru Merald
 Claim-arrows	领取箭矢	actions	npc	Rantz
 Claim-hats	领取帽子	actions	npc	Rantz
@@ -777,7 +777,7 @@ Push	推	actions	object	Wall
 Take-1	拿取 1 个	actions	object	Bandage table
 Take-5	拿取 5 个	actions	object	Bandage table
 Take-10	拿取 10 个	actions	object	Bandage table
-Commune	拉动	actions	object	Lever
+Commune	通灵	actions	object	Lever
 Board	登船	actions	object	Log raft
 Swim to	游泳	actions	object	Rock
 Take treasure	拿取宝藏	actions	object	Chalice
@@ -972,7 +972,7 @@ Store-plunder	储存掠夺物	actions	object	Plunder Storage
 Take-powder	拿取粉末	actions	object	Powder Barrel
 Waterproof	防水处理	actions	object	Ship hull
 Balance	平衡	actions	object	Narrow wall
-Teeth-grip	用牙咬住滑行	actions	object	Zip line
+Teeth-grip	咬住滑行	actions	object	Zip line
 Drain	排水	actions	object	Barrel
 Churn	搅拌	actions	object	Dairy churn
 Zanaris	传送至失落之城	actions	object	Fairy ring
@@ -1020,7 +1020,7 @@ Continue-trek	继续徒步	actions	object	Path
 Swing-from	荡过	actions	object	Swamp tree branch
 Cut-vine	砍下藤蔓	actions	object	Swamp tree
 Escape-event	逃离事件	actions	object	Boat
-Return-to-Burgh	返回罗特堡	actions	object	Path
+Return-to-Burgh	返回伯格德罗特镇	actions	object	Path
 Remove-Pot	移除罐子	actions	object	Pot-boiler
 Remove-Bone	移除骨头	actions	object	Pot-boiler
 Jump-down	跳下去	actions	object	Rocks
@@ -1083,13 +1083,13 @@ Steal	偷窃	actions	object	Candles
 Deactivate	停用	actions	object	Magic box
 Trap	放置陷阱	actions	object	Pit
 Flush	冲洗	actions	object	Rabbit hole
-Shout-over	喊过	actions	object	Rockslide
+Shout-over	喊话	actions	object	Rockslide
 Pull-down	拉下	actions	object	Eagle lever
 Push-up	推上	actions	object	Eagle lever
 Reset-wave	重置波次	actions	object	Door
 Dunk	浸入	actions	object	Lava crater
 Demolish	拆除	actions	object	Penance cave
-Take-Arrows	拿取箭攵	actions	object	Attacker item machine
+Take-Arrows	拿取箭矢	actions	object	Attacker item machine
 Take-Runes	拿取符石	actions	object	Attacker item machine
 Stock-Up	领取补给	actions	object	Defender item machine
 Take-Crackers	拿取拉炮	actions	object	Defender item machine
@@ -1325,12 +1325,12 @@ Take Spade	拿取铲子	actions	object	Old tools
 Take Seed Dibber	拿取种植锥	actions	object	Old tools
 Pick-lots	批量采摘	actions	object	Gourd tree
 Quick-pass	快速通过	actions	object	Mystical barrier
-Coffer	开启保险箱界面	actions	object	Furnace
+Coffer	保险箱	actions	object	Furnace
 Travel to platform	前往平台	actions	object	Row boat
 Leave platform	离开平台	actions	object	Row boat
 Check count	检查计数	actions	object	Rock
-Toggle warning	切换警告提示设定	actions	object	Rock
-Seeds	放置种子	actions	object	Birdhouse (empty)
+Toggle warning	切换警告	actions	object	Rock
+Seeds	种子	actions	object	Birdhouse (empty)
 Interact	互动	actions	object	Birdhouse
 Inject	注射	actions	object	Sulliuscep
 Jump on	跳上去	actions	object	Rubber cap mushroom
@@ -1343,7 +1343,7 @@ Take tools	拿取工具	actions	object	Crate
 Set up	设置	actions	object	Drift net anchors
 Take down	取下	actions	object	Drift net anchors
 Pick up	捡起	actions	object	Pile of Fishbowls
-Feel	触摸	actions	object	Gas hole
+Feel	感受	actions	object	Gas hole
 Add to	添加	actions	object	Large Fossil Support
 Climb through	爬过	actions	object	Hole
 Teleport to destination	传送至目的地	actions	object	Obelisk
@@ -1351,8 +1351,8 @@ Set destination	设置目的地	actions	object	Obelisk
 Preferences	偏好设置	actions	object	Log storage
 Absorb	吸收	actions	object	Energy Sphere
 Reminisce	回忆	actions	object	Pool of Dreams
-Nets	用渔网捕鱼	actions	object	Annette
-Lunar	切换至月之法术书	actions	object	Altar of the Occult
+Nets	渔网	actions	object	Annette
+Lunar	月之法术书	actions	object	Altar of the Occult
 Recharge-jewellery	充能首饰	actions	object	Totem Pole
 Douse	熄灭	actions	object	Fire
 Heal	治疗	actions	object	Fremennik warrior
@@ -1402,26 +1402,26 @@ Channel	引导	actions	object	Teleport Platform
 Enter-corrupted	进入堕落区域	actions	object	The Gauntlet
 Refine	精炼	actions	object	Furnace
 Imbue	强化	actions	object	Altar
-Emir's Arena	传送至埃米尔竞技场	actions	object	Basic Jewellery Box
-Castle Wars	传送至城堡战争	actions	object	Basic Jewellery Box
-Ferox Enclave	传送至费罗飞地	actions	object	Basic Jewellery Box
-Burthorpe	传送至伯索普公国	actions	object	Basic Jewellery Box
-Barbarian Outpost	传送至野蛮人前哨站	actions	object	Basic Jewellery Box
-Corporeal Beast	传送至实体巨兽	actions	object	Basic Jewellery Box
-Tears of Guthix	传送至古斯之泪	actions	object	Basic Jewellery Box
-Wintertodt Camp	传送至寒冬营地	actions	object	Basic Jewellery Box
-Warriors' Guild	传送至战士公会	actions	object	Fancy Jewellery Box
-Champions' Guild	传送至冠军公会	actions	object	Fancy Jewellery Box
+Emir's Arena	埃米尔竞技场	actions	object	Basic Jewellery Box
+Castle Wars	城堡战争	actions	object	Basic Jewellery Box
+Ferox Enclave	费罗飞地	actions	object	Basic Jewellery Box
+Burthorpe	伯索普公国	actions	object	Basic Jewellery Box
+Barbarian Outpost	野蛮人前哨站	actions	object	Basic Jewellery Box
+Corporeal Beast	实体巨兽	actions	object	Basic Jewellery Box
+Tears of Guthix	古斯之泪	actions	object	Basic Jewellery Box
+Wintertodt Camp	寒冬营地	actions	object	Basic Jewellery Box
+Warriors' Guild	战士公会	actions	object	Fancy Jewellery Box
+Champions' Guild	冠军公会	actions	object	Fancy Jewellery Box
 Monastery	传送至埃奇维尔修道院	actions	object	Fancy Jewellery Box
-Ranging Guild	传送至射手公会	actions	object	Fancy Jewellery Box
-Fishing Guild	传送至钓鱼公会	actions	object	Fancy Jewellery Box
-Mining Guild	传送至采矿公会	actions	object	Fancy Jewellery Box
-Crafting Guild	传送至制作公会	actions	object	Fancy Jewellery Box
-Cooking Guild	传送至厨师公会	actions	object	Fancy Jewellery Box
-Woodcutting Guild	传送至伐木公会	actions	object	Fancy Jewellery Box
-Farming Guild	传送至农业公会	actions	object	Fancy Jewellery Box
-Falador Park	传送至法拉多公园	actions	object	Ornate Jewellery Box
-Dondakan's Rock	传送至东达坎之石	actions	object	Ornate Jewellery Box
+Ranging Guild	射手公会	actions	object	Fancy Jewellery Box
+Fishing Guild	钓鱼公会	actions	object	Fancy Jewellery Box
+Mining Guild	采矿公会	actions	object	Fancy Jewellery Box
+Crafting Guild	制作公会	actions	object	Fancy Jewellery Box
+Cooking Guild	厨师公会	actions	object	Fancy Jewellery Box
+Woodcutting Guild	伐木公会	actions	object	Fancy Jewellery Box
+Farming Guild	农业公会	actions	object	Fancy Jewellery Box
+Falador Park	法拉多公园	actions	object	Ornate Jewellery Box
+Dondakan's Rock	东达坎之石	actions	object	Ornate Jewellery Box
 Take manta ray	拿取魔鬼鱼	actions	object	Bounty supply crate
 Take anglerfish	拿取安康鱼	actions	object	Bounty supply crate
 Stamp-out	踩灭	actions	object	Magical Fire
@@ -1436,9 +1436,9 @@ Pass-Through	穿过	actions	object	Casual
 Cut-foot	切下酸猪脚	actions	object	Dead sourhog
 Take-candy	拿取糖果	actions	object	Magical pumpkin
 Jump-Down	跳下去	actions	object	Crevice
-Channel (Asgarnia)	传送至阿斯加尼亚王国	actions	object	Waystone
-Channel (Misthalin)	传送至米斯特林王国	actions	object	Waystone
-Channel (Kandarin)	传送至坎达林王国	actions	object	Waystone
+Channel (Asgarnia)	阿斯加尼亚王国	actions	object	Waystone
+Channel (Misthalin)	米斯特林王国	actions	object	Waystone
+Channel (Kandarin)	坎达林王国	actions	object	Waystone
 Channel (Fremennik)	传送至费明尼克	actions	object	Waystone
 Channel (Kharidian Desert)	传送至卡里迪安沙漠	actions	object	Waystone
 Channel (Morytania)	传送至莫利塔尼亚	actions	object	Waystone
@@ -1485,7 +1485,7 @@ Toggle-talisman	切换护符	actions	object	Guardian of Air
 Assemble	组装	actions	object	Essence pile (elemental)
 Take-chisel	拿取凿子	actions	object	Weak cells
 Place-cell	放置单元	actions	object	Inactive cell tile
-Exit-through (Kourend)	穿过离开 (库兰德王国)	actions	object	Blood rift
+Exit-through (Kourend)	穿过离开 (库兰德)	actions	object	Blood rift
 Pay-toll(10gp)	支付通行费 (10 金币)	actions	object	Gate
 Pour	倾倒	actions	object	Crucible (full)
 Heat-preform	加热预制品	actions	object	Lava pool
@@ -1563,7 +1563,7 @@ Change	切换	actions	object	Scarecrow
 Plant	种植	actions	object	Pumpkin patch
 Carve-pumpkin	雕刻南瓜	actions	object	Pumpkin carving table
 Walk-to	走向	actions	object	Blue tile
-Channel (Varlamore)	传送至瓦拉莫尔)	actions	object	Waystone
+Channel (Varlamore)	传送至瓦拉莫尔	actions	object	Waystone
 Reinvigorate	恢复活力	actions	object	Book of Eternal Flame
 Trophies	展示奖杯	actions	object	Teak display
 Bottom-Floor	直达底层	actions	object	Ladder
@@ -1863,15 +1863,15 @@ Stun egg	眩晕蛋	actions	cachedump	cachedump
 View tutorial	查看教程	actions	cachedump	cachedump
 Advanced	高级	actions	cachedump	cachedump
 Level-up	升级	actions	cachedump	cachedump
-The Fremennik Provinces	弗瑞曼尼卡省	actions	cachedump	cachedump
+The Fremennik Provinces	费明尼克省	actions	cachedump	cachedump
 Kebos and Kourend	凯博斯与库兰德王国	actions	cachedump	cachedump
 Kourend and Kebos	库兰德王国与凯博斯	actions	cachedump	cachedump
 Health Info	生命信息	actions	cachedump	cachedump
 Spirit Info	灵魂信息	actions	cachedump	cachedump
 Armament Info	装备信息	actions	cachedump	cachedump
-Stairs to Natural History exhibit	楼梯通往自然历史展区	actions	cachedump	cachedump
-Stairs to Timeline exhibit	楼梯通往时间线展区	actions	cachedump	cachedump
-Stairs to Dig Site exhibit	楼梯通往考古挖掘场展区	actions	cachedump	cachedump
+Stairs to Natural History exhibit	通往自然历史展区的楼梯	actions	cachedump	cachedump
+Stairs to Timeline exhibit	通往时间线展区的楼梯	actions	cachedump	cachedump
+Stairs to Dig Site exhibit	通往考古挖掘场展区的楼梯	actions	cachedump	cachedump
 Confirm Reset	确认重置	actions	cachedump	cachedump
 Cancel Reset	取消重置	actions	cachedump	cachedump
 Play-c	演奏-C	actions	cachedump	cachedump
