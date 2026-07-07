@@ -22427,7 +22427,7 @@ Useful for catching fish.	用于捕鱼。	examine	object	Harpoons
 Looks like it needs fixing before it can be tethered to.	看起来需要先修理才能系东西上去。	examine	object	Damaged mast
 A sturdy mast supporting the sails.	一根支撑船帆的坚固桅杆。	examine	object	Mast
 Used for pumping.	用于抽水。	examine	object	Water pump
-Details some statistics on TzHaar-Ket-Rak's Challenges.	详细列出特扎尔 - 凯特 - 拉克挑战的一些统计数据。	examine	object	Scoreboard
+Details some statistics on TzHaar-Ket-Rak's Challenges.	详细列出特扎尔.凯特.拉克挑战的一些统计数据。	examine	object	Scoreboard
 Seems to be burnt out.	似乎烧坏了。	examine	object	Ancient brazier
 Someone has passed here recently.	最近有人经过这里。	examine	object	Ancient brazier
 A large display of the Corporeal Beast	实体巨兽的大型展柜。	examine	object	Corporeal Beast Display
@@ -23192,7 +23192,7 @@ The Soul Wars minigame was the first in a series of backported pieces of content
 Sins of the Father is a Master quest which unlocked access to Darkmeyer on 4th June, 2020.	父辈的罪孽是一个于2020年6月4日解锁通往达克迈尔权限的大师级任务。	examine	object	Darkmeyer Display
 The Shades of Mort'ton rework was released on 27th January, 2021.	莫顿镇的阴影重做于2021年1月27日发布。	examine	object	Shades of Mort'ton Rework Display
 The Trailblazer League was the second league and was released on 28th October, 2020.	开拓者联赛是第二个联赛，于2020年10月28日发布。	examine	object	Trailblazer League Display
-Tzhaar-Ket-Rak's challenges which introduced the ability to fight 6 jads at once was released on 3rd March, 2021.	特扎尔 - 凯特 - 拉克的挑战引入了同时对抗6个贾德的能力，于2021年3月3日发布。	examine	object	Tzhaar-Ket-Rak Display
+Tzhaar-Ket-Rak's challenges which introduced the ability to fight 6 jads at once was released on 3rd March, 2021.	特扎尔.凯特.拉克的挑战引入了同时对抗6个贾德的能力，于2021年3月3日发布。	examine	object	Tzhaar-Ket-Rak Display
 Shooting Stars is a distraction and diversion mining activity which was released on 17th March, 2021.	流星是一个于2021年3月17日发布的采矿干扰活动。	examine	object	Shooting Star Display
 Tempoross the fishing skill boss was released on 24th March, 2021.	海灵 - 钓鱼技能Boss于2021年3月24日发布。	examine	object	Tempoross Display
 Below Ice Mountain is a free-to-play quest which was released on 14th April, 2021.	冰山之下是一个于2021年4月14日发布的免费任务。	examine	object	Below Ice Mountain Display

@@ -901,9 +901,9 @@ Description: <colNum0>Kill K'ril Tsutsaroth in a privately rented instance witho
 Description: <colNum0>Defeat K'ril Tsutsaroth in a privately rented instance using only demonbane spells.</col>	描述：<colNum0>在私人副本中仅用恶魔克星法术击败克里尔.楚萨罗斯</col>	interface	combAchvmt	
 Description: <colNum0>Kill a Jal-Zek within the Inferno.</col>	描述：<colNum0>在地狱内击杀一个贾尔 - 泽克</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.</col>	描述：<colNum0>在不祈祷的情况下承受特兹托克.贾德一击后通关战斗洞穴</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's second challenge.</col>	描述：<colNum0>完成特扎尔 - 凯特 - 拉克的第二个挑战</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's first challenge in less than <Num0> seconds.</col>	描述：<colNum0>在<Num0>秒内完成特扎尔 - 凯特 - 拉克的第一个挑战</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's second challenge with only melee.</col>	描述：<colNum0>仅用近战完成特扎尔 - 凯特 - 拉克的第二个挑战</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's second challenge.</col>	描述：<colNum0>完成特扎尔.凯特.拉克的第二个挑战</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's first challenge in less than <Num0> seconds.</col>	描述：<colNum0>在<Num0>秒内完成特扎尔.凯特.拉克的第一个挑战</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's second challenge with only melee.</col>	描述：<colNum0>仅用近战完成特扎尔.凯特.拉克的第二个挑战</col>	interface	combAchvmt	
 Description: <colNum0>Kill Phosani's Nightmare once.</col>	描述：<colNum0>击杀弗萨尼的梦魇一次</col>	interface	combAchvmt	
 Description: <colNum0>Kill Nex once.</col>	描述：<colNum0>击杀奈克斯一次</col>	interface	combAchvmt	
 Description: <colNum0>Kill Nex without anyone dying.</col>	描述：<colNum0>击杀奈克斯时没有人死亡</col>	interface	combAchvmt	
@@ -1015,11 +1015,11 @@ Description: <colNum0>Complete a Chambers of Xeric (Solo) in less than <Num0> mi
 Description: <colNum0>Complete a Chambers of Xeric (Trio) in less than <Num0> minutes and <Num1> seconds.</col>	描述：<colNum0>三人在<Num0>分钟<Num1>秒内通关泽里克圣所副本。</col>	interface	combAchvmt	
 Description: <colNum0>Complete a Chambers of Xeric (<Num0>-scale) in less than <Num1> minutes.</col>	描述：<colNum0><Num0>人在<Num1>分钟内通关泽里克圣所副本。</col>	interface	combAchvmt	
 Description: <colNum0>Kill TzKal-Zuk without letting a pillar fall before wave <Num0>.</col>	描述：<colNum0>击杀特兹卡尔.祖克，且不让任何柱子在第<Num0>波之前倒下。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's fourth challenge.</col>	描述：<colNum0>完成特扎尔 - 凯特 - 拉克的第四个挑战。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge in less than <Num0> minutes.</col>	描述：<colNum0>在<Num0>分钟内完成特扎尔 - 凯特 - 拉克的第三个挑战。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's fourth challenge with only melee.</col>	描述：<colNum0>仅使用近战完成特扎尔 - 凯特 - 拉克的第四个挑战。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.</col>	描述：<colNum0>物品栏中没有任何物品的情况下完成特扎尔 - 凯特 - 拉克的第三个挑战。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.</col>	描述：<colNum0>对每个贾尔托克 - 贾德使用不同攻击风格完成特扎尔 - 凯特 - 拉克的第三个挑战。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fourth challenge.</col>	描述：<colNum0>完成特扎尔.凯特.拉克的第四个挑战。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge in less than <Num0> minutes.</col>	描述：<colNum0>在<Num0>分钟内完成特扎尔.凯特.拉克的第三个挑战。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fourth challenge with only melee.</col>	描述：<colNum0>仅使用近战完成特扎尔.凯特.拉克的第四个挑战。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.</col>	描述：<colNum0>物品栏中没有任何物品的情况下完成特扎尔.凯特.拉克的第三个挑战。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.</col>	描述：<colNum0>对每个贾尔托克 - 贾德使用不同攻击风格完成特扎尔.凯特.拉克的第三个挑战。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Theatre of Blood: Hard Mode within the challenge time.</col>	描述：<colNum0>在挑战时间内通关血腥剧场：困难模式。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Theatre of Blood: Entry Mode in less than <Num0> minutes.</col>	描述：<colNum0>在<Num0>分钟内通关血腥剧场：入门模式。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Phosani's Nightmare <Num0> times.</col>	描述：<colNum0>击杀弗萨尼的梦魇<Num0>次。</col>	interface	combAchvmt	
@@ -1121,9 +1121,9 @@ Description: <colNum0>Kill TzKal-Zuk without using any magic spells during any w
 Description: <colNum0>Kill TzKal-Zuk without equipping any range or mage weapons before wave <Num0>.</col>	描述：<colNum0>在第<Num0>波之前不装备任何远程或魔法武器的情况下击杀特兹卡尔.祖克。</col>	interface	combAchvmt	
 Description: <colNum0>Kill TzKal-Zuk without killing the JalTok-Jad which spawns during wave <Num0>.</col>	描述：<colNum0>不击杀第<Num0>波中生成的贾尔托克 - 贾德的情况下击杀特兹卡尔.祖克。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Inferno in less than <Num0> minutes.</col>	描述：<colNum0>在<Num0>分钟内通关地狱。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's sixth challenge.</col>	描述：<colNum0>完成特扎尔 - 凯特 - 拉克的第六个挑战。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's fifth challenge in less than <Num0> minutes.</col>	描述：<colNum0>在<Num0>分钟内完成特扎尔 - 凯特 - 拉克的第五个挑战。</col>	interface	combAchvmt	
-Description: <colNum0>Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.</col>	描述：<colNum0>连续完成特扎尔 - 凯特 - 拉克的第五和第六个挑战且不失败。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's sixth challenge.</col>	描述：<colNum0>完成特扎尔.凯特.拉克的第六个挑战。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fifth challenge in less than <Num0> minutes.</col>	描述：<colNum0>在<Num0>分钟内完成特扎尔.凯特.拉克的第五个挑战。</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.</col>	描述：<colNum0>连续完成特扎尔.凯特.拉克的第五和第六个挑战且不失败。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than <Num0> blood trails.</col>	描述：<colNum0>在血腥剧场：困难模式中击败苏加丁蒂的少女，不让血裔创造超过<Num0>条血迹。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with at least <Num0> people in the room, without anyone in your team standing on top of each other.</col>	描述：<colNum0>在血腥剧场：困难模式中击败瘟疫肿胀怪，房间内至少有<Num0>人，队伍中没有人互相站在对方身上。</col>	interface	combAchvmt	
 Description: <colNum0>In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.</col>	描述：<colNum0>在血腥剧场：困难模式中通关尼洛卡斯房间，从不让尼洛卡斯.普林基帕斯改变风格。</col>	interface	combAchvmt	
@@ -1337,7 +1337,7 @@ The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tom
 Mandatory requirements: - Beneath Cursed Sands  Combat Achievement task difficulty: - Elite - Master - Grandmaster	要求：- 诅咒沙地之下 战斗成就任务难度：- 精英 - 大师 - 宗师	interface	combAchvmt	
 Combat Achievements - Tombs of Amascut: Expert Mode	战斗成就 - 阿玛斯库特之墓：专家模式	interface	combAchvmt	
 The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> or greater considered an Expert raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	阿玛斯库特之墓可在索法尼恩城南部的一个古代坟墓中找到。阿玛斯库特之墓是一个供<Num0>-<Num1>名玩家参与的团队副本。阿玛斯库特之墓可通过使用祈愿来调整难度。这些祈愿会改变团队副本等级，团队副本等级为<Num2>或更高被视为专家团队副本。攻击风格 - 魔法、远程、近战、特殊 免疫 - 毒药、剧毒 杀戮分类 - 无	interface	combAchvmt	
-Combat Achievements - TzHaar-Ket-Rak's Challenges	战斗成就 - 特扎尔 - 凯特 - 拉克的挑战	interface	combAchvmt	
+Combat Achievements - TzHaar-Ket-Rak's Challenges	战斗成就 - 特扎尔.凯特.拉克的挑战	interface	combAchvmt	
 TzHaar-Ket-Rak's is an elite Tzhaar warrior found within the inner city of Mor Ul Rek.  TzHaar-Ket-Rak offers a number of challenges where those who have proven themselves within the Fight Caves or the Inferno can go up against an ever increasing number of JalTok-Jads.	特扎尔-凯特-拉克是一位精英特扎尔战士，可在莫尔乌尔雷克内城中找到。特扎尔-凯特-拉克提供多项挑战，让那些在战斗洞穴或地狱中证明过自己的人可以面对越来越多的贾尔托克-贾德。	interface	combAchvmt	
 Mandatory requirements:  TzHaar-Ket-Rak's First and Second Challenges - <Num0> Fight Caves completion  TzHaar-Ket-Rak's Third to Sixth Challenges - <Num1> Inferno completion  Combat Achievement task difficulty: - Elite - Master - Grandmaster	要求：特扎尔-凯特-拉克的第一和第二次挑战 -<Num0>战斗洞穴完成 特扎尔-凯特-拉克的第三到第六次挑战 -<Num1>地狱完成 战斗成就任务难度：- 精英 - 大师 - 宗师	interface	combAchvmt	
 Combat Achievements - TzKal-Zuk	战斗成就 - 特兹卡尔.祖克	interface	combAchvmt	
@@ -1411,7 +1411,7 @@ Theatre of Blood: Entry Mode	血腥剧场：入门模式	interface	combAchvmt
 Tombs of Amascut: Entry Mode	阿玛斯库特之墓：入门模式	interface	combAchvmt	
 Thermy	瑟米	interface	combAchvmt	
 Chambers of Xeric: CM	泽里克圣所：挑战模式	interface	combAchvmt	
-TzHaar-Ket-Rak's Challenges	特扎尔 - 凯特 - 拉克的挑战	interface	combAchvmt	
+TzHaar-Ket-Rak's Challenges	特扎尔.凯特.拉克的挑战	interface	combAchvmt	
 Tombs of Amascut: Expert Mode	阿玛斯库特之墓：专家模式	interface	combAchvmt	
 Theatre of Blood: Hard Mode	血腥剧场：困难模式	interface	combAchvmt	
 Stamina	耐力	interface	combAchvmt	
