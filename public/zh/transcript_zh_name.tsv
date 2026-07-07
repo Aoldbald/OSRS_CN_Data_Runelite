@@ -12193,7 +12193,7 @@ Cowardly Bandit	懦弱的强盗	name	npc	Cowardly Bandit
 My Arm	'我的手臂''	name	npc	My Arm
 Adventurer	冒险者	name	npc	Adventurer
 Captain Barnaby	巴纳比船长	name	npc	Captain Barnaby
-Murcaily	默凯利	name	npc	Murcaily
+Murcaily	穆尔凯利	name	npc	Murcaily
 Jagbakoba	贾格巴科巴	name	npc	Jagbakoba
 Flies	苍蝇	name	npc	Flies
 Unnamed troll child	无名的巨魔小孩	name	npc	Unnamed troll child
@@ -14795,7 +14795,7 @@ Hieve	希夫	name	npc	Hieve
 Disciple of Yama	阎魔的门徒	name	npc	Disciple of Yama
 Eve	夏娃	name	npc	Eve
 Solztun	索尔兹顿	name	npc	Solztun
-Jal-Nib-Rek	贾尔.尼布.雷克	name	npc	Jal-Nib-Rek
+Jal-Nib-Rek	啃食者幼崽	name	npc	Jal-Nib-Rek
 TzHaar-Ket-Zuh	特扎尔.凯特.祖	name	npc	TzHaar-Ket-Zuh
 TzHaar-Ket-Yil	特扎尔.凯特.伊尔	name	npc	TzHaar-Ket-Yil
 TzHaar-Mej-Dir	特扎尔.梅.迪尔	name	npc	TzHaar-Mej-Dir
@@ -22313,7 +22313,7 @@ Burgh de Rott	伯格德罗特镇	name	location	manual_split
 Burthorpe	伯索普公国	name	location	manual_split
 Canifis	坎尼非斯村	name	location	manual_split
 Kharidian Desert	卡里迪安沙漠	name	location	manual_split
-Dorgesh-Kaan	多吉需戛纳	name	location	manual_split
+Dorgesh-Kaan	多吉需坎	name	location	manual_split
 Draynor Village	德雷诺村	name	location	manual_split
 Feldip Hills	费迪普丘陵	name	location	manual_split
 Gnome Stronghold	地精要塞	name	location	manual_split
@@ -22370,7 +22370,7 @@ Fossil Island	化石岛	name	location	manual_split
 Asgarnian Ice Dungeon	阿斯加尼亚冰原地牢	name	location	manual_split
 Ogre Enclave	食人魔飞地	name	location	manual_split
 Brine Rat Cavern	盐水鼠洞穴	name	location	manual_split
-Zanaris	失落之城	name	location	manual_split
+Zanaris	扎纳里斯	name	location	manual_split
 In the Lighthouse	灯塔内	name	location	manual_split
 Smoke Dungeon	烟雾地牢	name	location	manual_split
 Evil Chicken's Lair	邪恶鸡的巢穴	name	location	manual_split
