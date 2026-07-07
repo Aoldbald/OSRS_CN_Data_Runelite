@@ -14264,7 +14264,7 @@ Spawn	幼体	name	npc	Spawn
 Scion	后代	name	npc	Scion
 Grace	格蕾丝	name	npc	Grace
 Mark	马克	name	npc	Mark
-BigRedJapan	大红日本	name	npc	BigRedJapan
+BigRedJapan	BigRedJapan	name	npc	BigRedJapan
 Skullball	骷髅球	name	npc	Skullball
 Skullball Boss	骷髅球老板	name	npc	Skullball Boss
 Agility Boss	敏捷老板	name	npc	Agility Boss
@@ -15503,8 +15503,8 @@ Koanee	科尼	name	npc	Koanee
 Timallus	蒂马卢斯	name	npc	Timallus
 Lauretta	劳蕾塔	name	npc	Lauretta
 Ishmael	以实玛利	name	npc	Ishmael
-JalRek-Jad	贾尔雷克 - 贾德	name	npc	JalRek-Jad
-TzHaar-Ket-Rak	特扎尔 - 凯特 - 拉克	name	npc	TzHaar-Ket-Rak
+JalRek-Jad	贾尔雷克.贾德	name	npc	JalRek-Jad
+TzHaar-Ket-Rak	特扎尔.凯特.拉克	name	npc	TzHaar-Ket-Rak
 Dusuri	杜苏里	name	npc	Dusuri
 Star Sprite	星之精灵	name	npc	Star Sprite
 Baby Mole-rat	鼹鼠幼崽	name	npc	Baby Mole-rat
@@ -15597,7 +15597,7 @@ The Sage	智者	name	npc	The Sage
 League Tutor	联赛导师	name	npc	League Tutor
 Leagues Assistant	联赛助理	name	npc	Leagues Assistant
 Revenant maledictus	亡灵马勒迪克图斯	name	npc	Revenant maledictus
-TzHaar-Ket-Keh	特扎尔 - 凯特 - 凯	name	npc	TzHaar-Ket-Keh
+TzHaar-Ket-Keh	特扎尔.凯特.凯	name	npc	TzHaar-Ket-Keh
 Oldak	奥达克	name	npc	Oldak
 High Priest Bighead	大头大祭司	name	npc	High Priest Bighead
 Skoblin	斯戈布林	name	npc	Skoblin
