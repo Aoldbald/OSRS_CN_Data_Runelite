@@ -3506,7 +3506,7 @@ Members: Teacher wand	会员：教师法杖	interface	generalUI	skillGuide
 Members: Master wand	会员：大师法杖	interface	generalUI	skillGuide
 Members: Thammaron's Sceptre	会员：萨玛隆的权杖	interface	generalUI	skillGuide
 Members: God staves (requires Mage Arena I)	会员：神之法杖 (需要魔法师竞技场 I)	interface	generalUI	skillGuide
-Members: TokTz-Mej-Tal (with <Num0> Attack)	会员：特兹托克 - 梅 - 塔尔 (需要<Num0>级攻击)	interface	generalUI	skillGuide
+Members: TokTz-Mej-Tal (with <Num0> Attack)	会员：特兹托克.梅.塔尔 (需要<Num0>级攻击)	interface	generalUI	skillGuide
 Members: Twinflame staff	会员：双生冰焰法杖	interface	generalUI	skillGuide
 Members: Warped sceptre	会员：扭曲权杖	interface	generalUI	skillGuide
 Members: <Num0>rd age wand	会员：第三纪元法杖	interface	generalUI	skillGuide
