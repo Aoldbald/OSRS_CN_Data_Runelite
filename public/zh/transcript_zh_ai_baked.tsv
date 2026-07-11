@@ -1331,3 +1331,280 @@ Use the spirit tree north of Varrock.	使用维洛克城北边的灵魂树。	ai
 Visit the Isle of Crandor via the dungeon below the volcano.	通过火山下方的地牢前往克兰多尔岛。	ai_baked	ai_cache	deepseek_20260704
 Visit the Port Sarim Rat Pits.	参观沙林港的鼠坑。	ai_baked	ai_cache	deepseek_20260704
 Chop and burn some Willow logs in Taverley Craft a fruit basket on the Falador Farm loom.	在塔韦利村砍伐并烧掉一些柳木原木，然后在法拉多城农场的织布机上制作一个水果篮子。	ai_baked	ai_cache	deepseek_20260704
+1 Quest	1个任务	manual	ai_cache	ai_cache_20260710
+Al Kharid.	阿尔卡里德城。	manual	ai_cache	ai_cache_20260710
+As an Ironman, you choose to have these restrictions imposed on you, so everyone knows you're doing it properly.	作为Ironman，你选择接受这些限制，这样大家都知道你是正经在玩。	manual	ai_cache	ai_cache_20260710
+Attack deal either Stab, Slash or Crush damage as shown in the tooltip. Enemies have different defence for each of these damage types, so attack with style the enemy has low Melee defence in increase your chance to hit Styles Enemy be viewed using the Monster Inspect spell or up on the Wiki. stats	攻击造成提示中显示的刺击、劈砍或钝击伤害。敌人对这些伤害类型的防御不同，因此用风格攻击：如果敌人近战防御低，增加命中几率。可通过怪物检视法术或维基查看敌人的风格属性。	manual	ai_cache	ai_cache_20260710
+Attack increases your accuracy,	攻击提升你的命中率，	manual	ai_cache	ai_cache_20260710
+Attack increases your accuracy.	攻击能提升你的命中率。	manual	ai_cache	ai_cache_20260710
+Attack level and bones dropped by defeated	被击败者掉落的骨头和攻击等级	manual	ai_cache	ai_cache_20260710
+Attack level and bones dropped by defeated enemies can be buried for Prayer XP.	被击败敌人掉落的骨头和攻击等级可用于埋葬以获得祈祷经验值。	manual	ai_cache	ai_cache_20260710
+Attack level and bones dropped by defeated enemies can be buried for Prayer XP. Smithing:	被击败敌人掉落的骨头和攻击等级可用于埋葬以获得祈祷经验值。锻造：	manual	ai_cache	ai_cache_20260710
+Attack level determines your accuracy with melee	攻击等级决定近战命中率	manual	ai_cache	ai_cache_20260710
+Attack level determines your accuracy with melee weapons and unlocks the ability to wield increasingly powerful weapons. Use the tabs on the left to see what level is required to equip certain equipment.	攻击等级决定你使用近战武器的准确度，并解锁使用越来越强大武器的能力。使用左侧标签查看装备特定装备所需的等级。	manual	ai_cache	ai_cache_20260710
+Attack monsters.	攻击怪物。	manual	ai_cache	ai_cache_20260710
+Attack:	攻击：	manual	ai_cache	ai_cache_20260710
+Attacking also grants	攻击也给予	manual	ai_cache	ai_cache_20260710
+Attacking enemies also grants	攻击敌人也会获得	manual	ai_cache	ai_cache_20260710
+Attacking enemies also grants Hitpoints XP.	攻击敌人也会获得生命值经验值。	manual	ai_cache	ai_cache_20260710
+Avast there, Okey DokedEm!	站住，Okey DokedEm！	manual	ai_cache	ai_cache_20260710
+Aww comeon, talk to ikle me <osrscn-name-0>!	哎呀拜托，跟俺说句话嘛<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+Aww comeon, talk to ikle me jimmy elkins!	哎呀拜托，跟喜欢我的小吉米.埃尔金斯说话嘛！	manual	ai_cache	ai_cache_20260710
+Before you get started, you'll need to set the appearance of your character. Please use the open interface to set your appearance.	在你开始之前，你需要设置你的角色外观。请使用打开的界面来设置你的外观。	manual	ai_cache	ai_cache_20260710
+Bleed damage	流血伤害	manual	ai_cache	ai_cache_20260710
+Burn damage	灼烧伤害	manual	ai_cache	ai_cache_20260710
+Carpet.	地毯。	manual	ai_cache	ai_cache_20260710
+Certain weapons can be purchased from various shops around Gielinor, such as the	某些武器可以从基利诺尔各地的商店购买，例如	manual	ai_cache	ai_cache_20260710
+Character Creator	角色创建器	manual	ai_cache	ai_cache_20260710
+Click a nearby tree	点击附近的一棵树	manual	ai_cache	ai_cache_20260710
+Click a sparkling fishing spot	点击闪烁的钓鱼点	manual	ai_cache	ai_cache_20260710
+Click on the flashing bar graph icon near the inventory button to see your skills menu.	点击接近物品栏按钮的闪烁条形图图标，以查看你的技能菜单。	manual	ai_cache	ai_cache_20260710
+Click on the ground	点击地面	manual	ai_cache	ai_cache_20260710
+Click on your tinderbox	点击火绒盒	manual	ai_cache	ai_cache_20260710
+Click the flashing icon	点击闪烁的图标	manual	ai_cache	ai_cache_20260710
+Combat Options panel .	战斗选项面板。	manual	ai_cache	ai_cache_20260710
+Combat Options panel . The	战斗选项面板。	manual	ai_cache	ai_cache_20260710
+Combat Options panel . The tooltip for each attack style shows the style name, type of damage and the skill XP attacking with that style gives. Melee Attack Styles deal either Stab, Slash or Crush damage as shown in the tooltip. Enemies have different defence stats for each of these damage types, so attack with a style the enemy has low defence in to increase your chance to hit them. Enemy stats can be viewed using the Monster Inspect spell or looked up on the Wiki.	战斗选项面板。每种攻击风格的工具提示会显示风格名称、伤害类型以及使用该风格攻击获得的技能经验值。近战攻击风格会造成刺击、劈砍或钝击伤害，具体如工具提示所示。敌人对这些伤害类型的防御属性各不相同，因此使用敌人防御较低的攻击风格可以提高命中率。可以通过怪物检视法术查看敌人的属性，或在维基上查询。	manual	ai_cache	ai_cache_20260710
+Combat Options panel then	然后是战斗选项面板	manual	ai_cache	ai_cache_20260710
+Combat Options panel then attack some enemies! Cows and Goblins east of Lumbridge are a good place to start. Certain weapons can be purchased from various shops around Gielinor, such as the	战斗选项面板，然后攻击一些敌人！仑桥镇东边的牛和哥布林是开始的好地方。某些武器可以从基利诺尔各地的商店购买，比如	manual	ai_cache	ai_cache_20260710
+Come and be locked up, sock monkey7!	来被关起来吧，袜子猴子7！	manual	ai_cache	ai_cache_20260710
+Cooking:	烹饪：	manual	ai_cache	ai_cache_20260710
+Cooking: Food cooked with the Cooking skill can be	烹饪：用烹饪技能烹制的食物可以	manual	ai_cache	ai_cache_20260710
+Corruption damage	腐化伤害	manual	ai_cache	ai_cache_20260710
+Cows and Goblins east of Lumbridge are good	仑桥镇东边的牛和哥布林是好的	manual	ai_cache	ai_cache_20260710
+Cows and Goblins east of Lumbridge are good to looked Certain weapons can be purchased various up around such the Sword Shop started, Varrock the Scimitar Shop in Al Kharid. or	仑桥镇东边的牛和哥布林是狩猎的好目标。某些武器可以在各地购买，比如剑店、阿尔卡里德城的弯刀店等。	manual	ai_cache	ai_cache_20260710
+Cows and Goblins east of Lumbridge are good to start. looked Certain weapons can be purchased various around such the Sword Shop Varrock the Scimitar Shop in Al Kharid. or Controlled	仑桥镇东边的牛和哥布林是好的起点。可以购买各种特定武器，比如维洛克城的剑店、阿尔卡里德城的弯刀店等。	manual	ai_cache	ai_cache_20260710
+Cows the skill XP attacking with that style gives.	奶牛该攻击风格给予的技能经验值。	manual	ai_cache	ai_cache_20260710
+Crafting is a skill about crafting various pieces of	制作是一项关于制作各种物品的技能。	manual	ai_cache	ai_cache_20260710
+Crafting:	制作：	manual	ai_cache	ai_cache_20260710
+Damage Hitsplats	伤害命中特效	manual	ai_cache	ai_cache_20260710
+Defence:	防御：	manual	ai_cache	ai_cache_20260710
+Defence: Reduces your chance of taking any	防御：降低你受到任何伤害的几率	manual	ai_cache	ai_cache_20260710
+Desert Tasks	沙漠任务	manual	ai_cache	ai_cache_20260710
+Did you know? Boat repair kits can be used to fix up a damaged boat. You can make boat repair kits at a shipwrights' workbench, which are found near all shipwrights.	你知道吗？船修理包可以用来修复受损的船只。你可以在造船匠的工作台上制作船修理包，这些工作台通常位于所有造船匠附近。	manual	ai_cache	ai_cache_20260710
+Did you know? Boats have an escape option on their helm, allowing you return to dry land if you're ever in trouble.	你知道吗？船舵上有一个逃生选项，如果你遇到麻烦可以返回陆地。	manual	ai_cache	ai_cache_20260710
+Did you know? If you stand on the same tile as your box trap, it will fail to catch 100% of the time.	你知道吗？如果你站在与你的箱式陷阱相同的瓷砖上，它将无法100%捕获。	manual	ai_cache	ai_cache_20260710
+Did you know? Kebabs are one of the items you can use on a compost bin to make regular compost.	你知道吗？烤肉串是你可以用在堆肥箱上制作普通堆肥的物品之一。	manual	ai_cache	ai_cache_20260710
+Did you know? Not all snelms give the same damage protection against snail acid attacks. Red snelms and pointed blue snelms are the most effective.	你知道吗？并非所有斯皮尔姆草都能提供相同的伤害防护，抵御蜗牛酸攻击。红色斯皮尔姆草和尖顶蓝色斯皮尔姆草最有效。	manual	ai_cache	ai_cache_20260710
+Did you know? The Twinflame staff from Royal Titans will automatically cast the correct elemental spell for a foe's weakness.	你知道吗？来自皇家泰坦的双生火焰法杖会自动对敌人的弱点施放正确的元素法术。	manual	ai_cache	ai_cache_20260710
+Did you know? You can attempt to catch most Hunter creatures you don't have the Hunter level to catch. You will just fail 100% of the time.	你知道吗？你可以尝试捕捉大多数你猎人等级不够的狩猎生物。你只会100%失败。	manual	ai_cache	ai_cache_20260710
+Did you know? You can note produce by using it on the Tool Leprechaun.	你知道吗？你可以通过在工具小妖精上使用农产品来将其变成票据。	manual	ai_cache	ai_cache_20260710
+Disease damage	疾病伤害	manual	ai_cache	ai_cache_20260710
+Downgrade	降级	manual	ai_cache	ai_cache_20260710
+Downgrade options are not applicable.	降级选项不适用。	manual	ai_cache	ai_cache_20260710
+Dungeon.	地牢。	manual	ai_cache	ai_cache_20260710
+During combat, you will see coloured "hitsplats" on yourself and the enemy. The number indicates the amount of Hitpoints damage dealt while the colour indicates the type of damage. The following are some common damage hitsplats, select the	在战斗中，你会看到自己和敌人身上有彩色的“伤害数字”。数字表示造成的生命值伤害量，颜色则表示伤害类型。以下是一些常见的伤害数字，选择	manual	ai_cache	ai_cache_20260710
+During combat, you will see coloured "hitsplats" on yourself and the enemy. The number indicates the amount of Hitpoints damage dealt while the colour indicates the type of damage. The following are some common damage hitsplats, select the Hitsplats tab	在战斗中，你会看到自己和敌人身上的彩色“伤害数字”。数字表示造成的生命值伤害量，颜色表示伤害类型。以下是一些常见的伤害数字，选择伤害数字标签	manual	ai_cache	ai_cache_20260710
+During combat, you will see on	战斗中，你会看到	manual	ai_cache	ai_cache_20260710
+Ehem... Master <osrscn-name-0>?	咳咳……主人<osrscn-name-0>？	manual	ai_cache	ai_cache_20260710
+Energy drains while running and how fast it restores	奔跑时的能量流失及恢复速度	manual	ai_cache	ai_cache_20260710
+Erm, no. I'm all set, thanks	呃，不用了。我准备好了，谢谢。	manual	ai_cache	ai_cache_20260710
+Exit through the nearby door	从附近门离开	manual	ai_cache	ai_cache_20260710
+Feet	脚	manual	ai_cache	ai_cache_20260710
+Follow the path to find	沿着路走就能找到	manual	ai_cache	ai_cache_20260710
+Food cooked with the Cooking skill can be	用烹饪技能烹饪的食物可以	manual	ai_cache	ai_cache_20260710
+Food cooked with the Cooking skill can be eaten to recover Hitpoints during combat.	用烹饪技能烹制的食品可以在战斗中食用以恢复生命值。	manual	ai_cache	ai_cache_20260710
+Fremennik Tasks	费明尼克任务	manual	ai_cache	ai_cache_20260710
+Gielinor, Slayer monsters.	基利诺尔，杀戮怪物。	manual	ai_cache	ai_cache_20260710
+Good day to you, milord.	日安，先生。	manual	ai_cache	ai_cache_20260710
+Greetings <osrscn-name-0>, I need your help.	你好，<osrscn-name-0>，我需要你的帮助。	manual	ai_cache	ai_cache_20260710
+Greetings, Master <osrscn-name-0>!	你好，主人<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+Hands	手部	manual	ai_cache	ai_cache_20260710
+Hello, <osrscn-name-0>, are you there?	你好，<osrscn-name-0>，你在吗？	manual	ai_cache	ai_cache_20260710
+Hello, Master <osrscn-name-0>?	你好，主人<osrscn-name-0>？	manual	ai_cache	ai_cache_20260710
+Hey, <osrscn-name-0>!	嘿，<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+Higher combat skills aid in fighting harder	更高的战斗技能有助于进行更激烈的战斗	manual	ai_cache	ai_cache_20260710
+Higher combat skills aid in fighting harder Slayer monsters.	更高的战斗技能有助于对抗更强的杀戮怪物。	manual	ai_cache	ai_cache_20260710
+Hitpoints XP.	生命值经验值。	manual	ai_cache	ai_cache_20260710
+Hitpoints XP. Slayer:	生命值经验值。杀戮：	manual	ai_cache	ai_cache_20260710
+Hitpoints XP. shops	生命值经验值商店	manual	ai_cache	ai_cache_20260710
+Hitpoints level determines how much damage you can take before you die and have to respawn. Level up your Hitpoints to withstand stronger attacks.	生命值等级决定了你在死亡并复活前能承受多少伤害。提升你的生命值等级以抵御更强的攻击。	manual	ai_cache	ai_cache_20260710
+Hitpoints:	生命值：	manual	ai_cache	ai_cache_20260710
+Hitpoints: Attacking enemies also grants	生命值：攻击敌人也会获得	manual	ai_cache	ai_cache_20260710
+I brought the old woman the Book of Haricanto, the Robes of	我把哈里坎托之书和	manual	ai_cache	ai_cache_20260710
+I found the old woman, who told me of an enchantment she	我找到了那个老妇人，她告诉我一个附魔，	manual	ai_cache	ai_cache_20260710
+I got treasure here, Okey DokedEm!	我这里有宝藏，Okey DokedEm！	manual	ai_cache	ai_cache_20260710
+I have commanded Necrovarus to remove his ban.	我已命令尼克罗瓦鲁斯解除禁令。	manual	ai_cache	ai_cache_20260710
+I have spoken with Velorina, who has told me the sad history	我和韦洛里娜谈过了，她告诉了我这段悲伤的历史。	manual	ai_cache	ai_cache_20260710
+I have told Velorina that Necrovarus has been commanded to	我已经告诉维洛里娜，奈克罗瓦鲁斯奉命……	manual	ai_cache	ai_cache_20260710
+I knows somethin' you should knows, Okey DokedEm.	我有件事你应该知道，Okey DokedEm。	manual	ai_cache	ai_cache_20260710
+I pleaded with Necrovarus, to no avail.	我向尼克罗瓦鲁斯求过情，但无济于事。	manual	ai_cache	ai_cache_20260710
+I'd like to talk to you, <osrscn-name-0>!	我想和你谈谈，<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+I'm waiting for you, Master <osrscn-name-0>!	我在等您，主人<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+I've come to arrest you, sock monkey7!	我是来逮捕你的，袜子猴子7！	manual	ai_cache	ai_cache_20260710
+I've defeated the killers and been rewarded with some uncut gems, 1 Quest Point and 600 Crafting XP.	我击败了杀手，获得了些未切割的宝石、1点任务点数和600点制作经验值。	manual	ai_cache	ai_cache_20260710
+I've got something for you, <osrscn-name-0>!	我有东西给你，<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+If you are a daring bunch, you could even try Hardcore Group Ironmen. With Hardcore Group Ironmen you have a set number of lives, when they reach zero, you will become regular Group Ironmen.	如果你们是一群大胆的人，甚至可以尝试硬核组队铁人。使用硬核组队铁人，你们有一定数量的生命值，当它们归零时，你们将成为普通组队铁人。	manual	ai_cache	ai_cache_20260710
+If you have some friends, you could stand alone... Together, as Group Ironmen. Group Ironmen have the same restrictions as regular Ironmen except you can trade your items with each other!	如果你有一些朋友，你们可以单独站立……一起，作为组队铁人。组队铁人有与普通铁人相同的限制，除了你们可以互相交易物品！	manual	ai_cache	ai_cache_20260710
+If you think you have what it takes, you can choose to become a Hardcore Ironman.	如果你觉得自己有这个本事，可以选择成为硬核铁人。	manual	ai_cache	ai_cache_20260710
+In addition to the standard restrictions, Hardcore Ironmen only have one life. In the event of a dangerous death, your Hardcore Ironman status will be downgraded to that of a standard Ironman, and your	除了标准限制外，硬核铁人只有一条命。如果发生危险死亡，你的硬核铁人状态将降级为标准铁人，并且你的	manual	ai_cache	ai_cache_20260710
+Ironman Setup	铁人模式设置	manual	ai_cache	ai_cache_20260710
+It's time to cook your shrimp. However, you require a fire to do that which means you need some logs. You can cut down trees using your Woodcutting skill, all you need is an axe.	是时候烹饪你的虾了。不过，你需要一个火堆才能做到，这意味着你需要一些原木。你可以用伐木技能砍树，你只需要一把斧头。	manual	ai_cache	ai_cache_20260710
+It's time to meet your first instructor. To continue, all you need to do is click on the door. It's indicated by a flashing yellow arrow. Remember, you can use your arrow keys to rotate the camera.	是时候见你的第一位导师了。要继续，你只需要点击门。它由闪烁的黄色箭头指示。记住，你可以使用方向键旋转摄像头。	manual	ai_cache	ai_cache_20260710
+Kandarin Tasks	坎达林王国任务	manual	ai_cache	ai_cache_20260710
+Kourend & Kebos Tasks	库兰德王国与凯博斯区域任务	manual	ai_cache	ai_cache_20260710
+Level up your Hitpoints to withstand stronger	提升你的生命值等级以承受更强的	manual	ai_cache	ai_cache_20260710
+Level up your Hitpoints to withstand stronger attacks.	提升你的生命值等级以承受更强的攻击。	manual	ai_cache	ai_cache_20260710
+Level up your Hitpoints to withstand stronger attacks. To level your Hitpoints skill, simply attack enemies with any combat style.	提升你的生命值等级以承受更强的攻击。要升级生命值技能，只需用任何战斗风格攻击敌人即可。	manual	ai_cache	ai_cache_20260710
+Level up your Hitpoints to withstand stronger attacks. To level your Hitpoints skill, simply attack enemies with any combat style. To restore Hitpoints in combat , simply eat food and drink certain potions. Select the Healing tab	提升你的生命值等级以抵御更强的攻击。要提升生命值技能，只需用任何战斗风格攻击敌人。在战斗中恢复生命值，只需吃食物和饮用某些药水。选择治疗标签	manual	ai_cache	ai_cache_20260710
+Level up your Mining skill by mining rocks. This increases your chance to successfully mine the resource and unlocks more types of rocks to mine as well as better pickaxes to mine with.	通过开采岩石提升你的采矿技能。这会增加你成功开采资源的机会，并解锁更多类型的岩石以及更好的镐子供你使用。	manual	ai_cache	ai_cache_20260710
+Lumbridge & Draynor Tasks	仑桥镇与德雷诺村区域任务	manual	ai_cache	ai_cache_20260710
+Magic:	魔法：	manual	ai_cache	ai_cache_20260710
+Magic: Works alongside Defence to reduce your	魔法：与防御协同作用，降低你的	manual	ai_cache	ai_cache_20260710
+Melee Attack Styles deal either Stab, Slash or Crush damage as shown in the tooltip. Enemies have different defence stats for each of these damage types, so attack with a style the enemy has low defence in to increase your chance to hit them. Enemy stats can be viewed using the Monster Inspect spell or looked up on the Wiki.	近战攻击风格造成刺击、劈砍或钝击伤害，如提示信息所示。敌人对这些伤害类型的防御属性各不相同，因此使用敌人防御较低的攻击风格可以增加命中几率。可通过怪物检视法术查看敌人属性，或在维基上查询。	manual	ai_cache	ai_cache_20260710
+Mine south of Lumbridge. He'll give you a Bronze Pickaxe and show you how to mine the Tin and Copper Rocks found in that mine.	在仑桥镇南边开采。他会给你一把青铜镐，并教你如何开采那个矿场里的锡矿石和铜矿石。	manual	ai_cache	ai_cache_20260710
+Mines around Gielinor. Use the tabs on the left	基利诺尔各地的矿洞。使用左侧标签页	manual	ai_cache	ai_cache_20260710
+Mines around Gielinor. Use the tabs on the left to see which rocks can be mined and the Mining level required to mine them.	基利诺尔各地的矿场。使用左侧标签查看哪些岩石可以开采以及开采它们所需的采矿等级。	manual	ai_cache	ai_cache_20260710
+Mining Shops , such as the one in the Dwarven Mine north of Falador, and are dropped by some monsters. A better pickaxe increases your chance to successfully mine the resources.	采矿商店，例如法拉多城北边的矮人矿坑，以及一些怪物掉落。更好的镐子会增加你成功开采资源的几率。	manual	ai_cache	ai_cache_20260710
+Mining Shops , such as the one in the Dwarven Mine north of Falador, and are dropped by some monsters. A better pickaxe increases your chance to successfully mine the resources. Once you have a pickaxe, simply click on the type of rock you want to mine. Once mined, the rock will be depleted for a short period of time.	采矿商店，例如法拉多城北边的矮人矿洞，以及一些怪物会掉落。更好的镐子会增加你成功开采资源的几率。一旦你有镐子，只需点击你想开采的岩石类型。开采后，岩石会在短时间内枯竭。	manual	ai_cache	ai_cache_20260710
+Mining Tutor at the	采矿导师在	manual	ai_cache	ai_cache_20260710
+Mining is a skill about gathering ores from the	采矿是一项关于从地下收集矿石的技能	manual	ai_cache	ai_cache_20260710
+Mining skill can be used for a wide range of crafts with the Crafting skill.	采矿技能可与制作技能一起用于多种工艺。	manual	ai_cache	ai_cache_20260710
+Miss/block - no damage dealt	未命中/格挡 - 未造成伤害	manual	ai_cache	ai_cache_20260710
+Morytania Tasks	莫利塔尼亚任务	manual	ai_cache	ai_cache_20260710
+Necrovarus, and a translation manual.	尼克罗瓦鲁斯，还有一本翻译手册。	manual	ai_cache	ai_cache_20260710
+Normal damage	普通伤害	manual	ai_cache	ai_cache_20260710
+Now that you have some logs, it's time to light a fire. First, click on the tinderbox in your inventory. Then, with the tinderbox highlighted, click on the logs to use the tinderbox on them.	现在你有了些原木，是时候生火了。首先，点击物品栏中的火绒盒。然后，在火绒盒高亮时，点击原木来对它们使用火绒盒。	manual	ai_cache	ai_cache_20260710
+Oi, are you der <osrscn-name-0>!	喂，你在那吗<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+On the side panel, you can now see a variety of game settings. You can also click the all settings button to see all available settings. Talk to the Gielinor Guide to continue.	在侧面面板上，你现在可以看到各种游戏设置。你也可以点击所有设置按钮查看所有可用设置。与基利诺尔向导交谈以继续。	manual	ai_cache	ai_cache_20260710
+On this menu you can view your skills. Your skills can be leveled up by earning experience. As you level up your skills, you will earn new unlocks. Speak to the survival expert to continue.	在这个菜单中你可以查看你的技能。你的技能可以通过赚取经验来升级。随着你升级你的技能，你将获得新的解锁。与生存专家交谈以继续。	manual	ai_cache	ai_cache_20260710
+Once you have a pickaxe, simply click on the type of rock you want to mine. Once mined, the rock will be depleted for a short period of time.	一旦你有了镐，只需点击你想开采的岩石类型。开采后，岩石会在短时间内枯竭。	manual	ai_cache	ai_cache_20260710
+Only one week until The Blood Moon Rises! Get ready to explore everything Vampyrium has to offer on June 30th.	距离血月升起仅剩一周！准备好在6月30日探索凡皮里姆的一切吧。	manual	ai_cache	ai_cache_20260710
+Ores mined with the Mining skill can be	用采矿技能开采的矿石可以	manual	ai_cache	ai_cache_20260710
+Ores mined with the Mining skill can be smelted into bars with the Smithing skill.	用采矿技能开采的矿石可以用锻造技能冶炼成金属锭。	manual	ai_cache	ai_cache_20260710
+Ores, gems and clay mined with the	用此开采的矿石、宝石和粘土	manual	ai_cache	ai_cache_20260710
+Ores, gems and clay mined with the Mining skill can be used for a wide range of crafts with the Crafting skill.	用采矿技能开采的矿石、宝石和粘土，可以用制作技能进行各种工艺制作。	manual	ai_cache	ai_cache_20260710
+Other Requirements: View journal for details.	其他要求：查看日志了解详情。	manual	ai_cache	ai_cache_20260710
+Prayer:	祈祷：	manual	ai_cache	ai_cache_20260710
+Prayer: Some prayers apply a bonus to your	祈祷：某些祈祷会对你的	manual	ai_cache	ai_cache_20260710
+QUEST COMPLETE!	任务完成！	manual	ai_cache	ai_cache_20260710
+Reduces your chance of taking any	降低你受到任何伤害的几率	manual	ai_cache	ai_cache_20260710
+Reduces your chance of taking any damage.	降低你受到任何伤害的几率。	manual	ai_cache	ai_cache_20260710
+Rooftop Course west of Lumbridge. Don't forget to check the	仑桥镇西边的屋顶训练场。别忘了检查	manual	ai_cache	ai_cache_20260710
+Rooftop Courses can be used to purchase the Graceful set from Grace in the Rogues' Den in Burthorpe.	屋顶训练场可用于从伯索普公国盗贼巢穴中的格蕾丝处购买优雅套装。	manual	ai_cache	ai_cache_20260710
+Scimitar Shop in Al Kharid.	阿尔卡里德城的弯刀店	manual	ai_cache	ai_cache_20260710
+Scimitar Shop in Varrock and the	维洛克城的弯刀店和	manual	ai_cache	ai_cache_20260710
+Setting your appearance	设置外观	manual	ai_cache	ai_cache_20260710
+Settings menu	设置菜单	manual	ai_cache	ai_cache_20260710
+Show locked	显示已锁定	manual	ai_cache	ai_cache_20260710
+Slayer monsters.	杀戮怪物。	manual	ai_cache	ai_cache_20260710
+Slayer monsters. Prayer:	杀戮怪物。祈祷：	manual	ai_cache	ai_cache_20260710
+Slayer:	杀戮：	manual	ai_cache	ai_cache_20260710
+Slayer: Higher combat skills aid in fighting harder	杀戮：更高的战斗技能有助于更艰难地战斗	manual	ai_cache	ai_cache_20260710
+Smithing skill provide boosts to combat skills.	锻造技能可提升战斗技能。	manual	ai_cache	ai_cache_20260710
+Smithing skill provide boosts to combat skills. and	锻造技能提升战斗技能。	manual	ai_cache	ai_cache_20260710
+Smithing:	锻造：	manual	ai_cache	ai_cache_20260710
+Smithing: Weapons and armour crafted with the	锻造：用此制作的武器和盔甲	manual	ai_cache	ai_cache_20260710
+Some clothing, such as the Graceful set, provides negative weight which can offset your carried weight and allow you to run for longer. Marks of Grace found on	某些服装，如优雅套装，提供负重效果，可以抵消你携带的重量，让你跑得更久。在	manual	ai_cache	ai_cache_20260710
+Some prayers apply a bonus to your	某些祈祷会对你的	manual	ai_cache	ai_cache_20260710
+Some prayers apply a bonus to your Attack level and bones dropped by defeated enemies can be buried for Prayer XP.	某些祈祷会提升你的攻击等级，被击败的敌人掉落的骨头可以埋葬以获得祈祷经验值。	manual	ai_cache	ai_cache_20260710
+Some prayers apply a bonus to your Strength level and bones dropped by defeated enemies can be buried for Prayer XP.	某些祈祷会提升你的力量等级，被击败敌人掉落的骨头可以埋葬以获得祈祷经验值。	manual	ai_cache	ai_cache_20260710
+Strength increases your damage.	力量提升你的伤害。	manual	ai_cache	ai_cache_20260710
+Strength increases your damage. Hitpoints:	力量提升你的伤害。生命值：	manual	ai_cache	ai_cache_20260710
+Strength increases your damage. Hitpoints: Attacking	力量提升你的伤害。生命值：攻击	manual	ai_cache	ai_cache_20260710
+Strength level and bones dropped by defeated enemies can be buried for Prayer XP.	击败敌人掉落的骨头和力量等级可用于埋葬以获得祈祷经验值。	manual	ai_cache	ai_cache_20260710
+Strength:	力量：	manual	ai_cache	ai_cache_20260710
+Strength: While	力量：同时	manual	ai_cache	ai_cache_20260710
+Strength: While Attack increases your accuracy,	力量：虽然攻击提升你的命中率，	manual	ai_cache	ai_cache_20260710
+Sword Shop Varrock and the	维洛克城剑店	manual	ai_cache	ai_cache_20260710
+Sword Shop in Varrock and the	维洛克城的剑店和	manual	ai_cache	ai_cache_20260710
+Talk to me, <osrscn-name-0>!	跟我说话，<osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+Talk to me, Tough Schitt!	跟我说话，硬汉斯奇特！	manual	ai_cache	ai_cache_20260710
+Temple of Phasmatys.	法斯提斯神殿。	manual	ai_cache	ai_cache_20260710
+The Wyrmscraig rewards poll is open! Click here to vote.|p	Wyrmscraig 奖励投票正在进行中！点击此处投票。|p	manual	ai_cache	ai_cache_20260710
+The attack style	攻击风格	manual	ai_cache	ai_cache_20260710
+The each attack style	每种攻击风格	manual	ai_cache	ai_cache_20260710
+The first round of feedback and fixes for The Blood Moon Rises have arrived. If you haven't already, speak to Sarius Guile in the Icyene Graveyard to begin your final Myreque adventure.	关于《血月升起》的第一轮反馈和修复已经到来。如果你还没开始，去冰翼人墓地找萨里乌斯.盖尔，开始你最后的迈雷克冒险吧。	manual	ai_cache	ai_cache_20260710
+The increasingly Use the tabs on the View Attack on the Wiki	越来越……使用维基上查看攻击的标签页	manual	ai_cache	ai_cache_20260710
+The items you are wearing and carrying contribute to your total weight. Your total carried weight can be viewed in the Equipment Stats panel and contributes to how fast your Run Energy drains while running.	你穿戴和携带的物品会增加你的总重量。你的总携带重量可以在装备属性面板中查看，并且会影响跑步时跑步值的消耗速度。	manual	ai_cache	ai_cache_20260710
+The old woman used the items I brought her to perform the	老妇人用我带来的物品施展了	manual	ai_cache	ai_cache_20260710
+The powerful weapons. Use the tabs on the View Attack on the Wiki	强大的武器。在维基上使用查看攻击的标签	manual	ai_cache	ai_cache_20260710
+The survival expert gives you a bronze axe and a	生存专家给你一把青铜斧和一个	manual	ai_cache	ai_cache_20260710
+The tooltip each attack .	每次攻击的提示。	manual	ai_cache	ai_cache_20260710
+The tooltip each attack style shows the style name, type of damage and the	每个攻击风格的提示会显示风格名称、伤害类型和	manual	ai_cache	ai_cache_20260710
+The tooltip each attack style shows the style name, type of damage and the attacking with that style gives. for	每个攻击风格的提示会显示风格名称、伤害类型以及使用该风格攻击的加成。	manual	ai_cache	ai_cache_20260710
+The tooltip each attack style shows the style name, type of damage and the skill XP attacking with that style gives. for	每个攻击风格的提示信息会显示风格名称、伤害类型以及使用该风格攻击获得的技能经验值。	manual	ai_cache	ai_cache_20260710
+The tooltip each attack style shows the style name, type of damage and the skill XP attacking with that style gives. for Attack deal either Stab, Slash or Crush damage as shown in the tooltip. Enemies have different defence for each of these damage types, so attack with style the enemy has low Melee defence in increase your chance to hit Styles Enemy be viewed using the Monster Inspect spell or up on the Wiki. stats	每个攻击风格的提示信息会显示风格名称、伤害类型以及使用该风格攻击获得的技能经验值。攻击造成的伤害为刺击、劈砍或粉碎伤害，具体如提示信息所示。敌人对这些伤害类型的防御各不相同，因此使用敌人近战防御较低的攻击风格可以提高命中率。可通过怪物检视法术或维基查看敌人的各项属性。	manual	ai_cache	ai_cache_20260710
+The tooltip for each attack style shows the style name, type of damage and the skill XP attacking with that style gives.	每种攻击风格的提示信息会显示风格名称、伤害类型以及使用该风格攻击获得的技能经验值。	manual	ai_cache	ai_cache_20260710
+The tooltip for each attack style shows the style name, type of damage and the skill XP attacking with that style gives. Melee Attack Styles deal either Stab, Slash or Crush damage as shown in the tooltip. Enemies have different defence stats for each of these damage types, so attack with a style the enemy has low defence in to increase your chance to hit them. Enemy stats can be viewed using the Monster Inspect spell or looked up on the Wiki.	每种攻击风格的工具提示会显示风格名称、伤害类型以及使用该风格攻击获得的技能经验值。近战攻击风格会造成刺击、劈砍或钝击伤害，具体如工具提示所示。敌人对这些伤害类型的防御属性各不相同，因此使用敌人防御较低的攻击风格来增加命中几率。可以通过怪物检视法术查看敌人的属性，或在维基上查阅。	manual	ai_cache	ai_cache_20260710
+The top three crab crushers were GIM BigTime, <osrscn-name-1>, & <osrscn-name-0>!	前三名蟹粉碎者是 GIM BigTime、<osrscn-name-1> 和 <osrscn-name-0>！	manual	ai_cache	ai_cache_20260710
+The weapons. Use the tabs on the View Attack on the Wiki	武器。使用维基上查看攻击的标签页	manual	ai_cache	ai_cache_20260710
+Then click your	然后点击你的	manual	ai_cache	ai_cache_20260710
+This box will remind you of	这个盒子会提醒你	manual	ai_cache	ai_cache_20260710
+This is your inventory. You can view all of your items here, including the net you've just been given. Let's use it to catch some shrimp.	这是你的背包。你可以在这里查看所有物品，包括刚给你的网。我们用它来抓些虾吧。	manual	ai_cache	ai_cache_20260710
+To attack style from the them. stats can	攻击风格来自它们。属性可以	manual	ai_cache	ai_cache_20260710
+To certain level your Agility, head and to an appropriate agility course for your level and navigate the obstacles for Agility XP. the	达到一定敏捷等级后，前往适合你等级的敏捷训练场，通过障碍获得敏捷经验值。	manual	ai_cache	ai_cache_20260710
+To equip a melee weapon, select an to Accurate	要装备近战武器，请选择要精确的	manual	ai_cache	ai_cache_20260710
+To equipment.	去装备处。	manual	ai_cache	ai_cache_20260710
+To get equip a melee weapon, select an Accurate Controlled attack style from the them. stats	要装备近战武器，请从它们中选择精确控制攻击风格。	manual	ai_cache	ai_cache_20260710
+To get started, attack some enemies! Cows and Goblins east of Lumbridge are a good place to start.	开始时，攻击一些敌人！仑桥镇东边的牛和哥布林是好的起点。	manual	ai_cache	ai_cache_20260710
+To get started, equip a melee weapon, select an Accurate or Controlled attack style from the	要开始，装备近战武器，从	manual	ai_cache	ai_cache_20260710
+To get started, equip a melee weapon, select an Aggressive or Controlled attack style from the	要开始，装备近战武器，从	manual	ai_cache	ai_cache_20260710
+To get started, equip a melee weapon, select an to Accurate attack style from the	要开始，装备近战武器，从	manual	ai_cache	ai_cache_20260710
+To get started, equip a melee weapon, select an to Accurate attack style from the them. stats can	要开始，装备近战武器，从它们中选择准确攻击风格。	manual	ai_cache	ai_cache_20260710
+To get started, equip a melee weapon, select an to Accurate attack style from the then	要开始，装备近战武器，从然后选择准确攻击风格	manual	ai_cache	ai_cache_20260710
+To get started, run laps of the Draynor Village	要开始，绕着德雷诺村跑圈	manual	ai_cache	ai_cache_20260710
+To get started, visit the	要开始，访问	manual	ai_cache	ai_cache_20260710
+To level your Agility, head to an appropriate agility course for your level and navigate the obstacles for Agility XP. Select the	要提升你的敏捷等级，前往适合你等级的敏捷训练场，通过障碍获得敏捷经验值。选择	manual	ai_cache	ai_cache_20260710
+To level your Attack enemies a melee weapon that has Accurate or Controlled skill, attack with attack Attack styles can be selected in the an style.	要提升你的攻击等级，需要一把具有准确或控制技能的近战武器，并在攻击风格中选择攻击风格。	manual	ai_cache	ai_cache_20260710
+To level your Attack skill, attack enemies with a	要提升你的攻击技能，就用弓箭攻击敌人	manual	ai_cache	ai_cache_20260710
+To level your Attack skill, attack enemies with a melee	要提升你的攻击技能，就用近战攻击敌人。	manual	ai_cache	ai_cache_20260710
+To level your Attack skill, attack enemies with a melee weapon that has an Accurate or Controlled	要提升你的攻击技能，用准确或控制类型的近战武器攻击敌人。	manual	ai_cache	ai_cache_20260710
+To level your Attack skill, attack enemies with a melee weapon that has an Accurate or Controlled attack style. Attack styles can be selected in the	要提升攻击技能，使用具有准确或控制攻击风格的近战武器攻击敌人。攻击风格可在	manual	ai_cache	ai_cache_20260710
+To level your Hitpoints skill, simply attack enemies with any combat style.	要提升你的生命值技能，只需使用任何战斗风格攻击敌人即可。	manual	ai_cache	ai_cache_20260710
+To level your Hitpoints skill, simply attack enemies with any combat style. eat	要提升你的生命值技能，只需用任何战斗风格攻击敌人。	manual	ai_cache	ai_cache_20260710
+To level your Strength skill, attack enemies with a melee weapon that has an Aggressive or Controlled attack style. Attack styles can be selected in the	要提升力量技能，使用具有侵略或控制攻击风格的近战武器攻击敌人。攻击风格可在	manual	ai_cache	ai_cache_20260710
+To mine a rock	开采岩石	manual	ai_cache	ai_cache_20260710
+To restore Hitpoints in combat	在战斗中恢复生命值	manual	ai_cache	ai_cache_20260710
+To started, equip a melee weapon, select an to Accurate	要开始，装备近战武器，选择准确模式	manual	ai_cache	ai_cache_20260710
+To started, equip a melee weapon, select an to Accurate attack style from the them. stats can	首先，装备一把近战武器，然后从它们中选择一种准确攻击风格。	manual	ai_cache	ai_cache_20260710
+To view the item you've been given, you'll need to open your inventory. To do so, click on the flashing backpack icon to the right hand side of your screen.	要查看你获得的物品，你需要打开背包。为此，请点击屏幕右侧闪烁的背包图标。	manual	ai_cache	ai_cache_20260710
+To weapons. Use the tabs on the	武器。使用	manual	ai_cache	ai_cache_20260710
+Varrock Tasks	维洛克城任务	manual	ai_cache	ai_cache_20260710
+Velorina was crestfallen at Necrovarus' refusal to lift his	维洛里娜因尼克罗瓦鲁斯拒绝解除他的	manual	ai_cache	ai_cache_20260710
+Venom damage	剧毒伤害	manual	ai_cache	ai_cache_20260710
+View Agility on the Wiki	在维基上查看敏捷	manual	ai_cache	ai_cache_20260710
+View Crafting on the Wiki	在维基上查看制作	manual	ai_cache	ai_cache_20260710
+View Hitpoints on the Wiki	在维基上查看生命值	manual	ai_cache	ai_cache_20260710
+View Mining on the Wiki	在维基上查看采矿	manual	ai_cache	ai_cache_20260710
+View Strength on the Wiki	在维基上查看力量	manual	ai_cache	ai_cache_20260710
+Weapons and armour crafted with the	用此制作的武器和盔甲	manual	ai_cache	ai_cache_20260710
+Weapons and armour crafted with the Smithing skill provide boosts to combat skills.	用锻造技能制作的武器和盔甲可提升战斗技能。	manual	ai_cache	ai_cache_20260710
+Week one feedback and fixes for The Blood Moon Rises are here! - click here for the newspost.|4	《血月升起》第一周的反馈与修复已上线！- 点击此处查看新闻帖。|4	manual	ai_cache	ai_cache_20260710
+Weight	重量	manual	ai_cache	ai_cache_20260710
+While Attack	攻击时	manual	ai_cache	ai_cache_20260710
+While Attack increases your accuracy,	攻击提升你的命中率，	manual	ai_cache	ai_cache_20260710
+While Attack increases your accuracy, Strength increases your damage.	攻击提升你的命中率，力量提升你的伤害。	manual	ai_cache	ai_cache_20260710
+While Attack your accuracy,	攻击时提升你的命中率，	manual	ai_cache	ai_cache_20260710
+While Strength increases your damage,	虽然力量提升你的伤害，	manual	ai_cache	ai_cache_20260710
+While Strength increases your damage, Attack increases your accuracy.	力量提升你的伤害，攻击提升你的命中率。	manual	ai_cache	ai_cache_20260710
+While a	当	manual	ai_cache	ai_cache_20260710
+While increases your accuracy,	虽然提高你的命中率，	manual	ai_cache	ai_cache_20260710
+Will ye help an old pirate, Okey DokedEm?	你愿意帮个老海盗吗，奥基·多凯德姆？	manual	ai_cache	ai_cache_20260710
+Works alongside Defence to reduce your	与防御一起工作以减少你的	manual	ai_cache	ai_cache_20260710
+Works alongside Defence to reduce your chance of taking magic damage.	与防御一起工作以降低你受到魔法伤害的几率。	manual	ai_cache	ai_cache_20260710
+XP. shops Higher	经验。商店高级	manual	ai_cache	ai_cache_20260710
+You last logged in 1 day, 1 hour, 37 minutes ago.	你上次登录是在1天1小时37分钟前。	manual	ai_cache	ai_cache_20260710
+You last logged in 2 days, 1 hour, 46 minutes ago.	你上次登录是在2天1小时46分钟前。	manual	ai_cache	ai_cache_20260710
+You've been given an item	你获得了一件物品	manual	ai_cache	ai_cache_20260710
+You've gained some experience	你获得了一些经验	manual	ai_cache	ai_cache_20260710
+Your	你的	manual	ai_cache	ai_cache_20260710
+Your Agility level determines how Energy fast your Run	你的敏捷等级决定了你跑步时的能量恢复速度。	manual	ai_cache	ai_cache_20260710
+Your Agility level determines how fast your Run	你的敏捷等级决定你奔跑的速度。	manual	ai_cache	ai_cache_20260710
+Your Agility level determines how fast your Run Energy	你的敏捷等级决定你的跑步能量恢复速度。	manual	ai_cache	ai_cache_20260710
+Your Attack level determines	你的攻击等级决定	manual	ai_cache	ai_cache_20260710
+Your Attack level determines melee your accuracy with	你的攻击等级决定近战命中率	manual	ai_cache	ai_cache_20260710
+Your Attack level determines weapons your accuracy with	你的攻击等级决定你命中率的武器	manual	ai_cache	ai_cache_20260710
+Your Attack level determines your accuracy	你的攻击等级决定你的命中率	manual	ai_cache	ai_cache_20260710
+Your Attack level determines your accuracy melee with	你的攻击等级决定你近战的命中率	manual	ai_cache	ai_cache_20260710
+Your Attack level determines your accuracy weapons with	你的攻击等级决定了你使用武器的命中率。	manual	ai_cache	ai_cache_20260710
+Your Attack level determines your accuracy with	你的攻击等级决定你使用武器的命中率。	manual	ai_cache	ai_cache_20260710
+Your Attack level determines your accuracy with melee	你的攻击等级决定近战命中率	manual	ai_cache	ai_cache_20260710
+Your Attack level determines your accuracy with melee weapons and unlocks the ability to wield increasingly powerful weapons. Use the tabs on the left to see what level is required to equip certain equipment.	你的攻击等级决定你使用近战武器的命中率，并解锁使用越来越强大武器的能力。使用左侧标签查看装备特定装备所需的等级。	manual	ai_cache	ai_cache_20260710
+Your Hitpoints level determines how much damage	你的生命值等级决定你能承受多少伤害。	manual	ai_cache	ai_cache_20260710
+Your Hitpoints level determines how you much damage	你的生命值等级决定了你受到的伤害程度。	manual	ai_cache	ai_cache_20260710
+Your Strength level determines your maximum	你的力量等级决定你的最大	manual	ai_cache	ai_cache_20260710
+Your Strength level determines your maximum damage with melee weapons. Level up your Strength to increase your damage and unlock the ability to equip certain weapons and armour. Use the tabs on the left to see what level is required to equip certain equipment.	你的力量等级决定你使用近战武器的最大伤害。提升力量等级可以增加你的伤害，并解锁装备某些武器和盔甲的能力。使用左侧标签页查看装备特定装备所需的等级。	manual	ai_cache	ai_cache_20260710
+Your character is now attempting to catch some shrimp. Sit back for a moment while she does all the hard work.	你的角色现在正在尝试抓一些虾。坐一会儿，让她做所有辛苦的工作。	manual	ai_cache	ai_cache_20260710
+Your character is now attempting to cut down the tree. Sit back for a moment while she does all the hard work.	你的角色现在正在试图砍树。坐一会儿，让她做所有苦力活。	manual	ai_cache	ai_cache_20260710
+Your mode: None	你的模式：无	manual	ai_cache	ai_cache_20260710

@@ -1941,3 +1941,5 @@ Insert	插入	actions	cachedump	cachedump
 Clear Stat	清除属性	actions	cachedump	cachedump
 Show Target	显示目标	actions	cachedump	cachedump
 Free Cam	自由视角	actions	cachedump	cachedump
+View Journal	查看日志	actions	menu	skillGuideNew
+View-journal	查看日志	actions	menu	skillGuideNew
