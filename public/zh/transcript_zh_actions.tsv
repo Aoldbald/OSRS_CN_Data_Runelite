@@ -8,7 +8,7 @@ Eat-from	进食	actions	item	Smouldering pile of flesh
 Bury	埋葬	actions	item	Giant bones
 Examine	查看	actions	item	
 Take	拿取	actions	item	
-Light	点燃 / 点亮	actions	item	
+Light	点燃	actions	item	
 (Members)	(会员)	actions	item	
 Walk here	走到这里	actions	manual	
 Cancel	取消	actions	manual	
@@ -40,7 +40,7 @@ Blaze	燃烧	actions	menu	combatOptionsTab
 Scorch	灼烧	actions	menu	combatOptionsTab
 Flare	闪燃	actions	menu	combatOptionsTab
 Punch	拳击	actions	menu	combatOptionsTab
-Kick	踢击	actions	menu	combatOptionsTab
+Kick	踢出	actions	menu	combatOptionsTab
 Hide	隐藏	actions	menu	prayerTab
 Activate	激活	actions	menu	prayerTab
 Unhide	取消隐藏	actions	menu	prayerTab
@@ -335,7 +335,7 @@ Open subsection	打开子部分	actions	menu
 Move	移动	actions	menu	
 Learn More	了解更多	actions	menu	
 Talk-to	对话	actions	npc	Tool Leprechaun
-Exchange	交换	actions	npc	Tool Leprechaun
+Exchange	交易	actions	npc	Tool Leprechaun
 Attack	攻击	actions	npc	Molanisk
 Trade	交易	actions	npc	Hudo
 Travel	旅行	actions	npc	Rug Merchant
@@ -349,7 +349,7 @@ Hit	击打	actions	npc	Combat stone
 Dismiss	解散	actions	npc	Dr Jekyll
 Rewards	领取奖励	actions	npc	Emblem Trader
 Skull	领取骷髅头标记	actions	npc	Emblem Trader
-Pay	支付工钱	actions	npc	Ayesha
+Pay	付钱	actions	npc	Ayesha
 Armour	领取铁人套装	actions	npc	Ironman tutor
 Check-pets	检查宠物领取资格	actions	npc	Leagues Tutor
 Collect-items	回收联赛物品	actions	npc	Leagues Tutor
@@ -390,7 +390,7 @@ Shave	剃须	actions	npc	Hairdresser
 Makeover	改头换面	actions	npc	Makeover Mage
 Talk-To	对话	actions	npc	Tarquin
 Quick-falcon	快速租借猎隼	actions	npc	Matthias
-Retrieve	回收猎隼	actions	npc	Gyr Falcon
+Retrieve	取回	actions	npc	Gyr Falcon
 Give-Sword	交出剑	actions	npc	Tindel Marchant
 Mine	采矿	actions	npc	Elemental rock
 Push	推	actions	npc	Trolley
@@ -466,7 +466,7 @@ Buy-plank	购买木板	actions	npc	Sawmill operator
 Age	查看帐号年龄	actions	npc	Hans
 Tackle	拦截	actions	npc	Gnome baller
 Pass-to	传球	actions	npc	Gnome winger
-Claim	领取免费弹药	actions	npc	Ranged combat tutor
+Claim	领取	actions	npc	Ranged combat tutor
 Buy	购买	actions	npc	Fadli
 Heal	治疗	actions	npc	A'abla
 Stroke	抚摸	actions	npc	Gertrude's cat
@@ -621,9 +621,9 @@ Charter-to Port Tyras	租船至提拉斯港	actions	npc	Trader Stan
 Charge	充能	actions	npc	Totem
 Spectate	观战	actions	npc	The Nightmare
 Convert-shards	兑换碎片	actions	npc	Noranna Tytanin
-Loot	搜刮 / 领取 / 转移战利品	actions	npc	Grave
+Loot	搜刮	actions	npc	Grave
 Lap-count	圈数统计	actions	npc	Bobawu
-Value	价值	actions	npc	Skully
+Value	估价	actions	npc	Skully
 Ungael	航向至恩盖尔	actions	npc	Torfinn
 Glider-to Ta Quir Priw	滑翔至大树家园	actions	npc	Gnormadium Avlafrim
 Glider-to Gandius	滑翔至甘迪乌斯	actions	npc	Gnormadium Avlafrim
@@ -634,7 +634,7 @@ Glider-to Ookookolly Undri	滑翔至猿猴岛	actions	npc	Gnormadium Avlafrim
 Glider-to Lemantolly Undri	滑翔至费迪普丘陵	actions	npc	Captain Dalbur
 Other-services	其他服务	actions	npc	Thessalia
 Leave-tutorial	离开教程	actions	npc	Nomad
-Fill	填充	actions	npc	Ammunition crate
+Fill	装满	actions	npc	Ammunition crate
 Check-ammo	检查弹药	actions	npc	Ammunition crate
 Forfeit	放弃	actions	npc	Captain Pudi
 Locks	锁	actions	npc	Dampe
@@ -652,7 +652,7 @@ Commission	委托	actions	npc	Kovac
 Talk	交谈	actions	npc	Hannibal
 Proceed	继续	actions	npc	Osmumten
 Begin	开始	actions	npc	Osmumten
-Water	水	actions	npc	Palm of Resourcefulness
+Water	浇水	actions	npc	Palm of Resourcefulness
 Check-costume	检查服装	actions	npc	Costumed child
 Trick-or-treat	不给糖就捣蛋	actions	npc	Generous Treater
 Scare-away	吓跑	actions	npc	Spooky dog
@@ -680,7 +680,7 @@ Charter-to Sunset Coast	租船至日落海岸	actions	npc	Trader Stan
 Charter-to Tempestus	租船至坦佩斯图斯城	actions	npc	Trader Stan
 Start-wave	开始波次	actions	npc	Minimus
 Scoreboard	查看记分板	actions	npc	Eyatlalli
-Rumour	接取情报 / 查看当前任务	actions	npc	Huntmaster Gilman (Novice)
+Rumour	接取情报	actions	npc	Huntmaster Gilman (Novice)
 Rumour-settings	情报设置	actions	npc	Guild Scribe Verity
 Fur-clothing	开启毛皮服装商店	actions	npc	Pellem
 Recharge-whistle	鸟哨充能	actions	npc	Soar Leader Pitri
@@ -788,7 +788,7 @@ Drink-from	饮用	actions	object	Cauldron
 Smelt	冶炼	actions	object	Furnace
 Smith	锻造	actions	object	Anvil
 Hit	击打	actions	object	Dummy
-Fill	填充	actions	object	Crate
+Fill	装满	actions	object	Crate
 Look-at	查看	actions	object	Mound of earth
 Investigate	调查	actions	object	Strange looking stone
 Craft	制作	actions	object	Smashed table
@@ -964,7 +964,7 @@ Remove-coal	取出煤炭	actions	object	Coal Truck
 Take-sigil	拿取符印	actions	object	Pedestal
 Empty-Out	清空	actions	object	Cannon
 Fire!	开火！	actions	object	Cannon
-Loot	搜刮 / 领取 / 转移战利品	actions	object	Crate
+Loot	搜刮	actions	object	Crate
 Plunder	掠夺	actions	object	Closed chest
 Ransack	洗劫	actions	object	Barrel
 Count-plunder	结算掠夺物	actions	object	Plunder Storage
@@ -1045,7 +1045,7 @@ Swing Across	荡过	actions	object	Monkeybars
 Home	传送至房屋	actions	object	Portal
 Build mode	开启建造模式	actions	object	Portal
 Friend's house	传送至好友的房屋	actions	object	Portal
-Swing	摇摆	actions	object	Rope
+Swing	荡过去	actions	object	Rope
 Sit-On	坐在上面	actions	object	Piano stool
 Pick Nuts	采摘坚果	actions	object	Tchiki Monkey Nut Bush
 Pick Banana	采摘香蕉	actions	object	Strange banana tree
@@ -1061,7 +1061,7 @@ Pay-toll(2-Ecto)	支付通行费 (2 灵界代币)	actions	object	Energy Barrier
 Jump-To	跳至	actions	object	Rock
 Enter-cloud	进入云层	actions	object	Cloud bank
 Listen	聆听	actions	object	Crevice
-Manoeuvre-past	侧身穿过 / 钻过	actions	object	Tight-gap
+Manoeuvre-past	侧身穿过	actions	object	Tight-gap
 Climb-under	爬至下方	actions	object	Castle wall
 Climb-into	爬入	actions	object	Hole
 Jump-onto	跳上去	actions	object	Stepping stone
@@ -1943,3 +1943,48 @@ Show Target	显示目标	actions	cachedump	cachedump
 Free Cam	自由视角	actions	cachedump	cachedump
 View Journal	查看日志	actions	menu	skillGuideNew
 View-journal	查看日志	actions	menu	skillGuideNew
+Sell	出售	actions	menu	audit-0715
+Teleport-to	传送至	actions	menu	audit-0715
+Next	下一个	actions	menu	audit-0715
+Done	完成	actions	menu	audit-0715
+Go	出发	actions	menu	audit-0715
+None	无	actions	menu	audit-0715
+Up	上移	actions	menu	audit-0715
+Move-up	上移	actions	menu	audit-0715
+Move-down	下移	actions	menu	audit-0715
+Move left	左移	actions	menu	audit-0715
+Move right	右移	actions	menu	audit-0715
+Remove All	全部移除	actions	menu	audit-0715
+View Tasks	查看任务	actions	menu	audit-0715
+Deposit runes	存入符文	actions	menu	audit-0715
+Rotate clockwise	顺时针旋转	actions	menu	audit-0715
+Rotate-Clockwise <colNum0>Dial	顺时针旋转 <colNum0>转盘	actions	menu	audit-0715
+Rotate-AntiClockwise <colNum0>Dial	逆时针旋转 <colNum0>转盘	actions	menu	audit-0715
+Take-from <colNum0>Fishing	拿取 <colNum0>钓鱼	actions	menu	audit-0715
+Take-from <colNum0>Hunting	拿取 <colNum0>狩猎	actions	menu	audit-0715
+Take-from <colNum0>Herblore	拿取 <colNum0>草药学	actions	menu	audit-0715
+Buy 1	购买1个	actions	menu	audit-0715
+Buy 5	购买5个	actions	menu	audit-0715
+Buy 10	购买10个	actions	menu	audit-0715
+Buy 50	购买50个	actions	menu	audit-0715
+Withdraw 5	取出5个	actions	menu	audit-0715
+Withdraw X	取出指定数量	actions	menu	audit-0715
+Exchange-5	兑换5个	actions	menu	audit-0715
+Exchange-X	兑换指定数量	actions	menu	audit-0715
+Recruit+	新兵+	actions	menu	audit-0715
+Corporal+	下士+	actions	menu	audit-0715
+Sergeant+	中士+	actions	menu	audit-0715
+Lieutenant+	中尉+	actions	menu	audit-0715
+Captain+	上尉+	actions	menu	audit-0715
+General+	将军+	actions	menu	audit-0715
+Play-c#	演奏-c#	actions	menu	audit-0715
+Play-d#	演奏-d#	actions	menu	audit-0715
+Play-f#	演奏-f#	actions	menu	audit-0715
+Play-g#	演奏-g#	actions	menu	audit-0715
+Play-a#	演奏-a#	actions	menu	audit-0715
+Spear	矛刺	actions	menu	audit-0715
+Note	纸币	actions	menu	audit-0715
+Jump!	跳！	actions	menu	audit-0715
+Disable Adventure Paths	关闭冒险指引	actions	menu	audit-0715
+Bonds	债券	actions	menu	audit-0715
+Sandbags	沙袋	actions	menu	audit-0715

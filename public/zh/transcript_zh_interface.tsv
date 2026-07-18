@@ -30445,3 +30445,532 @@ Leechfin<br>Big fishing net	水蛭鳍<br>大渔网	interface	cachebonus	table213
 Stymphikes<br>Habitat: Vampyrium	斯廷法利斯鸟<br>栖息地：吸血鬼界	interface	cachebonus	table213
 Letvek<br>Habitat: Vampyrium	莱特维克<br>栖息地：吸血鬼界	interface	cachebonus	table213
 Vampyrium is a far away land accessible through a portal in Darkmeyer.	吸血鬼界是一片遥远的土地，可通过达克迈尔的一个传送门进入。	interface	cachebonus	table115
+Select Interfaces	选择界面	interface	missing-reflow	
+Select Display	选择展示柜	interface	missing-reflow	
+Select Chat	选择聊天	interface	missing-reflow	
+Select Audio	选择音频	interface	missing-reflow	
+Select Activities	选择活动	interface	missing-reflow	
+Moon Inn.	月亮旅店	interface	missing-reflow	
+Intelligence Report from him.	来自他的情报报告	interface	missing-reflow	
+Focus on	专注	interface	missing-reflow	
+Buy limit: <Num0> / Actively traded price: <Num1>	购买上限: <Num0> / 活跃交易价: <Num1>	interface	missing-reflow	
+Buying: Baby impling jar	收购：幼年小精灵罐	interface	missing-reflow	
+No offer	无报价	interface	missing-reflow	
+Potion store	药水店	interface	missing-reflow	
+View tab	查看标签	interface	missing-reflow	
+<Num0> degrees <Num1> minutes east	东经<Num0>度<Num1>分	interface	missing-reflow	
+One of the sailors	一名水手	interface	missing-reflow	
+View Defence on the Wiki	在维基上查看防御	journal	missing-reflow	
+Platelegs Shop in Al Kharid.	阿尔卡里德城的腿甲商店。	journal	missing-reflow	
+Defence level.	防御等级。	journal	missing-reflow	
+Basic Recipes	基础食谱	journal	missing-reflow	
+Furnace to turn it into jewellery. To create gem jewellery, you'll also need a cut gem. To wear an amulet, you'll need to string it using a Ball of Wool. Gold and Silver can be mined from various	用熔炉将其制成首饰。要制作杰姆首饰，还需要一颗切割好的杰姆。要佩戴护身符，需要用毛线球给它穿线。金子和银子可以从各种	journal	missing-reflow	
+Spinning Wheels can be used to spin various threads, such as Flax into Bow Strings and Sinew into Crossbow Strings.	纺车可以用来纺各种线，比如把亚麻纺成弓弦，把筋腱纺成弩弦。	journal	missing-reflow	
+Crafting Shop in Al Kharid and use the needle on the leather to craft armour!	去阿尔卡里德城的制作商店，用针缝制皮革来制作盔甲！	journal	missing-reflow	
+Combat: Once enchanted, jewellery can be worn to boost combat skills.	战斗：附魔后的首饰可以佩戴以提升战斗技能。	journal	missing-reflow	
+Members: Necklace of Rupture	会员：破裂项链	interface	missing-reflow	split-glue
+Requires: Level <Num0> Hitpoints	需要：生命值等级<Num0>	interface	missing-reflow	split-glue
+Requires: Level <Num0> Smithing	需要：锻造等级<Num0>	interface	missing-reflow	split-glue
+Requires: Level <Num0> Construction	需要：建筑等级<Num0>	interface	missing-reflow	split-glue
+Requires: Level <Num0> Mining	需要：采矿等级<Num0>	interface	missing-reflow	split-glue
+Requires: Level <Num0> Woodcutting	需要：伐木等级<Num0>	interface	missing-reflow	split-glue
+Members: Crimson Kisten	会员：深红色 Kisten	interface	missing-reflow	split-glue
+Attack level and bones dropped by defeated enemies can be buried for Prayer XP. Smithing: Weapons	攻击等级和击败敌人掉落的骨头可埋葬获得祈祷经验值。锻造：武器	journal	missing-reflow	
+Strength increases your damage. Hitpoints: Attacking enemies	力量提升你的伤害。生命值：攻击敌人	journal	missing-reflow	
+View Fishing on the Wiki	在维基上查看钓鱼	journal	missing-reflow	
+Fishing Spots with the Net & Bait options.	带有网和鱼饵选项的钓鱼点。	journal	missing-reflow	
+Fishing Spots found next to him, as well as give recommendations on what to catch for your level!	他旁边的钓鱼点，以及根据你的等级推荐钓什么鱼！	journal	missing-reflow	
+Hitpoints during combat.	战斗中的生命值。	journal	missing-reflow	
+Weapons Smithing increases your damage.	武器锻造提升你的伤害。	journal	missing-reflow	
+Attacking Hitpoints increases your damage.	攻击生命值提升你的伤害。	journal	missing-reflow	
+Some prayers	一些祈祷	journal	missing-reflow	
+Weapons can be buried for Prayer XP.	武器可被埋葬以获得祈祷经验值。	journal	missing-reflow	
+View Attack on the Wiki increasingly powerful weapons. Use the tabs on the left to see what level is required to equip certain equipment.	在维基上查看攻击技能，了解越来越强大的武器。使用左侧标签查看装备特定装备所需的等级。	journal	missing-reflow	
+Some monsters.	某些怪物。	journal	missing-reflow	
+Weapons Smithing	武器锻造	journal	missing-reflow	
+The equipment.	该装备。	journal	missing-reflow	
+The View Attack on the Wiki left to see what level is required to equip certain equipment.	在维基上查看攻击技能左侧，了解装备特定装备所需的等级。	journal	missing-reflow	
+Attacking Hitpoints	攻击生命值	journal	missing-reflow	
+Some XP.	一些经验值。	journal	missing-reflow	
+Weapons level and bones dropped by defeated enemies can be buried for Prayer XP.	武器等级和击败敌人掉落的骨头可被埋葬以获得祈祷经验值。	journal	missing-reflow	
+Attack the skill XP attacking with that style gives.	攻击该技能风格提供的技能经验值。	journal	missing-reflow	
+Melee equipment.	近战装备。	journal	missing-reflow	
+To started, attack some enemies! Cows and get Goblins east of Lumbridge are a good place to start.	开始后，攻击一些敌人！仑桥镇东边的奶牛和哥布林是个不错的起点。	journal	missing-reflow	
+Higher combat	更高战斗等级	journal	missing-reflow	
+View Hitpoints on the Wiki to Level up your respawn. Hitpoints to withstand stronger attacks.	在维基上查看生命值以提升重生等级。提升生命值来承受更强的攻击。	journal	missing-reflow	
+XP. shops	经验值。商店	journal	missing-reflow	
+Slayer as Attack	杀戮如同攻击	journal	missing-reflow	
+Smithing can be buried for Prayer XP.	锻造可以埋掉以获得祈祷经验值。	journal	missing-reflow	
+Slayer as Attack enemies	杀戮如同攻击敌人	journal	missing-reflow	
+Slayer as Attack monsters.	杀戮如同攻击怪物。	journal	missing-reflow	
+The Use the tabs on the View Attack on the Wiki	使用维基上的查看攻击标签	journal	missing-reflow	
+Attack for deal either Stab, Slash or Crush	攻击可造成刺击、斩击或钝击伤害	journal	missing-reflow	
+Cows different defence for each of these damage	奶牛对每种伤害类型有不同防御	journal	missing-reflow	
+Attacking enemies	攻击敌人	journal	missing-reflow	
+Attack Strength increases your damage.	攻击力量提升你的伤害	journal	missing-reflow	
+XP. Hitpoints	经验值.生命值	journal	missing-reflow	
+While the Scimitar Shop	在弯刀商店	journal	missing-reflow	
+Attack enemies	攻击敌人	journal	missing-reflow	
+Smithing XP. shops	锻造经验值.商店	journal	missing-reflow	
+Higher Strength increases your damage.	更高力量提升你的伤害	journal	missing-reflow	
+Attacking increases Strength increases your damage.	攻击提升力量，力量提升你的伤害	journal	missing-reflow	
+Cows and Goblins east of Lumbridge are good then	仑桥镇东边的奶牛和哥布林不错	journal	missing-reflow	
+Attack enemies Slayer monsters.	攻击敌人杀戮怪物	journal	missing-reflow	
+Cows attack some enemies!	奶牛攻击一些敌人！	journal	missing-reflow	
+View Agility on the Wiki Energy drains while running and how fast it restores	在维基上查看敏捷 跑步时能量消耗及恢复速度	journal	missing-reflow	
+Melee shows the style name, type of damage and the skill XP attacking with that style gives.	近战显示该攻击方式的名称、伤害类型以及获得的技能经验值	journal	missing-reflow	
+Attacking Hitpoints XP.	攻击生命值经验值	journal	missing-reflow	
+Some Attack monsters.	一些攻击怪物	journal	missing-reflow	
+Melee Styles deal either Stab, Slash or Crush Attack damage as shown in the tooltip. Enemies have different	近战攻击方式造成刺击、斩击或粉碎攻击伤害，如提示所示。敌人有不同	journal	missing-reflow	
+Melee deal either Stab, Slash or Crush Attack Styles damage as shown in the tooltip. Enemies have different	近战攻击方式造成刺击、斩击或粉碎攻击伤害，如提示所示。敌人有不同	journal	missing-reflow	
+To your Attack skill, attack enemies with a level melee weapon that has an Accurate or Controlled	要提升你的攻击技能，请使用一把具有精准或控制攻击方式的等级近战武器攻击敌人	journal	missing-reflow	
+View Attack on the Wiki powerful weapons. Use the tabs on the left to see what level is required to equip certain equipment.	在维基上查看攻击强力武器。使用左侧标签查看装备特定装备所需的等级。	journal	missing-reflow	
+Certain Sword Shop	某剑店	journal	missing-reflow	
+Higher Attack	更高攻击	journal	missing-reflow	
+Certain Sword Shop Cows and Goblins east of Lumbridge are a good place to start.	某剑店仑桥镇东边的奶牛和哥布林是很好的起点。	journal	missing-reflow	
+Your Hitpoints level determines how much damage you can take before you die and have to respawn. Level up your Hitpoints to withstand stronger attacks.	你的生命值等级决定你在死亡重生前能承受多少伤害。提升生命值等级以抵御更强的攻击。	journal	missing-reflow	
+Your Agility level determines how fast your Run Energy drains while running and how fast it restores while not running. Various	你的敏捷等级决定跑步时体力消耗的速度以及不跑步时恢复的速度。各种	journal	missing-reflow	
+View Smithing on the Wiki	在维基上查看锻造	interface	missing-reflow	
+Smithing is a skill about crafting weapons and armour from raw ores. Use the tabs on the left to see what types of items can be smithed and the Smithing level required.	锻造是一项用原矿制作武器和盔甲的技能。使用左侧标签查看可锻造的物品类型及所需锻造等级。	journal	missing-reflow	
+To level your Smithing, simply create items shown in the tabs on the left.	要提升锻造等级，只需制作左侧标签中显示的物品即可。	journal	missing-reflow	
+To smith an item	锻造物品	journal	missing-reflow	
+Combat:	战斗：	journal	missing-reflow	
+Weapons and armour created with the Smithing skill can be worn to boost combat skills	用锻造技能制作的武器和盔甲可以穿戴以提升战斗技能	journal	missing-reflow	
+Ammunition components created with the Smithing skill can be finished with the Fletching skill.	用锻造技能制作的弹药组件可以用制箭技能完成。	journal	missing-reflow	
+Ranged:	远程：	journal	missing-reflow	
+Ammunition created with the Smithing skill can be used for Ranged combat.	用锻造技能制作的弹药可用于远程战斗。	journal	missing-reflow	
+Nails created with the Smithing skill can be used for building furniture with the Construction skill.	用锻造技能制作的钉子可用于建筑技能制作家具。	journal	missing-reflow	
+Mining:	采矿：	journal	missing-reflow	
+Parts for boats and facilities can be created with the Smithing skill.	用锻造技能可以制作船只和设施的部件。	journal	missing-reflow	
+Your Defence level unlocks the ability to equip increasingly powerful armour and determines how likely you are to block enemy attacks, negating the damage you would have taken. Use the tabs on the left to see what level is required to equip certain equipment.	你的防御等级决定了你能装备更强大盔甲的能力，并影响你格挡敌人攻击、抵消伤害的几率。使用左侧的标签查看装备特定装备所需的等级。	journal	missing-reflow	
+Some prayers apply a bonus to your Defence level.	部分祈祷会为你的防御等级提供加成。	journal	missing-reflow	
+View Herblore on the Wiki	在维基上查看草药学	interface	missing-reflow	
+Herblore is a skill about brewing potions that provide skill boosts and other powerful effects. Use the tabs on the left to see what level is required to brew a certain potion and what ingredients it requires.	草药学是一门调制药水的技能，药水能提供技能加成及其他强力效果。使用左侧标签页查看调制特定药水所需的等级及所需材料。	journal	missing-reflow	
+To brew a potion	要调制药水	journal	missing-reflow	
+Herbalists around Gielinor, such as Jatix in Taverley.	吉列诺各地的草药师，例如塔韦利村的贾蒂克斯。	journal	missing-reflow	
+Jatix in Taverley.	塔韦利村的贾蒂克斯。	journal	missing-reflow	
+Many key potion ingredients can be grown with the Farming skill.	许多关键药水材料可通过农业技能种植获得。	journal	missing-reflow	
+View Cooking on the Wiki	在维基上查看烹饪	interface	missing-reflow	
+Cooking is a skill about turning raw ingredients into delicious food that can restore Hitpoints and provide other useful benefits. Use the tabs on the left to see what types of food can be cooked, the Cooking level required and instructions on how to make them.	烹饪是一门将生食材转化为美味食物的技能，食物可恢复生命值并提供其他实用效果。使用左侧标签页查看可烹饪的食物类型、所需烹饪等级及制作方法。	journal	missing-reflow	
+To level your Cooking, simply cook items shown in the tabs on the left. As well as unlocking more recipes, increasing your Cooking level reduces your chance to burn food.	要提升烹饪等级，只需烹饪左侧标签页中显示的物品。提升烹饪等级不仅能解锁更多食谱，还能降低烤焦食物的几率。	journal	missing-reflow	
+Range also decreases your chance to burn food.	炉灶还能降低食物烤焦的几率。	journal	missing-reflow	
+Range in Lumbridge Castle.	仑桥镇城堡里的炉灶。	journal	missing-reflow	
+Cooked food can be eaten to recover Hitpoints during combat.	熟食可在战斗中食用以恢复生命值。	journal	missing-reflow	
+Fishing:	钓鱼：	journal	missing-reflow	
+Fish caught with the Fishing skill can be cooked with the Cooking skill.	用钓鱼技能钓到的鱼可用烹饪技能烹制。	journal	missing-reflow	
+Raw meat gathered with the Hunter skill can be cooked with the Cooking skill.	用狩猎技能获得的生肉可用烹饪技能烹制。	journal	missing-reflow	
+Fishing Shops around the world.	世界各地的钓鱼商店。	journal	missing-reflow	
+Level up your Fishing skill by catching fish. This increases catch rate and unlocks more types of fish to catch as well as new methods to catch them.	通过钓鱼提升钓鱼技能等级。这能提高钓鱼成功率，解锁更多可钓的鱼类以及新的钓鱼方法。	journal	missing-reflow	
+To catch fish	要钓鱼	journal	missing-reflow	
+Cooked fish can be eaten to recover Hitpoints during combat.	熟鱼可在战斗中食用以恢复生命值。	journal	missing-reflow	
+View Ranged on the Wiki	在维基上查看远程	interface	missing-reflow	
+Your Ranged level determines your accuracy and damage with ranged weapons and unlocks the ability to use increasingly powerful ranged weapons, ammunition and armour. Use the tabs on the left to see what level is required to equip certain equipment.	你的远程等级决定使用远程武器时的命中率和伤害，并解锁使用更强远程武器、弹药和盔甲的能力。使用左侧标签查看装备特定装备所需的等级。	journal	missing-reflow	
+To level your Ranged skill, attack enemies with a ranged weapon. Most ranged weapons require specific types of ammunition to be equipped, such as arrows when wielding a bow and bolts when wielding a crossbow. The ammunition a weapon can use is displayed alongside the weapon's entry in the tabs on the left.	要提升远程技能，用远程武器攻击敌人。大多数远程武器需要装备特定类型的弹药，例如使用弓时需要箭，使用弩时需要弩箭。武器可用的弹药会显示在左侧标签中该武器条目旁。	journal	missing-reflow	
+To get started, equip a ranged weapon and respective ammunition then attack some enemies! Cows and Goblins east of Lumbridge are a good place to start.	开始前，先装备远程武器和对应弹药，然后攻击一些敌人！仑桥镇东边的奶牛和哥布林是不错的起点。	journal	missing-reflow	
+Ranged Combat Tutor outside Lumbridge Castle also offers basic ammunition to get started.	仑桥镇城堡外的远程战斗导师也提供基础弹药供你开始使用。	journal	missing-reflow	
+Some prayers apply a bonus to your Ranged level and bones dropped by defeated enemies can be buried for Prayer XP.	部分祈祷会对你的远程等级提供加成，击败敌人掉落的骨头可以埋掉获得祈祷经验值。	journal	missing-reflow	
+Weapons and ammunition created with the Fletching skill can be used in ranged combat.	通过制箭技能制作的武器和弹药可用于远程战斗。	journal	missing-reflow	
+Ammunition created with the Smithing skill can be used in ranged combat.	通过锻造技能制作的弹药可用于远程战斗。	journal	missing-reflow	
+Boat cannons can be operated with the Ranged skill.	船炮可通过远程技能操作。	journal	missing-reflow	
+View Thieving on the Wiki	在维基上查看偷窃	interface	missing-reflow	
+Thieving is a skill about stealing coins and items from the various inhabitants of Gielinor. Use the tabs on the left to see who and what you can steal from and the Thieving level required.	偷窃是一项从吉里诺尔各地居民身上偷取金币和物品的技能。使用左侧标签查看可偷取的目标、物品及所需偷窃等级。	journal	missing-reflow	
+To level your Thieving, pickpocket people and monsters or steal from stalls. Increasing your Thieving level allows you to steal from more valuable sources and increases your chance to succeed.	提升偷窃等级可通过扒窃人物和怪物或从摊位偷窃。等级越高，能偷取更值钱的物品，成功率也越高。	journal	missing-reflow	
+To get started, pickpocket the citizens found in most towns, such as Lumbridge.	入门可从大多数城镇的居民下手，比如仑桥镇的居民。	journal	missing-reflow	
+Seeds pickpocketed from Master Farmers or stolen from Seed Stalls can be grown with the Farming skill.	从农业大师身上扒窃或从种子摊位偷来的种子，可用农业技能种植。	journal	missing-reflow	
+View Magic on the Wiki	在维基上查看魔法	interface	missing-reflow	
+Your Magic level unlocks the ability to use increasingly powerful weapons, armour and spells, and determines your accuracy and damage with combat spells, as well as your chance to block damage from magic attacks, negating the damage you would have taken.	魔法等级解锁使用更强武器、盔甲和法术的能力，并决定战斗法术的命中与伤害，以及抵御魔法攻击时完全抵消伤害的几率。	journal	missing-reflow	
+As you level your Magic skill, you'll unlock the ability to cast increasingly powerful combat spells, as well as a wide variety of useful utility spells including the ability to convert items into gold and teleport all over Gielinor. Use the tabs on the left to see what level is required to cast certain spells and use certain equipment.	提升魔法等级后，你将解锁更强大的战斗法术，以及多种实用法术，包括将物品转化为金子、传送至吉里诺尔各地。使用左侧标签查看施放特定法术和使用特定装备所需的等级。	journal	missing-reflow	
+Magic Equipment	魔法装备	journal	missing-reflow	
+Certain pieces of equipment can be used in place of certain runes when casting spells. For example, equipped elemental staves, such as a Staff of Air, count as an infinite supply of the corresponding elemental rune.	某些装备可替代特定符文施法。例如装备元素法杖（如风元素法杖）可视为拥有无限对应的元素符文。	journal	missing-reflow	
+Magic Combat Tutor outside Lumbridge Castle also offers these basic runes to get started.	仑桥镇城堡外的魔法导师也提供这些基础符文供入门使用。	journal	missing-reflow	
+Some prayers apply a bonus to your Magic level and bones dropped by defeated enemies can be buried for Prayer XP.	部分祈祷能提升你的魔法等级，击败敌人掉落的骨头可埋葬获得祈祷经验值。	journal	missing-reflow	
+Runecraft:	符石制作：	journal	missing-reflow	
+Runes crafted with the Runecraft skill can be used to cast spells.	用符石制作技能制作的符石可用于施法。	journal	missing-reflow	
+View Fletching on the Wiki	在维基上查看制箭	interface	missing-reflow	
+Fletching is a skill about crafting ranged weapons, and ammunition. Use the tabs on the left to see what types of items can be fletched and the Fletching level required.	制箭是制作远程武器和弹药相关的技能。使用左侧标签查看可制作的物品类型及所需制箭等级。	journal	missing-reflow	
+To level your Fletching, simply create items shown in the tabs on the left.	要提升制箭等级，只需制作左侧标签中显示的物品。	journal	missing-reflow	
+These are instructions for basic Fletching recipes. Experiment with other item combinations or view the Wiki linked below to find more recipes.	以下是基础制箭配方说明。尝试其他物品组合或查看下方链接的维基以寻找更多配方。	journal	missing-reflow	
+To create bows	制作弓	journal	missing-reflow	
+To create crossbows	制作弩	journal	missing-reflow	
+To create arrows for bows	制作弓用的箭	journal	missing-reflow	
+To create bolts for crossbows	制作弩用的箭	journal	missing-reflow	
+Crossbow limbs, unfinished bolts and arrowtips can be created with the Smithing skill.	弩臂、未完成的箭和箭尖可通过锻造技能制作。	journal	missing-reflow	
+Woodcutting:	伐木：	journal	missing-reflow	
+Logs obtained with the Woodcutting skill can be carved into unstrung bows, crossbow stocks and arrow shafts.	通过伐木技能获得的原木可雕刻成未上弦的弓、弩托和箭杆。	journal	missing-reflow	
+Bow and Crossbow Strings can be created with the Crafting skill.	弓弦和弩弦可通过制作技能制作。	journal	missing-reflow	
+View Woodcutting on the Wiki	在维基上查看伐木	interface	missing-reflow	
+Level up your Woodcutting skill by chopping trees. This increases your chance to successfully chop a log and unlocks more types of tree to chop as well as better axes to chop with.	通过砍伐树木提升伐木技能等级。这能提高成功砍下原木的几率，并解锁更多可砍伐的树木类型以及更好的斧头。	journal	missing-reflow	
+To chop a tree	要砍伐一棵树	journal	missing-reflow	
+You can also carry a Forestry Kit	你也可以携带林业套件	journal	missing-reflow	
+Logs chopped with the Woodcutting skill can be used to create weapons and ammunition with the Fletching skill.	通过伐木技能砍下的原木可用于制箭技能制作武器和弹药。	journal	missing-reflow	
+Logs chopped with the Woodcutting skill can be used to make planks for building furniture with the Construction skill.	伐木技能砍下的原木可制成木板，用于建筑技能制作家具。	journal	missing-reflow	
+Firemaking:	生火：	journal	missing-reflow	
+Logs chopped with the Woodcutting skill can be lit with the Firemaking skill.	伐木技能砍下的原木可用生火技能点燃。	journal	missing-reflow	
+Tools and equipment for Woodcutting can be created with the Smithing skill.	伐木用的工具和装备可通过锻造技能制作。	journal	missing-reflow	
+Logs chopped with the Woodcutting skill can be used to make planks for building parts for boats and facilities.	伐木技能砍下的原木可制成木板，用于建造船只和设施的部件。	journal	missing-reflow	
+View Runecraft on the Wiki	在维基上查看符石制作	interface	missing-reflow	
+To craft runes and level your Runecraft skill, you first need rune essence and a talisman of the rune you want to make. Use the talisman to both locate and access the runic altar, then use the your rune essence on the altar to turn it into runes.	要制作符石并提升符石制作等级，你首先需要符文精华和对应符石的护符。使用护符定位并进入符石祭坛，然后将符文精华用于祭坛即可转化为符石。	journal	missing-reflow	
+Other talismans can be found by defeating various enemies around Gielinor. For example, the wizards south of Falador have a chance to drop their corresponding elemental talisman.	其他护符可通过击败吉列诺各地的敌人获得。例如，法拉多城南方的巫师有几率掉落对应的元素护符。	journal	missing-reflow	
+Rune essence used for crafting runes can be mined in the rune essence mine.	用于制作符石的符文精华可在符文精华矿中开采。	journal	missing-reflow	
+View Slayer on the Wiki	在维基上查看杀戮	interface	missing-reflow	
+Slayer is a skill about fighting increasingly dangerous and lucrative monsters. Some monsters require a certain Slayer level to fight along with specialist Slayer equipment. Use the tabs on the left to see what monsters and equipment are available and the Slayer level required.	杀戮是一项关于猎杀越来越危险且高回报怪物的技能。部分怪物需要特定杀戮等级才能战斗，同时还需配备专业杀戮装备。使用左侧标签页查看可猎杀的怪物、可用装备及所需杀戮等级。	journal	missing-reflow	
+Slayer Master in Draynor Village. Then, take a task from that Slayer Master and get slaying!	前往德雷诺村的杀戮大师处。从该大师处领取任务后，开始你的杀戮之旅吧！	journal	missing-reflow	
+All:	全部：	journal	missing-reflow	
+Many Slayer monsters drop useful equipment and resources to aid in combat or use in a variety of skills.	许多杀戮怪物会掉落实用的装备和资源，可用于辅助战斗或多种技能。	journal	missing-reflow	
+View Farming on the Wiki	在维基上查看农业	interface	missing-reflow	
+Farming is a skill about growing a wide variety of plants for use with other skills. Use the tabs on the left to see what types of plants can be grown and the Farming level required.	农业是一项种植各类植物以配合其他技能使用的技能。使用左侧标签页查看可种植的植物类型及所需农业等级。	journal	missing-reflow	
+Growing Plants	种植植物	journal	missing-reflow	
+Farming Patch of the corresponding type and Rake it to clear any weeds. For example, herb seeds must be planted in a Herb Patch. Once weeded, you can plant your seeds using a Seed Dibber and optionally water it with a Watering Can and add Compost to reduce the risk of disease. Most seeds can be planted directly. However, tree seeds must first be planted in a Filled Plant Pot and watered with a Watering Can to grow into a sapling which can then be planted in a patch.	在对应类型的种植地上使用耙子清除杂草。例如，草药种子必须种在草药种植地。除草后，可用种植锥播种，并可选浇水壶浇水、添加堆肥以降低病害风险。多数种子可直接播种，但树木种子需先种在填土花盆中并用浇水壶浇水培育成树苗，再移植到种植地。	journal	missing-reflow	
+After planting some seeds, simply wait for them to grow! You can explore the world and return later to check on your plants.	播种后只需等待生长！你可以探索世界，稍后再回来查看植物状态。	journal	missing-reflow	
+Once your plant has grown, you can harvest it. This may require another tool, such as a Spade.	植物成熟后即可收获。部分收获可能需要其他工具，例如铲子。	journal	missing-reflow	
+Reducing Disease	减少病害	journal	missing-reflow	
+Growing plants have a chance to become diseased which stops it growing and it may die if left untreated. Diseased plants can be cured using Plant Cure or they can be protected from becoming diseased by paying the Farmer near the patch. This requires certain produce in exchange, which can be viewed in the tabs on the left under the plant you want to protect.	植物在生长过程中有几率染病，染病会停止生长，若不及时处理可能死亡。可使用植物治疗药水治愈染病植物，或通过支付作物给苗圃旁的农夫来防止染病。所需作物可在左侧标签页中查看对应植物的保护选项。	journal	missing-reflow	
+Allotment Patch north-west of Draynor Village using the process described above. You can then move on to other types of plants shown in the tabs on the left.	使用上述方法在德雷诺村西北方的农田苗圃种植。之后可尝试左侧标签页中展示的其他类型植物。	journal	missing-reflow	
+Ingredients grown with the Farming skill can be used to brew potions with the Herblore skill.	通过农业技能种植的原料可用于草药学技能酿造药水。	journal	missing-reflow	
+Ingredients grown with the Farming skill can be used to cook food with the Cooking skill.	通过农业技能种植的原料可用于烹饪技能制作食物。	journal	missing-reflow	
+Seeds can be pickpocketed from Master Farmers or stolen from Seed Stalls with the Thieving skill.	种子可通过偷窃技能从农业大师身上扒窃，或从种子摊位偷取获得。	journal	missing-reflow	
+View Construction on the Wiki	在维基上查看建筑	interface	missing-reflow	
+Construction is a skill about expanding and decorating your very own Player-Owned House. Use the tabs on the left to see what types of rooms, furniture and utility items can be built and the Construction level required. Many pieces of furniture have useful functions from ranges to cook on and wardrobes to store equipment, to teleportation portals and stat restoring altars. You can even build a dungeon to challenge your friends! Explore the wide range of options in the tabs on the left!	建筑是一项关于扩建和装饰个人房屋的技能。使用左侧标签页查看可建造的房间类型、家具及实用物品，以及所需的建筑等级。许多家具有实用功能，例如用于烹饪的炉灶、存放装备的衣柜、传送门以及恢复属性的祭坛。你甚至可以建造地牢来挑战朋友！探索左侧标签页中的丰富选项吧！	journal	missing-reflow	
+To obtain a house	如何获得房屋	journal	missing-reflow	
+To enter your house	如何进入房屋	journal	missing-reflow	
+To construct furniture	用于建造家具	journal	missing-reflow	
+To add more rooms	用于增加更多房间	journal	missing-reflow	
+Logs cut with the Woodcutting skill can be turned into planks for building furniture.	通过伐木技能砍伐的原木可加工成木板用于建造家具。	journal	missing-reflow	
+Nails and bars created with the Smithing skill can be used to build furniture.	通过锻造技能制作的钉子和锭可用于建造家具。	journal	missing-reflow	
+Stone mined with the Mining skill can be used to build furniture.	通过采矿技能开采的石头可用于建造家具。	journal	missing-reflow	
+Boat upgrades and facilities can be built with the Construction skill.	使用建筑技能可建造船只升级和设施。	journal	missing-reflow	
+View Hunter on the Wiki	在维基上查看狩猎	interface	missing-reflow	
+To level your Hunter, catch any of the creatures shown in the tabs on the left. Increasing your Hunter level unlocks more creatures to hunt as well as increases the number of traps you can maintain simultaneously and the chance they'll successfully catch creatures.	要提升狩猎等级，捕捉左侧标签页中显示的任一生物。提高狩猎等级可解锁更多可狩猎生物，同时增加可同时维持的陷阱数量及成功捕捉生物的几率。	journal	missing-reflow	
+Basic Hunting Methods	基础狩猎方法	journal	missing-reflow	
+These are instructions for basic Hunting methods. Experiment with other tools or view the Wiki linked below to find more methods.	以下是基础狩猎方法的说明。尝试使用其他工具或查看下方链接的维基以寻找更多方法。	journal	missing-reflow	
+Basic traps, such as Bird Snares and Box Traps	基础陷阱，例如捕鸟陷阱和箱式陷阱	journal	missing-reflow	
+To track creatures such as Kebbits and Weasels	追踪兔子、鼬鼠等生物	journal	missing-reflow	
+Hunter Tutor in Feldip Hills by chartering a ship from Port Sarim to Corsair Cove then running north-west. She'll provide you with some tools and instruction to trap the local wildlife! You'll start by trapping Crimson Swifts using Bird Snares, then move on to tracking Feldip Weasels using a Noose Wand.	狩猎导师在费迪普丘陵，可从沙林港乘船到海盗湾后往西北走。她会给你一些工具和指导，教你捕捉当地野生动物！先从用捕鸟陷阱抓深红雨燕开始，然后学习用套索棒追踪费迪普鼬鼠。	journal	missing-reflow	
+Chinchompas caught with the Hunter skill can be used as a ranged weapon.	用狩猎技能抓到的灰鼠可作为远程武器使用。	journal	missing-reflow	
+Salamanders caught with the Hunter skill can be used as a magic weapon.	用狩猎技能抓到的蝾螈可作为魔法武器使用。	journal	missing-reflow	
+Raw meat gathered from caught creatures can be cooked with the Cooking skill.	从捕获生物身上取得的生肉可用烹饪技能烹制。	journal	missing-reflow	
+Cooked meat gathered from caught creatures can be eaten to recover Hitpoints.	从捕获生物身上取得的熟肉可食用以恢复生命值。	journal	missing-reflow	
+Birdhouses created with the Crafting skill can be used to catch birds passively.	用制作技能制作的鸟屋可被动捕捉鸟类。	journal	missing-reflow	
+Bones gathered from creatures caught with the Hunter skill can be buried for Prayer XP.	从狩猎技能捕获的生物身上取得的骨头可掩埋以获得祈祷经验值。	journal	missing-reflow	
+View Sailing on the Wiki	在维基上查看航海	interface	missing-reflow	
+Sailing gives you the ability to captain a boat and sail the seas of Gielinor. Use the tabs on the left to see what types of boats, activities and locations are available and the Sailing level required.	航海技能让你能驾驶船只航行在吉列诺的海洋上。使用左侧标签查看可用的船只类型、活动、地点以及所需的航海等级。	journal	missing-reflow	
+To level your Sailing, participate in activities while on your boat. You also gain XP for trimming your sails while sailing around.	提升航海等级需要在船上参与活动。航行时修剪船帆也能获得经验值。	journal	missing-reflow	
+To obtain a boat	获取船只	journal	missing-reflow	
+Shipwrights at most large ports.	大多数大型港口的造船匠处。	journal	missing-reflow	
+To board your boat	登上你的船	journal	missing-reflow	
+To customise your boat	自定义你的船	journal	missing-reflow	
+To assign crew	分配船员	journal	missing-reflow	
+Port Tasks from most ports, such as the Pandemonium or Port Sarim, and complete the charting activities described in your Captain's Log.	在大多数港口（如潘德莫尼姆岛或沙林港）接取港口任务，并完成船长日志中描述的航海活动。	journal	missing-reflow	
+Keep an eye out for new activities that become available as you level your Sailing skill. Some of these require specific facilities to participate in, such as a Salvaging Hook to salvage shipwrecks.	留意随着航海等级提升而解锁的新活动。部分活动需要特定设施才能参与，例如使用打捞钩打捞沉船。	journal	missing-reflow	
+(<Num0> Sailing) to unlock more charting options.	（<Num0>级航海）解锁更多航海选项。	journal	missing-reflow	
+Unlock access to new areas, resources and creatures.	解锁新区域、资源和生物。	journal	missing-reflow	
+Parts for boats can be created with the Crafting skill.	使用制作技能可以制造船只零件。	journal	missing-reflow	
+View Firemaking on the Wiki	在维基上查看生火	interface	missing-reflow	
+Firemaking is a skill used to light fires and light sources. Use the tabs on the left to see what types of logs and light sources can be lit and the Firemaking level required to light them.	生火是用于点燃火堆和光源的技能。使用左侧标签查看可点燃的原木和光源类型，以及点燃它们所需的生火等级。	journal	missing-reflow	
+To level your Firemaking, simply make fires from logs. Increasing your Firemaking level increases the speed at which you light logs.	要提升生火等级，只需用原木生火。提高生火等级会加快点燃原木的速度。	journal	missing-reflow	
+To light a fire	点燃火堆	journal	missing-reflow	
+Logs can also be added to an existing fire by using a log on the fire. This burns logs at a slower rate but the logs are added automatically.	也可以将原木添加到现有火堆中，只需将原木对准火堆使用。这样燃烧原木的速度较慢，但原木会自动添加。	journal	missing-reflow	
+To get started, gather some basic logs from normal trees and light them with a Tinderbox. You can continue to light individual fires for faster XP or add more logs to a single fire which requires less attention but provides slower XP.	开始前，先从普通树木收集一些基础原木，然后用火绒盒点燃。你可以继续单独点燃火堆以获得更快的经验值，或者将更多原木添加到同一个火堆中，这样需要较少关注但经验值较慢。	journal	missing-reflow	
+Logs cut with the Woodcutting skill can be lit with the Firemaking skill.	用伐木技能砍伐的原木可以用生火技能点燃。	journal	missing-reflow	
+Fires lit with the Firemaking skill can be used to cook food with the Cooking skill.	用生火技能点燃的火堆可以用烹饪技能来烹饪食物。	journal	missing-reflow	
+Antipoison	解毒剂	interface	missing-reflow	
+Noxifer & Cicely	诺克西弗花与茉莉芹	interface	missing-reflow	
+Revitalisation (+)	活力复苏(+)	interface	missing-reflow	
+View Prayer on the Wiki	在维基上查看祈祷	interface	missing-reflow	
+To activate a Prayer	要激活祈祷	journal	missing-reflow	
+To restore Prayer points	要恢复祈祷点数	journal	missing-reflow	
+To get started, bury the bones of defeated enemies to gain Prayer XP and activate prayers during combat for powerful bonuses. Cows and Goblins east of Lumbridge are a good place to start.	开始前，先掩埋击败敌人的骨头获得祈祷经验值，并在战斗中激活祈祷获得强力加成。仑桥镇东边的奶牛和哥布林是很好的起点。	journal	missing-reflow	
+Some useful prayers to aim for are the Protection prayers which prevent certain types of damage while active. For example, Protect from Melee prevents you taking damage from most melee attacks.	一些值得追求的实用祈祷是防护祈祷，激活后可防止特定类型的伤害。例如，近战防护可防止你受到大多数近战攻击的伤害。	journal	missing-reflow	
+Prayers aid in combat and bones from defeated enemies can be buried for Prayer XP.	祈祷在战斗中提供帮助，击败敌人的骨头可掩埋获得祈祷经验值。	journal	missing-reflow	
+Crafting is a skill about crafting various pieces of armour, jewellery, equipment and other useful items. Use the tabs on the left to see what types of items can be made and the Crafting level required.	制作是一项关于制作各种盔甲、首饰、装备和其他有用物品的技能。使用左侧标签查看可制作的物品类型及所需的制作等级。	journal	missing-reflow	
+To level your Crafting, simply create items shown in the tabs on the left.	要提升制作等级，只需制作左侧标签页中显示的物品即可。	journal	missing-reflow	
+These are instructions for basic Crafting recipes. Experiment with other item combinations or view the Wiki linked below to find more recipes.	这些是基础制作配方的说明。尝试其他物品组合或查看下方链接的维基以寻找更多配方。	journal	missing-reflow	
+To create armour out of animal hides	用动物皮革制作盔甲	journal	missing-reflow	
+To create pottery	制作陶器	journal	missing-reflow	
+To create jewellery	制作首饰	journal	missing-reflow	
+Spinning Wheels	纺车	journal	missing-reflow	
+Jewellery Enchantment spells can be used on crafted jewellery to give them powerful bonuses.	首饰附魔法术可用于已制作的首饰，赋予它们强大的加成。	journal	missing-reflow	
+Armour created with the Crafting skill provides boosts to Ranged combat and Bow Strings for crafting bows can also be made with the Crafting skill.	用制作技能制作的盔甲可提升远程战斗能力，而制作弓的弓弦也可通过制作技能制作。	journal	missing-reflow	
+Raw crafting materials can be mined with the Mining skill, such as Gold, Silver and Clay.	原始制作材料可通过采矿技能开采，例如金子、银子和粘土。	journal	missing-reflow	
+Gold and Silver bars created with the Smithing skill can be used for crafting jewellery.	用锻造技能制作的金锭和银锭可用于制作首饰。	journal	missing-reflow	
+Members: Bloodwood trees	会员：血木树	interface	missing-reflow	
+Recolour sails	重新染色帆	interface	missing-reflow	
+Stymphikes	Stymphikes	interface	missing-reflow	
+Habitat: Vampyrium	栖息地：Vampyrium	interface	missing-reflow	
+This will teach you the basics of constructing furniture, give you the necessary tools and provide you with your own house to build in. From there, gather your own planks and nails and start building your dream house!	这将教你制作家具的基础知识，提供必要的工具，并给你自己的房屋进行建造。之后，收集你自己的木板和钉子，开始建造你的梦想房屋吧！	journal	missing-reflow	
+Use the tabs on the left to see what Runecraft level is required for crafting certain runes.	使用左侧的标签查看制作特定符石所需的符石制作等级。	journal	missing-reflow	
+Wyrmscraig Unique Rewards	Wyrmscraig独特奖励	interface	missing-reflow	
+Vote	投票	interface	missing-reflow	
+Question <Num0>:	问题<Num0>：	interface	missing-reflow	
+Skip question	跳过问题	interface	missing-reflow	
+However, he vowed to kill me himself to avenge Bouncer. He attempted to do so, but I escaped. I then returned to Lady Servil and she thanked me for saving her family.	但他发誓要亲手杀了我为保镖报仇。他试图这么做，但我逃脱了。随后我回到塞尔维尔夫人那里，她感谢我拯救了她的家人。	journal	missing-reflow	
+Following advice from Reldo, I spoke to Baraek in Varrock Square about the Phoenix Gang. He told me I'd find the Gang Headquarters in the VTAM Building south east of the Blue Moon Inn.	听从雷尔多的建议，我在维洛克城广场与巴拉克交谈，询问关于凤凰帮的事。他告诉我可以在蓝月旅馆东南方的VTAM大楼找到帮派总部。	journal	missing-reflow	
+I spoke to Straven in the Phoenix Gang Headquarters south east of the Blue Moon Inn. He offered to let me join the Gang in return for killing Jonny the Beard and recovering an Intelligence Report from him.	我在蓝月旅馆东南方的凤凰帮总部与斯特拉文交谈。他提出让我加入帮派，条件是杀死胡子乔尼并从他那里取回一份情报报告。	journal	missing-reflow	
+I confronted and killed Jonny the Beard in the Blue Moon Inn and took an Intelligence Report from him. I gave this Report to Straven and he allowed me to join the Phoenix Gang.	我在蓝月旅馆与胡子乔尼对峙并将其杀死，从他身上取得一份情报报告。我将这份报告交给斯特拉文，他允许我加入凤凰帮。	journal	missing-reflow	
+I searched the Phoenix Gang Headquarters and found half of the Shield of Arrav. I took this Shield Half to the Varrock Museum and Curator Haig Halen confirmed it to be genuine. He then gave me two Half-Certificates. Meanwhile, a Fellow Adventurer was able to recover the other Shield Half and obtain two Half-Certificates for themselves. We swapped these Half-Certificates, allowing us to make a Full Certificate each.	我搜查了凤凰帮总部，找到了阿拉夫之盾的一半。我将这半面盾牌带到维洛克博物馆，馆长海格.哈伦确认其为真品。随后他给了我两张半份证书。与此同时，另一位冒险者找到了另一半盾牌并为自己获得了另外两张半份证书。我们交换了这些半份证书，从而各自合成了一张完整证书。	journal	missing-reflow	
+Enable Insert	启用插入	interface	missing-reflow	
+Enable Notes	启用笔记	interface	missing-reflow	
+This is your bank. No one else can touch it but you.	这是你的银行。除了你之外没人能动它。	interface	missing-reflow	
+The bank is used to store your items. You can click on an item in your inventory to move it into your bank.	银行用来存放你的物品。你可以点击背包中的物品将其存入银行。	interface	missing-reflow	
+If you want to move everything from your inventory into the bank, you can use the deposit all button.	如果你想将背包中所有物品存入银行，可以使用全部存入按钮。	interface	missing-reflow	
+This is the deposit worn button that will move all your worn items into the bank for you.	这是存入装备按钮，可以将你身上所有装备存入银行。	interface	missing-reflow	
+This is the Empty containers button that will empty most containers straight into the bank for you.	这是清空容器按钮，可以将大多数容器中的物品直接存入银行。	interface	missing-reflow	
+If you want to deposit or withdraw more than one item, you can right-click on the item and select a quantity of the item to withdraw.	如果你想存入或取出多个物品，可以右键点击物品并选择要取出的数量。	interface	missing-reflow	
+Quest: Prying Times (Completed)	任务：撬开宝箱（已完成）	interface	missing-reflow	
+Pandemonium rum delivery	潘德莫尼姆朗姆酒配送	interface	missing-reflow	
+Sailing Requirement: <Num0>	航行需求：<Num0>	interface	missing-reflow	
+Cargo: Crate of rum	货物：装有朗姆酒的箱	interface	missing-reflow	
+Location: Musa Point	地点：穆萨角	interface	missing-reflow	
+Destination: The Pandemonium	目的地：潘德莫尼姆岛	interface	missing-reflow	
+Quantity: <Num0>	数量：<Num0>	interface	missing-reflow	
+The rum is gone! I definitely ordered in enough so it is most likely certainly maybe guaranteed to not be my fault. I need someone to drop their stern and sail over to Musa Point to get some more!	朗姆酒不见了！我肯定订够了数量，所以这极有可能当然也许肯定不是我的错。我需要有人放下船尾，扬帆前往穆萨角再弄些来！	interface	missing-reflow	
+Accept task	接受任务	interface	missing-reflow	
+Cargo: Crate of rotten bananas	货物：装有烂香蕉的箱	interface	missing-reflow	
+Location: The Pandemonium	地点：潘德莫尼姆岛	interface	missing-reflow	
+Destination: Musa Point	目的地：穆萨角	interface	missing-reflow	
+I thought some merchants were carrying valuable goods from Musa Point, but it turned out to just be some bananas. Could someone take them back for me? The original ship ran into some problems at sea.	我以为有些商人从穆萨角运来了贵重货物，结果只是一些香蕉。有人能帮我把它们送回去吗？原来的船在海上出了点问题。	interface	missing-reflow	
+Captain Harry Robin	船长哈里·罗宾	interface	missing-reflow	deco
+You cannot pick up any cargo as your hands are full.	你双手已满，无法拿起任何货物。	interface	missing-reflow	
+You pick up a crate of rotten bananas.	你拿起一箱装有烂香蕉的箱。	interface	missing-reflow	
+Are you sure you wish to deposit the crate of rotten bananas here?	你确定要把这箱装有烂香蕉的箱存放在这里吗？	interface	missing-reflow	
+Board Boat	登船	interface	missing-reflow	
+Recent Boat	最近使用的船	interface	missing-reflow	
+Other Boats	其他船只	interface	missing-reflow	
+Unlocks at level <Num0> Sailing	航行等级<Num0>解锁	interface	missing-reflow	
+Not steering	未在掌舵	interface	missing-reflow	
+No kits	没有工具包	interface	missing-reflow	
+Stack items	堆叠物品	interface	missing-reflow	
+Items deposited here may be retrieved by other crewmates, and are considered to be possessions of the Captain.	存入此处的物品可能被其他船员取走，并视为船长的财产。	interface	missing-reflow	
+Tools:	工具：	interface	missing-reflow	
+Cargo Hold:	货舱：	interface	missing-reflow	
+Set heading	设定航向	interface	missing-reflow	
+Steering	掌舵中	interface	missing-reflow	
+Un-set sails	收起船帆	interface	missing-reflow	
+Set sails	扬帆起航	interface	missing-reflow	
+Quest: Below Ice Mountain (Not Started)	任务：冰山之下（未开始）	interface	missing-reflow	
+No crewmates available.	没有可用的船员。	interface	missing-reflow	
+You can manage your crewmates with the Crew Registrar.	你可以通过船员登记员管理你的船员。	interface	missing-reflow	
+NPC crew capacity: <Num0>/<Num1>	NPC船员容量：<Num0>/<Num1>	interface	missing-reflow	
+NPCs	NPC	interface	missing-reflow	
+Players	玩家	interface	missing-reflow	
+Quit	退出	interface	missing-reflow	
+Musa Passage	Musa通道	interface	missing-reflow	
+The boat isn't close enough for you to be able to disembark here.	船离得太远，你无法在此下船。	interface	missing-reflow	
+(<Num0>) Teak hull parts	(<Num0>)柚木船体部件	interface	missing-reflow	
+(<Num0>) Oak hull parts	(<Num0>)橡木船体部件	interface	missing-reflow	
+(<Num0>) Wooden hull parts	(<Num0>)木制船体部件	interface	missing-reflow	
+(<Num0>) Mahogany hull parts	(<Num0>)红木船体部件	interface	missing-reflow	
+(<Num0>) Ironwood hull parts	(<Num0>)铁木船体部件	interface	missing-reflow	
+(<Num0>) Rosewood hull parts	(<Num0>)玫瑰木船体部件	interface	missing-reflow	
+You need five planks to craft some wooden hull parts.	你需要五块木板才能制作一些木制船体部件。	interface	missing-reflow	
+Cancel task	取消任务	interface	missing-reflow	
+Crew Capacity: <Num0> Player Capacity: <Num1>	船员容量：<Num0> 玩家容量：<Num1>	interface	missing-reflow	
+View Cargo	查看货物	interface	missing-reflow	
+Lower speed	降低速度	interface	missing-reflow	
+Raise speed	提高速度	interface	missing-reflow	
+Sea:	海域：	interface	missing-reflow	
+Ocean:	海洋：	interface	missing-reflow	
+Current Sea: Mudskipper Sound (Ardent Ocean)	当前海域：弹涂鱼之声（炽热之海）	interface	missing-reflow	
+Mudskipper Sound	弹涂鱼之声	interface	missing-reflow	
+Total Completion	总完成度	interface	missing-reflow	
+Find a crashed glider south of the Karamja Shipyard.	在卡拉姆詹岛船厂南边找到一架坠毁的滑翔机。	interface	missing-reflow	
+Find the wreck of the Pandemonium II west of the Pandemonium.	在潘德莫尼姆西边找到潘德莫尼姆 II 号沉船。	interface	missing-reflow	
+Use your spyglass to get a good view of the Pandemonium from the cave entrance on the island.	在岛上的洞穴入口处用望远镜好好看看潘德莫尼姆。	interface	missing-reflow	
+Interact with the salvaging station in Port Sarim.	与沙林港的打捞站互动。	interface	missing-reflow	
+Look at the port task board in Port Sarim.	查看沙林港的港口任务板。	interface	missing-reflow	
+Find the wreck of the Salty Grouper south west of Tutorial Island.	在教程岛西南方找到咸石斑鱼号沉船。	interface	missing-reflow	
+Use your spyglass to get a good view of the Karamja Shipyard from the east.	从东边用望远镜好好看看卡拉姆詹岛船厂。	interface	missing-reflow	
+No hint selected. Choose an entry above to reveal a hint about what you need to chart.	未选择提示。请在上方选择一个条目，查看你需要绘制海图内容的提示。	interface	missing-reflow	
+Tool needed	所需工具	interface	missing-reflow	
+Sailing requirement	航海需求	interface	missing-reflow	
+Charted	已探索	interface	missing-reflow	
+XP awarded	获得经验值	interface	missing-reflow	
+Nearest	最近	interface	missing-reflow	
+Kharidian Sea	卡里迪安海	interface	missing-reflow	
+Bay of Sarim	萨里姆湾	interface	missing-reflow	
+Lumbridge Basin	仑桥盆地	interface	missing-reflow	
+Rimmington Strait	里明顿海峡	interface	missing-reflow	
+Catherby Bay	凯瑟比湾	interface	missing-reflow	
+Brimhaven Passage	布尔哈文通道	interface	missing-reflow	
+Strait of Khazard	卡扎德海峡	interface	missing-reflow	
+Gu'tanoth Bay	古坦诺湾	interface	missing-reflow	
+Feldip Gulf	费迪普海湾	interface	missing-reflow	
+Kharazi Strait	卡拉兹海峡	interface	missing-reflow	
+Oo'glog Channel	奥格洛格水道	interface	missing-reflow	
+Arrow Passage	箭通道	interface	missing-reflow	
+Menaphite Sea	梅纳菲特海	interface	missing-reflow	
+The Simian Sea	猿猴海	interface	missing-reflow	
+The Storm Tempor	坦波尔风暴	interface	missing-reflow	
+Turtle Belt	龟带	interface	missing-reflow	
+Sea of Shells	贝壳海	interface	missing-reflow	
+Red Reef	雷德礁	interface	missing-reflow	
+Anglerfish's Light	安康鱼之光	interface	missing-reflow	
+Bay of Elidinis	艾里迪尼斯湾	interface	missing-reflow	
+Tortugan Sea	托图根海	interface	missing-reflow	
+Pearl Bank	珍珠银行	interface	missing-reflow	
+The Lonely Sea	孤寂之海	interface	missing-reflow	
+Fortis Bay	福蒂斯湾	interface	missing-reflow	
+Aureum Coast	奥雷姆海岸	interface	missing-reflow	
+Wyrm's Waters	龙蟒水域	interface	missing-reflow	
+Mythic Sea	神话之海	interface	missing-reflow	
+Breakbone Strait	碎骨海峡	interface	missing-reflow	
+Backwater	死水湾	interface	missing-reflow	
+Zul-Egil	祖尔-埃吉尔	interface	missing-reflow	
+The Skullhorde	颅骨部落	interface	missing-reflow	
+Sea of Souls	灵魂之海	interface	missing-reflow	
+Soul Bay	灵魂湾	interface	missing-reflow	
+Barracuda Belt	梭鱼带	interface	missing-reflow	
+The Everdeep	永渊	interface	missing-reflow	
+Sapphire Sea	蓝宝石海	interface	missing-reflow	
+Western Gate	西大门	interface	missing-reflow	
+Rainbow Reef	彩虹礁	interface	missing-reflow	
+Southern Expanse	南方旷域	interface	missing-reflow	
+Sunset Bay	日落湾	interface	missing-reflow	
+Misty Sea	迷雾海	interface	missing-reflow	
+Dusk's Maw	黄昏之喉	interface	missing-reflow	
+Great Sound	大鸣海	interface	missing-reflow	
+Crabclaw Bay	蟹爪湾	interface	missing-reflow	
+Gulf of Kourend	库兰德海湾	interface	missing-reflow	
+Hosidian Sea	霍西迪安海	interface	missing-reflow	
+Pilgrims' Passage	朝圣者通道	interface	missing-reflow	
+Litus Lucis	卢修斯之光	interface	missing-reflow	
+Porth Neigwl	内格尔港	interface	missing-reflow	
+Tirannwn Bight	提兰温湾	interface	missing-reflow	
+Crystal Sea	水晶海	interface	missing-reflow	
+Porth Gwenith	格温尼斯港	interface	missing-reflow	
+Piscatoris Sea	皮斯卡托里斯海	interface	missing-reflow	
+Vagabonds Rest	流浪者休憩地	interface	missing-reflow	
+Moonshadow	月影	interface	missing-reflow	
+Fremensund	弗莱门松德	interface	missing-reflow	
+Grandroot Bay	巨根湾	interface	missing-reflow	
+V's Belt	V的腰带	interface	missing-reflow	
+Fremennik Strait	费明尼克海峡	interface	missing-reflow	
+Idestia Strait	伊德斯蒂亚海峡	interface	missing-reflow	
+Lunar Bay	月神湾	interface	missing-reflow	
+Winter's Edge	冬之边缘	interface	missing-reflow	
+Lunar Sea	月神海	interface	missing-reflow	
+Everwinter Sea	永冬海	interface	missing-reflow	
+Kannski Tides	坎斯基潮汐	interface	missing-reflow	
+Weissmere	维斯米尔	interface	missing-reflow	
+Stoneheart Sea	石心海	interface	missing-reflow	
+Shiverwake Expanse	寒颤旷野	interface	missing-reflow	
+Weiss Melt	冰融之地	interface	missing-reflow	
+Bonus Drinks	额外酒水	interface	missing-reflow	
+Bonus Currents	额外水流	interface	missing-reflow	
+Bonus Dives	额外潜水	interface	missing-reflow	
+Bonus Weather	额外天气	interface	missing-reflow	
+No tool needed	无需工具	interface	missing-reflow	
+<Num0> XP awarded	获得<Num0>经验值	interface	missing-reflow	
+The crate contains a bottle of almost smuggled rum,	箱子里有一瓶走私来的朗姆酒，	interface	missing-reflow	
+Main title text	主标题文字	interface	missing-reflow	
+Charting Complete!	测绘完成！	interface	missing-reflow	
+Mudskipper Sound fully charted!	弹涂鱼之声已完全测绘！	interface	missing-reflow	
+Pandemonium banana delivery	潘德莫尼姆香蕉运送	interface	missing-reflow	
+Cargo: Crate of bananas	货物：装有香蕉的箱	interface	missing-reflow	
+Need someone to take some bananas over to the Pandemonium for me. Apparently the bartender there has some plans to use them in a new cocktail.	需要有人帮我把一些香蕉送到潘德莫尼姆岛。据说那里的酒保打算用它们调一款新鸡尾酒。	interface	missing-reflow	
+You pick up a crate of bananas.	你拿起一箱装有香蕉的箱。	interface	missing-reflow	
+Sailing - Level-up Unlocks (Members Only)	航海 - 等级解锁（仅限会员）	interface	missing-reflow	
+Check materials	检查材料	interface	missing-reflow	
+Musa Point banana delivery	穆萨角香蕉运送	interface	missing-reflow	
+Location: Port Sarim	地点：沙林港	interface	missing-reflow	
+Our partner in Port Sarim wants to return some bananas. Apparently they've all been squashed by a bottle of rum someone shoved in amongst them! Need someone to go and collect them.	我们在沙林港的合作伙伴想退回一些香蕉。显然它们全被某人塞进去的一瓶朗姆酒压扁了！需要有人去把它们收回来。	interface	missing-reflow	
+You've already accepted two port tasks, which is the maximum	你已经接受了两个港口任务，已达上限	interface	missing-reflow	
+Pandemonium bull shark bounty	潘德莫尼姆牛鲨悬赏	interface	missing-reflow	
+Port: The Pandemonium	港口：潘德莫尼姆岛	interface	missing-reflow	
+Target: Bull shark	目标：牛鲨	interface	missing-reflow	
+Item: Bull shark jaw	物品：牛鲨颌骨	interface	missing-reflow	
+There are some bull sharks causing problems for ships travelling north of the island. I need someone to head out there and thin their numbers a bit. Make sure to bring back proof.	岛北边有些牛鲨在捣乱,影响船只航行。我需要有人去那边削减它们的数量。记得带点证明回来。	interface	missing-reflow	
+Pandemonium Port Master	潘德莫尼姆港口管理员	interface	missing-reflow	deco
+You need a Sailing level of <Num0> to accept this task.	你需要<Num0>级航海等级才能接受这个任务。	interface	missing-reflow	
+Quest: Prince Ali Rescue (Completed)	任务:救援阿里王子(已完成)	interface	missing-reflow	
+Steve over on the Pandemonium has run out of rum again. I've got some I can send over, but I need someone to take it for me. Don't worry, it's just regular rum, so the customs officials won't give you trouble.	潘德莫尼姆的史蒂夫又没朗姆酒了。我这有些可以送过去,但需要有人帮我送。别担心,只是普通朗姆酒,海关不会找你麻烦。	interface	missing-reflow	
+Catherby grog delivery	凯瑟比镇格罗格酒运送	interface	missing-reflow	
+Cargo: Crate of grog	货物:装有格罗格酒的箱子	interface	missing-reflow	
+Destination: Catherby	目的地:凯瑟比镇	interface	missing-reflow	
+Yo ho ho! I need a top sailor to set out on a pirate adventure for me. I have some grog that need taking to Catherby. Hoist your anchor and get to it!	哟嚯嚯！我需要一名顶尖水手替我出海冒险。我有批格罗格酒要送到凯瑟比镇。起锚出发吧！	interface	missing-reflow	
+You pick up a crate of grog.	你搬起一箱装有格罗格酒的箱。	interface	missing-reflow	
+Lum Lagoon	卢姆泻湖	interface	missing-reflow	
+Blighted Volcano	枯萎火山	interface	missing-reflow	
+You need a Sailing level of <Num0> to chart the weather here.	你需要<Num0>级航海等级才能在此绘制天气海图。	interface	missing-reflow	
+Musa Point lobster delivery	穆萨角龙虾运送	interface	missing-reflow	
+Cargo: Crate of lobsters	货物: 装有龙虾的箱	interface	missing-reflow	
+Location: Catherby	地点: 凯瑟比镇	interface	missing-reflow	
+There's a rowdy pirate at Musa Point who insists that the lobsters caught there taste better than those caught in Catherby. I don't care for the dispute, but I'm happy to send some of ours over all the same.	穆萨角有个吵闹的海盗,非说那里抓的龙虾比凯瑟比镇的好吃。我懒得管这争执,但也不介意送些我们的过去。	interface	missing-reflow	
+Catherby bait delivery	凯瑟比镇鱼饵运送	interface	missing-reflow	
+Cargo: Crate of bait	货物: 装有鱼饵的箱	interface	missing-reflow	
+Apparently they're running low on fishing bait over in Catherby. Not sure why. They're literally just worms. Regardless, I have some I can send over to them. Just need someone to take it.	凯瑟比镇那边鱼饵快用完了。不知道为啥,明明就是蠕虫。不过我这有些可以送过去,就差个人跑一趟。	interface	missing-reflow	
+Recover Boat	回收船	interface	missing-reflow	
+Recover	回收	interface	missing-reflow	
+Catherby coconut delivery	凯瑟比镇椰子运送	interface	missing-reflow	
+Cargo: Crate of coconuts	货物：装有椰子的箱	interface	missing-reflow	
+There's some coconuts here marked for Catherby, but no one has taken them. Need someone to get them on their way.	这里有些标注运往凯瑟比镇的椰子，但没人取走。需要有人帮忙送过去。	interface	missing-reflow	
+Musa Point Port Master	穆萨角港口管理员	interface	missing-reflow	deco
+You pick up a crate of coconuts.	你捡起一箱装有椰子的箱。	interface	missing-reflow	
+Quest: Doric's Quest (Completed)	任务：多里克的任务（已完成）	interface	missing-reflow	
+Quest: Fishing Contest (Completed)	任务：钓鱼大赛（已完成）	interface	missing-reflow	
+You don't have an appropriate ticket for these carts.	你没有适合这些矿车的票。	interface	missing-reflow	
+Quest: Forgettable Tale... (Completed)	任务：被遗忘的故事…（已完成）	interface	missing-reflow	
+Quest: Druidic Ritual (Completed)	任务：德鲁伊仪式（已完成）	interface	missing-reflow	
+You have completed Current Affairs!	你已完成时事动态！	interface	missing-reflow	
+<Num0> Quest Point	<Num0> 任务点数	interface	missing-reflow	
+<Num0> Sailing XP	<Num0> 航海经验	interface	missing-reflow	
+<Num0> Fishing XP	<Num0> 钓鱼经验	interface	missing-reflow	
+Access to charting currents	可绘制水流图	interface	missing-reflow	
+The current duck	海流鸭	interface	missing-reflow	
+The Mayor of Catherby	凯瑟比镇镇长	interface	missing-reflow	
+<Num0> Sawmill coupons (oak)	<Num0> 张锯木厂优惠券（橡木）	interface	missing-reflow	
+Quest: Horror from the Deep (Not Started)	任务：深海惊魂（未开始）	interface	missing-reflow	
+Quest: Shield of Arrav (Completed)	任务：阿拉夫之盾（已完成）	interface	missing-reflow	
+Bought: Swamp tar	已购买：沼泽焦油	interface	missing-reflow	
+Buying: Steel nails	求购：钢钉	interface	missing-reflow	
+Set Bonus	套装加成	interface	missing-reflow	
+View DPS	查看DPS	interface	missing-reflow	
+You have survived the Horror from the Deep!	你从深海惊魂中幸存了下来！	interface	missing-reflow	
+<Num0> Strength XP	<Num0> 力量经验值	interface	missing-reflow	
+<Num0> Ranged XP	<Num0> 远程经验值	interface	missing-reflow	
+<Num0> Magic XP	<Num0> 魔法经验值	interface	missing-reflow	
+A Damaged Book	一本破损的书籍	interface	missing-reflow	
+Quest: Creature of Fenkenstrain (Not Started)	任务：芬肯斯特恩的怪物（未开始）	interface	missing-reflow	
+Quest: In Search of the Myreque (Not Started)	任务：寻找迈雷克（未开始）	interface	missing-reflow	
+Magic - Level-up Unlocks	魔法 - 等级解锁	interface	missing-reflow	
+Check Name	检查名称	interface	missing-reflow	
+Macroing or use of bots	使用宏或外挂	interface	missing-reflow	
+Seriously offensive language	严重冒犯性语言	interface	missing-reflow	
+Advertising websites	宣传网站	interface	missing-reflow	
+Scamming	诈骗	interface	missing-reflow	
+Breaking real-world laws	违反现实法律	interface	missing-reflow	
+Real-life threats	现实威胁	interface	missing-reflow	
+Real-world trading	现实世界交易	interface	missing-reflow	
+Offensive display name	冒犯性展示柜名称	interface	missing-reflow	
+Buying/selling accounts and services	买卖账号及服务	interface	missing-reflow	
+Asking for or providing contact information	索取或提供联系方式	interface	missing-reflow	
+Solicitation	招揽行为	interface	missing-reflow	
+Encouraging rule breaking	怂恿违规	interface	missing-reflow	
+Player-run Games of Chance	玩家举办的博彩游戏	interface	missing-reflow	
+Exploiting a bug	利用漏洞	interface	missing-reflow	
+Disruptive behaviour	扰乱行为	interface	missing-reflow	
+Staff impersonation	冒充工作人员	interface	missing-reflow	
+Deathmatching	死亡匹配	interface	missing-reflow	
+PvP Cheating	PvP作弊	interface	missing-reflow	
+Illegal and harmful content may also be reported via our website, in eligible areas:	非法及有害内容也可通过我们的网站在指定区域举报：	interface	missing-reflow	
+Report for	汇报	interface	missing-reflow	
+Armour and weapons defeat a level <Num0> monster and run past level <Num1> monsters	盔甲和武器击败<Num0>级怪物，跑步穿过<Num1>级怪物	interface	missing-reflow	
+Recommended items	推荐物品	interface	missing-reflow	
+Starting off	开始	interface	missing-reflow	
+Graverobbing	盗墓	interface	missing-reflow	
+Getting tools	获取工具	interface	missing-reflow	
+Attracting lightning	吸引闪电	interface	missing-reflow	
+Non-quest items	非任务物品	interface	missing-reflow	
+Details	详情	interface	missing-reflow	
+Bought: Bronze wire	已购买：青铜丝	interface	missing-reflow	
+Collect-notes	收集笔记	interface	missing-reflow	
+Buying: Thread	收购：线	interface	missing-reflow	
+Fenkenstra...	芬肯斯特...	interface	missing-reflow	
+Buying: Fenkenstrain's castle teleport	收购：芬肯斯特恩城堡传送术	interface	missing-reflow	
+Quest: Priest in Peril (Completed)	任务：危难中的祭司（已完成）	interface	missing-reflow	
+Quest: Children of the Sun (Completed)	任务：太阳之子（已完成）	interface	missing-reflow	
+Custodia Pass	库斯托迪亚隘口	interface	missing-reflow	
+Ice path	冰路径	interface	missing-reflow	
+You have completed Creature of Fenkenstrain!	你已完成芬肯斯特恩的怪物！	interface	missing-reflow	
+<Num0> Thieving XP	<Num0>偷窃经验	interface	missing-reflow	
+Select Controls	选择控制	interface	missing-reflow	

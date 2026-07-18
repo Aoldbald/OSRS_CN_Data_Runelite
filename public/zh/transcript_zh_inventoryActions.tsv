@@ -60,17 +60,17 @@ Ferox Enclave	传送至费罗飞地	inventoryActions	item	Ring of dueling(8)
 Fortis Colosseum	传送至福蒂斯竞技场	inventoryActions	item	Ring of dueling(8)
 Toggle-respawn	切换重生点	inventoryActions	item	Ring of life
 Features	功能设定	inventoryActions	item	Ring of wealth
-Look through	翻找 / 查阅	inventoryActions	item	Sextant
+Look through	观测	inventoryActions	item	Sextant
 Check steps	查看进度	inventoryActions	item	Clue scroll (easy)
 Release All	全部释放	inventoryActions	item	Bloated toad
 Release	释放	inventoryActions	item	Bloated toad
 Check kills	查看击杀数	inventoryActions	item	Ogre bow
-Fill	填充 / 装满	inventoryActions	item	Druid pouch
+Fill	装满	inventoryActions	item	Druid pouch
 Cast Bloom	施法催生	inventoryActions	item	Silver sickle (b)
 Bloom	催生	inventoryActions	item	Silver sickle (b)
 Cast	施放	inventoryActions	item	Druidic spell
 Debug	调试	inventoryActions	item	Boss helper tool
-Play	播放 / 玩	inventoryActions	item	Lyre
+Play	演奏	inventoryActions	item	Lyre
 Rellekka	传送至雷勒卡城	inventoryActions	item	Enchanted lyre(1)
 Waterbirth Island	传送至水诞岛	inventoryActions	item	Enchanted lyre(1)
 Neitiznot	传送至奈提兹诺镇	inventoryActions	item	Enchanted lyre(1)
@@ -124,13 +124,13 @@ Teleport	传送	inventoryActions	item	Camulet
 Display	展示	inventoryActions	item	Zombie head
 Question	询问	inventoryActions	item	Zombie head
 Chant	吟唱	inventoryActions	item	Demonic sigil
-Feel	触摸 / 感应	inventoryActions	item	Enchanted key
+Feel	感应	inventoryActions	item	Enchanted key
 Remove-rat	取下老鼠	inventoryActions	item	Rat pole
 Geomancy	施放地卜术	inventoryActions	item	Watering can
 Jump	跳跃	inventoryActions	item	Blue marionette
 Bow	鞠躬	inventoryActions	item	Blue marionette
 Talk-to	对话	inventoryActions	item	Progress hat
-Return	归还 / 返回	inventoryActions	item	Prison key
+Return	归还	inventoryActions	item	Prison key
 Smell	闻	inventoryActions	item	Spicy stew
 Release-all	全部释放	inventoryActions	item	Balloon toad
 Wind	上发条	inventoryActions	item	Toy soldier
@@ -149,7 +149,7 @@ Info	详情	inventoryActions	item	Enchant sapphire or opal
 Dust-hands	拍灰	inventoryActions	item	Ground ashes
 Talk-To	对话	inventoryActions	item	Monkey
 Invoke	发动传送	inventoryActions	item	Skull sceptre
-Divine	占卜 / 获取启示	inventoryActions	item	Skull sceptre
+Divine	占卜	inventoryActions	item	Skull sceptre
 Convert	转换	inventoryActions	item	Pharaoh's sceptre
 Launch	发射	inventoryActions	item	Grand seed pod
 Squash	压碎	inventoryActions	item	Grand seed pod
@@ -161,7 +161,7 @@ Shape-Air	制作空白的风符石	inventoryActions	item	Page 1
 Shape-Fire	制作空白的火焰符石	inventoryActions	item	Page 2
 Shape-Water	制作空白的水符石	inventoryActions	item	Page 2
 Shape-Mind	制作空白的心灵符石	inventoryActions	item	Page 3
-Boost	提升 / 强化	inventoryActions	item	Attack cape
+Boost	提升	inventoryActions	item	Attack cape
 Warriors' Guild	传送至战士公会	inventoryActions	item	Strength cape
 Toggle Effect	切换效果	inventoryActions	item	Defence cape
 Toggle Respawn	切换重生点	inventoryActions	item	Defence cape
@@ -184,7 +184,7 @@ Fishing Guild	传送至钓鱼公会	inventoryActions	item	Fishing cape
 Otto's Grotto	传送至奥托的洞穴	inventoryActions	item	Fishing cape
 Trim	修剪	inventoryActions	item	Quest point cape
 Load	装填	inventoryActions	item	White destabiliser
-Split	拆分 / 切开	inventoryActions	item	Cap and goggles
+Split	拆分	inventoryActions	item	Cap and goggles
 Hunter Guild	传送至猎人公会	inventoryActions	item	Hunter cape
 Carnivorous Chinchompas	传送至食肉炸弹鼠群落	inventoryActions	item	Hunter cape
 Black Chinchompas	传送至黑色炸弹鼠群落	inventoryActions	item	Hunter cape
@@ -226,7 +226,7 @@ Gem Mine	传送至宝石矿场	inventoryActions	item	Karamja gloves 3
 Fossil Island	传送至化石岛	inventoryActions	item	Digsite pendant (1)
 Lithkren Dungeon	传送至利斯克伦地牢	inventoryActions	item	Digsite pendant (1)
 Digsite	传送至考古挖掘场	inventoryActions	item	Digsite pendant (1)
-Loot	搜刮 / 领取 / 转移战利品	inventoryActions	item	Baby impling jar
+Loot	搜刮	inventoryActions	item	Baby impling jar
 Impling-jar	生成小精灵罐	inventoryActions	item	Jar generator
 Butterfly-jar	生成蝴蝶罐	inventoryActions	item	Jar generator
 Toggle-view	切换视图	inventoryActions	item	Impling scroll
@@ -295,9 +295,9 @@ Kalphite cave	传送至卡尔夫特虫洞穴	inventoryActions	item	Desert amulet
 Emote	表情动作	inventoryActions	item	Diango's claws
 Redeem	兑换	inventoryActions	item	Old school bond
 Restore	恢复	inventoryActions	item	Tanzanite helm (uncharged)
-Scramble	搅拌 / 爬行	inventoryActions	item	Rotten egg
-Poach	水煮 / 偷猎	inventoryActions	item	Rotten egg
-Fry	煎 / 炸	inventoryActions	item	Rotten egg
+Scramble	炒制	inventoryActions	item	Rotten egg
+Poach	水煮	inventoryActions	item	Rotten egg
+Fry	煎炸	inventoryActions	item	Rotten egg
 Pickle	腌制	inventoryActions	item	Rotten egg
 Consume	消耗	inventoryActions	item	Saradomin's light
 Teleports	传送	inventoryActions	item	Max cape
@@ -330,7 +330,7 @@ Recoil settings	反伤设置	inventoryActions	item	Ring of suffering (r)
 Recoil Settings	反伤设置	inventoryActions	item	Ring of suffering (r)
 Pages	书页	inventoryActions	item	Tome of fire
 Swap	交换	inventoryActions	item	Bruma torch
-Invigorate	激发 / 鼓舞	inventoryActions	item	Imbued heart
+Invigorate	激发	inventoryActions	item	Imbued heart
 Look at	查看	inventoryActions	item	Snow globe
 Snow	生成雪堆	inventoryActions	item	Snow globe
 The Outpost	前哨站	inventoryActions	item	Necklace of passage(5)
@@ -350,7 +350,7 @@ Throw-water north	向北方泼水	inventoryActions	item	Heat-proof vessel
 Throw-water east	向东方泼水	inventoryActions	item	Heat-proof vessel
 Throw-water south	向南方泼水	inventoryActions	item	Heat-proof vessel
 Throw-water west	向西方泼水	inventoryActions	item	Heat-proof vessel
-Roll	掷  / 卷动	inventoryActions	item	Hoop snake
+Roll	投掷	inventoryActions	item	Hoop snake
 Recharge	充能	inventoryActions	item	Ancient wyvern shield
 Channel	引导	inventoryActions	item	Merfolk trident
 Puff	吹气	inventoryActions	item	Pufferfish
@@ -366,7 +366,7 @@ Toggle absorption	切换吸收功能	inventoryActions	item	Bracelet of ethereum
 Elite	精英	inventoryActions	item	Useful rock
 Assessment	评估	inventoryActions	item	Useful rock
 Slash	挥砍	inventoryActions	item	Prop sword
-Control	控制 / 操纵	inventoryActions	item	Rotten cabbage
+Control	操纵	inventoryActions	item	Rotten cabbage
 Spectate	旁观	inventoryActions	item	Rotten cabbage
 Charge	充能	inventoryActions	item	Sanguinesti staff
 Scry	占卜	inventoryActions	item	Oculus orb
@@ -473,7 +473,7 @@ Lassar Undercity	传送至拉萨尔地下城	inventoryActions	item	Ring of shado
 The Stranglewood	传送至绞杀森林	inventoryActions	item	Ring of shadows
 Recall	召回	inventoryActions	item	Blackstone fragment
 Squeeze	挤压	inventoryActions	item	Detonator
-Set-off	引爆 / 出发	inventoryActions	item	Stink bomb
+Set-off	引爆	inventoryActions	item	Stink bomb
 Fairy-ring	传送至仙女环	inventoryActions	item	Trinket of fairies
 Summon Lil Zuk	召唤小祖克	inventoryActions	item	Trinket of undead
 Summon Lil Kal	召唤小卡尔	inventoryActions	item	Trinket of undead
