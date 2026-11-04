@@ -481,7 +481,7 @@ Summon Lil Wisp	召唤小精灵	inventoryActions	item	Trinket of undead
 Nexus	开启传送界面	inventoryActions	item	Globetrotter pendant
 Jewellery	开启首饰功能界面	inventoryActions	item	Globetrotter pendant
 Note-Quantity	记数	inventoryActions	item	Banker's note
-Un-note-Quantity	取消记数	inventoryActions	item	Banker's note
+Un-note-Quantity	还原物品-数量	inventoryActions	item	Banker's note
 Summon	召唤	inventoryActions	item	Guardian horn
 Dismiss	解散	inventoryActions	item	Guardian horn
 Toggle-modes	切换模式	inventoryActions	item	Guardian horn
@@ -539,7 +539,7 @@ Bottle-boat	将船装瓶	inventoryActions	item	Boat bottle (empty)
 Unbottle-boat	从瓶中取出船	inventoryActions	item	Boat bottle (full)
 Port Roberts	传送至罗伯特港	inventoryActions	item	Sailors' amulet
 Deepfin Point	传送至深鳍岬	inventoryActions	item	Sailors' amulet
-Note/Unnote	记数 / 取消记数	inventoryActions	item	Trinket of avarice
+Note/Unnote	转为票据 / 还原物品	inventoryActions	item	Trinket of avarice
 Value	查看物品价值	inventoryActions	item	Trinket of avarice
 Shop	开启商店	inventoryActions	item	Deadman's skull
 Unlocks	解锁	inventoryActions	item	Deadman's skull

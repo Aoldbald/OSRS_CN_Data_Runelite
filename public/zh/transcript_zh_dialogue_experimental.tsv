@@ -57308,7 +57308,7 @@ Yes, sir? You have 8 uses of my services remaining. What do you require from me?
 [player name] is entertaining in the games room. Would madam care to follow me?	[player name] 正在游戏室里招待客人。女士您要随我来吗？	dialogue	Butler	Butler
 It seems that your host has left the house, sir.	先生，看来您拜访的主人已经出门了。	dialogue	Butler	Butler
 [player name] is entertaining in the portal nexus. Would madam care to follow me?	[player name] 正在传送枢纽里招待客人。女士您要随我来吗？	dialogue	Butler	Butler
-I'll un-note these items and be back shortly.	我将把这些物品解注并很快返回。	dialogue	Butler	Butler
+I'll un-note these items and be back shortly.	我将把这些票据换回物品并很快返回。	dialogue	Butler	Butler
 I still have 2 left for you to take from me.	我还剩2件物品可以为您取回。	dialogue	Butler	Butler
 Very well. I will return to the Guild of the Servants in Ardougne if you wish to re-hire me.	好的。如果您想重新雇佣我，我会返回阿多尼城的仆从公会。	dialogue	Butler	Butler
 Alright, sir. I can start work immediately.	好的，先生。我可以立即开始工作。	dialogue	Butler	Butler
@@ -59298,7 +59298,7 @@ Very well! Whenever you use my services in future, I will take twenty of your lo
 Oh you are a silly one! You told me you wanted to pay with cosmic runes!	哎呀，你可真够迷糊的！你刚才跟我说要用宇宙符文来付账的！	dialogue	Eniola	Eniola
 It's not that I don't trust you, old girl, but as the old adage goes: 'Payment comes before friends.'	不是我不信任你，老姑娘，但老话说得好：‘先付款，后朋友。’	dialogue	Eniola	Eniola
 Oh you are a silly one! You told me you wanted to pay with astral runes!	哎呀，你可真够迷糊的！你刚才跟我说要用星辰符文来付账的！	dialogue	Eniola	Eniola
-I'm afraid you don't have the necessary runes with you at this time, so I cannot un-note those for you. Bring twenty runes along of one type!	恐怕你身上目前没有足够的符文，所以我不能为你将那些笔记转成实物。带二十个同类型的符文过来吧！	dialogue	Eniola	Eniola
+I'm afraid you don't have the necessary runes with you at this time, so I cannot un-note those for you. Bring twenty runes along of one type!	恐怕你身上目前没有足够的符文，所以我不能为你将那些票据转成实物。带二十个同类型的符文过来吧！	dialogue	Eniola	Eniola
 Oh you are a silly one! You told me you wanted to pay with law runes!	哎呀，你可真够迷糊的！你刚才跟我说要用律法符文来付账的！	dialogue	Eniola	Eniola
 Oh you are a silly one! You told me you wanted to pay with chaos runes!	哎呀，你可真够迷糊的！你刚才跟我说要用混沌符文来付账的！	dialogue	Eniola	Eniola
 I don't keep a stacks of coins or platinum down here, so I cannot exchange them for you, nor do I take them as payment.	我下面没有存放成堆的金币或白金，所以我不能为你兑换，也不接受它们作为支付方式。	dialogue	Eniola	Eniola
@@ -74759,7 +74759,7 @@ Try to guess or keep track of the time between the changes of the best shape to 
 As well as the magic experience from casting your enchantment spells, you will get Enchantment Pizazz Points for converting so many shapes, plus a bonus point for converting a shape of the correct type. You	除了施放附魔法术获得的魔法经验外，你还会因转换一定数量的形状而获得附魔炫光点数，再加上转换正确类型形状的额外点数。你	dialogue	Enchantment Guardian	Enchantment Guardian
 gems, as these will get you more Pizazz Points!	宝石，因为它们会给你更多炫光点数！	dialogue	Enchantment Guardian	Enchantment Guardian
 should also note that you will occasionally be rewarded with items when you put one of the enchanted orbs in the floor.	还应注意，当你将一颗附魔能量球放入地板时，偶尔会获得物品奖励。	dialogue	Enchantment Guardian	Enchantment Guardian
-I am the Elder Chaos Druid of these lands. I can unnote any type of bones you have for 500gp each. Use them on me and you'll see my magic!	我是这片土地的高阶混沌德鲁伊。我可以将你持有的任何骨头取消标注状态，每根收费500金币。把骨头用在我身上，你就会看到我的魔法！	dialogue	Elder Chaos druid	Elder Chaos druid
+I am the Elder Chaos Druid of these lands. I can unnote any type of bones you have for 500gp each. Use them on me and you'll see my magic!	我是这片土地的高阶混沌德鲁伊。我可以将你持有的任何骨头从票据换回实物，每根收费500金币。把骨头用在我身上，你就会看到我的魔法！	dialogue	Elder Chaos druid	Elder Chaos druid
 I like you, mate. We've really c-*hic*-connected. You're like a sister to me.	我喜欢你，哥们。我们真的-*呃*-很投缘。你就像我妹妹一样。	dialogue	Drunken soldier	Drunken soldier
 Miaow...	喵……	dialogue	Dromund's cat	Dromund's cat
 The Intelligence Corps, the Medical Crops, the Engineering Corps, the Logistics Corps, the Rangers and of course, the Infantry. Each regiment is led by a general who reports directly to Lord Shayzien.	情报部队、医疗部队、工程部队、后勤部队、游骑兵部队，当然还有步兵部队。每个团都由一名将军领导，他直接向谢兹恩领主汇报。	dialogue	Commissioner Anwar	Commissioner Anwar

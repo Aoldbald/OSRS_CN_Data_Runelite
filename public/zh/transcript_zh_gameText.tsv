@@ -11,7 +11,7 @@ Did you know? There is a setting in the Settings menu to automatically re-enable
 Did you know? You can put two halves of a pizza together to make a whole pizza!</col>	你知道吗？你可以将两块披萨拼在一起组成一个完整的披萨！</col>	gameText		
 Did you know? If you find entering buildings tricky because the roof is in the way, you can hide roofs at all time by toggling the Hide roofs setting in the Settings menu.</col>	你知道吗？若因屋顶遮挡导致进入建筑困难，可在设置菜单中开启''隐藏屋顶''选项，随时隐藏屋顶。</col>	gameText		
 Did you know? You can hide the Help button in the Bank interface via the Bank settings.</col>	你知道吗？可在银行设置中隐藏银行界面的帮助按钮。</col>	gameText		
-Did you know? There's a man called Phials in Rimmington that will unnote items for a small fee. Perfect for Ultimate Ironmen.</col>	你知道吗？里明顿村有位名叫菲尔斯的商人，可收取少量费用帮你移除物品注释，对终极铁人玩家尤为实用。</col>	gameText		
+Did you know? There's a man called Phials in Rimmington that will unnote items for a small fee. Perfect for Ultimate Ironmen.</col>	你知道吗？里明顿村有位名叫菲尔斯的商人，可收取少量费用帮你把票据换回物品，对终极铁人玩家尤为实用。</col>	gameText		
 Nothing interesting happens.	无事发生。	gameText		
 You swing your axe at the tree.	你挥动斧头砍向树木。	gameText		
 You get some logs.	你获得了一些原木。	gameText		
@@ -2267,7 +2267,7 @@ Did you know? Wearing a charged Amulet of Glory while mining will increase the r
 
 Did you know? You can pick Zamorak grapes from the Vinery with Bologa's blessing, a Tithe Farm reward that can be unlocked for a fee by talking to Bologa while wearing a Zamorak item.	你知道吗？佩戴扎莫拉克物品与博洛加对话付费解锁"博洛加的祝福"（什一税农场奖励）后，就能在葡萄园采摘扎莫拉克葡萄。	gameText	didYouKnow	missing_20260704d
 Did you know? You can pick Zamorak grapes from the Vinery with Bologa's blessing, a Tithe Farm reward that can be unlocked for a fee by talking to Bologa while wearing a Zamorak item.</col>	你知道吗？佩戴扎莫拉克物品与博洛加对话付费解锁"博洛加的祝福"（什一税农场奖励）后，就能在葡萄园采摘扎莫拉克葡萄。</col>	gameText	didYouKnow	missing_20260704d
-Did you know? There's a man called Phials in Rimmington that will unnote items for a small fee, right next to a house portal. Perfect for any Construction needs.	你知道吗？里明顿村有个叫菲尔斯的人，会收取少量费用帮你取消物品备注，就在房屋传送门旁边。非常适合建筑需求。	gameText	missing-reflow	
+Did you know? There's a man called Phials in Rimmington that will unnote items for a small fee, right next to a house portal. Perfect for any Construction needs.	你知道吗？里明顿村有个叫菲尔斯的人，会收取少量费用帮你把票据换回物品，就在房屋传送门旁边。非常适合建筑需求。	gameText	missing-reflow	
 You have completed <Num0> beginner Treasure Trails.	你已完成<Num0>个初级宝藏线索。	gameText	missing-reflow	
 You pay the boarding charge of <Num0> coins.	你支付了<Num0>金币的登船费。	gameText	missing-reflow	
 You board the ship and sail to the Pandemonium.	你登上船，驶向潘德莫尼姆岛。	gameText	missing-reflow	

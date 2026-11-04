@@ -11773,7 +11773,7 @@ Jewels	首饰	interface	generalUI	skillGuide
 Kharidian headpiece	卡里迪安头冠	interface	generalUI	skillGuide
 Fake beard	假胡子	interface	generalUI	skillGuide
 Karidian disguise	卡里迪安伪装	interface	generalUI	skillGuide
-Note	笔记	interface	generalUI	skillGuide
+Note	票据	interface	generalUI	skillGuide
 Oak blackjack	橡木短棍	interface	generalUI	skillGuide
 Willow blackjack	柳木短棍	interface	generalUI	skillGuide
 Ugthanki dung	乌格坦基骆驼的粪便	interface	generalUI	skillGuide
@@ -23908,7 +23908,7 @@ Dragon On a Bit	再屠一会儿龙	interface	cachedump	cachedump
 Save d'hide armour materials	节省龙皮盔甲材料	interface	cachedump	cachedump
 When crafting dragonhide armour, there is a 10% chance the materials will be saved and sent to your bank.	制作龙皮盔甲时有10%的几率材料不消耗并存入银行。	interface	cachedump	cachedump
 Certified Farmer	认证农夫	interface	cachedump	cachedump
-Note and double crops	作物便签与双倍	interface	cachedump	cachedump
+Note and double crops	票据与作物翻倍	interface	cachedump	cachedump
 Resources harvested from Farming are always noted and have a 25% chance of being doubled.	农业收获的资源始终以票据形式获得，并有25%的几率翻倍。	interface	cachedump	cachedump
 Resources harvested from Farming are always noted and doubled.	农业收获的资源始终以票据形式获得并翻倍。	interface	cachedump	cachedump
 Seedy Business	种子生意	interface	cachedump	cachedump
@@ -30710,7 +30710,7 @@ I spoke to Straven in the Phoenix Gang Headquarters south east of the Blue Moon 
 I confronted and killed Jonny the Beard in the Blue Moon Inn and took an Intelligence Report from him. I gave this Report to Straven and he allowed me to join the Phoenix Gang.	我在蓝月旅馆与胡子乔尼对峙并将其杀死，从他身上取得一份情报报告。我将这份报告交给斯特拉文，他允许我加入凤凰帮。	journal	missing-reflow	
 I searched the Phoenix Gang Headquarters and found half of the Shield of Arrav. I took this Shield Half to the Varrock Museum and Curator Haig Halen confirmed it to be genuine. He then gave me two Half-Certificates. Meanwhile, a Fellow Adventurer was able to recover the other Shield Half and obtain two Half-Certificates for themselves. We swapped these Half-Certificates, allowing us to make a Full Certificate each.	我搜查了凤凰帮总部，找到了阿拉夫之盾的一半。我将这半面盾牌带到维洛克博物馆，馆长海格.哈伦确认其为真品。随后他给了我两张半份证书。与此同时，另一位冒险者找到了另一半盾牌并为自己获得了另外两张半份证书。我们交换了这些半份证书，从而各自合成了一张完整证书。	journal	missing-reflow	
 Enable Insert	启用插入	interface	missing-reflow	
-Enable Notes	启用笔记	interface	missing-reflow	
+Enable Notes	启用票据	interface	missing-reflow	
 This is your bank. No one else can touch it but you.	这是你的银行。除了你之外没人能动它。	interface	missing-reflow	
 The bank is used to store your items. You can click on an item in your inventory to move it into your bank.	银行用来存放你的物品。你可以点击背包中的物品将其存入银行。	interface	missing-reflow	
 If you want to move everything from your inventory into the bank, you can use the deposit all button.	如果你想将背包中所有物品存入银行，可以使用全部存入按钮。	interface	missing-reflow	
@@ -31019,7 +31019,7 @@ You pick up a crate of lobsters. There is one more	你捡起一个装有龙虾�
 You pick up a crate of rum. There is one more crate	你捡起一个装有朗姆酒的箱。还剩一个箱子	interface	missing-reflow	rescue-0729
 You pry open the crate and take a bottle of almost	你撬开箱子，取出一瓶几乎	interface	missing-reflow	rescue-0729
 Any axe	任意斧头	interface	missing-reflow	reflow-0730
-Disable Notes	禁用笔记	interface	missing-reflow	reflow-0730
+Disable Notes	禁用票据	interface	missing-reflow	reflow-0730
 Fallen From Grace	失宠	interface	missing-reflow	reflow-0730
 Get stuck into the new quest, new Slayer Master Mortimer, repeatable boss, brand new skilling activities and rewards!	投入新任务、新杀戮大师莫蒂默、可重复挑战的Boss、全新技能活动与奖励吧！	interface	missing-reflow	reflow-0730
 Getting Rantz Arrows	获取兰茨之箭	interface	missing-reflow	reflow-0730

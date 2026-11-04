@@ -6738,8 +6738,8 @@ Looks like a poor goat lost it.	看起来像是一只可怜的山羊丢了它。
 A magical elven sword, corrupted through the addition of too many shards.	一把魔法精灵剑，因添加了太多碎片而腐蚀。	examine	item	Blade of saeldor (c)
 A set of pyromancer robes.	一套火术士长袍。	examine	item	Pyromancer set
 An emblem of ancient times.	一个古代徽章。	examine	item	Antique emblem (tier 1)
-A note that may be exchanged at a bank for a Looting Bag.	一张可以在银行兑换战利品袋的笔记。	examine	item	Looting bag note
-A note that may be exchanged at a bank for a Rune Pouch.	一张可以在银行兑换符石袋的笔记。	examine	item	Rune pouch note
+A note that may be exchanged at a bank for a Looting Bag.	一张可以在银行兑换战利品袋的票据。	examine	item	Looting bag note
+A note that may be exchanged at a bank for a Rune Pouch.	一张可以在银行兑换符石袋的票据。	examine	item	Rune pouch note
 A rare catch, now blighted so it can be eaten only in the Wilderness.	一种稀有捕获物，如今被污染，只能在荒野中食用。	examine	item	Blighted manta ray
 An unappetising fish, now blighted so it can be eaten only in the Wilderness.	一种令人倒胃口的鱼，如今被污染，只能在荒野中食用。	examine	item	Blighted anglerfish
 A nutritious octopus, now blighted so it can be eaten only in the Wilderness.	一种有营养的章鱼，如今被污染，只能在荒野中食用。	examine	item	Blighted karambwan
