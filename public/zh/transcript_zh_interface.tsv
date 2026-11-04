@@ -35006,3 +35006,12 @@ Slaying Elvarg	击杀艾尔瓦格	interface	wiki_rescrape	wiki_rescrape
 Making the fake head	制作假头	interface	wiki_rescrape	wiki_rescrape
 You need a Construction level of 15 to build that room.	你需要 15 级建筑才能建造那个房间。	interface	wiki_rescrape	wiki_rescrape
 Jump across the River Lum	跳过卢姆河	interface	wiki_rescrape	wiki_rescrape
+Bread (UNNOTED)	面包（非票据）	interface	audit_fix	audit_fix
+Limpwurt (unnoted)	软木草（非票据）	interface	audit_fix	audit_fix
+Magic logs (can be noted)	魔法原木（可兑换为票据）	interface	audit_fix	audit_fix
+Steel bar (can be noted)	钢锭（可兑换为票据）	interface	audit_fix	audit_fix
+Molly's given you 3 noted uncut emeralds.	莫莉给了你3颗未加工的绿宝石（票据形式）。	interface	audit_fix	audit_fix
+Molly's given you 4 noted uncut diamonds.	莫莉给了你4颗未加工的钻石（票据形式）。	interface	audit_fix	audit_fix
+You rummage through Willow's bag...	你在柳木的袋子里翻找……	interface	audit_fix	audit_fix
+Find a sealed crate in the far west of Dusk's Maw and sample the contents.	在黄昏之喉最西边找到一个密封箱并取样其内容物。	interface	audit_fix	audit_fix
+Green Gemstone Gems	绿宝石公司的宝石	interface	audit_fix	audit_fix
