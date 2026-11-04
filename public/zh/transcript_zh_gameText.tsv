@@ -2507,7 +2507,7 @@ You found some loot: <Num0> x Fire rune	您找到了一些战利品：<Num0> x �
 You found some loot: <Num0> x Abyssal pearls	您找到了一些战利品：<Num0> x 深渊珍珠	gameText	missing-reflow	
 The Great Guardian was defeated!	伟大守护者被击败了！	gameText	missing-reflow	
 There's no need to do that right now.	现在没有必要这样做。	gameText	missing-reflow	
-You can only put un-noted essence into the pouch.	你只能将非票券精华放入精华袋中。	gameText	missing-reflow	
+You can only put un-noted essence into the pouch.	你只能将非票据形式的精华放入精华袋中。	gameText	missing-reflow	
 You need level <Num0> Runecraft to fill a giant pouch.	您需要 <Num0> 级符石制作才能装满巨型精华袋。	gameText	missing-reflow	
 Your amulet has five charges left.	您的护身符还剩五次充能。	gameText	missing-reflow	
 Your amulet has four charges left.	您的护身符还剩四次充能。	gameText	missing-reflow	
@@ -2592,7 +2592,7 @@ You have unlocked a new music track: @mes_hl_red@Bone Dance	你已解锁一首�
 You have unlocked a new music track: @mes_hl_red@Cave of Beasts	你已解锁一首新音乐曲目：@mes_hl_red@野兽洞穴	gameText	wiki_rescrape	wiki_rescrape
 Level 5 Ranged: Steel items (members-only)	等级 5 远程：钢制物品（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 The PvP Tutorial is here! Talk to Pete Kayer at Ferox Enclave to master key mechanics for both PvP and PvM! - click here for the newspost.|4	PvP 教程来了！前往费罗飞地与皮特.凯尔交谈，掌握 PvP 和 PvM 的关键机制！- 点击此处查看新闻帖。|4	gameText	wiki_rescrape	wiki_rescrape
-The Fractured Archive opens today! Head to the Guthixian Temple to enter Old School's latest raid! - click here for the newspost.|4	破碎档案馆今日开放！前往古西克斯神庙，进入 Old School 最新的团队副本！- 点击此处查看新闻帖。|4	gameText	wiki_rescrape	wiki_rescrape
+The Fractured Archive opens today! Head to the Guthixian Temple to enter Old School's latest raid! - click here for the newspost.|4	破碎档案馆今日开放！前往古斯神庙，进入 Old School 最新的团队副本！- 点击此处查看新闻帖。|4	gameText	wiki_rescrape	wiki_rescrape
 Happy Halloween! Come to Rimmington to confront this year's holiday event - click here for the newspost.|4	万圣节快乐！来里明顿村迎接今年的节日活动 - 点击此处查看新闻帖。|4	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@The Knight's Sword	你已开始一个新任务：@q_mes@骑士之剑	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Down by the Docks	你已解锁一首新音乐曲目：@mes_hl_red@码头旁	gameText	wiki_rescrape	wiki_rescrape
@@ -4218,7 +4218,7 @@ You fail to cut through it.	你没能切开它。	gameText	wiki_rescrape	wiki_re
 You light the nodes in the corridor to help guide the way.	你点亮了走廊里的节点以帮助指引道路。	gameText	wiki_rescrape	wiki_rescrape
 You melt the ice.	你融化了冰。	gameText	wiki_rescrape	wiki_rescrape
 You clean the Grimy ardrigal.	你清洗了未清洗的阿德里加草。	gameText	wiki_rescrape	wiki_rescrape
-You make some Guthix Rest Tea.	你泡了一些古斯克斯安神茶。	gameText	wiki_rescrape	wiki_rescrape
+You make some Guthix Rest Tea.	你泡了一些古斯安神茶。	gameText	wiki_rescrape	wiki_rescrape
 You quaff the beer. You feel reinvigorated...	你畅饮了啤酒。你感到精神焕发……	gameText	wiki_rescrape	wiki_rescrape
 Level 18 Construction: Curtains	18级建筑：窗帘	gameText	wiki_rescrape	wiki_rescrape
 Level 40 Defence: Rock-shell armour	40级防御：岩壳盔甲	gameText	wiki_rescrape	wiki_rescrape
@@ -5973,7 +5973,7 @@ Level 70 Attack: Saradomin sword	70级攻击：萨拉多明剑	gameText	wiki_res
 You have unlocked a new music track: @mes_hl_red@Sea Minor Shanty	你解锁了一首新音乐曲目：@mes_hl_red@小调海洋船歌	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@The Forsaken Tower	你开始了一个新任务：@q_mes@被遗弃的高塔	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Defence: Void Knight mace	42级防御：虚空骑士钉锤	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Varlamore's Sunset	你解锁了一首新音乐曲目：@mes_hl_red@瓦尔拉莫尔的日落	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Varlamore's Sunset	你解锁了一首新音乐曲目：@mes_hl_red@瓦拉莫尔的日落	gameText	wiki_rescrape	wiki_rescrape
 Level 36 Cooking: Damiana tea	36级烹饪：达米安娜茶	gameText	wiki_rescrape	wiki_rescrape
 You attempt to pick Istoria's pocket.	你试图偷取伊斯托里亚的钱包。	gameText	wiki_rescrape	wiki_rescrape
 All slots are full!	所有栏位都已满！	gameText	wiki_rescrape	wiki_rescrape
@@ -6228,7 +6228,7 @@ Harry sells you a tiny net!	哈里卖给你一张小网！	gameText	wiki_rescrap
 Level 25 Fletching: Oak longbows	25级制箭：橡木长弓	gameText	wiki_rescrape	wiki_rescrape
 You need some Combat gear + food for Sir Mordred (level 39).	你需要一些战斗装备和食物来对付莫德雷德爵士（39级）。	gameText	wiki_rescrape	wiki_rescrape
 You have finished the potion.	你完成了药水。	gameText	wiki_rescrape	wiki_rescrape
-You need 20 x Limpwurt (unnoted).	你需要20个未记账的滨藜。	gameText	wiki_rescrape	wiki_rescrape
+You need 20 x Limpwurt (unnoted).	你需要20个软木草（非票据）。	gameText	wiki_rescrape	wiki_rescrape
 You remove the broken cannon barrel.	你取下了破损的大炮炮管。	gameText	wiki_rescrape	wiki_rescrape
 That light creature is too far away to see you clearly.	那只光之生物离得太远，看不清你。	gameText	wiki_rescrape	wiki_rescrape
 Level 60 Crafting: Green dragonhide chaps	60级制作：绿龙皮裤	gameText	wiki_rescrape	wiki_rescrape

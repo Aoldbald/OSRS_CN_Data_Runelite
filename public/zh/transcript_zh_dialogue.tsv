@@ -7275,8 +7275,8 @@ Oh, hello there. Welcome to the Drumstick Kingdom. King Biles is the name. I am 
 You are?	你是？	dialogue	Biles	Player
 That's right. Once I was a banknote exchange merchant, but after becoming stranded here, I decided to make the best of it.	没错。我曾经是个票据兑换商人，但被困在这里后，我决定随遇而安。	dialogue	Biles	Biles
 Okay...	好吧……	dialogue	Biles	Player
-Can you exchange some banknotes for me?	你能帮我兑换一些纸币吗？	dialogue	Biles	Player
-Well, it's not something I do as much now that I'm a king, but I suppose I can. Just hand me the banknotes you wish me to exchange. It will cost you 5 coins for each banknote.	嗯，现在我当国王了不太做这个，但我想我可以。只要把你想兑换的纸币交给我就行。每张纸币收费5金币。	dialogue	Biles	Biles
+Can you exchange some banknotes for me?	你能帮我兑换一些票据吗？	dialogue	Biles	Player
+Well, it's not something I do as much now that I'm a king, but I suppose I can. Just hand me the banknotes you wish me to exchange. It will cost you 5 coins for each banknote.	嗯，现在我当国王了不太做这个，但我想我可以。只要把你想兑换的票据交给我就行。每张票据收费5金币。	dialogue	Biles	Biles
 The Drumstick Kingdom?	鸡腿王国？	dialogue	Biles	Player
 Yes, I wanted to call this place Drumstick Isle because I thought it looked like a chicken drumstick, but apparently that name was taken. I settled for Drumstick Kingdom instead.	是的，我本来想叫这里鸡腿岛，因为我觉得它看起来像个鸡腿，但显然那个名字已经被用了。所以我改叫鸡腿王国。	dialogue	Biles	Biles
 So that's the name of this island?	所以这就是这个岛的名字？	dialogue	Biles	Player
@@ -7286,7 +7286,7 @@ Right... Well, good luck with... the kingdom.	好吧……那么，祝你……�
 I need to get going.	我得走了。	dialogue	Biles	Player
 Very well.	很好。	dialogue	Biles	Biles
 Oh, hello again. Welcome back to the Drumstick Kingdom.	哦，又见面了。欢迎回到鸡腿王国。	dialogue	Biles	Biles
-Can you exchange some banknotes for me?	你能帮我兑换一些纸币吗？	dialogue	Biles	Biles
+Can you exchange some banknotes for me?	你能帮我兑换一些票据吗？	dialogue	Biles	Biles
 The Drumstick Kingdom?	鸡腿王国？	dialogue	Biles	Biles
 I need to get going.	我得走了。	dialogue	Biles	Biles
 Hey kid, what's all the shouting about?	嘿孩子，吵什么呢？	dialogue	Bill	Player
@@ -22747,11 +22747,11 @@ Oh, sorry.	哦，抱歉。	dialogue	General Babacus	General Babacus
 Shut up Grubfoot!	闭嘴，格拉布福特！	dialogue	General Bentnoze	General Bentnoze
 But me not say anything!	但俺什么也没说！	dialogue	General Bentnoze	Grubfoot
 Shut up Grubfoot!	闭嘴，格拉布福特！	dialogue	General Bentnoze	General Wartface
-Shut up Wartface!	闭嘴，沃特费斯！	dialogue	General Bentnoze	General Bentnoze
+Shut up Wartface!	闭嘴，疣脸！	dialogue	General Bentnoze	General Bentnoze
 Shut up Bentnoze!	闭嘴，本特诺兹！	dialogue	General Bentnoze	General Wartface
 Shut up generals!	闭嘴，将军们！	dialogue	General Bentnoze	Grubfoot
 Shut up goblins!	闭嘴，哥布林们！	dialogue	General Bentnoze	Player
-What we do now Wartface?	俺们现在咋办，沃特费斯？	dialogue	General Bentnoze	General Bentnoze
+What we do now Wartface?	俺们现在咋办，疣脸？	dialogue	General Bentnoze	General Bentnoze
 Me dunno... maybe we change armour colour again.	俺不知道……也许俺们再换个盔甲颜色。	dialogue	General Bentnoze	General Wartface
 Human, what colour you think best?	人类，你觉得什么颜色最好？	dialogue	General Bentnoze	General Bentnoze
 What about brown?	棕色怎么样？	dialogue	General Bentnoze	Player
@@ -22791,7 +22791,7 @@ Yep we bored now.	是的，俺们现在无聊了。	dialogue	General Bentnoze	Ge
 Human do puzzle for me!	人类给俺解谜！	dialogue	General Bentnoze	General Bentnoze
 That not right!	那不对！	dialogue	General Bentnoze	General Bentnoze
 Thank you human!	谢谢你人类！	dialogue	General Bentnoze	General Bentnoze
-Where's Wartface gone now?	沃特费斯现在去哪了？	dialogue	General Bentnoze	General Bentnoze
+Where's Wartface gone now?	疣脸现在去哪了？	dialogue	General Bentnoze	General Bentnoze
 Split their skulls!	劈开它们的头骨！	dialogue	General Graardor	General Graardor
 Crush them underfoot!	把它们踩在脚下！	dialogue	General Graardor	General Graardor
 For the glory of the Big High War God!	为了至高战神的荣耀！	dialogue	General Graardor	General Graardor
@@ -22852,11 +22852,11 @@ Bye.	再见。	dialogue	General Vir	Player
 Shut up Grubfoot!	闭嘴，格拉布福特！	dialogue	General Wartface	General Bentnoze
 But me not say anything!	但俺什么也没说！	dialogue	General Wartface	Grubfoot
 Shut up Grubfoot!	闭嘴，格拉布福特！	dialogue	General Wartface	General Wartface
-Shut up Wartface!	闭嘴，沃特费斯！	dialogue	General Wartface	General Bentnoze
+Shut up Wartface!	闭嘴，疣脸！	dialogue	General Wartface	General Bentnoze
 Shut up Bentnoze!	闭嘴，本特诺兹！	dialogue	General Wartface	General Wartface
 Shut up generals!	闭嘴，将军们！	dialogue	General Wartface	Grubfoot
 Shut up goblins!	闭嘴，哥布林们！	dialogue	General Wartface	Player
-What we do now Wartface?	俺们现在咋办，沃特费斯？	dialogue	General Wartface	General Bentnoze
+What we do now Wartface?	俺们现在咋办，疣脸？	dialogue	General Wartface	General Bentnoze
 Me dunno... maybe we change armour colour again.	俺不知道……也许俺们再换个盔甲颜色。	dialogue	General Wartface	General Wartface
 Human, what colour you think best?	人类，你觉得什么颜色最好？	dialogue	General Wartface	General Bentnoze
 What about brown?	棕色怎么样？	dialogue	General Wartface	Player
@@ -25261,7 +25261,7 @@ Grubfoot wear red armour! Grubfoot wear green armour!	格拉布福特穿红色�
 Why they not make up their minds?	他们为什么拿不定主意？	dialogue	Grubfoot	Grubfoot
 Me lonely.	我孤单。	dialogue	Grubfoot	Grubfoot
 Why?	为什么？	dialogue	Grubfoot	Player
-Other goblins in village follow either General Wartface or General Bentnoze. Me try to follow both but then me get left out of both groups.	村里其他哥布林要么追随沃特费斯将军要么追随本特诺兹将军。我试图追随两者但后来我被两个组都排斥了。	dialogue	Grubfoot	Grubfoot
+Other goblins in village follow either General Wartface or General Bentnoze. Me try to follow both but then me get left out of both groups.	村里其他哥布林要么追随疣脸将军要么追随弯鼻将军。我试图追随两者但后来我被两个组都排斥了。	dialogue	Grubfoot	Grubfoot
 Don't talk to me!	别跟我说话！	dialogue	Grubfoot	Grubfoot
 Why not?	为什么不？	dialogue	Grubfoot	Player
 Me not allowed to talk. Generals will tell me to shut up whenever I talk.	我不被允许说话。将军们每当我说话时都会告诉我闭嘴。	dialogue	Grubfoot	Grubfoot
@@ -30238,13 +30238,13 @@ You can see the list of tasks on the side-panel.	你可以在侧面板看到任�
 I have a question about my Achievement diary.	我有个关于成就日志的问题。	dialogue	Jarr	Player
 Well, there are four different Desert amulets, which match up with the four levels of difficulty. Each has the same rewards as the previous level and some additional benefits too... which tier of rewards would you like to	嗯，有四种不同的沙漠护符，对应四个难度等级。每个都有前一级的奖励和一些额外福利……	dialogue	Jarr	Jarr
 Tell me more about the Easy rewards please!	请告诉我简单奖励！	dialogue	Jarr	Player
-If you complete all of the easy tasks in the Desert, you can charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are dropped as notes.	如果你完成沙漠中所有简单任务，你可以给法老权杖充10次电，西蒙.坦普尔顿会以纸币形式购买文物，沙漠山羊角会作为纸币掉落。	dialogue	Jarr	Jarr
+If you complete all of the easy tasks in the Desert, you can charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are dropped as notes.	如果你完成沙漠中所有简单任务，你可以给法老权杖充10次电，西蒙.坦普尔顿会以票据形式购买文物，沙漠山羊角会作为票据掉落。	dialogue	Jarr	Jarr
 Thanks!	谢谢！	dialogue	Jarr	Player
 Tell me more about the Medium rewards please!	请告诉我中等奖励！	dialogue	Jarr	Player
 In addition to the easy rewards, you can charge a Pharaoh's sceptre with 25 charges and the amulet will teleport you to Nardah once per day.	除了简单奖励，你可以给法老权杖充25次电，护符每天会传送你到那尔达城一次。	dialogue	Jarr	Jarr
 Tell me more about the Hard rewards please!	请告诉我困难奖励！	dialogue	Jarr	Player
 In addition to the easy and medium benefits, you can charge a Pharaoh's sceptre with 50 charges, you can adjust your Camulet to teleport you above the temple and the Nardah herbalist will create unfinished potions	除了简单和中等福利，你可以给法老权杖充50次电，你可以调整骆驼护符传送你到神庙上方，	dialogue	Jarr	Jarr
-for you, as well as cleaning noted herbs for the usual herb cleaning fee.	那尔达城草药师会为你制作未完成药水，以及按通常草药清理费清理纸币草药。	dialogue	Jarr	Jarr
+for you, as well as cleaning noted herbs for the usual herb cleaning fee.	那尔达城草药师会为你制作未完成药水，以及按通常草药清理费清理票据形式的草药。	dialogue	Jarr	Jarr
 All your rides on a magic carpet are free and you'll receive extra Agility experience from the Pollnivneach rooftop course.	你所有魔毯乘坐免费，并且你会从波尼尼镇屋顶课程获得额外敏捷经验。	dialogue	Jarr	Jarr
 Tell me more about the Elite rewards please!	请告诉我精英奖励！	dialogue	Jarr	Player
 In addition to the previous tiers of rewards, you can charge a Pharaoh's sceptre with 100 charges, the amulet will protect you from desert heat at all times, a shortcut opens up in the Kalphite hive and the amulet will	除了前几级奖励，你可以给法老权杖充100次电，护符会随时保护你免受沙漠炎热，卡尔夫特蜂巢会打开捷径，	dialogue	Jarr	Jarr
@@ -30254,8 +30254,8 @@ Bye!	再见！	dialogue	Jarr	Player
 See you later.	回头见。	dialogue	Jarr	Jarr
 I've completed all of the easy tasks in my Desert Achievement Diary!	我完成了沙漠成就日志的所有简单任务！	dialogue	Jarr	Player
 Yes please!	好的，谢谢！	dialogue	Jarr	Player
-This amulet is a symbol of your exploration of the Kharidian Desert. You can now charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are	这个护符是你探索卡里迪安沙漠的象征。你现在可以给法老权杖充10次电，西蒙.坦普尔顿会以纸币形式购买文物，	dialogue	Jarr	Jarr
-dropped as notes.	沙漠山羊角会作为纸币掉落。	dialogue	Jarr	Jarr
+This amulet is a symbol of your exploration of the Kharidian Desert. You can now charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are	这个护符是你探索卡里迪安沙漠的象征。你现在可以给法老权杖充10次电，西蒙.坦普尔顿会以票据形式购买文物，	dialogue	Jarr	Jarr
+dropped as notes.	沙漠山羊角会作为票据掉落。	dialogue	Jarr	Jarr
 Wow, thanks!	哇，谢谢！	dialogue	Jarr	Player
 If you ever lose your amulet, come back to me to reclaim it.	如果你丢了护符，回来找我重新领取。	dialogue	Jarr	Jarr
 I've completed all of the medium tasks in my Desert achievement diary!	我完成了沙漠成就日志的所有中等任务！	dialogue	Jarr	Player
@@ -31430,21 +31430,21 @@ Not now.	现在不要。	dialogue	Juna	Juna
 Okay.	好的。	dialogue	Juna	Juna
 I want to get out now.	我想现在出去。	dialogue	Juna	Juna
 Hello friend. You're a long way from Lumbridge!	你好朋友。你离仑桥镇很远！	dialogue	Jungle forester	Jungle forester
-How do I get into the Kharazi Jungle?	我怎么进入卡哈兹丛林？	dialogue	Jungle forester	Player
+How do I get into the Kharazi Jungle?	我怎么进入卡拉兹丛林？	dialogue	Jungle forester	Player
 Well, I don't recommend just walking in! The last guy I saw try that barely escaped with his life.	嗯，我不建议直接走进去！我看到的上一个尝试的人差点没命。	dialogue	Jungle forester	Jungle forester
 Apparently he was on a mission to map the area. How foolish is that?	显然他是在执行绘制该区域地图的任务。那有多愚蠢？	dialogue	Jungle forester	Jungle forester
 Actually, I plan to map the jungle myself.	其实，我计划自己绘制丛林地图。	dialogue	Jungle forester	Player
 Oh. Oops. Sorry if I sounded rude, it just seems like a really bad idea.	哦。哎呀。如果我听起来粗鲁，抱歉，那似乎真是个坏主意。	dialogue	Jungle forester	Jungle forester
 I mean it's a noble calling. Lots of people around here could use a proper map to navigate with. But, you know... there's something not quite right about that jungle.	我的意思是那是个高尚的召唤。这里很多人可以用合适的地图导航。但是，你知道……那个丛林有些不太对劲。	dialogue	Jungle forester	Jungle forester
 Best of luck though... Guthix knows, you'll need it.	不过祝你好运……古斯知道，你会需要它。	dialogue	Jungle forester	Jungle forester
-Do you have any other tips about the Kharazi Jungle?	你有关于卡哈兹丛林的其他建议吗？	dialogue	Jungle forester	Player
+Do you have any other tips about the Kharazi Jungle?	你有关于卡拉兹丛林的其他建议吗？	dialogue	Jungle forester	Player
 Not really. Just be careful - there's a lot of weird stuff going on in there lately.	不完全是。只是要小心——最近那里有很多怪事发生。	dialogue	Jungle forester	Jungle forester
 Are you calling me foolish?	你在叫我愚蠢吗？	dialogue	Jungle forester	Player
 Er... maybe? I'll just be on my way...	呃……也许？我还是走吧……	dialogue	Jungle forester	Jungle forester
 What do you do here?	你在这里做什么？	dialogue	Jungle forester	Player
-I'm a forester, and I specialise in exotic woods. I haven't gone into the Kharazi myself, but I've found some interesting tree specimens out here.	我是护林员，我专攻 exotic 木材。我自己没进过卡哈兹，但我在这里发现了一些有趣的树木标本。	dialogue	Jungle forester	Jungle forester
+I'm a forester, and I specialise in exotic woods. I haven't gone into the Kharazi myself, but I've found some interesting tree specimens out here.	我是护林员，我专攻 exotic 木材。我自己没进过卡拉兹，但我在这里发现了一些有趣的树木标本。	dialogue	Jungle forester	Jungle forester
 If you do find a safe path into the jungle, do come and let me know. I'd love to have a nose around in there.	如果你真的找到进入丛林的安全路径，一定要来告诉我。我很想进去探一探。	dialogue	Jungle forester	Jungle forester
-Have you seen any Kharazi tribespeople in the jungle?	你在丛林里见过任何卡哈兹部落人吗？	dialogue	Jungle forester	Player
+Have you seen any Kharazi tribespeople in the jungle?	你在丛林里见过任何卡拉兹部落人吗？	dialogue	Jungle forester	Player
 Oh yes, I've met loads of them! Lovely lot. I haven't seen many about recently, though.	哦是的，我见过很多！可爱的一群。不过最近我没见过多少。	dialogue	Jungle forester	Jungle forester
 If you're looking to say hello, you'll need a Bullroarer. If you swing it above your head it makes a loud noise - that should attract someone's attention.	如果你想打招呼，你需要一个牛吼器。如果你在头顶挥舞它，它会发出很大的声音——那应该能吸引某人的注意。	dialogue	Jungle forester	Jungle forester
 Do you have a Bullroarer I could borrow?	你有我可以借的牛吼器吗？	dialogue	Jungle forester	Player
@@ -31462,18 +31462,18 @@ Go on then. Forestry is hungry work.	那就去吧。护林是件饿人的工作�
 On second thoughts, I might get hungry.	再想想，我可能会饿。	dialogue	Jungle forester	Player
 Sorry, but I have no use for that.	抱歉，但我用不着那个。	dialogue	Jungle forester	Jungle forester
 You'll have better luck getting someone's attention if you use it in the jungle.	如果你在丛林里用它，吸引某人注意的运气会更好。	dialogue	Jungle forester	Jungle forester
-How do I get into the Kharazi Jungle?	我怎么进入卡哈兹丛林？	dialogue	Jungle forester	Jungle forester
+How do I get into the Kharazi Jungle?	我怎么进入卡拉兹丛林？	dialogue	Jungle forester	Jungle forester
 Actually, I plan to map the jungle myself.	其实，我计划自己绘制丛林地图。	dialogue	Jungle forester	Jungle forester
-Do you have any other tips about the Kharazi Jungle?	你有关于卡哈兹丛林的其他建议吗？	dialogue	Jungle forester	Jungle forester
-Have you seen any Kharazi Tribesmen in the jungle?	你在丛林里见过任何卡哈兹部落人吗？	dialogue	Jungle forester	Jungle forester
+Do you have any other tips about the Kharazi Jungle?	你有关于卡拉兹丛林的其他建议吗？	dialogue	Jungle forester	Jungle forester
+Have you seen any Kharazi Tribesmen in the jungle?	你在丛林里见过任何卡拉兹部落人吗？	dialogue	Jungle forester	Jungle forester
 Ok thanks.	好的，谢谢。	dialogue	Jungle forester	Jungle forester
 Are you calling me foolish?	你在叫我愚蠢吗？	dialogue	Jungle forester	Jungle forester
 What do you do here?	你在这里做什么？	dialogue	Jungle forester	Jungle forester
-Have you seen any Kharazi tribespeople in the jungle?	你在丛林里见过任何卡哈兹部落人吗？	dialogue	Jungle forester	Jungle forester
+Have you seen any Kharazi tribespeople in the jungle?	你在丛林里见过任何卡拉兹部落人吗？	dialogue	Jungle forester	Jungle forester
 Okay, thanks.	好的，谢谢。	dialogue	Jungle forester	Jungle forester
 Do you have a Bullroarer I could borrow?	你有我可以借的牛吼器吗？	dialogue	Jungle forester	Jungle forester
 Will you trade something for it?	你会用什么交换它吗？	dialogue	Jungle forester	Jungle forester
-How do I get into the Kharazi jungle?	我怎么进入卡哈兹丛林？	dialogue	Jungle forester	Jungle forester
+How do I get into the Kharazi jungle?	我怎么进入卡拉兹丛林？	dialogue	Jungle forester	Jungle forester
 I have a question about my Achievement Diary.	我有个关于成就日志的问题。	dialogue	Jungle forester	Jungle forester
 Yes	是	dialogue	Jungle forester	Jungle forester
 No	否	dialogue	Jungle forester	Jungle forester
@@ -34584,7 +34584,7 @@ Is there currently a League running?	目前有联赛运行吗？	dialogue	League
 Yes! The current League is Leagues IV: Trailblazer Reloaded.	是的！当前联赛是联赛 IV：开拓者重归。	dialogue	Leagues Assistant	Leagues Assistant
 Within this League you are restricted to certain regions around Gielinor - although you'll get to choose which ones.	在这个联赛内你被限制在基利诺尔周围某些区域——虽然你可以选择哪些。	dialogue	Leagues Assistant	Leagues Assistant
 You can also collect powerful artefacts known as Relics. Each one provides a different buff to your League experience.	你也可以收集称为遗物的强大神器。每个为你的联赛经验提供不同增益。	dialogue	Leagues Assistant	Leagues Assistant
-I heard there's one that lets you note items wherever you want, and one that makes shops free!	我听说有一个能让你在任何地方把物品变成记名形式，还有一个让商店免费！	dialogue	Leagues Assistant	Leagues Assistant
+I heard there's one that lets you note items wherever you want, and one that makes shops free!	我听说有一个能让你在任何地方把物品变成票据形式，还有一个让商店免费！	dialogue	Leagues Assistant	Leagues Assistant
 One other thing. You must participate as an Iron Man. This means you stand alone and cannot trade with other participants.	还有一件事。你必须作为铁人参加。这意味着你独自游戏不能和其他参与者交易。	dialogue	Leagues Assistant	Leagues Assistant
 Interesting. Maybe I should take part!	有趣。也许我应该参加！	dialogue	Leagues Assistant	Player
 I'd highly recommend it!	我强烈推荐！	dialogue	Leagues Assistant	Leagues Assistant
@@ -46457,7 +46457,7 @@ That's nice. Excuse me now, I have other matters to attend to. Please feel free 
 It's okay.	还可以。	dialogue	Radimus Erkle	Player
 It's lame.	真差劲。	dialogue	Radimus Erkle	Player
 Have you got anything for me?	你有什么给我的吗？	dialogue	Radimus Erkle	Player
-One of our other members visited the Kharazi Jungle, following in your illustrious footsteps, and they found some weird daggers. Would you like one?	我们另一位成员追随您的光辉足迹，前往卡拉齐丛林一探，他们发现了一些奇怪的匕首。你想要一把吗？	dialogue	Radimus Erkle	Radimus Erkle
+One of our other members visited the Kharazi Jungle, following in your illustrious footsteps, and they found some weird daggers. Would you like one?	我们另一位成员追随您的光辉足迹，前往卡拉兹丛林一探，他们发现了一些奇怪的匕首。你想要一把吗？	dialogue	Radimus Erkle	Radimus Erkle
 Radimus shows you a familiar-looking dagger.	拉迪穆斯给你看一把看起来很熟悉的匕首。	dialogue	Radimus Erkle	Radimus Erkle
 Radimus gives you [another/[amount]] [dagger/daggers].	拉迪穆斯给了你 [another/[amount]] [dagger/daggers]。	dialogue	Radimus Erkle	Radimus Erkle
 Hello there. I have something for you. Enjoy!	你好。我有东西给你。享受吧！	dialogue	Radimus Erkle	Radimus Erkle
@@ -51481,7 +51481,7 @@ Thanks!	谢谢！	dialogue	Sir Rebral	Player
 In addition to the easy rewards, the shield can restore half of your prayer points once per day and provides a 10% experience boost at Falador farm. You'll get an increased chance of finding a clue scroll from a Guard	除了简单奖励外，盾牌每天可以恢复你一半的祈祷值，并在法拉多农场提供10% 经验加成。你从守卫那里找到线索卷轴的几率会增加	dialogue	Sir Rebral	Sir Rebral
 and can access a shortcut within the Motherlode Mine	并且可以进入母岩矿坑内的捷径	dialogue	Sir Rebral	Sir Rebral
 In addition to the easy and medium benefits, the shield will restore all of your prayer points once per day, you can access a bank deposit box at the crafting guild and a shortcut to the Heroes' Guild fountain. The Giant	除了简单和中等好处外，盾牌每天可以恢复你所有祈祷值，你可以进入工匠公会的银行存放箱和通往英雄公会喷泉的捷径。巨型	dialogue	Sir Rebral	Sir Rebral
-mole becomes much easier to locate and it will drop noted skins and claws.	鼹鼠变得更容易定位，并且会掉落记名的皮和爪。	dialogue	Sir Rebral	Sir Rebral
+mole becomes much easier to locate and it will drop noted skins and claws.	鼹鼠变得更容易定位，并且会掉落票据形式的皮和爪。	dialogue	Sir Rebral	Sir Rebral
 In addition to the previous tiers of rewards, the tree patch in Falador park will never become diseased and the shield will restore all of your prayer points twice per day in addition to an increased chance at higher level	除了前几级奖励外，法拉多公园的树圃永远不会生病，并且盾牌每天会恢复你所有祈祷值两次，此外清理含金泥土时获得更高等级	dialogue	Sir Rebral	Sir Rebral
 ores from cleaning Pay-dirt.	矿石的几率也会增加。	dialogue	Sir Rebral	Sir Rebral
 Just complete the tasks in the Falador area so they're ticked off, then come and speak to me for your rewards.	只要完成法拉多区域的任务让它们被勾选，然后来找我领取奖励。	dialogue	Sir Rebral	Sir Rebral
@@ -51497,7 +51497,7 @@ I've upgraded your Falador shield for you. It can restore half of your prayer po
 from a Guard and can access a shortcut within the Motherlode Mine.	并且可以进入母岩矿坑内的捷径	dialogue	Sir Rebral	Sir Rebral
 I've completed all of the hard tasks in my Falador achievement diary!	我完成了法拉多成就日志中的所有困难任务！	dialogue	Sir Rebral	Player
 I've upgraded your Falador shield for you. It will restore all of your prayer points once per day, you can now access a bank deposit box at the crafting guild and a shortcut to the Heroes' Guild fountain. The Giant	我为你升级了法拉多盾。它每天会恢复你所有祈祷值，你现在可以进入工匠公会的银行存放箱和通往英雄公会喷泉的捷径。巨型	dialogue	Sir Rebral	Sir Rebral
-mole should now be easier to locate and it will drop noted skins and claws.	鼹鼠现在应该更容易定位，并且会掉落记名的皮和爪。	dialogue	Sir Rebral	Sir Rebral
+mole should now be easier to locate and it will drop noted skins and claws.	鼹鼠现在应该更容易定位，并且会掉落票据形式的皮和爪。	dialogue	Sir Rebral	Sir Rebral
 I've completed all of the elite tasks in my Falador achievement diary!	我完成了法拉多成就日志中的所有精英任务！	dialogue	Sir Rebral	Player
 I can see that, well done! You've completed all of the tasks in Falador! Here's your reward!	我看到了，干得好！你完成了法拉多城的所有任务！这是你的奖励！	dialogue	Sir Rebral	Sir Rebral
 I've upgraded your Falador shield for you. The tree patch in Falador park will now never become diseased and the shield will restore all of your prayer points twice per day in addition to an increased chance at	我为你升级了法拉多盾。法拉多公园的树圃现在永远不会生病，并且盾牌每天会恢复你所有祈祷值两次，此外清理	dialogue	Sir Rebral	Sir Rebral
@@ -56512,7 +56512,7 @@ Nay, ye be wantin' to ask Shamus if ye wants to know about the Lost City. He be 
 What can you store?	你能存放什么？	dialogue	Tool Leprechaun	Player
 We'll hold onto yer rake, yer seed dibber, yer spade, yer secateurs, yer waterin' can and yer trowel - but mind it's not one of them fancy trowels only archaeologists use!	我们可以帮你保管耙子、种植锥、铲子、修枝剪、浇水壶和泥刀——但注意，别是那种只有考古学家才用的花哨泥刀！	dialogue	Tool Leprechaun	Tool Leprechaun
 We'll take a few buckets off yer hands too, and even yer compost, supercompost an' ultracompost! Also plant cure vials.	我们也可以帮你收几个桶，甚至你的堆肥、超级堆肥和超强堆肥！还有植物治疗药剂。	dialogue	Tool Leprechaun	Tool Leprechaun
-Aside from that, if ye hands me yer farming produce, I can mebbe change it into banknotes for ye.	除此之外，如果你把农产品给我，我可以帮你换成钞票。	dialogue	Tool Leprechaun	Tool Leprechaun
+Aside from that, if ye hands me yer farming produce, I can mebbe change it into banknotes for ye.	除此之外，如果你把农产品给我，我可以帮你换成票据。	dialogue	Tool Leprechaun	Tool Leprechaun
 So... do ye want to be using the store?	那么……你想使用仓库吗？	dialogue	Tool Leprechaun	Tool Leprechaun
 What do you do with the tools you're storing? They can't possibly all fit in your pockets!	你存放的工具都放哪儿了？不可能都塞进你口袋里吧！	dialogue	Tool Leprechaun	Player
 We leprechauns have a shed where we keep 'em. It's a magic shed, so ye can get yer items back from any of us leprechauns whenever ye want. Saves ye havin' to carry loads of stuff around the country!	我们小精灵有个棚子专门放这些。那是个魔法棚子，所以你随时可以从任何一个小精灵那里取回你的物品。省得你带着大包小包在全国跑！	dialogue	Tool Leprechaun	Tool Leprechaun
@@ -56767,7 +56767,7 @@ You're very helpful to us Player Moderators, but what help do you give to non Pl
 Well now, let me see...	嗯，让我想想……	dialogue	Town Crier	Town crier
 Sailing has been announced! Coming November 19th!(2 Nov 2025)[confirmation needed]	航海技能已公布！将于11月19日上线！(2025年11月2日)[confirmation needed]	dialogue	Town Crier	Town Crier
 Are you ready for Sailing on November 19th?!(2 Nov 2025)[confirmation needed]	你准备好迎接11月19日的航海技能了吗？！(2025年11月2日)[confirmation needed]	dialogue	Town Crier	Town Crier
-Have you checked out the latest additions to Varlamore yet?(13 Aug 2025 – 20 Aug 2025)	你查看过瓦尔拉莫尔的最新新增内容了吗？(2025年8月13日 –2025年8月20日)	dialogue	Town Crier	Town Crier
+Have you checked out the latest additions to Varlamore yet?(13 Aug 2025 – 20 Aug 2025)	你查看过瓦拉莫尔的最新新增内容了吗？(2025年8月13日 –2025年8月20日)	dialogue	Town Crier	Town Crier
 Thanks for helping us break player records!(20 Aug 2025 – 27 Aug 2025)	感谢帮助我们打破玩家记录！(2025年8月20日 –2025年8月27日)	dialogue	Town Crier	Town Crier
 The Summer Sweep-Up Slayer & Misc changes are here!(27 Aug 2025 – 03 Sep 2025)	夏季清扫杀戮者及杂项变更已上线！(2025年8月27日 –2025年9月3日)	dialogue	Town Crier	Town Crier
 The Combat Achievements for the Doom of Mokhaiotl are here!(03 Sep 2025 – 17 Sep 2025)	莫凯奥特之灾的战斗成就已上线！(2025年9月3日 –2025年9月17日)	dialogue	Town Crier	Town Crier
@@ -57361,12 +57361,12 @@ What is the Achievement Diary?	什么是成就日志？	dialogue	Two-pints	Playe
 It's a diary that helps you keep track of particular achievements. In and around Ardougne it can help you discover some quite useful things. Eventually, with enough exploration, the inhabitants will reward you.	这是一本帮助你追踪特定成就的日记。在阿多尼城及其周边地区，它能帮你发现一些非常有用的东西。最终，经过足够的探索，居民们会奖励你。	dialogue	Two-pints	Two-pints
 I have a question about my Achievement diary.	我有个关于成就日志的问题。	dialogue	Two-pints	Player
 Well, there are four different Ardougne cloaks, which match up with the four levels of difficulty. Each has the same rewards as the previous level and some additional benefits too... which tier of rewards would you like to	嗯，有四种不同的阿多尼斗篷，对应四个难度等级。每件都包含前一级的奖励，并额外增加一些好处……你想了解哪一级的奖励？	dialogue	Two-pints	Two-pints
-If you complete all of the easy tasks in Ardougne: The Citizen in West Ardougne will buy cats for 200 death runes each, some drops in the Tower of Life will be noted and the cape can teleport you to the Monastery	如果你完成阿多尼城所有简单任务：西阿多尼城的市民会以每只200个死亡符石的价格购买猫，生命之塔的一些掉落物会变成记名物品，斗篷还能将你传送到阿多尼城南边的修道院。	dialogue	Two-pints	Two-pints
+If you complete all of the easy tasks in Ardougne: The Citizen in West Ardougne will buy cats for 200 death runes each, some drops in the Tower of Life will be noted and the cape can teleport you to the Monastery	如果你完成阿多尼城所有简单任务：西阿多尼城的市民会以每只200个死亡符石的价格购买猫，生命之塔的一些掉落物会变成票据形式的物品，斗篷还能将你传送到阿多尼城南边的修道院。	dialogue	Two-pints	Two-pints
 south of Ardougne too.	斗篷还能将你传送到阿多尼城南边的修道院。	dialogue	Two-pints	Two-pints
 Thanks!	谢谢！	dialogue	Two-pints	Player
-In addition to the easy rewards: Wizard Cromperty will give you 100 noted pure essence each day, even more drops will be noted in the Tower of Life, you've got a 10% better chance at pickpocketing in Ardougne, you	除了简单奖励外：巫师克伦珀蒂每天会给你100个记名纯净精华，生命之塔的更多掉落物会变成记名物品，你在阿多尼城偷窃的成功率提高10%，	dialogue	Two-pints	Two-pints
+In addition to the easy rewards: Wizard Cromperty will give you 100 noted pure essence each day, even more drops will be noted in the Tower of Life, you've got a 10% better chance at pickpocketing in Ardougne, you	除了简单奖励外：巫师克伦珀蒂每天会给你100个票据形式的纯净精华，生命之塔的更多掉落物会变成票据形式的物品，你在阿多尼城偷窃的成功率提高10%，	dialogue	Two-pints	Two-pints
 can toggle the ring of life to teleport to Ardougne, you get three teleports each day to the Ardougne farming patch and you can hold up to 56 coin pouches whilst pickpocketing.	你可以切换生命戒指以传送到阿多尼城，每天可以获得三次传送到阿多尼城农业地的机会，并且偷窃时最多可以携带56个钱袋。	dialogue	Two-pints	Two-pints
-In addition to the easy and medium benefits: Wizard Cromperty will give you 150 pure essence each day, you can toggle the Watchtower teleport to the centre of Yanille, claim further drops as notes in the Tower of	除了简单和中等好处外：巫师克伦珀蒂每天会给你150个纯净精华，你可以切换瞭望塔传送至亚尼勒城中心，在生命之塔领取更多记名掉落物，	dialogue	Two-pints	Two-pints
+In addition to the easy and medium benefits: Wizard Cromperty will give you 150 pure essence each day, you can toggle the Watchtower teleport to the centre of Yanille, claim further drops as notes in the Tower of	除了简单和中等好处外：巫师克伦珀蒂每天会给你150个纯净精华，你可以切换瞭望塔传送至亚尼勒城中心，在生命之塔领取更多票据形式的掉落物，	dialogue	Two-pints	Two-pints
 Life, teleports to the farming patch increased to five per day, have a 10% better chance at pickpocketing everywhere and you can hold up to 84 coin pouches whilst pickpocketing.	传送到农业种植地的次数增至每日五次，在任何地方偷窃的成功率提高10%，并且偷窃时最多可以携带84个钱袋。	dialogue	Two-pints	Two-pints
 In addition to the previous tiers of rewards: Wizard Cromperty will give you 250 pure essence every day, you will catch 50% more fish from the Fishing Trawler and receive 25% more marks of grace on the	除了前几级奖励外：巫师克伦珀蒂每天会给你250个纯净精华，你在捕鱼拖船上捕获的鱼量增加50%，在阿多尼敏捷课程上获得的优雅印记增加25%。	dialogue	Two-pints	Two-pints
 Ardougne agility course. Your cape will have unlimited teleports to the Ardougne farming patch, Bert will automatically deliver your daily sand and you can hold up to 140 coin pouches whilst pickpocketing.	你的斗篷将拥有无限次传送到阿多尼农业地的功能，伯特将自动为你送达每日的沙子，并且偷窃时最多可以携带140个钱袋。	dialogue	Two-pints	Two-pints
@@ -57375,15 +57375,15 @@ Bye!	再见！	dialogue	Two-pints	Player
 See you later!	回头见！	dialogue	Two-pints	Two-pints
 I've completed all of the easy tasks in my Ardougne achievement diary!	我完成了阿多尼成就日志中的所有简单任务！	dialogue	Two-pints	Player
 Yes please!	好的，谢谢！	dialogue	Two-pints	Player
-This cloak is a symbol of your exploration of Ardougne. The Citizen in West Ardougne will buy cats for 200 death runes each, some drops in the Tower of Life will be noted and the cape can teleport you to the	这件斗篷是你探索阿多尼城的象征。西阿多尼城的市民会以每只200个死亡符石的价格购买猫，生命之塔的一些掉落物会变成记名物品，	dialogue	Two-pints	Two-pints
+This cloak is a symbol of your exploration of Ardougne. The Citizen in West Ardougne will buy cats for 200 death runes each, some drops in the Tower of Life will be noted and the cape can teleport you to the	这件斗篷是你探索阿多尼城的象征。西阿多尼城的市民会以每只200个死亡符石的价格购买猫，生命之塔的一些掉落物会变成票据形式的物品，	dialogue	Two-pints	Two-pints
 Monastery south of Ardougne too.	斗篷还能将你传送到阿多尼城南边的修道院。	dialogue	Two-pints	Two-pints
 Wow, thanks!	哇，谢谢！	dialogue	Two-pints	Player
 If you ever lose your cloak, come back to me to reclaim it.	如果你弄丢了斗篷，回来找我重新领取。	dialogue	Two-pints	Two-pints
 I've completed all of the medium tasks in my Ardougne achievement diary!	我完成了阿多尼成就日志中的所有中等任务！	dialogue	Two-pints	Player
-I've upgraded your Ardougne cloak for you. Wizard Cromperty will give you 100 noted pure essence each day, even more drops will be noted in the Tower of Life, you've got a 10% better chance at pickpocketing in	我为你升级了阿多尼斗篷。巫师克伦珀蒂每天会给你100个记名纯净精华，生命之塔的更多掉落物会变成记名物品，你在阿多尼偷窃的成功率提高10%，	dialogue	Two-pints	Two-pints
+I've upgraded your Ardougne cloak for you. Wizard Cromperty will give you 100 noted pure essence each day, even more drops will be noted in the Tower of Life, you've got a 10% better chance at pickpocketing in	我为你升级了阿多尼斗篷。巫师克伦珀蒂每天会给你100个票据形式的纯净精华，生命之塔的更多掉落物会变成票据形式的物品，你在阿多尼偷窃的成功率提高10%，	dialogue	Two-pints	Two-pints
 Ardougne, you can toggle the ring of life to teleport to Ardougne, you get three teleports each day to the Ardougne farming patch and you can hold up to 56 coin pouches whilst pickpocketing.	你可以切换生命戒指以传送到阿多尼城，每天可以获得三次传送到阿多尼农业地的机会，并且偷窃时最多可以携带56个钱袋。	dialogue	Two-pints	Two-pints
 I've completed all of the hard tasks in my Ardougne achievement diary!	我完成了阿多尼成就日志中的所有困难任务！	dialogue	Two-pints	Player
-I've upgraded your Ardougne cloak for you. Wizard Cromperty will give you 150 pure essence each day, you can toggle the Watchtower teleport to the centre of Yanille, claim further drops as notes in the Tower of	我为你升级了阿多尼斗篷。巫师克伦珀蒂每天会给你150个纯净精华，你可以切换瞭望塔传送至亚尼勒城中心，在生命之塔领取更多记名掉落物，传送到农业种植地的次数增至每日五次，在任何地方偷窃的成功率提高10%，并且偷窃时最多可以携带84个钱袋。	dialogue	Two-pints	Two-pints
+I've upgraded your Ardougne cloak for you. Wizard Cromperty will give you 150 pure essence each day, you can toggle the Watchtower teleport to the centre of Yanille, claim further drops as notes in the Tower of	我为你升级了阿多尼斗篷。巫师克伦珀蒂每天会给你150个纯净精华，你可以切换瞭望塔传送至亚尼勒城中心，在生命之塔领取更多票据形式的掉落物，传送到农业种植地的次数增至每日五次，在任何地方偷窃的成功率提高10%，并且偷窃时最多可以携带84个钱袋。	dialogue	Two-pints	Two-pints
 I've completed all of the elite tasks in my Ardougne achievement diary!	我完成了阿多尼成就日志中的所有精英任务！	dialogue	Two-pints	Player
 What, with your stats? I don't believe you. You'd need a Smithing level of 91. Ask me again when you've got your Smithing level up.	什么，凭你的属性？我不信。你需要91级锻造技能。等你把锻造等级练上来再问我。	dialogue	Two-pints	Two-pints
 I can see that, well done! You've completed all of the tasks in Ardougne! Here's your reward!	我看到了，干得好！你完成了阿多尼城的所有任务！这是你的奖励！	dialogue	Two-pints	Two-pints
@@ -62635,7 +62635,8 @@ No need to PUN ish us for our incredible wit.	没必要因为我们惊人的机�
 CONGRATULATIONS! You are a WINNER! Please choose your PRIZE!	恭喜！你赢了！请选择你的奖品！	dialogue	degarble	degarble
 Wooo OOO ooo! Hot stuff!	呜哦哦哦！火辣辣！	dialogue	degarble	degarble
 Use the Jagex PM od team if you need to - they're there to help!	如果需要就使用 Jagex P 版主团队——他们就是来帮忙的！	dialogue	degarble	degarble
-It is also the only place in the land of Gielinor where players are able to attack each other at will, and as such is the haunt of many Player Killers, or PK ers if you will.	那也是基利诺尔大陆上唯一玩家可以随意互相攻击的地方，因此是许多玩家杀手(或称 PKer)的聚集地。	dialogue	degarble	degarbleWhen you play as an <colNum0>Ironman</col>, you do everything for<br>yourself. You don't trade with other players, or take<br>their items, or accept their help.	当你以<colNum0>铁人</col>身份游玩时，一切都要靠自己。<br>你不能与其他玩家交易、拿取他们的物品或接受帮助。	dialogue	missing-reflow	Ironman tutor
+It is also the only place in the land of Gielinor where players are able to attack each other at will, and as such is the haunt of many Player Killers, or PK ers if you will.	那也是基利诺尔大陆上唯一玩家可以随意互相攻击的地方，因此是许多玩家杀手(或称 PKer)的聚集地。	dialogue	degarble	degarble
+When you play as an <colNum0>Ironman</col>, you do everything for<br>yourself. You don't trade with other players, or take<br>their items, or accept their help.	当你以<colNum0>铁人</col>身份游玩时，一切都要靠自己。<br>你不能与其他玩家交易、拿取他们的物品或接受帮助。	dialogue	missing-reflow	Ironman tutor
 As an <colNum0>Ironman</col>, you choose to have these restrictions<br>imposed on you, so everyone knows you're doing it<br>properly.	作为<colNum0>铁人</col>，你自愿接受这些限制，<br>这样大家就知道你是凭真本事在玩。	dialogue	missing-reflow	Ironman tutor
 If you think you have what it takes, you can choose to<br>become a <colNum0>Hardcore Ironman</col>.	如果你觉得自己够格，可以选择成为<colNum0>硬核铁人</col>。	dialogue	missing-reflow	Ironman tutor
 If you have some friends, you could stand alone...<br>Together, as <colNum0>Group Ironmen</col>. Group Ironmen have the<br>same restrictions as regular Ironmen except you can<br>trade your items with each other!	如果你有朋友，可以独自站立...<br>一起成为<colNum0>组队铁人</col>。组队铁人与普通铁人<br>限制相同，但你们可以互相交易物品！	dialogue	missing-reflow	Ironman tutor

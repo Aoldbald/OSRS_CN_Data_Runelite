@@ -1749,7 +1749,7 @@ Teleport (Home	传送（家	actions	ptbr_import	ptbr
 Turn-left	左转	actions	ptbr_import	ptbr
 Turn-right	右转	actions	ptbr_import	ptbr
 Untether (if tethered)	解开绳索（如果已拴住）	actions	ptbr_import	ptbr
-but you can use a chisel on it	但你可以用凿子处理它	actions	ptbr_import	ptbrClimp-up	爬上去	actions	wiki_rescrape	wiki_rescrape
+but you can use a chisel on it	但你可以用凿子处理它	actions	ptbr_import	ptbr
 Cimb-down	爬下来	actions	wiki_rescrape	wiki_rescrape
 Disable-XP	禁用经验值	actions	cachedump	cachedump
 Pull-back	拉回	actions	cachedump	cachedump
@@ -1983,7 +1983,7 @@ Play-f#	演奏-f#	actions	menu	audit-0715
 Play-g#	演奏-g#	actions	menu	audit-0715
 Play-a#	演奏-a#	actions	menu	audit-0715
 Spear	矛刺	actions	menu	audit-0715
-Note	纸币	actions	menu	audit-0715
+Note	票据	actions	menu	audit-0715
 Jump!	跳！	actions	menu	audit-0715
 Disable Adventure Paths	关闭冒险指引	actions	menu	audit-0715
 Bonds	债券	actions	menu	audit-0715

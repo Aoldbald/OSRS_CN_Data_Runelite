@@ -20857,7 +20857,7 @@ This emote can be unlocked by completing at least 600 beginner clue scrolls.	此
 You can't use that emote unless you have stored a tier 3 relichunter outfit on the outfitstand in your player owned house League Hall.	除非你已在玩家房屋联盟大厅的服装架上存放了3级遗物猎人套装，否则无法使用该表情动作。	interface	generalUI	skillGuide
 This emote can be unlocked by doing an Old School RuneScape Halloween event.	此表情动作可通过参与Old School RuneScape万圣节活动解锁。	interface	generalUI	skillGuide
 This emote is unlocked by reaching <colNum0>Grand Champion</col> status in the Fortis Colosseum.	此表情动作通过在福蒂斯竞技场达到<colNum0>大冠军</col>状态解锁。	interface	generalUI	skillGuide
-This emote can be unlocked by charting the monument on Wintumber Isle.	此表情动作可通过测绘温特伯岛上的纪念碑解锁。	interface	generalUI	skillGuide
+This emote can be unlocked by charting the monument on Wintumber Isle.	此表情动作可通过测绘冬木岛上的纪念碑解锁。	interface	generalUI	skillGuide
 The roaring fire crackles invitingly.	熊熊篝火噼啪作响，引人靠近。	interface	generalUI	skillGuide
 Revenant cave jump (hard)	亡灵洞穴跳跃（困难）	interface	generalUI	skillGuide
 Meiyerditch Laboratories advanced shortcut.	迈尔迪奇实验室高级捷径。	interface	generalUI	skillGuide
@@ -22533,7 +22533,7 @@ Treasure Arbiter	宝藏仲裁者	interface	cachedump	cachedump
 You gain the following perks to <col=#>Slayer</col>:<br><br>- Always on task for all eligible slayer monsters.<br><br>- Unlock all Slayer Task perks for free.<br><br>- Rune Pouches, Herb Sacks and Looting Bags in the Slayer Point store are all free.<br><br>- Skip and block Tasks for free.<br><br>- Gain 1000-15,000 bonus Slayer XP for the first time you kill the 100th of each unique Slayer monster, scaled by the monster's Slayer level requirement (XP stated is before multipliers).	你获得以下<col=#>杀戮</col>增益：<br><br>- 对所有符合条件的杀戮怪物，始终处于任务中。<br><br>- 免费解锁所有杀戮任务增益。<br><br>- 杀戮点数商店中的符石袋、草药袋和战利品袋全部免费。<br><br>- 免费跳过和屏蔽任务。<br><br>- 首次杀死每种独特杀戮怪物的第100只时，获得1000-15,000点额外杀戮经验值，具体取决于怪物的杀戮等级要求（所述经验值为倍率前）。	interface	cachedump	cachedump
 - This item can be used to store any single coordinate, alongside your Hitpoints, Prayer and Special Attack Energy, and teleport back to it at a later date, restoring those stats to what they were.<br><br>- This item ignores wilderness teleport restrictions.<br><br>- The Crystal of Echoes cannot store coordinates whilst inside an instance.<br><br>- There are various other locations this item won't store coordinates in, including quest areas, certain minigames, etc.	- 此物品可用于存储任何单一坐标，连同你的生命值、祈祷值和战技能量，并在日后传送回该坐标，将这些状态恢复到存储时的数值。<br><br>- 此物品无视荒野传送限制。<br><br>- 回响水晶不能在副本内存储坐标。<br><br>- 还有其他一些位置此物品无法存储坐标，包括任务区域、某些小游戏等。	interface	cachedump	cachedump
 Total Recall	完全回忆	interface	cachedump	cachedump
-You gain the following perks to the <col=#>High and Low Alchemy spells</col>:<br><br>- The spells have no rune cost or level requirement.<br><br>- Items give 15% more gold, and have a 65% chance to not be consumed.<br><br>- When cast on a stack of items, the spells will automatically be recast over time, until the stack is depleted or moved.<br><br>You gain the following perks to <col=#>Prayer</col>:<br><br> - 20,000 Coins can be offered at Prayer altars in exchange for Prayer XP equivalent to using a dragon bone. This respects altar XP modifiers. Normal altars have no modifiers.<br><br>- All items purchased from some select shops can be noted, provided the item can be noted at all.<br>   - There will be a new button on select shops which toggles this effect.	你获得以下<col=#>高等级炼金术和低等级炼金术法术</col>的增益：<br><br>- 这些法术没有符石成本或等级要求。<br><br>- 物品提供15%更多的金币，并有65%的几率不被消耗。<br><br>- 当对一堆物品施放时，法术会随时间自动重复施放，直到堆叠耗尽或移动。<br><br>你获得以下<col=#>祈祷</col>的增益：<br><br>- 可以在祈祷祭坛处献祭20,000金币以换取相当于使用龙骨的经验值。此效果尊重祭坛经验倍率。普通祭坛没有倍率。<br><br>- 从某些特定商店购买的所有物品都可以被注明，前提是该物品可以被注明。<br>   - 特定商店上将有一个新按钮来切换此效果。	interface	cachedump	cachedump
+You gain the following perks to the <col=#>High and Low Alchemy spells</col>:<br><br>- The spells have no rune cost or level requirement.<br><br>- Items give 15% more gold, and have a 65% chance to not be consumed.<br><br>- When cast on a stack of items, the spells will automatically be recast over time, until the stack is depleted or moved.<br><br>You gain the following perks to <col=#>Prayer</col>:<br><br> - 20,000 Coins can be offered at Prayer altars in exchange for Prayer XP equivalent to using a dragon bone. This respects altar XP modifiers. Normal altars have no modifiers.<br><br>- All items purchased from some select shops can be noted, provided the item can be noted at all.<br>   - There will be a new button on select shops which toggles this effect.	你获得以下<col=#>高等级炼金术和低等级炼金术法术</col>的增益：<br><br>- 这些法术没有符石成本或等级要求。<br><br>- 物品提供15%更多的金币，并有65%的几率不被消耗。<br><br>- 当对一堆物品施放时，法术会随时间自动重复施放，直到堆叠耗尽或移动。<br><br>你获得以下<col=#>祈祷</col>的增益：<br><br>- 可以在祈祷祭坛处献祭20,000金币以换取相当于使用龙骨的经验值。此效果尊重祭坛经验倍率。普通祭坛没有倍率。<br><br>- 从某些特定商店购买的所有物品都可以变为票据，前提是该物品可以变为票据。<br>   - 特定商店上将有一个新按钮来切换此效果。	interface	cachedump	cachedump
 Golden God	黄金之神	interface	cachedump	cachedump
 - The <col=#>Grimoire</col> can be used to freely swap between spellbooks.<br><br>- The <col=#>Grimoire</col> acts as a <col=#>Book of the dead</col>.<br><br>Additionally, when you select this, you will unlock access to all prayers and spells. Regardless of area, quest, or diary requirements.	- <col=#>奥术魔法书</col>可用于在法术书之间自由切换。<br><br>- <col=#>奥术魔法书</col>充当<col=#>亡灵之书</col>。<br><br>此外，当你选择此项时，你将解锁所有祈祷和法术的访问权限，无论区域、任务或日记要求如何。	interface	cachedump	cachedump
 Grimoire	魔法书	interface	cachedump	cachedump
@@ -23909,8 +23909,8 @@ Save d'hide armour materials	节省龙皮盔甲材料	interface	cachedump	cached
 When crafting dragonhide armour, there is a 10% chance the materials will be saved and sent to your bank.	制作龙皮盔甲时有10%的几率材料不消耗并存入银行。	interface	cachedump	cachedump
 Certified Farmer	认证农夫	interface	cachedump	cachedump
 Note and double crops	作物便签与双倍	interface	cachedump	cachedump
-Resources harvested from Farming are always noted and have a 25% chance of being doubled.	农业收获的资源始终以凭证形式获得，并有25%的几率翻倍。	interface	cachedump	cachedump
-Resources harvested from Farming are always noted and doubled.	农业收获的资源始终以凭证形式获得并翻倍。	interface	cachedump	cachedump
+Resources harvested from Farming are always noted and have a 25% chance of being doubled.	农业收获的资源始终以票据形式获得，并有25%的几率翻倍。	interface	cachedump	cachedump
+Resources harvested from Farming are always noted and doubled.	农业收获的资源始终以票据形式获得并翻倍。	interface	cachedump	cachedump
 Seedy Business	种子生意	interface	cachedump	cachedump
 Sometimes save your seeds	有时节省种子	interface	cachedump	cachedump
 You have a 10% chance to not consume seeds when planting them.	种植时有10%的几率不消耗种子。	interface	cachedump	cachedump
@@ -24169,7 +24169,7 @@ The Point!	就是尖！	interface	cachedump	cachedump
 This double-sized mould looks like two ammo moulds, roughly put together with a metal strip.<br><br>It will allow for faster production of cannonballs, giving eight balls for two bars with each use.<br><br>Requires completion of the Dwarf Cannon quest to purchase.	这个双倍大小的模具看起来像是两个弹药模具用金属条粗略拼凑而成。<br><br>它可以更快地生产炮弹，每次使用两个金属条可产出八颗炮弹。<br><br>需要完成矮人大炮任务才能购买。	interface	cachedump	cachedump
 Grog made by Kovac. This foul-looking brew will imbue anyone who drinks it with improved knowledge of Smithing.<br><br>Smithing: +4<br>Attack: -2<br>Range: -2<br>Magic: -2	科瓦克酿造的格罗格酒。这种看起来恶心的饮料能让喝下它的人提升锻造知识。<br><br>锻造：+4<br>攻击：-2<br>远程：-2<br>魔法：-2	interface	cachedump	cachedump
 This fine powder helps smiths smelt bars. Bars made at standard furnaces using this powder will require half the amount of coal and reward twice the amount of XP. The powder will be consumed when used.	这种精细粉末能帮助铁匠熔炼金属条。在标准熔炉中使用此粉末熔炼金属条，所需煤量减半，获得的经验值翻倍。使用后粉末将被消耗。	interface	cachedump	cachedump
-A rather heavy looking package, packed to the brim with ores and minerals.<br><br>A pack contains 30 noted ores which could be any combination of the following:<br>   Coal<br>   Iron ore<br>   Mithril ore<br>   Adamantite ore<br>   Runite ore	一个看起来很重的包裹，塞满了矿石和矿物。<br><br>每包包含30个已备注的矿石，可能是以下矿石的任意组合：<br>   煤<br>   铁矿石<br>   秘银矿石<br>   精金矿石<br>   符文矿石	interface	cachedump	cachedump
+A rather heavy looking package, packed to the brim with ores and minerals.<br><br>A pack contains 30 noted ores which could be any combination of the following:<br>   Coal<br>   Iron ore<br>   Mithril ore<br>   Adamantite ore<br>   Runite ore	一个看起来很重的包裹，塞满了矿石和矿物。<br><br>每包包含30个票据形式的矿石，可能是以下矿石的任意组合：<br>   煤<br>   铁矿石<br>   秘银矿石<br>   精金矿石<br>   符文矿石	interface	cachedump	cachedump
 A part of the Smiths Uniform. This piece of equipment provides a 20% chance to increase the speed of a Smithing action at an anvil.<br>This effect stacks when combined with other outfit pieces.<br><br>When the full set is worn, the chance increases to 100%.	铁匠制服的一部分。这件装备有20%的几率提升在铁砧上进行锻造动作的速度。<br>此效果与其他制服部件叠加。<br><br>穿戴全套时，几率提升至100%。	interface	cachedump	cachedump
 A part of the Smiths Uniform. This piece of equipment provides a 20% chance to increase the speed of a Smithing action at an anvil.<br>This effect stacks when combined with other outfit pieces.<br><br>When the full set is worn, the chance increases to 100%.<br><br>Can also be combined with ice gloves to gain the effects of both.	铁匠制服的一部分。这件装备有20%的几率提升在铁砧上进行锻造动作的速度。<br>此效果与其他制服部件叠加。<br><br>穿戴全套时，几率提升至100%。<br><br>也可以与冰手套组合，同时获得两者的效果。	interface	cachedump	cachedump
 A Giant Blade forged within the Giants' Foundry.<br>Normally reserved for the giants of Gielinor, Kovac is willing to part with this one, even though you made it.<br><br>Requires 60 Attack to wield.	在巨人铸造厂锻造的巨人之刃。<br>通常是为吉列诺的巨人保留的，但科瓦克愿意割爱这把，即使是你打造的。<br><br>需要60攻击才能装备。	interface	cachedump	cachedump
@@ -24423,7 +24423,7 @@ Undying Retribution.	不死报应。	interface	cachedump	cachedump
 Berserker.	狂战士。	interface	cachedump	cachedump
 Archer's Embrace.	射手之拥。	interface	cachedump	cachedump
 Trickster.	诡术师。	interface	cachedump	cachedump
-- All items in shops around Gielinor that use coins as currency are free of charge.<br><br>- All items purchased from some select shops can be noted, provided the item can be noted at all.<br>   - There will be a new button on select shops which toggles this effect.<br><br>- Shops no longer buy items for gold.	- 吉列诺尔所有使用金币作为货币的商店中的物品全部免费。<br><br>- 从某些特定商店购买的所有物品都可以被注明，前提是该物品可以被注明。<br>   - 特定商店上将有一个新按钮来切换此效果。<br><br>- 商店不再用金币收购物品。	interface	cachedump	cachedump
+- All items in shops around Gielinor that use coins as currency are free of charge.<br><br>- All items purchased from some select shops can be noted, provided the item can be noted at all.<br>   - There will be a new button on select shops which toggles this effect.<br><br>- Shops no longer buy items for gold.	- 吉列诺尔所有使用金币作为货币的商店中的物品全部免费。<br><br>- 从某些特定商店购买的所有物品都可以变为票据，前提是该物品可以变为票据。<br>   - 特定商店上将有一个新按钮来切换此效果。<br><br>- 商店不再用金币收购物品。	interface	cachedump	cachedump
 - You will be given a Globetrotter Pendant, which grants access to the following:<br><br>- Teleports from a fully upgraded Jewellery Box<br><br>- The following teleports from the Portal Nexus:<br><br>   - Annakarl (Demonic Ruins)<br>   - Ape Atoll<br>   - Ape Atoll Dungeon<br>   - Arceuus Library<br>   - Barbarian Outpost<br>   - Barrows<br>   - Battlefront<br>   - Camelot<br>   - Carrallanger (Graveyard of Shadows)<br>   - Catherby<br>   - Draynor Manor<br>   - East Ardougne<br>   - Falador<br>   - Fenkenstrain's Castle<br>   - Fishing Guild<br>   - Ghorrock (Frozen Waste Plateau)<br>   - Grand Exchange<br>   - Harmony Island<br>   - Ice Plateau<br>   - Kharyrll (Canifis)<br>   - Kourend Castle<br>   - Lassar (Ice Mountain)<br>   - Lumbridge<br>   - Lunar Isle<br>   - Mind Altar<br>   - Ourania<br>   - Paddewwa (Edgeville Dungeon)<br>   - Port Khazard<br>   - Salve Graveyard<br>   - Seers' Village<br>   - Senntisten (Digsite)<br>   - Teleport to House<br>   - The Forgotten Cemetery<br>   - Troll Stronghold<br>   - Trollheim<br>   - Varrock<br>   - Watchtower<br>   - Waterbirth Island<br>   - Weiss<br>   - West Ardougne<br>   - Yanille<br><br>- As this Relic gives you an item it must be unlocked at a Bank.	- 你将获得一个环球旅行家的吊坠，可访问以下传送点：<br><br>- 来自完全升级的首饰盒的传送<br><br>- 来自传送枢纽的以下传送点：<br><br>   - 安纳卡尔（恶魔废墟）<br>   - 猿猴岛<br>   - 猿猴岛地牢<br>   - 阿西乌斯图书馆<br>   - 野蛮人前哨站<br>   - 巴罗斯墓穴<br>   - 战场前线<br>   - 卡美洛<br>   - 卡拉兰格（阴影墓地）<br>   - 凯瑟比镇<br>   - 德雷诺庄园<br>   - 东阿多尼城<br>   - 法拉多城<br>   - 芬肯斯特雷恩城堡<br>   - 钓鱼公会<br>   - 戈洛克（冰原高原）<br>   - 大交易所<br>   - 和谐岛<br>   - 冰原<br>   - 卡里尔（坎尼非斯村）<br>   - 库兰德城堡<br>   - 拉萨尔（冰山）<br>   - 仑桥镇<br>   - 月亮岛<br>   - 心灵祭坛<br>   - 奥拉尼亚<br>   - 帕德瓦（边陲镇地牢）<br>   - 卡扎德港<br>   - 萨尔维墓地<br>   - 先知村<br>   - 森蒂斯滕（考古挖掘场）<br>   - 房屋传送术<br>   - 被遗忘的墓地<br>   - 巨魔要塞<br>   - 巨魔之家<br>   - 维洛克城<br>   - 瞭望塔<br>   - 水诞岛<br>   - 韦斯<br>   - 西阿多尼城<br>   - 亚尼勒城<br><br>- 由于此遗物会给予你物品，因此必须在银行解锁。	interface	cachedump	cachedump
 - You are able to get a Slayer Task and cancel a Slayer Task by speaking to a Slayer Master or checking your Slayer status via your Slayer Gem, Helmet, or Ring.<br><br>- Superior Slayer creatures have a 1/25 chance to appear.<br><br>- Superior Slayer creatures will give Slayer points when killed, based on their Slayer level and difficulty.<br><br>- Superior Slayer creatures now have double the number of rolls on the lesser creature's drop table. This does not double the amount of rolls on the Superior Slayer Creature's unique drop table.<br><br>- There is a 25% chance a superior monster will appear as a 'Bloodthirsty' version, with boosted offensive stats. This monster will triple the number of rolls on the lesser creature's non-unique drop table, plus a roll on its own unique drop table. They will also drop guaranteed Clue Scrolls if it is on the superior's drop table.<br><br>- Expeditious and Slaughter Bracelets will no longer consume charges and have a 35% chance to trigger, up from 25%.	- 你可以通过与杀戮大师交谈或通过你的杀戮宝石、头盔或戒指检查你的杀戮状态来接受杀戮任务和取消杀戮任务。<br><br>- 高级杀戮生物有1/25的几率出现。<br><br>- 杀死高级杀戮生物时会给予杀戮点数，具体取决于其杀戮等级和难度。<br><br>- 高级杀戮生物现在在低级生物的掉落表上有双倍的掷骰次数。这不会使高级杀戮生物独特掉落表上的掷骰次数翻倍。<br><br>- 有25%的几率高级怪物会以'嗜血'版本出现，拥有增强的攻击属性。此怪物将在低级生物的非独特掉落表上掷骰三次，外加一次其自身独特掉落表的掷骰。如果高级生物的掉落表上有线索卷轴，它们也会保证掉落。<br><br>- 急速手镯和屠杀手镯不再消耗充能，并且触发几率从25%提升至35%。	interface	cachedump	cachedump
 - This item will allow you to note and unnote items anywhere in Gielinor.<br><br>- You can manually use items on the Banker's Note to unnote or note them all, much like a Bank.<br><br>- The 'Activate' option allows you to note and unnote items in one action with a specified quantity. An object must first be used on the Banker's Note in order for this to work.<br><br>- You can customise how many items the Banker's note will note and unnote using the quantity options.	- 此物品允许你在吉列诺尔任何地方注明和取消注明物品。<br><br>- 你可以像使用银行一样，手动将物品用于银行职员票据以全部取消注明或注明。<br><br>- '激活'选项允许你通过一次操作并指定数量来注明和取消注明物品。必须先对银行职员票据使用一个物品，此功能才能生效。<br><br>- 你可以使用数量选项自定义银行职员票据每次注明和取消注明的物品数量。	interface	cachedump	cachedump
@@ -24437,7 +24437,7 @@ Trickster.	诡术师。	interface	cachedump	cachedump
 - When you take fatal damage directly from an NPC or player, you will restore all your hitpoints and Prayer.<br><br>- Upon triggering this effect you will deal damage to all monsters or players within 3 tiles of you, assuming their south-west coordinate is within this radius. (Similar to how chinchompas and other AoE effects work). This effect will only work in the same scenarios that the Retribution Prayer would normally trigger.<br><br>- In PvM combat this damage will be equal to 200% of your Prayer level. In PvP combat this effect will be equal to 50% of your Prayer level.<br><br>- There is a 3 minute cooldown on this effect.<br><br>- Cooldown is reset on actual death.<br><br>- The damaging effect will not work on NPCs that are recoil immune, with some exceptions:<br>   - Nex<br>   - Hespori<br>   - Vorkath<br>   - All Wilderness bosses	- 当你直接受到NPC或玩家的致命伤害时，你将恢复所有生命值和祈祷。<br><br>- 触发此效果时，你将对你周围3格内的所有怪物或玩家造成伤害，假设它们的西南坐标在此半径内。（类似于炸弹鼠和其他范围效果的工作方式）。此效果仅在报应祈祷通常触发的相同场景下有效。<br><br>- 在PvM战斗中，此伤害等于你祈祷等级的200%。在PvP战斗中，此效果等于你祈祷等级的50%。<br><br>- 此效果有3分钟的冷却时间。<br><br>- 实际死亡时重置冷却时间。<br><br>- 伤害效果对反伤免疫的NPC无效，但有一些例外：<br>   - 奈克斯<br>   - 赫斯波里<br>   - 沃卡斯<br>   - 所有荒野Boss	interface	cachedump	cachedump
 - This item will allow you to summon a powerful <col=#>Guardian Thrall</col>, lasting 30 minutes.<br><br>- The guardian will attack your target with whatever style it is weak to.<br><br>- When you are in multi-combat it will cast an AoE attack if the target is weak to range or magic.<br><br>- The Guardian's stats are:<br>   - Min hit: 5<br>   - Max hit: 13<br>   - Attack Speed: 4<br>   - Accuracy: 45000<br><br>- The Guardian does not work in PvP.<br><br>- This perk will also work inside The Gauntlet.	- 此物品将允许你召唤一个强大的<col=#>守护者仆从</col>，持续30分钟。<br><br>- 守护者将使用目标弱点的战斗风格攻击你的目标。<br><br>- 当你在多战斗区域时，如果目标弱点是远程或魔法，它将施放范围攻击。<br><br>- 守护者的属性为：<br>   - 最小伤害：5<br>   - 最大伤害：13<br>   - 攻击速度：4<br>   - 命中率：45000<br><br>- 守护者在PvP中无效。<br><br>- 此效果在试炼之路内也有效。	interface	cachedump	cachedump
 - Damage is increased against monsters by 0.4% per hitpoint you are missing.<br><br>- Your damage is equal to your max hit on monsters with full hitpoints.	- 对怪物的伤害根据你缺失的每点生命值提高0.4%。<br><br>- 你对满生命值的怪物造成的伤害等于你的最大伤害。	interface	cachedump	cachedump
-- You will automatically re-pickpocket your target.<br><br>- Loot from pickpocketing is doubled and noted.<br><br>- Coin pouch limit is multiplied by 3.<br><br>- You will be given the Sage's Greaves, that will grant Agility XP that scales with your Agility level while running.<br><br>- Box traps lure creatures faster.<br><br>- Loot from box traps is doubled.<br><br>- Impling jars cannot break.<br><br>- You can burn up to 9 logs simultaneously.<br><br>- You cannot fail actions for Thieving, Agility, Hunter and Firemaking.<br><br>- As this Relic gives you an item it must be unlocked at a Bank.	- 你将自动重复扒窃你的目标。<br><br>- 扒窃的战利品翻倍并被备注。<br><br>- 钱袋上限乘以3。<br><br>- 你将获得智者护腿，它会在你奔跑时提供与你的敏捷等级成比例的敏捷经验。<br><br>- 箱式陷阱能更快地吸引生物。<br><br>- 箱式陷阱的战利品翻倍。<br><br>- 小精灵罐不会破碎。<br><br>- 你可以同时点燃最多9根原木。<br><br>- 你在偷窃、敏捷、狩猎和生火技能上不会失败。<br><br>- 由于此遗物会给予你一件物品，你必须在银行解锁它。	interface	cachedump	cachedump
+- You will automatically re-pickpocket your target.<br><br>- Loot from pickpocketing is doubled and noted.<br><br>- Coin pouch limit is multiplied by 3.<br><br>- You will be given the Sage's Greaves, that will grant Agility XP that scales with your Agility level while running.<br><br>- Box traps lure creatures faster.<br><br>- Loot from box traps is doubled.<br><br>- Impling jars cannot break.<br><br>- You can burn up to 9 logs simultaneously.<br><br>- You cannot fail actions for Thieving, Agility, Hunter and Firemaking.<br><br>- As this Relic gives you an item it must be unlocked at a Bank.	- 你将自动重复扒窃你的目标。<br><br>- 扒窃的战利品翻倍并变为票据。<br><br>- 钱袋上限乘以3。<br><br>- 你将获得智者护腿，它会在你奔跑时提供与你的敏捷等级成比例的敏捷经验。<br><br>- 箱式陷阱能更快地吸引生物。<br><br>- 箱式陷阱的战利品翻倍。<br><br>- 小精灵罐不会破碎。<br><br>- 你可以同时点燃最多9根原木。<br><br>- 你在偷窃、敏捷、狩猎和生火技能上不会失败。<br><br>- 由于此遗物会给予你一件物品，你必须在银行解锁它。	interface	cachedump	cachedump
 - You will obtain the Ruinous Powers, a powerful alternate Prayer Book, with all Prayers unlocked.<br><br>- As this Relic gives you an item it must be unlocked at a Bank.	- 你将获得毁灭之力，一本强大的替代祈祷书，所有祈祷均已解锁。<br><br>- 由于此遗物会给予你一件物品，你必须在银行解锁它。	interface	cachedump	cachedump
 When enabled, shows how long until you can drink a Surge Potion again.	启用后，显示距离你再次饮用涌动药水还有多长时间。	interface	cachedump	cachedump
 Surge Potion cooldown	涌动药水冷却	interface	cachedump	cachedump
@@ -24522,7 +24522,7 @@ The following quests and their pre-reqs are automatically completed but will not
 The drops listed below are affected by the drop rate modifier perks granted by passive Relic unlocks.<br><br>Drop rates affected are always rounded down and are not tied to area unlocks, this list represents the key drops affected in Misthalin.<br><br>- Wyvern Visage from all sources<br>- Draconic Visage from all sources<br>- Dragon Limbs from all sources<br>- Dragon Metal Slice from Adamant dragons<br>- Dragon metal Lump from Rune dragons<br>- Hill Giant Club from Obor<br>- Bryophyta's Essence from Bryophyta<br>- Beginner clue unique rewards<br>- Easy clue unique rewards<br>- Medium clue unique rewards<br>- Hard clue unique rewards<br>- Elite clue unique rewards<br>- Master clue unique rewards<br>- All unique rewards from Superior Slayer Creatures<br>- Dragon pickaxes from all sources<br>- All unique rewards from Tormented demons<br>- All unique rewards from Scurrius<br>- Broken Zombie Axe from Armoured Zombies<br><br>	以下列出的掉落受被动遗物解锁提供的掉率修改器效果影响。<br><br>受影响的掉率始终向下取整，并且不与区域解锁绑定，此列表代表了米斯萨林中受影响的主要掉落。<br><br>- 来自所有来源的飞龙面罩<br>- 来自所有来源的龙形面具<br>- 来自所有来源的龙金弩臂<br>- 来自精金龙的龙金切片<br>- 来自符文龙的龙金属块<br>- 来自奥博尔的丘陵巨人棒<br>- 来自布赖奥菲塔的布赖奥菲塔的精华<br>- 新手线索卷轴独特奖励<br>- 简单线索卷轴独特奖励<br>- 中等线索卷轴独特奖励<br>- 困难线索卷轴独特奖励<br>- 精英线索卷轴独特奖励<br>- 大师线索卷轴独特奖励<br>- 来自高级杀戮生物的所有独特奖励<br>- 来自所有来源的龙金镐<br>- 来自被折磨的恶魔的所有独特奖励<br>- 来自斯库里乌斯的所有独特奖励<br>- 来自装甲僵尸的破损的僵尸斧<br><br>	interface	cachedump	cachedump
 The Karamja area covers the entire island of Karamja along with the island of Crandor and the Realm of the Fisher King.<br><br>Instances of areas in Karamja and underground areas with an entrance in Karamja will also be included.<br><br>When purchasing a Player Owned House from an Estate Agent your house will be placed in Brimhaven so that Construction can be trained from level 1.<br><br>All transportation and teleportation through Charter Ships, Customs Officers, Gnome Gliders, Fairy Rings, Balloons and other forms of transport will require you to have unlocked access to the area your destination is in.<br><br>	卡拉姆詹岛地区覆盖了整个卡拉姆詹岛以及克兰多尔岛和渔王领域。<br><br>卡拉姆詹岛地区的副本实例以及入口在卡拉姆詹岛的地下区域也将包含在内。<br><br>从地产经纪人处购买玩家自有房屋时，你的房屋将放置在布尔哈文镇，以便从1级开始训练建筑技能。<br><br>所有通过包船、海关官员、地精滑翔机、仙子环、热气球和其他形式的运输和传送，都需要你已解锁目的地所在区域的访问权限。<br><br>	interface	cachedump	cachedump
 Notable Settlements:<br><br>- Brimhaven<br>- Karamja Shipyard<br>- Musa Point<br>- Shilo Village<br>- Tai Bwo Wannai<br>- Mor-Ul-Rek<br><br>Notable combat-related activities:<br><br>- Brimhaven Dungeon<br>- Tai Bwo Wannai Dungeon<br>- The Fight Caves<br>- The Fight Pits<br>- Tzhaar-Ket-Rak's Challenges<br>- The Inferno<br>- Tzhaar Creatures<br><br>Notable non-combat activities:<br><br>- Brimhaven Agility Arena<br>- Brimhaven House Portal<br>- Calquat Tree Patch<br>- Infernal Eel Fishing<br>- Fruit Tree Patch<br>- Karambwan Fishing<br>- Nature Altar<br>- Tai Bwo Wannai Cleanup<br>- Teak and Mahogany Woodcutting<br>- Tzhaar Pickpocketing<br>- Tzhaar Gem Shop Thieving<br><br><br>	主要定居点：<br><br>- 布尔哈文镇<br>- 卡拉姆詹岛造船厂<br>- 穆萨角<br>- 希洛村<br>- 泰博瓦纳村<br>- 莫尔-乌尔-雷克<br><br>主要战斗相关活动：<br><br>- 布尔哈文地牢<br>- 泰博瓦纳村地牢<br>- 战斗洞穴<br>- 战斗竞技场<br>- 特扎尔.凯特.拉克的挑战<br>- 地狱<br>- 特扎尔生物<br><br>主要非战斗活动：<br><br>- 布尔哈文敏捷竞技场<br>- 布尔哈文房屋传送门<br>- 卡夸特树种植地<br>- 地狱鳗钓鱼<br>- 果树种植地<br>- 卡兰布万钓鱼<br>- 自然祭坛<br>- 泰博瓦纳村清理<br>- 柚木和桃花心木伐木<br>- 特扎尔扒窃<br>- 特扎尔宝石店偷窃<br><br><br>	interface	cachedump	cachedump
-The following quests and their pre-reqs are automatically completed but will not reward any completion XP:<br><br>- Shilo Village<br><br>The following tasks in the Karamja Achievement Diary are automatically completed:<br><br>Easy Tasks:<br>- Travel to Port Sarim via the dock, east of Musa Point<br>- Travel to Ardougne via the port near Brimhaven<br><br>Medium Tasks:<br>- Use the Gnome Glider to travel to Karamja<br>- Charter a ship from the shipyard in the far east of Karamja<br>- Charter the Lady of the Waves from south of Cairn Isle to Port Khazard<br><br>Hard Tasks:<br>- Eat an oomlie wrap<br>- Collect 5 palm leaves<br>- Kill a deathwing in the Viyeldi Caves under the Kharazi Jungle<br><br>Elite Tasks:<br>- Create an Anti-venom Potion whilst standing in the Horseshoe Mine<br><br>Additionally, Tzhaar-Ket-Rak will let you do all of his challenges immediately.<br><br>	以下任务及其前置任务将自动完成，但不会奖励任何完成经验值：<br><br>- 希洛村<br><br>卡拉姆詹岛成就日记中的以下任务将自动完成：<br><br>简单任务：<br>- 通过穆萨角以东的码头前往沙林港<br>- 通过布尔哈文镇附近的港口前往阿多尼城<br><br>中等任务：<br>- 使用地精滑翔机前往卡拉姆詹岛<br>- 从卡拉姆詹岛最东端的造船厂包船<br>- 从凯恩岛以南包船“波浪女士”号前往卡扎德港<br><br>困难任务：<br>- 吃一个乌姆利卷饼<br>- 收集5片棕榈叶<br>- 在卡拉齐丛林下的维耶尔迪洞穴中杀死一只死亡之翼<br><br>精英任务：<br>- 站在马蹄铁矿场时制作一瓶抗毒药水<br><br>此外，特扎尔.凯特.拉克将让你立即完成他所有的挑战。<br><br>	interface	cachedump	cachedump
+The following quests and their pre-reqs are automatically completed but will not reward any completion XP:<br><br>- Shilo Village<br><br>The following tasks in the Karamja Achievement Diary are automatically completed:<br><br>Easy Tasks:<br>- Travel to Port Sarim via the dock, east of Musa Point<br>- Travel to Ardougne via the port near Brimhaven<br><br>Medium Tasks:<br>- Use the Gnome Glider to travel to Karamja<br>- Charter a ship from the shipyard in the far east of Karamja<br>- Charter the Lady of the Waves from south of Cairn Isle to Port Khazard<br><br>Hard Tasks:<br>- Eat an oomlie wrap<br>- Collect 5 palm leaves<br>- Kill a deathwing in the Viyeldi Caves under the Kharazi Jungle<br><br>Elite Tasks:<br>- Create an Anti-venom Potion whilst standing in the Horseshoe Mine<br><br>Additionally, Tzhaar-Ket-Rak will let you do all of his challenges immediately.<br><br>	以下任务及其前置任务将自动完成，但不会奖励任何完成经验值：<br><br>- 希洛村<br><br>卡拉姆詹岛成就日记中的以下任务将自动完成：<br><br>简单任务：<br>- 通过穆萨角以东的码头前往沙林港<br>- 通过布尔哈文镇附近的港口前往阿多尼城<br><br>中等任务：<br>- 使用地精滑翔机前往卡拉姆詹岛<br>- 从卡拉姆詹岛最东端的造船厂包船<br>- 从凯恩岛以南包船“波浪女士”号前往卡扎德港<br><br>困难任务：<br>- 吃一个乌姆利卷饼<br>- 收集5片棕榈叶<br>- 在卡拉兹丛林下的维耶尔迪洞穴中杀死一只死亡之翼<br><br>精英任务：<br>- 站在马蹄铁矿场时制作一瓶抗毒药水<br><br>此外，特扎尔.凯特.拉克将让你立即完成他所有的挑战。<br><br>	interface	cachedump	cachedump
 The drops listed below are affected by the drop rate modifier perks granted by passive Relic unlocks.<br><br>Drop rates affected are always rounded down and are not tied to area unlocks. This list represents the key drops affected in Karamja.<br><br>- All Tzhaar equipment from various Tzhaar<br>- Obsidian Helmet, Platelegs and Platebody from TzHaar-Ket<br>- Draconic Visage from all sources<br>- All unique rewards from Superior Slayer Creatures<br>- Gout Tuber<br><br><br>	以下列出的掉落受被动遗物解锁提供的掉率修改器效果影响。<br><br>受影响的掉率始终向下取整，并且不与区域解锁绑定。此列表代表了卡拉姆詹岛中受影响的主要掉落。<br><br>- 来自各种特扎尔的所有特扎尔装备<br>- 来自特扎尔.凯特的黑曜石头盔、腿甲和胸甲<br>- 来自所有来源的龙形面具<br>- 来自高级杀戮生物的所有独特奖励<br>- 痛风草茎<br><br><br>	interface	cachedump	cachedump
 The Kandarin area covers the entire Kingdom of Kandarin along with the Feldip Hills, Ape Atoll and Crash Island.<br><br>Instances of areas in Kandarin and underground areas with an entrance in Kandarin are also included (with the exception of Taverley Dungeon and the Underground Pass).<br><br>Access to the Nightmare Zone is restricted. To obtain Nightmare Zone points speak to Dominic Onion and purchase them for 1 GP each.<br><br>Access to White Wolf Mountain and the Fremennik Province bridge will be blocked by magical barriers.<br><br>All transportation and teleportation via Charter Ships, Customs Officers, Gnome Gliders, Fairy Rings, Balloons and all other transport systems will require you to have unlocked access to the area your destination is in.<br><br>The following travel options are restricted unless you have access to the appropriate area:<br><br>- The Underground Pass between Ardougne and Isafdar<br>- The underground tunnel between Catherby and Taverley<br>- The grapple shortcut between Catherby and Taverley<br>- The log shortcut between Sinclair Mansion and the Fremennik Province<br>- The gates between Kandarin and Tirannwn at Arandar<br>- The basalt shortcut between the Barbarian Outpost and the Lighthouse<br>- The doors between the Mourner Headquarters and the Temple of Light<br><br>	坎达林地区覆盖了整个坎达林王国以及费迪普丘陵、猿猴岛和坠毁岛。<br><br>坎达林地区的副本实例以及入口在坎达林的地下区域也包含在内（塔韦利地牢和地下通道除外）。<br><br>噩梦地带的访问受到限制。要获得噩梦地带积分，请与多米尼克.洋葱交谈，并以每点1金币的价格购买。<br><br>通往白狼山和费明尼克省桥的道路将被魔法屏障阻挡。<br><br>所有通过包船、海关官员、地精滑翔机、仙子环、热气球和所有其他交通系统的运输和传送，都需要你已解锁目的地所在区域的访问权限。<br><br>除非你拥有相应区域的访问权限，否则以下旅行选项将受到限制：<br><br>- 阿多尼城和伊萨法德森林之间的地下通道<br>- 凯瑟比镇和塔韦利村之间的地下隧道<br>- 凯瑟比镇和塔韦利村之间的抓钩捷径<br>- 辛克莱尔庄园和费明尼克省之间的原木捷径<br>- 阿兰达尔的坎达林和提拉恩森林之间的门<br>- 野蛮人前哨站和灯塔之间的玄武岩捷径<br>- 哀悼者总部和光之神殿之间的门<br><br>	interface	cachedump	cachedump
 Notable Settlements:<br><br>- Ape Atoll<br>- Ardougne<br>- Barbarian Outpost<br>- Catherby<br>- Corsair Cove<br>- Gu'Tanoth<br>- Myths Guild<br>- Piscatoris Fishing Colony<br>- Port Khazard<br>- Seers' Village<br>- Tree Gnome Stronghold<br>- Tree Gnome Village<br>- Yanille<br><br>Notable combat-related activities:<br><br>- Ancient Cavern<br>- Ape Atoll Monkeys<br>- Barbarian Assault<br>- Castle Wars<br>- Demonic Gorillas<br>- Kraken<br>- Stronghold Slayer Cave<br>- Smoke Devils<br>- Thermonuclear Smoke Devil<br>- Waterfall Dungeon<br>- Poison Waste Dungeon<br><br>Notable non-combat activities:<br><br>- Ardougne Market Thieving<br>- Ardougne Rooftop Agility Course<br>- Ardougne & Catherby Allotment Patches<br>- Catherby, Gnome Stronghold & Tree Gnome Stronghold Fruit Tree Patches<br>- Barbarian Fishing<br>- Barbarian Agility Training<br>- Catherby Fishing<br>- Chompy Bird Hunting<br>- Feldip Hills Hunter Training<br>- Fishing Trawler<br>- Gnome Stronghold Agility Training<br>- Gnome Stronghold Tree Patch<br>- Fishing Guild<br>- Myths' Guild<br>- Piscatoris Hunter Training Grounds<br>- Ourania Altar<br>- Wrath Altar<br>- Seers' Village Rooftop Agility Course<br>- Spirit Tree Access<br>- Tower of Life<br>- Yanille House Portal<br><br>- Wrath Talisman has been added to the East Ardougne General Store	主要定居点：<br><br>- 猿猴岛<br>- 阿多尼城<br>- 野蛮人前哨站<br>- 凯瑟比镇<br>- 海盗湾<br>- 古塔诺斯<br>- 神话公会<br>- 皮斯卡托里斯渔村<br>- 卡扎德港<br>- 先知村<br>- 地精要塞<br>- 地精村庄<br>- 亚尼勒城<br><br>主要战斗相关活动：<br><br>- 古代洞穴<br>- 猿猴岛猴子<br>- 野蛮人突袭<br>- 城堡战争<br>- 恶魔大猩猩<br>- 克拉肯海怪<br>- 要塞杀戮者洞穴<br>- 烟魔<br>- 热核烟魔<br>- 瀑布地牢<br>- 毒废地牢<br><br>主要非战斗活动：<br><br>- 阿多尼城市场偷窃<br>- 阿多尼城屋顶敏捷课程<br>- 阿多尼城和凯瑟比镇农田种植地<br>- 凯瑟比镇、地精要塞和地精要塞果树种植地<br>- 野蛮人钓鱼<br>- 野蛮人敏捷训练<br>- 凯瑟比镇钓鱼<br>- 食人鸟狩猎<br>- 费迪普丘陵猎人训练<br>- 捕鱼拖网<br>- 地精要塞敏捷训练<br>- 地精要塞树木种植地<br>- 钓鱼公会<br>- 神话公会<br>- 皮斯卡托里斯猎人训练场<br>- 乌拉尼亚祭坛<br>- 愤怒祭坛<br>- 先知村屋顶敏捷课程<br>- 灵魂树访问<br>- 生命之塔<br>- 亚尼勒城房屋传送门<br><br>- 愤怒护符已添加到东阿多尼城杂货店	interface	cachedump	cachedump
@@ -24546,7 +24546,7 @@ Chambers of Xeric: Challenge mode has the following changes<br><br>- Damage & De
 The Varlamore area covers the entirety of Varlamore, including the island of Aldarin.<br><br>Instances of areas in Varlamore and underground areas with an entrance in Varlamore will also be included.<br><br>All transportation and teleportation via Charter Ships, Customs Officers, Gnome Gliders, Fairy Rings, Balloons and all other forms of transport will require you to have unlocked access to the area your destination is in.<br><br><br><br>	瓦拉莫尔地区覆盖了整个瓦拉莫尔，包括阿尔达林岛。<br><br>瓦拉莫尔地区的副本实例以及入口在瓦拉莫尔的地下区域也将包含在内。<br><br>所有通过包船、海关官员、地精滑翔机、仙子环、热气球和所有其他形式的运输和传送，都需要你已解锁目的地所在区域的访问权限。<br><br><br><br>	interface	cachedump	cachedump
 Notable Settlements:<br><br>- Civitas illa Fortis<br>- Avium Savannah<br>- Cam Torum<br>- Ralos Rise<br>- Darkfrost<br>- Aldarin<br>- Twilight Temple<br>- The Stranglewood (accessable via a league navigator in northern Varlamore)<br>- Ruins of Tapoyauik<br>- Tlati Rainforest<br>- Tal teklan<br>- Crypt of Tonali<br>- Kastori<br>- Auburn Valley<br>- Auburnvale<br>- Custodia Mountains<br><br>Notable combat-related activities:<br><br>- Moons of Peril<br>- Fortis Colosseum<br>- Amoxliatl<br>- Hueycoatl<br>- Vardorvis<br>- Doom of Mokhaiotl<br>- Gemstone Crab<br>- Custodian slayer creatures<br><br>Notable non-combat activities:<br><br>- House robbery<br>- Calcified mining<br>- Blessed bone shards<br>- Hunter's guild with Hunter rumours<br>- Mastering Mixology Herblore activity<br>- Colossal Wyrm agility course<br>- Civitas Illa Fortis allotment patch<br>- Oasis Hardwood Tree patch<br>- Crafting Sunfire Runes<br>- Vale totems fletching<br><br>The following Varlamore shop stocks have been modified:<br>- Hunting crossbow at the Sunset coast charter ships.<br>- Throwing knives (up to Steel) at Arcuani's Archery Supplies<br>- Daggers and Halberds (up to Steel) at the Fortis blacksmith.<br><br><br><br>	主要定居点：<br><br>- 福蒂斯城<br>- 阿维乌姆草原<br>- 卡姆托鲁姆<br>- 拉洛斯高地<br>- 暗霜<br>- 阿尔达林岛<br>- 暮光神庙<br>- 绞杀林（可通过瓦拉莫尔北部的联赛航海家进入）<br>- 塔波亚维克遗址<br>- 特拉蒂雨林<br>- 塔尔泰克兰<br>- 托纳利地穴<br>- 卡斯托里<br>- 赤褐谷<br>- 赤褐谷镇<br>- 库斯托迪亚山脉<br><br>主要战斗相关活动：<br><br>- 灾厄之月<br>- 福蒂斯竞技场<br>- 阿莫克斯利亚特尔<br>- 休伊科特尔<br>- 瓦多维斯<br>- 莫凯奥特之灾<br>- 宝石蟹<br>- 库斯托迪亚杀戮者生物<br><br>主要非战斗活动：<br><br>- 房屋抢劫<br>- 钙化采矿<br>- 被祝福的骨片<br>- 猎人公会及猎人传闻<br>- 精通调合草药学活动<br>- 巨虫敏捷课程<br>- 福蒂斯城农田种植地<br>- 绿洲硬木树种植地<br>- 制作太阳火符文<br>- 山谷图腾制箭<br><br>以下瓦拉莫尔商店库存已修改：<br>- 日落海岸包船处的狩猎弩。<br>- 阿库阿尼的弓箭用品店出售的飞刀（最高钢制）。<br>- 福蒂斯城铁匠出售的匕首和长柄武器（最高钢制）。<br><br><br><br>	interface	cachedump	cachedump
 The following quests and their pre-reqs are automatically completed but will not reward any completion XP:<br><br>- Children of the Sun<br>- Twilight's Promise<br>- Perilous Moons<br>- Eagles peak<br><br>The following Combat Achievements are automatically completed:<br><br>- Back to Our Roots<br>- Demonic Rebound<br>- I was here first!<br><br>	以下任务及其前置任务将自动完成，但不会奖励任何完成经验值：<br><br>- 太阳之子<br>- 暮光之约<br>- 灾厄之月<br>- 鹰峰<br><br>以下战斗成就将自动完成：<br><br>- 回归本源<br>- 恶魔反弹<br>- 我先来的！<br><br>	interface	cachedump	cachedump
-The drops listed below are affected by the drop rate modifier perks granted by passive Relic unlocks.<br><br>Drop rates affected are always rounded down and are not tied to area unlocks. This list represents the key drops affected in Varlamore.<br><br>- All unique rewards from Moons of Peril<br>- All unique rewards from the Colosseum<br>- All unique rewards from Amoxliatl<br>- All unique rewards from Frost Nagua<br>- All unique rewards from Sulphur Nagua<br>- All unique rewards from Earthen Nagua<br>- All unique rewards from Hueycoatl<br>- All unique rewards from Vardorvis<br>- Pendant of Ates<br>- Hunters' Guild loot sack rares<br>- Tecu Salamander<br>- All unique rewards from Doom<br>- All unique rewards from Vale totems<br>- Antler guard from Custodian slayer creatures<br>	以下列出的掉落物受被动遗物解锁提供的掉落率修正增益影响。<br><br>受影响的掉落率始终向下取整，且与区域解锁无关。此列表代表瓦尔拉莫受影响的主要掉落物。<br><br>- 来自灾厄之月的所有独特奖励<br>- 来自竞技场的所有独特奖励<br>- 来自阿莫克斯利亚特尔的所有独特奖励<br>- 来自冰那伽的所有独特奖励<br>- 来自硫磺那伽的所有独特奖励<br>- 来自土那伽的所有独特奖励<br>- 来自休伊科特尔的所有独特奖励<br>- 来自瓦多维斯的所有独特奖励<br>- 阿特斯吊坠<br>- 猎人公会战利品袋稀有物品<br>- 特库蝾螈<br>- 来自末日之灾的所有独特奖励<br>- 来自山谷图腾的所有独特奖励<br>- 来自库斯托迪亚杀戮生物的鹿角护手<br>	interface	cachedump	cachedump
+The drops listed below are affected by the drop rate modifier perks granted by passive Relic unlocks.<br><br>Drop rates affected are always rounded down and are not tied to area unlocks. This list represents the key drops affected in Varlamore.<br><br>- All unique rewards from Moons of Peril<br>- All unique rewards from the Colosseum<br>- All unique rewards from Amoxliatl<br>- All unique rewards from Frost Nagua<br>- All unique rewards from Sulphur Nagua<br>- All unique rewards from Earthen Nagua<br>- All unique rewards from Hueycoatl<br>- All unique rewards from Vardorvis<br>- Pendant of Ates<br>- Hunters' Guild loot sack rares<br>- Tecu Salamander<br>- All unique rewards from Doom<br>- All unique rewards from Vale totems<br>- Antler guard from Custodian slayer creatures<br>	以下列出的掉落物受被动遗物解锁提供的掉落率修正增益影响。<br><br>受影响的掉落率始终向下取整，且与区域解锁无关。此列表代表瓦拉莫尔受影响的主要掉落物。<br><br>- 来自灾厄之月的所有独特奖励<br>- 来自竞技场的所有独特奖励<br>- 来自阿莫克斯利亚特尔的所有独特奖励<br>- 来自冰那伽的所有独特奖励<br>- 来自硫磺那伽的所有独特奖励<br>- 来自土那伽的所有独特奖励<br>- 来自休伊科特尔的所有独特奖励<br>- 来自瓦多维斯的所有独特奖励<br>- 阿特斯吊坠<br>- 猎人公会战利品袋稀有物品<br>- 特库蝾螈<br>- 来自末日之灾的所有独特奖励<br>- 来自山谷图腾的所有独特奖励<br>- 来自库斯托迪亚杀戮生物的鹿角护手<br>	interface	cachedump	cachedump
 Leagues V - Raging Echoes	联赛 V - 狂暴回响	interface	cachedump	cachedump
 Leagues V	联赛 V	interface	cachedump	cachedump
 A cosmetic banner that represents Leagues V - Raging Echoes. The banner is held in the main-hand slot.	一面代表联赛 V - 狂暴回响的装饰旗帜。这面旗帜装备在主手栏位。	interface	cachedump	cachedump
@@ -24698,7 +24698,7 @@ Woodsman	樵夫	interface	cachedump	cachedump
 Barbarian Gathering	野蛮人采集	interface	cachedump	cachedump
 While the <col=#>Searing boots</col> are worn, you gain the following benefits:<br><br>- <col=#>Agility</col> experience is gained based on your <col=#>Agility</col> level while you run.<br><br>- Caught fish are automatically cooked.<br><br>- Mined ore is automatically smelted.<br><br>Additionally, regardless of your footwear:<br><br>- Picking up some <col=#>Termites</col> or a <col=#>Mark of grace</col> from a course will automatically complete the lap granting completion XP and 10,000 <col=#>coins</col>.<br><br>- <col=#>Marks of grace</col> will always have a 33% chance to spawn on all rooftop courses.<br><br>- Completing a course grants two completion count and 25% bonus experience.<br><br>- 100% success rate on all actions for <col=#>Agility</col> and <col=#>Cooking</col>.<br><br>- You will receive 2x <col=#>Termites</col> from the Colossal Wyrm Agility Course.<br><br>- You will receive 10x <col=#>Crystal shards</col> from Prifddinas Agility Course.	穿着 <col=#>灼热之靴</col> 时，你获得以下增益：<br><br>- 奔跑时根据你的 <col=#>敏捷</col> 等级获得 <col=#>敏捷</col> 经验值。<br><br>- 钓到的鱼会自动烹饪。<br><br>- 开采的矿石会自动冶炼。<br><br>此外，无论你穿着何种鞋类：<br><br>- 从课程中拾取一些 <col=#>白蚁</col> 或 <col=#>优雅印记</col> 将自动完成该圈，给予完成经验值和 10,000 <col=#>金币</col>。<br><br>- <col=#>优雅印记</col> 在所有屋顶课程上总是有 33% 的几率生成。<br><br>- 完成一个课程给予两次完成计数和 25% 的奖励经验值。<br><br>- <col=#>敏捷</col> 和 <col=#>烹饪</col> 的所有动作 100% 成功。<br><br>- 你将获得 2 倍的 <col=#>白蚁</col> 来自巨蠕虫敏捷课程。<br><br>- 你将获得 10 倍的 <col=#>水晶碎片</col> 来自普里夫迪纳斯城敏捷课程。	interface	cachedump	cachedump
 Hotfoot	疾步	interface	cachedump	cachedump
-You will gain the following benefits while <col=#>Thieving</col>:<br>- 100% success rate on all actions.<br>- You will automatically re-pickpocket an NPC.<br>- You will automatically re-steal from a stall.<br>- Items obtained from pickpocketing and stalls are noted.<br>- Stalls never deplete and guards will never catch you thieving them.<br>- The amount of coin pouches you can carry is increased by 10x.<br><br>Additionally, while <col=#>Thieving</col> loot is increased by 10x for the following:<br>- Pickpocketing.<br>- Stealing from stalls.<br>- Stealing house valuables in Varlamore.	进行 <col=#>偷窃</col> 时，你将获得以下增益：<br>- 所有动作 100% 成功。<br>- 你将自动重复扒窃 NPC。<br>- 你将自动重复从摊位偷窃。<br>- 从扒窃和摊位获得的物品将变为银行票据。<br>- 摊位永远不会耗尽，守卫永远不会抓住你偷窃。<br>- 你可以携带的钱袋数量增加 10 倍。<br><br>此外，进行 <col=#>偷窃</col> 时，以下物品的战利品增加 10 倍：<br>- 扒窃。<br>- 从摊位偷窃。<br>- 在瓦尔拉莫偷窃房屋贵重物品。	interface	cachedump	cachedump
+You will gain the following benefits while <col=#>Thieving</col>:<br>- 100% success rate on all actions.<br>- You will automatically re-pickpocket an NPC.<br>- You will automatically re-steal from a stall.<br>- Items obtained from pickpocketing and stalls are noted.<br>- Stalls never deplete and guards will never catch you thieving them.<br>- The amount of coin pouches you can carry is increased by 10x.<br><br>Additionally, while <col=#>Thieving</col> loot is increased by 10x for the following:<br>- Pickpocketing.<br>- Stealing from stalls.<br>- Stealing house valuables in Varlamore.	进行 <col=#>偷窃</col> 时，你将获得以下增益：<br>- 所有动作 100% 成功。<br>- 你将自动重复扒窃 NPC。<br>- 你将自动重复从摊位偷窃。<br>- 从扒窃和摊位获得的物品将变为银行票据。<br>- 摊位永远不会耗尽，守卫永远不会抓住你偷窃。<br>- 你可以携带的钱袋数量增加 10 倍。<br><br>此外，进行 <col=#>偷窃</col> 时，以下物品的战利品增加 10 倍：<br>- 扒窃。<br>- 从摊位偷窃。<br>- 在瓦拉莫尔偷窃房屋贵重物品。	interface	cachedump	cachedump
 Larcenist	窃贼	interface	cachedump	cachedump
 - All non-combat skills are permanently boosted by 10.<br><br>- Every time you receive an XP drop, gain an additional 2 XP in the same skill. This is affected by the League Passive XP modifier.<br><br>- For every XP gained, gain 2x as many coins. These can go either to your bank or inventory if there is room, which can be toggled above.	- 所有非战斗技能永久提升 10 级。<br><br>- 每当你获得一次经验值掉落，在相同技能中额外获得 2 点经验值。这受联赛被动经验值修正影响。<br><br>- 每获得一点经验值，获得 2 倍的金币。这些金币可以存入你的银行或背包（如果有空间），可以在上方切换。	interface	cachedump	cachedump
 Abundance	丰饶	interface	cachedump	cachedump
@@ -25045,7 +25045,7 @@ Mushrooms patch	蘑菇种植地	interface	cachedump	cachedump
 Grapevine patch	葡萄藤种植地	interface	cachedump	cachedump
 Hardwood tree patch	硬木树种植地	interface	cachedump	cachedump
 Redwood patch	红木种植地	interface	cachedump	cachedump
-Limpwurt	软根草	interface	cachedump	cachedump
+Limpwurt	软木草	interface	cachedump	cachedump
 Dead herb	死亡的草药	interface	cachedump	cachedump
 Empty bin	空桶	interface	cachedump	cachedump
 Compostable items	可堆肥物品	interface	cachedump	cachedump
@@ -25133,9 +25133,9 @@ South-east corner of the Fishing Platform	钓鱼平台东南角	interface	cached
 Outside the Slayer Tower gargoyle room	杀戮者之塔石像鬼房间外	interface	cachedump	cachedump
 On top of Trollheim Mountain	巨魔海姆山顶	interface	cachedump	cachedump
 Outside the temple in Civitas illa Fortis	福蒂斯城寺庙外	interface	cachedump	cachedump
-On Wintumber Island	温特姆伯岛上	interface	cachedump	cachedump
+On Wintumber Island	冬木岛上	interface	cachedump	cachedump
 Inside the Digsite Exam Centre	考古挖掘场考试中心内	interface	cachedump	cachedump
-North-east corner of the Kharazi Jungle	卡拉齐丛林东北角	interface	cachedump	cachedump
+North-east corner of the Kharazi Jungle	卡拉兹丛林东北角	interface	cachedump	cachedump
 Volcano in the north-eastern Wilderness	东北荒野的火山	interface	cachedump	cachedump
 In the middle of Jiggig	吉吉格中央	interface	cachedump	cachedump
 Hosidius Mess	霍西迪乌斯城食堂	interface	cachedump	cachedump
@@ -25194,7 +25194,7 @@ Ogre cage in the Ardougne Training Camp	阿多尼城训练营的食人魔笼子	
 Aris's tent	阿里斯的帐篷	interface	cachedump	cachedump
 Iffie Nitter in Varrock	维洛克城的伊菲.尼特	interface	cachedump	cachedump
 Bob's Brilliant Axes in Lumbridge	仑桥镇的鲍勃精良斧头店	interface	cachedump	cachedump
-Wartface & Bentnoze	歪脸与塌鼻	interface	cachedump	cachedump
+Wartface & Bentnoze	疣脸与弯鼻	interface	cachedump	cachedump
 Corporal	下士	interface	cachedump	cachedump
 Owner	店主	interface	cachedump	cachedump
 Not ranked	未排名	interface	cachedump	cachedump
@@ -26094,7 +26094,7 @@ Terracotta	赤陶色	interface	cachedump	cachedump
 Initial Setup	初始设置	interface	cachedump	cachedump
 Your character starts outside Lumbridge Castle.|Your character begins restricted to the areas of Misthalin and Karamja. As you complete tasks, you can unlock more areas.|Full information about each of the areas can be found in the Area Selection Menu. This can be accessed from the Leagues Menu in the Journal Panel.|All experience gained will be multiplied by 5x, and this will increase as you unlock more Relics.|Content released during Leagues V will be reviewed and enabled for the League on a case-by-case basis.|Leagues V: Raging Echoes will run from November 27th 2024 until the game update on January 22nd 2025.	你的角色从仑桥镇城堡外开始。|你的角色一开始只能进入米斯塔林和卡拉姆詹岛的区域。完成任务后，可以解锁更多区域。|每个区域的详细信息可以在区域选择菜单中找到。该菜单可通过日志面板中的联赛菜单访问。|所有获得的经验值将乘以5倍，并且随着你解锁更多遗物，倍率还会增加。|联赛V期间发布的内容将根据具体情况审核并启用。|联赛V：狂怒回响将于2024年11月27日开始，持续至2025年1月22日的游戏更新。	interface	cachedump	cachedump
 Your character is an Ironman, meaning you cannot trade with other players.|As you begin with Misthalin and Karamja unlocked, the following quests have been auto-completed:|- Dragon Slayer<br>- Druidic Ritual<br>- Elemental Workshop I<br>- Bone Voyage<br>    - Dig Site<br>- Fairytale II - Cure a Queen<br>   - Fairytale I - Growing Pains<br>      - Lost City<br>      - Nature Spirit<br>         - Priest in Peril<br>         - The Restless Ghost<br>- Shilo Village<br>   - Jungle Potion|You will start with the following stat increases:|- 3 Herblore<br>- 5 Runecraft|A Dramen Staff will be added to your Inventory so that you can access Zanaris. If lost, you can reclaim it from the Sage in Lumbridge.<br><br>Any pets obtained in the previous league can be freely reclaimed from the Sage or Probita. Pet transmogs you may of obtained in the previous league will also be auto unlocked at the start of the league, though these will both no longer count towards your collection log total counter on a league world.	你的角色是钢铁人模式，意味着你不能与其他玩家交易。|由于你一开始就解锁了米斯塔林和卡拉姆詹岛，以下任务已自动完成：|- 屠龙者<br>- 德鲁伊仪式<br>- 元素工坊 I<br>- 骨头之旅<br>    - 考古挖掘场<br>- 童话 II-治愈女王<br>   - 童话 I-成长的烦恼<br>      - 失落之城<br>      - 自然之灵<br>         - 危难中的祭司<br>         - 不安的幽灵<br>- 希洛村<br>   - 丛林药水|你将获得以下属性提升：|- 3级草药学<br>- 5级符石制作|一根德拉门法杖将添加到你的背包中，以便你进入扎纳里斯城。如果丢失，你可以从仑桥镇的智者那里重新领取。<br><br>在上一个联赛中获得的任何宠物都可以从智者或普罗比塔那里免费重新领取。你在上一个联赛中可能获得的宠物外观也会在联赛开始时自动解锁，不过这些在联赛世界中不再计入你的收藏日志总数。	interface	cachedump	cachedump
-Slayer Masters will assign you the same tasks, taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However, you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified:|- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.	杀戮大师会根据你当前解锁的区域分配相同的任务。|前往未解锁区域的传送和交通方式将受到限制。|购买玩家拥有的房屋时，它将位于布尔哈文镇。你的房屋只能移动到已解锁的区域。|解锁新区域将完成各种任务和成就日记任务，但不会奖励任何任务完成经验值。不过，你可以在解锁区域之前自行完成某些任务以获得经验值。|某些Boss可以选择在私人区域中战斗，而不会受到其他玩家的干扰。|某些商店物品将拥有无限库存，并允许你购买已标注的物品。|以下商店库存已修改：|- 研钵和研杵以及箱式陷阱已添加到仑桥镇杂货店<br>- 黑铁腿甲已添加到霍维克的盔甲店<br>- 元素盾牌已添加到所有杀戮装备商店|维洛克城的塞萨利亚将提供额外的改妆服务。|小精灵的生成率已提高。|稀有精灵的稀有度已提高。|龙精灵掉落减少的龙骨。|所有猎魂斧碎片将从每个沙漠宝藏2的Boss身上掉落。	interface	cachedump	cachedump
+Slayer Masters will assign you the same tasks, taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However, you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified:|- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.	杀戮大师会根据你当前解锁的区域分配相同的任务。|前往未解锁区域的传送和交通方式将受到限制。|购买玩家拥有的房屋时，它将位于布尔哈文镇。你的房屋只能移动到已解锁的区域。|解锁新区域将完成各种任务和成就日记任务，但不会奖励任何任务完成经验值。不过，你可以在解锁区域之前自行完成某些任务以获得经验值。|某些Boss可以选择在私人区域中战斗，而不会受到其他玩家的干扰。|某些商店物品将拥有无限库存，并允许你购买票据形式的物品。|以下商店库存已修改：|- 研钵和研杵以及箱式陷阱已添加到仑桥镇杂货店<br>- 黑铁腿甲已添加到霍维克的盔甲店<br>- 元素盾牌已添加到所有杀戮装备商店|维洛克城的塞萨利亚将提供额外的改妆服务。|小精灵的生成率已提高。|稀有精灵的稀有度已提高。|龙精灵掉落减少的龙骨。|所有猎魂斧碎片将从每个沙漠宝藏2的Boss身上掉落。	interface	cachedump	cachedump
 Welcome to Leagues V - Raging Echoes!	欢迎来到联赛V - 狂怒回响！	interface	cachedump	cachedump
 The Leagues Menu	联赛菜单	interface	cachedump	cachedump
 Finishing Up	结束	interface	cachedump	cachedump
@@ -26178,7 +26178,7 @@ Wily	狡猾	interface	cachedump	cachedump
 Skulled	骷髅标记	interface	cachedump	cachedump
 Beast	野兽	interface	cachedump	cachedump
 Gnome Elder	地精长老	interface	cachedump	cachedump
-Wintumber	温特伯	interface	cachedump	cachedump
+Wintumber	冬木	interface	cachedump	cachedump
 Oak	橡木	interface	cachedump	cachedump
 Maple	枫木	interface	cachedump	cachedump
 Yew	紫杉木	interface	cachedump	cachedump
@@ -26249,7 +26249,7 @@ Morytanian	莫里塔尼亚人	interface	cachedump	cachedump
 Tirannian	提兰尼亚人	interface	cachedump	cachedump
 Brassican	布拉西卡人	interface	cachedump	cachedump
 Saradominist	萨拉多明信徒	interface	cachedump	cachedump
-Guthixian	古西克斯信徒	interface	cachedump	cachedump
+Guthixian	古斯信徒	interface	cachedump	cachedump
 Zamorakian	扎莫拉克信徒	interface	cachedump	cachedump
 Serenist	塞伦信徒	interface	cachedump	cachedump
 Bandosian	班多斯信徒	interface	cachedump	cachedump
@@ -26648,7 +26648,7 @@ Wardens, The	典狱长	interface	cachedump	cachedump
 Jackal's Torch, The	胡狼的火炬	interface	cachedump	cachedump
 Your character starts outside Lumbridge Castle.|Your character begins restricted to the areas of Misthalin and Karamja. As you complete tasks, you can unlock more areas.|Full information about each of the areas can be found in the Area Selection Menu. This can be accessed from the Leagues Menu in the Journal Panel.|All experience gained will be multiplied by 5x, and this will increase as you unlock more Relics.|Content released during Leagues V will be reviewed and enabled for the League on a case-by-case basis.|Leagues V: Raging Echoes will run from November 27th 2024 until the game update on January 22th 2025.	你的角色从仑桥镇城堡外开始。|你的角色初始限制在米斯塔林和卡拉姆詹地区。完成任务后，你可以解锁更多区域。|每个区域的完整信息可以在区域选择菜单中找到，该菜单可通过日志面板中的联赛菜单访问。|所有获得的经验值将乘以5倍，并且随着你解锁更多遗物，倍率还会增加。|联赛V期间发布的内容将逐案审查并决定是否在联赛中启用。|联赛V：狂怒回响将于2024年11月27日开始，持续到2025年1月22日的游戏更新。	interface	cachedump	cachedump
 Your character is an Ironman, meaning you cannot trade with other players.|As you begin with Misthalin and Karamja unlocked, the following quests have been auto-completed:|- Dragon Slayer<br>- Druidic Ritual<br>- Elemental Workshop I<br>- Bone Voyage<br>    - Dig Site<br>- Fairytale II - Cure a Queen<br>   - Fairytale I - Growing Pains<br>      - Lost City<br>      - Nature Spirit<br>         - Priest in Peril<br>         - The Restless Ghost<br>- Shilo Village<br>   - Jungle Potion|You will start with the following stat increases:|- 3 Herblore<br>- 5 Runecraft|A Dramen Staff will be added to your Inventory so that you can access Zanaris. If lost, you can reclaim it from the Sage in Lumbridge.	你的角色是铁人模式，意味着你不能与其他玩家交易。|由于你初始已解锁米斯塔林和卡拉姆詹，以下任务已自动完成：|- 屠龙者<br>- 德鲁伊仪式<br>- 元素工坊 I<br>- 骨头之旅<br>    - 考古挖掘场<br>- 童话 II-治愈女王<br>   - 童话 I-成长的烦恼<br>      - 失落之城<br>      - 自然之灵<br>         - 危难中的祭司<br>         - 不安的幽灵<br>- 希洛村<br>   - 丛林药水|你将获得以下属性提升：|- 3 草药学<br>- 5 符石制作|一根德拉门法杖将被添加到你的背包中，以便你进入扎纳里斯城。如果丢失，你可以从仑桥镇的智者那里重新领取。	interface	cachedump	cachedump
-Slayer Masters will assign you the same tasks, taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However, you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified:|- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.|Pets do not count towards the collection log tasks.	杀戮大师会根据你当前解锁的区域分配相同的任务。|传送到未解锁区域之外地点的传送和交通方式将受到限制。|购买玩家拥有的房屋时，它将可以从布尔哈文镇进入。你的房屋只能移动到已解锁的区域。|解锁新区域将完成各种任务和成就日记任务，但不会奖励任务完成经验值。不过，你可以在解锁自动完成该任务的区域之前，自行完成某些任务以获得经验值。|某些Boss可以选择在没有其他玩家的私人区域中战斗。|某些商店物品将拥有无限库存，并允许你购买已标注的物品。|以下商店库存已修改：|- 研钵和研杵以及箱式陷阱已添加到仑桥镇杂货店<br>- 黑铁腿甲已添加到霍维克的盔甲店<br>- 元素盾已添加到所有杀戮装备商店|维洛克城的塞萨利亚将提供额外的改妆服务。|小精灵的生成率已提高。|稀有精灵的稀有度已提高。|龙精灵掉落减少的龙骨。|所有猎魂斧碎片将从每个沙漠宝藏2的Boss身上掉落。|宠物不计入收藏日志任务。	interface	cachedump	cachedump
+Slayer Masters will assign you the same tasks, taking into account the areas you have currently unlocked.|Teleports and transportation methods to locations outside of areas you have unlocked are restricted.|When purchasing your Player Owned House it will be accessible from Brimhaven. Your house can only be moved to areas you have unlocked.|Unlocking new areas will complete various quests and Achievement Diary tasks but will not award any quest completion XP. However, you may complete some quests on your own to gain their XP before unlocking the area which auto-completes it.|Some bosses will have the option to be fought in private areas without other players.|Some shop items will have infinite stock and let you buy items already noted.|The following shop stocks have been modified:|- Pestle and Mortars and Box Traps have been added to the Lumbridge General Store<br>- Black Platelegs have been added to Horvik's Armour Shop<br>- Elemental Shields have been added to all Slayer Equipment shops|Thessalia in Varrock will offer additional makeover services.|Impling spawn rates have been increased.|Rarity of rare implings has been increased.|Dragon implings drop reduced Dragon Bones.|All Soulreaper Axe pieces will drop from every Desert Treasure 2 Boss.|Pets do not count towards the collection log tasks.	杀戮大师会根据你当前解锁的区域分配相同的任务。|传送到未解锁区域之外地点的传送和交通方式将受到限制。|购买玩家拥有的房屋时，它将可以从布尔哈文镇进入。你的房屋只能移动到已解锁的区域。|解锁新区域将完成各种任务和成就日记任务，但不会奖励任务完成经验值。不过，你可以在解锁自动完成该任务的区域之前，自行完成某些任务以获得经验值。|某些Boss可以选择在没有其他玩家的私人区域中战斗。|某些商店物品将拥有无限库存，并允许你购买票据形式的物品。|以下商店库存已修改：|- 研钵和研杵以及箱式陷阱已添加到仑桥镇杂货店<br>- 黑铁腿甲已添加到霍维克的盔甲店<br>- 元素盾已添加到所有杀戮装备商店|维洛克城的塞萨利亚将提供额外的改妆服务。|小精灵的生成率已提高。|稀有精灵的稀有度已提高。|龙精灵掉落减少的龙骨。|所有猎魂斧碎片将从每个沙漠宝藏2的Boss身上掉落。|宠物不计入收藏日志任务。	interface	cachedump	cachedump
 Wilderness Cemetery	荒野墓地	interface	cachedump	cachedump
 Moonclan	月族	interface	cachedump	cachedump
 Waterbirth	水之诞生	interface	cachedump	cachedump
@@ -27326,7 +27326,7 @@ Charges: 0	充能次数：0	interface	cachedump	cachedump
 Iorwerth Camp	伊奥维斯营地	interface	cachedump	cachedump
 Lumber-yard	木材场	interface	cachedump	cachedump
 Revenant caves	亡灵洞穴	interface	cachedump	cachedump
-Guthixian Temple	古西斯神殿	interface	cachedump	cachedump
+Guthixian Temple	古斯神殿	interface	cachedump	cachedump
 Spider Cave	蜘蛛洞穴	interface	cachedump	cachedump
 Colossal Wyrm	巨型蛇龙	interface	cachedump	cachedump
 Progress:	进度：	interface	cachedump	cachedump
@@ -27801,9 +27801,9 @@ Brimhaven, east of the fruit tree patch.	布尔哈文镇，果树种植地东边
 West of Brimhaven.	布尔哈文镇西边。	interface	cachebonus	table18
 West of the gnome glider.	地精滑翔机西边。	interface	cachebonus	table18
 Karamjan Shipyard (W)	卡拉姆詹岛造船厂 (西)	interface	cachebonus	table18
-North-eastern part of Kharazi Jungle.	卡拉赞丛林的东北部。	interface	cachebonus	table18
+North-eastern part of Kharazi Jungle.	卡拉兹丛林的东北部。	interface	cachebonus	table18
 Kharazi Jungle (NE)	卡拉兹丛林（东北）	interface	cachebonus	table18
-South-western part of Kharazi Jungle.	卡拉赞丛林的西南部。	interface	cachebonus	table18
+South-western part of Kharazi Jungle.	卡拉兹丛林的西南部。	interface	cachebonus	table18
 Kharazi Jungle (SW)	卡拉兹丛林（西南）	interface	cachebonus	table18
 Northern part of Crash Island.	坠机岛的北部。	interface	cachebonus	table18
 Crash Island (N)	坠机岛（北）	interface	cachebonus	table18
@@ -27978,8 +27978,8 @@ West of Bandit Camp in Kharidian Desert.	卡里迪安沙漠强盗营地西边。
 On the southern part of eastern Karamja.	在卡拉姆詹岛东部的南部。	interface	cachebonus	table18
 Kharazi Jungle, near water pool (CKR).	卡拉兹丛林，水池附近 (CKR)。	interface	cachebonus	table18
 Mort Myre Swamp (BKR).	莫特迈尔沼泽（BKR）。	interface	cachebonus	table18
-South-east of Kharazi Jungle.	卡拉赞丛林东南部。	interface	cachebonus	table18
-South-west of Kharazi Jungle.	卡拉赞丛林西南部。	interface	cachebonus	table18
+South-east of Kharazi Jungle.	卡拉兹丛林东南部。	interface	cachebonus	table18
+South-west of Kharazi Jungle.	卡拉兹丛林西南部。	interface	cachebonus	table18
 Wilderness. South-west of Ferox Enclave (level 11).	荒野。费罗飞地西南部（等级11）。	interface	cachebonus	table18
 On the summit of Trollheim.	在巨魔之山的山顶。	interface	cachebonus	table18
 Wilderness. Graveyard of Shadows.	荒野。阴影墓地。	interface	cachebonus	table18
@@ -28384,7 +28384,7 @@ The crates in Rommik's Crafty Supplies in Rimmington.	里明顿村罗米克精�
 Horvik's Smithy is found north-east of of Varrock Square.	霍维克的铁匠铺位于维洛克城广场东北方向。	interface	cachebonus	table16
 The Crystal chest can be found in the house directly south of the Witch's house in Taverley.	水晶宝箱可以在塔韦利村女巫小屋正南边的房子里找到。	interface	cachebonus	table16
 Search the crates in the back room of the Hosidius fruit store.	搜查霍西迪乌斯水果店后室的板条箱。	interface	cachebonus	table16
-Search the stones several steps west of the Guthixian stone circle in Taverley.	搜索塔韦利村古西克斯石圈西边几步的石头。	interface	cachebonus	table16
+Search the stones several steps west of the Guthixian stone circle in Taverley.	搜索塔韦利村古斯石圈西边几步的石头。	interface	cachebonus	table16
 Search the crate on the Seers Agility Course in Seers Village	搜索先知村先知敏捷训练场上的板条箱	interface	cachebonus	table16
 Open the drawers inside the room with the spinning wheel on the first floor of Lumbridge Castle.	打开仑桥镇城堡一楼有旋转轮子的房间里的抽屉柜。	interface	cachebonus	table16
 Search the crates near the Clay golem in the ruins of Uzer.	在乌泽废墟中粘土魔像附近的板条箱里搜索。	interface	cachebonus	table16
@@ -28686,7 +28686,7 @@ Varrock is where I reside, not the land of the dead, but I am so old, I should b
 With a name like that, you'd expect a little more than just a few scimitars.	有这样的名字，你期望的不只是几把弯刀。	interface	cachebonus	table8
 You must be 100 to play with me.	你必须达到100级才能和我一起玩。	interface	cachebonus	table8
 I live in a deserted crack collecting soles.	我住在一个废弃的裂缝里收集鞋底。	interface	cachebonus	table8
-A Guthixian ring lies between two peaks. Search the stones and you'll find what you seek.	一枚古瑟斯之戒位于两座山峰之间。搜索那些石头，你就会找到你要找的东西。	interface	cachebonus	table8
+A Guthixian ring lies between two peaks. Search the stones and you'll find what you seek.	一枚古斯之戒位于两座山峰之间。搜索那些石头，你就会找到你要找的东西。	interface	cachebonus	table8
 Even the seers say this clue goes right over their heads.	就连先知们都说这个线索完全看不懂。	interface	cachebonus	table8
 Right on the blessed border, cursed by the evil ones. On the spot inaccessible by both; I will be waiting. The bugs' imminent possession holds the answer.	就在神圣的边界上，被邪恶者诅咒。双方都无法进入的地方；我会在那里等着。虫子即将占据的答案就在那里。	interface	cachebonus	table8
 Green is the colour of my death as the winter-guise, I swoop towards the ground.	绿色是我作为冬日伪装时的死亡之色，我俯冲向地面。	interface	cachebonus	table8
@@ -29027,7 +29027,7 @@ Spin on the bridge by the Barbarian Village. Salute before you talk to me. Equip
 Think in the centre of the Observatory. Spin before you talk to me. Equip a mithril chain body, green dragonhide chaps and a ruby amulet.	在天文台中央思考。跟我说话前先转圈。装备秘银链甲、绿龙皮裤和红宝石护符。	interface	cachebonus	table9
 Yawn in the Castle Wars lobby. Shrug before you talk to me. Equip a ruby amulet, a mithril scimitar and a Wilderness cape.	在城堡战争大厅打哈欠。跟我说话前耸耸肩。装备一个红宝石护符、一把秘银弯刀和一件荒野斗篷。	interface	cachebonus	table9
 Yawn in the centre of the Arceuus Library. Nod your head before you talk to me. Equip blue dragonhide vambraces, adamant boots and an adamant dagger.	在阿西乌斯图书馆中央打哈欠。跟我说话前先点头。装备蓝龙皮护臂、精金靴和一把精金匕首。	interface	cachebonus	table9
-Beckon on the east coast of the Kharazi Jungle. Beware of double agents! Equip any vestment stole and a heraldic rune shield.	在卡拉赞丛林东海岸召唤。小心双重间谍！装备任意一件祭司长袍和一面纹章符文盾。	interface	cachebonus	table9
+Beckon on the east coast of the Kharazi Jungle. Beware of double agents! Equip any vestment stole and a heraldic rune shield.	在卡拉兹丛林东海岸召唤。小心双重间谍！装备任意一件祭司长袍和一面纹章符文盾。	interface	cachebonus	table9
 Blow a kiss between the tables in Shilo Village bank. Beware of double agents! Equip a blue mystic hat, bone spear and rune platebody.	在希洛村银行的桌子间飞个吻。小心双重间谍！装备蓝色神秘帽、骨制长矛和符文胸甲。	interface	cachebonus	table9
 Blow a raspberry in the Fishing Guild bank. Beware of double agents! Equip an elemental shield, blue dragonhide chaps and a rune warhammer.	在钓鱼公会银行里吹个口哨。小心双重间谍！装备一个元素盾、蓝龙皮裤和一把符文战锤。	interface	cachebonus	table9
 Bow at the top of the lighthouse. Beware of double agents! Equip a blue dragonhide body, blue dragonhide vambraces and no jewelry.	在灯塔顶部鞠躬。小心双重间谍！装备蓝龙皮甲、蓝龙皮护臂，不戴任何首饰。	interface	cachebonus	table9
@@ -29135,24 +29135,24 @@ Pansexual Jumper	泛性恋毛衣	interface	cachebonus	table34
 Non-binary Jumper	非二元色毛衣	interface	cachebonus	table34
 Genderqueer Jumper	性别酷儿毛衣	interface	cachebonus	table34
 Welcome to The Forestry Shop.	欢迎来到林业商店。	interface	cachebonus	table39
-Oak log (noted)	橡木原木（已注明）	interface	cachebonus	table41
-Oak logs (noted)	橡木原木（已注明）	interface	cachebonus	table41
-Willow log (noted)	柳木原木（已注明）	interface	cachebonus	table41
-Willow logs (noted)	柳木原木（已注明）	interface	cachebonus	table41
-Yew log (noted)	紫杉原木 (已记录)	interface	cachebonus	table41
-Yew logs (noted)	紫杉原木（已注明）	interface	cachebonus	table41
-Maple log (noted)	枫木原木 (已注明)	interface	cachebonus	table41
-Maple logs (noted)	枫木原木（已注明）	interface	cachebonus	table41
-Magic log (noted)	魔法原木 (已记录)	interface	cachebonus	table41
-Magic logs (noted)	魔法原木(已注明)	interface	cachebonus	table41
-Teak log (noted)	柚木原木 (已记录)	interface	cachebonus	table41
-Teak logs (noted)	柚木原木（已注明）	interface	cachebonus	table41
-Mahogany log (noted)	红木原木 (记名)	interface	cachebonus	table41
-Mahogany logs (noted)	红木原木（已注明）	interface	cachebonus	table41
-Redwood log (noted)	红杉原木 (已注明)	interface	cachebonus	table41
-Redwood logs (noted)	红杉原木（已注明）	interface	cachebonus	table41
-Arctic pine log (noted)	北极松原木 (已注明)	interface	cachebonus	table41
-Arctic pine logs (noted)	北极松原木（已注明）	interface	cachebonus	table41
+Oak log (noted)	橡木原木（票据）	interface	cachebonus	table41
+Oak logs (noted)	橡木原木（票据）	interface	cachebonus	table41
+Willow log (noted)	柳木原木（票据）	interface	cachebonus	table41
+Willow logs (noted)	柳木原木（票据）	interface	cachebonus	table41
+Yew log (noted)	紫杉原木（票据）	interface	cachebonus	table41
+Yew logs (noted)	紫杉原木（票据）	interface	cachebonus	table41
+Maple log (noted)	枫木原木（票据）	interface	cachebonus	table41
+Maple logs (noted)	枫木原木（票据）	interface	cachebonus	table41
+Magic log (noted)	魔法原木（票据）	interface	cachebonus	table41
+Magic logs (noted)	魔法原木（票据）	interface	cachebonus	table41
+Teak log (noted)	柚木原木（票据）	interface	cachebonus	table41
+Teak logs (noted)	柚木原木（票据）	interface	cachebonus	table41
+Mahogany log (noted)	红木原木（票据）	interface	cachebonus	table41
+Mahogany logs (noted)	红木原木（票据）	interface	cachebonus	table41
+Redwood log (noted)	红杉原木（票据）	interface	cachebonus	table41
+Redwood logs (noted)	红杉原木（票据）	interface	cachebonus	table41
+Arctic pine log (noted)	北极松原木（票据）	interface	cachebonus	table41
+Arctic pine logs (noted)	北极松原木（票据）	interface	cachebonus	table41
 Awarded per point of damage dealt to any boss spawned from a Breach.<br>Cap of 75,000 points from breach bosses.<br>Cap of 5,000 points per day.<br>Daily cap is cumulative, meaning day 5, if you received no points day 1-4, you could obtain 25,000 points day 5.	根据对裂隙产生的任何Boss造成的伤害点数奖励。<br>裂隙Boss最多75,000点。<br>每天最多5,000点。<br>每日上限是累积的，意思是第5天，如果你前4天没有获得任何点数，你可以获得25,000点。	interface	cachebonus	table32
 5 points awarded per level.<br>5 additional points awarded per level from level 50 onwards.<br>300 bonus points is awarded for each 99.	每级奖励5点。<br>从50级开始，每级额外奖励5点。<br>每99级额外奖励300点。	interface	cachebonus	table32
 Awarded per collection log.	每个收藏日志奖励。	interface	cachebonus	table32
@@ -29324,7 +29324,7 @@ Sunlight Spear & Sunlit Bracers	日光长矛与日光护腕	interface	cachebonus
 A powerful spear and shield combo with a unique area of effect special attack.<br><br>Bracers that have adequate stats and a special effect that doubles healing received.	一套强大的长矛和盾牌组合，拥有独特的区域效果战技。<br><br>护腕拥有足够的属性，并具有使治疗量翻倍的特效。	interface	cachebonus	table122
 A ring boasting very high stats for all styles.	一枚在所有风格上拥有极高属性的戒指。	interface	cachebonus	table122
 Increase XP gain by 200% for all skills.	所有技能的经验值获得量增加200%。	interface	cachebonus	table122
-You gain the following perks to <col=#>Thieving</col>:<br><br>- Pickpocketing an NPC will also pickpocket all NPCs of similar type in a 11x11 square, granting extra loot for each NPC pickpocketed.<br><br>- 100% success rate on all Thieving checks.<br><br> - Automatically re-pickpocket an NPC or stall until you can no longer do so.<br><br>- Items obtained from pickpocketing are noted.<br><br>- Maximum coin pouch count increased by 3x.<br><br>- Stalls do not deplete when you steal from them.	你获得以下<col=#>偷窃</col>增益：<br><br>- 偷窃 NPC 也会在 11x11 正方形内偷窃所有相同类型的 NPC，每偷窃一个 NPC 获得额外战利品。<br><br>- 所有偷窃检定 100% 成功。<br><br>- 自动重复偷窃 NPC 或摊位直到无法继续。<br><br>- 偷窃获得的物品变为记名物品。<br><br>- 最大钱袋数量增加 3 倍。<br><br>- 从摊位偷窃时摊位不会耗尽。	interface	cachebonus	table122
+You gain the following perks to <col=#>Thieving</col>:<br><br>- Pickpocketing an NPC will also pickpocket all NPCs of similar type in a 11x11 square, granting extra loot for each NPC pickpocketed.<br><br>- 100% success rate on all Thieving checks.<br><br> - Automatically re-pickpocket an NPC or stall until you can no longer do so.<br><br>- Items obtained from pickpocketing are noted.<br><br>- Maximum coin pouch count increased by 3x.<br><br>- Stalls do not deplete when you steal from them.	你获得以下<col=#>偷窃</col>增益：<br><br>- 偷窃 NPC 也会在 11x11 正方形内偷窃所有相同类型的 NPC，每偷窃一个 NPC 获得额外战利品。<br><br>- 所有偷窃检定 100% 成功。<br><br>- 自动重复偷窃 NPC 或摊位直到无法继续。<br><br>- 偷窃获得的物品变为票据形式的物品。<br><br>- 最大钱袋数量增加 3 倍。<br><br>- 从摊位偷窃时摊位不会耗尽。	interface	cachebonus	table122
 Choose your own slayer assignments.	选择你自己的杀戮任务。	interface	cachebonus	table122
 Always be on-task for all slayer monsters and unlock all slayer task perks for free.	始终专注于所有杀戮怪物，并免费解锁所有杀戮任务加成。	interface	cachebonus	table122
 Gain the Banker's Briefcase, which can teleport to any deposit box, bank, or bank chest.	获得银行职员公文包，可传送至任意存放箱、银行或银行宝箱。	interface	cachebonus	table122
@@ -29364,7 +29364,7 @@ Open polls in which you may vote	可投票的开放投票	interface	cachebonus	t
 I sit on the beach and cry for those that have passed on.	我坐在海滩上，为逝去的人哭泣。	interface	cachebonus	table8
 Their bane awaits, but don't be going in there without permission.	他们的克星在等着，但没允许别进去。	interface	cachebonus	table8
 Dance a jig behind the bar on the Pandemonium.<br>Equip a right eye patch and a bronze scimitar.	在潘德莫尼姆岛的吧台后面跳吉格舞。<br>装备右眼罩和青铜弯刀。	interface	cachebonus	table9
-Do the crab dance by the monument on Wintumber Island. Equip a crab helmet and a crab claw.	在温特姆伯岛的纪念碑旁跳螃蟹舞。装备一个螃蟹头盔和一个螃蟹爪。	interface	cachebonus	table9
+Do the crab dance by the monument on Wintumber Island. Equip a crab helmet and a crab claw.	在冬木岛的纪念碑旁跳螃蟹舞。装备一个螃蟹头盔和一个螃蟹爪。	interface	cachebonus	table9
 Bow in front of the cave on Brittle Isle. Beware of double agents! Equip a Medallion of the Deep and a rosewood blowpipe.	在脆裂岛的洞穴前鞠躬。小心双重间谍！装备深海奖章和玫瑰木吹箭筒。	interface	cachebonus	table9
 You won't bring me to heel, unless you have a bright red keel.	你休想让我屈服，除非你有一根鲜红的龙骨。	interface	cachebonus	table11
 Equip a right eye patch and a bronze scimitar.	装备右眼罩和青铜弯刀。	interface	cachebonus	table28
@@ -30387,9 +30387,9 @@ Alchemic spells transmute items.	炼金法术可以转化物品。	interface	cac
 Alchemic spells will now transmute certain items.	炼金法术现在可以转化某些物品。	interface	cachebonus	table221
 Alchemic spells will now turn items into gold like normal Alchemy spells.	炼金法术现在会像普通炼金法术一样将物品变成黄金。	interface	cachebonus	table221
 Transmutation bank toggle	转化银行开关	interface	cachebonus	table221
-Transmutation spells bank noted products.	转化法术将物品存入银行。	interface	cachebonus	table221
-Transmutation spells will now send noted products to the bank.	转化法术现在会将已注明物品存入银行。	interface	cachebonus	table221
-Transmutation spells will now send noted products to the inventory.	转化法术现在会将已注明形式的产物发送到物品栏。	interface	cachebonus	table221
+Transmutation spells bank noted products.	转化法术将票据形式的产物存入银行。	interface	cachebonus	table221
+Transmutation spells will now send noted products to the bank.	转化法术现在会将票据形式的产物存入银行。	interface	cachebonus	table221
+Transmutation spells will now send noted products to the inventory.	转化法术现在会将票据形式的产物发送到物品栏。	interface	cachebonus	table221
 Soul Harvest bone toggle	灵魂收获骨头开关	interface	cachebonus	table221
 All dropped bones and ashes will be turned into Soul Shards.	所有掉落的骨头和灰烬都会变成灵魂碎片。	interface	cachebonus	table221
 All dropped bones and ashes will be turned into Soul Shards and put into your inventory.	所有掉落的骨头和灰烬都会变成灵魂碎片并放入你的背包。	interface	cachebonus	table221
@@ -32030,14 +32030,14 @@ When thinking about a Rework for Mining, which of the following are the closest 
 Troll Romance: not complete	巨魔浪漫史：未完成	interface	wiki_rescrape	wiki_rescrape
 Some Oyster Pearls	一些牡蛎珍珠	interface	wiki_rescrape	wiki_rescrape
 This is your Forestry kit	这是你的林业套件	interface	wiki_rescrape	wiki_rescrape
-60 Arctic pine logs (noted)	60根北极松原木（已注明）	interface	wiki_rescrape	wiki_rescrape
+60 Arctic pine logs (noted)	60根北极松原木（票据）	interface	wiki_rescrape	wiki_rescrape
 1 Graceful Hood	1 优雅兜帽	interface	wiki_rescrape	wiki_rescrape
 Similar to the other Imbued God Capes, this kit won't feature on the Collection Log, but should still prove a solid flex to show other players that your mechanics are up to par and that you're ready for anything!	与其他灌注神斗篷类似，这套装饰不会出现在收藏日志中，但仍足以向其他玩家展示你的操作水平已达标，随时准备应对一切！	interface	wiki_rescrape	wiki_rescrape
 A Ring of Life	一枚生命戒指	interface	wiki_rescrape	wiki_rescrape
 You have obtained 1 signature so far.	你目前已获得1个签名。	interface	wiki_rescrape	wiki_rescrape
 C :  Senntisten	C :  森提斯滕	interface	wiki_rescrape	wiki_rescrape
 Horror from the Deep: not complete	深海惊魂：未完成	interface	wiki_rescrape	wiki_rescrape
-Endurance (hard): 5,000 coins will be deducted from the coffer. The dream will feature the following enemies:	耐力 (困难)：将从保险箱中扣除5,000金币。梦疗法将出现以下敌人：	interface	wiki_rescrape	wiki_rescrape
+Endurance (hard): 5,000 coins will be deducted from the coffer. The dream will feature the following enemies:	耐力 (困难)：将从保险箱中扣除5,000金币。梦境将出现以下敌人：	interface	wiki_rescrape	wiki_rescrape
 *** Dart Construction ***	*** 飞镖制作 ***	interface	wiki_rescrape	wiki_rescrape
 Learn how to combine the Slayer skillcape hood (with level 99 Slayer) with your Slayer helmet to show your mastery while slaying. (1000 points)	学习如何将杀戮者技能披风兜帽 (需99级杀戮) 与你的杀戮者头盔结合，在杀戮时展示你的精通。(1000点)	interface	wiki_rescrape	wiki_rescrape
 Rename tag tab	重命名标签页	interface	wiki_rescrape	wiki_rescrape
@@ -32258,7 +32258,7 @@ Ability to receive Clue Scroll	获得线索卷轴的能力	interface	wiki_rescra
 Whenever you get an Araxyte task, it will be a bigger task. (150 points)	每当你接到阿拉克西特任务时，它都会变成更大的任务。（150点）	interface	wiki_rescrape	wiki_rescrape
 AND 75 steel arrows	以及75支钢箭	interface	wiki_rescrape	wiki_rescrape
 You lose!	你输了！	interface	wiki_rescrape	wiki_rescrape
-60 Redwood logs (noted)	60根红杉原木（已备注）	interface	wiki_rescrape	wiki_rescrape
+60 Redwood logs (noted)	60根红杉原木（票据）	interface	wiki_rescrape	wiki_rescrape
 Quest: Bone Voyage (Members Only)	任务：骨头之旅（仅限会员）	interface	wiki_rescrape	wiki_rescrape
 Access to Zanaris	进入扎纳里斯城	interface	wiki_rescrape	wiki_rescrape
 Find something trying to leech power from the Storm Tempor.	找到试图从风暴Tempor吸取力量的东西。	interface	wiki_rescrape	wiki_rescrape
@@ -32404,7 +32404,7 @@ Section 4.	第4部分。	interface	wiki_rescrape	wiki_rescrape
 Rotate Mirror	旋转镜子	interface	wiki_rescrape	wiki_rescrape
 Kill Terrorbird	杀死骇鸟	interface	wiki_rescrape	wiki_rescrape
 King Roald II, put a 1,200	罗尔德国王二世，下注1,200	interface	wiki_rescrape	wiki_rescrape
-The bank exchanges your banknotes for items.	银行将你的纸币兑换成物品。	interface	wiki_rescrape	wiki_rescrape
+The bank exchanges your banknotes for items.	银行将你的票据兑换成物品。	interface	wiki_rescrape	wiki_rescrape
 Skill Requirements:	技能要求：	interface	wiki_rescrape	wiki_rescrape
 1 Graceful Top	1件优雅上衣	interface	wiki_rescrape	wiki_rescrape
 There has been an exciting development closer to home --	离家更近的地方有了令人兴奋的进展——	interface	wiki_rescrape	wiki_rescrape
@@ -32436,7 +32436,7 @@ The secateurs attachment allows you to collect more leaves when chopping trees.	
 Tick-manipulation methods	Tick 操作技巧	interface	wiki_rescrape	wiki_rescrape
 You find a book of hand written notes.	你找到一本手写笔记。	interface	wiki_rescrape	wiki_rescrape
 Extremely excited	极度兴奋	interface	wiki_rescrape	wiki_rescrape
-60 Magic logs (noted)	60 根魔法原木（已备注）	interface	wiki_rescrape	wiki_rescrape
+60 Magic logs (noted)	60 根魔法原木（票据）	interface	wiki_rescrape	wiki_rescrape
 Learn how to combine an Araxyte head with your Slayer helmet to theme it like the Araxxor. (1000 points)	学习如何将阿拉克西特头颅与你的杀戮者头盔结合，使其呈现阿拉克索的风格。（1000 点）	interface	wiki_rescrape	wiki_rescrape
 E :  Aldarin	E ：阿尔达林岛	interface	wiki_rescrape	wiki_rescrape
 B :  Port Piscarilius	B ：皮斯卡里琉斯港	interface	wiki_rescrape	wiki_rescrape
@@ -32464,7 +32464,7 @@ Configuring...	正在配置……	interface	wiki_rescrape	wiki_rescrape
 Mining - Level-up Unlocks	采矿 - 升级解锁	interface	wiki_rescrape	wiki_rescrape
 7 :  Kourend Castle	7 :  库兰德城堡	interface	wiki_rescrape	wiki_rescrape
 Learn to craft your own Slayer Rings, with level 75 Crafting. (150 points)	学会制作你自己的杀戮戒指，需要75级制作。(150点)	interface	wiki_rescrape	wiki_rescrape
-Varlamore: Aldarin	瓦尔拉莫尔：阿尔达林岛	interface	wiki_rescrape	wiki_rescrape
+Varlamore: Aldarin	瓦拉莫尔：阿尔达林岛	interface	wiki_rescrape	wiki_rescrape
 Congratulations, you just advanced 3 combat levels.	恭喜，你刚刚提升了3个战斗等级。	interface	wiki_rescrape	wiki_rescrape
 It explodes.	它爆炸了。	interface	wiki_rescrape	wiki_rescrape
 There's something on the shaft already.	杆上已经有什么东西了。	interface	wiki_rescrape	wiki_rescrape
@@ -32474,7 +32474,7 @@ Attack - 560 XP	攻击 - 560 经验	interface	wiki_rescrape	wiki_rescrape
 Turn pressure valve up	调高压力阀门	interface	wiki_rescrape	wiki_rescrape
 You take the mirror from the pillar.	你从柱子上取下了镜子。	interface	wiki_rescrape	wiki_rescrape
 USA (East)	美国（东部）	interface	wiki_rescrape	wiki_rescrape
-Use a banknote on the bank to convert it to an item.	对银行使用纸币可将其转换为物品。	interface	wiki_rescrape	wiki_rescrape
+Use a banknote on the bank to convert it to an item.	对银行使用票据可将其转换为物品。	interface	wiki_rescrape	wiki_rescrape
 You find a fractured crystal and three mirrors.	你找到了一块碎裂的水晶和三面镜子。	interface	wiki_rescrape	wiki_rescrape
 Follow the directional arrow on the minimap to find Nomad. Speak with him to learn about being a ghost.	跟随小地图上的方向箭头找到游牧民。与他交谈以了解如何成为幽灵。	interface	wiki_rescrape	wiki_rescrape
 Level: --	等级：--	interface	wiki_rescrape	wiki_rescrape
@@ -32504,7 +32504,7 @@ You're nearly finished with the tutorial. All you need to do now is move on to t
 Whenever you get a Dust Devil task, it will be a bigger task. (100 points)	每当你接到尘魔任务时，它都会是更大的任务。（100 点）	interface	wiki_rescrape	wiki_rescrape
 You can pick these tools up	你可以捡起这些工具	interface	wiki_rescrape	wiki_rescrape
 Follow the directional arrow on the minimap to find the blue exit portal. Use the portal to return to the waiting area.	跟随小地图上的方向箭头找到蓝色出口传送门。使用传送门返回等候区。	interface	wiki_rescrape	wiki_rescrape
-Varlamore: Auburn Valley	瓦拉莫：赤褐色山谷	interface	wiki_rescrape	wiki_rescrape
+Varlamore: Auburn Valley	瓦拉莫尔：赤褐色山谷	interface	wiki_rescrape	wiki_rescrape
 You found this outside the library in the manor.	你是在庄园的图书馆外找到这个的。	interface	wiki_rescrape	wiki_rescrape
 Teleport to Al Kharid	传送到阿尔卡里德城	interface	wiki_rescrape	wiki_rescrape
 The melting pot is empty.	熔炉是空的。	interface	wiki_rescrape	wiki_rescrape
@@ -32585,7 +32585,7 @@ An Uncut Ruby	一颗未切割的红宝石	interface	wiki_rescrape	wiki_rescrape
 Void Knight Seal - 10 points	虚空骑士印章 - 10点	interface	wiki_rescrape	wiki_rescrape
 Bottomless bucket	无底桶	interface	wiki_rescrape	wiki_rescrape
 You could get bonus membership days by redeeming 2 or 3 bonds instead.	如果你改为兑换2或3张债券，就可以获得额外会员天数。	interface	wiki_rescrape	wiki_rescrape
-60 Teak logs (noted)	60根柚木原木（已备注）	interface	wiki_rescrape	wiki_rescrape
+60 Teak logs (noted)	60根柚木原木（票据）	interface	wiki_rescrape	wiki_rescrape
 Plotting revenge	密谋复仇	interface	wiki_rescrape	wiki_rescrape
 Mining - Experience	采矿 - 经验	interface	wiki_rescrape	wiki_rescrape
 Players Ready: 1 (4 needed)	已就绪玩家：1（需要4人）	interface	wiki_rescrape	wiki_rescrape
@@ -32611,7 +32611,7 @@ You deliver the crate of fish and complete your courier	你送达了装有鱼的
 Show task: Body builder	显示任务：身体塑造者	interface	wiki_rescrape	wiki_rescrape
 Time left: 1 min	剩余时间：1分钟	interface	wiki_rescrape	wiki_rescrape
 There is nothing in the pillar.	柱子里什么也没有。	interface	wiki_rescrape	wiki_rescrape
-You may invite people to share your Rumble dream. All of you must have funds in the coffer to pay for it.	你可以邀请他人共享你的Rumble梦疗法。你们所有人都必须在保险箱中有资金来支付费用。	interface	wiki_rescrape	wiki_rescrape
+You may invite people to share your Rumble dream. All of you must have funds in the coffer to pay for it.	你可以邀请他人共享你的Rumble梦境。你们所有人都必须在保险箱中有资金来支付费用。	interface	wiki_rescrape	wiki_rescrape
 Chat disabled	聊天已禁用	interface	wiki_rescrape	wiki_rescrape
 Contact: not complete	联系：未完成	interface	wiki_rescrape	wiki_rescrape
 Next Departure: ~40 secs	下次出发：约40秒	interface	wiki_rescrape	wiki_rescrape
@@ -32631,7 +32631,7 @@ Learn how to combine a Dark Claw with your Slayer helmet to colour it purple. (1
 Stamina potions	耐力药水	interface	wiki_rescrape	wiki_rescrape
 You suck the blue dye into the bellows.	你把蓝色染料吸入风箱。	interface	wiki_rescrape	wiki_rescrape
 The ocean.	海洋。	interface	wiki_rescrape	wiki_rescrape
-60 Mahogany logs (noted)	60 红木原木（已备注）	interface	wiki_rescrape	wiki_rescrape
+60 Mahogany logs (noted)	60 红木原木（票据）	interface	wiki_rescrape	wiki_rescrape
 To set your heading, simply click	要设置你的朝向，只需点击	interface	wiki_rescrape	wiki_rescrape
 Click the anvil to begin smithing.	点击铁砧开始锻造。	interface	wiki_rescrape	wiki_rescrape
 Is there anything else that you would like to tell us about Smithing in particular?	关于锻造，你还有什么特别想告诉我们的吗？	interface	wiki_rescrape	wiki_rescrape
@@ -32693,7 +32693,7 @@ Show task: Getting started with Fishing	显示任务：钓鱼入门	interface	wi
 Not having enough advanced notice of changes	没有足够提前获知变更	interface	wiki_rescrape	wiki_rescrape
 Bone in vinegar (Bear Ribs)	醋泡骨头（熊肋骨）	interface	wiki_rescrape	wiki_rescrape
 Mortimer, Konar, Duradel, Nieve and Chaeldar will be able to assign Vampyres as your task. (80 points)	莫蒂默、Konar、杜拉德尔、尼芙和查尔达可以为你指派吸血鬼任务。（80 点）	interface	wiki_rescrape	wiki_rescrape
-Access to Varlamore	进入 Varlamore 的权限	interface	wiki_rescrape	wiki_rescrape
+Access to Varlamore	进入瓦拉莫尔的权限	interface	wiki_rescrape	wiki_rescrape
 (1) Raw trout	(1) 生鳟鱼	interface	wiki_rescrape	wiki_rescrape
 Gnome Stronghold to claim your reward.	地精要塞领取你的奖励。	interface	wiki_rescrape	wiki_rescrape
 For over one hundred	超过一百	interface	wiki_rescrape	wiki_rescrape
@@ -32873,7 +32873,7 @@ Find a sealed crate east of Stonecutter Outpost and sample the contents.	在石�
 You add 1 Iron bar to the crucible.	你向坩埚中加入1 铁锭。	interface	wiki_rescrape	wiki_rescrape
 Add to playlist 3	添加到播放列表3	interface	wiki_rescrape	wiki_rescrape
 Used for creating compost and crafting Forester's rations.	用于制作堆肥和制作护林员的口粮。	interface	wiki_rescrape	wiki_rescrape
-Phials converts your banknotes.	菲尔斯会为你兑换纸币。	interface	wiki_rescrape	wiki_rescrape
+Phials converts your banknotes.	菲尔斯会为你兑换票据。	interface	wiki_rescrape	wiki_rescrape
 Kourend Castle Respawn Point	库兰德城堡重生点	interface	wiki_rescrape	wiki_rescrape
 The Ape Atoll Teleport Spell	猿猴岛传送术	interface	wiki_rescrape	wiki_rescrape
 West = Silam	西 = 西拉姆	interface	wiki_rescrape	wiki_rescrape
@@ -32962,7 +32962,7 @@ It's a fisherman's shipwreck. You might be able to salvage something	这是一�
 Find the wreck of the Soul Searcher south west of the Tear of the Soul.	在灵魂之泪西南方找到灵魂搜索者号沉船。	interface	wiki_rescrape	wiki_rescrape
 You are caught and thrown out of the Goblin Temple.	你被抓住并被扔出了哥布林神庙。	interface	wiki_rescrape	wiki_rescrape
 Please drink from the vial to wake up.	请喝下小瓶中的药水以醒来。	interface	wiki_rescrape	wiki_rescrape
-Eastern Kharazi Jungle - *** Completed ***	东卡哈兹丛林 - *** 已完成 ***	interface	wiki_rescrape	wiki_rescrape
+Eastern Kharazi Jungle - *** Completed ***	东卡拉兹丛林 - *** 已完成 ***	interface	wiki_rescrape	wiki_rescrape
 A non-overgrown cat for catching rats	一只未过度肥胖的猫，用于抓老鼠	interface	wiki_rescrape	wiki_rescrape
 You don't have any fishing bait left.	你没有鱼饵了。	interface	wiki_rescrape	wiki_rescrape
 You add some dusted chocolate for that final touch.	你加入一些巧克力粉作为最后的点缀。	interface	wiki_rescrape	wiki_rescrape
@@ -33160,7 +33160,7 @@ Returning the jar	归还罐子	interface	wiki_rescrape	wiki_rescrape
 Vannah's Farming Stall	范娜的农业摊位	interface	wiki_rescrape	wiki_rescrape
 You need at least one copper ore and one tin ore to smelt a bronze	你至少需要一块铜矿石和一块锡矿石才能熔炼出青铜	interface	wiki_rescrape	wiki_rescrape
 You search the ice and find a key.	你搜索冰块，找到了一把钥匙。	interface	wiki_rescrape	wiki_rescrape
-Find a spool of Barracuda grade rope east of Wintumber Island.	在冬青月岛以东找到一卷梭鱼级绳索。	interface	wiki_rescrape	wiki_rescrape
+Find a spool of Barracuda grade rope east of Wintumber Island.	在冬木岛以东找到一卷梭鱼级绳索。	interface	wiki_rescrape	wiki_rescrape
 These gloves allow the wearer to nimbly dislodge birds' nests, giving them a greater chance of receiving their desired type of nest.	这副手套能让佩戴者灵巧地取下鸟巢，从而更有可能获得他们想要的鸟巢类型。	interface	wiki_rescrape	wiki_rescrape
 The Tempor Tantrum Statistics	坦珀脾气统计	interface	wiki_rescrape	wiki_rescrape
 Oak logs x 10	橡木原木 x 10	interface	wiki_rescrape	wiki_rescrape
@@ -33192,7 +33192,7 @@ Preparing to grow	准备生长	interface	wiki_rescrape	wiki_rescrape
 Insert Coins into the highlighted slot  Switch the bank to Insert mode (highlighted)	将金币插入高亮槽位  将银行切换为插入模式（高亮）	interface	wiki_rescrape	wiki_rescrape
 Karamja Volcano	卡拉姆詹岛火山	interface	wiki_rescrape	wiki_rescrape
 Find a crashed glider north of Ape Atoll.	在猿猴岛北边找到一架坠毁的滑翔机。	interface	wiki_rescrape	wiki_rescrape
-Find an odd statue on Wintumber Island.	在温图伯岛上找到一座奇怪的雕像。	interface	wiki_rescrape	wiki_rescrape
+Find an odd statue on Wintumber Island.	在冬木岛上找到一座奇怪的雕像。	interface	wiki_rescrape	wiki_rescrape
 You do not have the materials required to make that.	你没有制作该物品所需的材料。	interface	wiki_rescrape	wiki_rescrape
 Opening the portal	开启传送门	interface	wiki_rescrape	wiki_rescrape
 You will need to get another copy from the Varrock Palace Library if you destroy this one.	如果你摧毁了这本，你需要从维洛克城宫殿图书馆再获取一本。	interface	wiki_rescrape	wiki_rescrape
@@ -33729,7 +33729,7 @@ A weapon and armour (melee recommended)	武器和盔甲（推荐近战）	interf
 Find an elven shipwreck in the middle of the Crystal Sea.	在水晶海中央找到一艘精灵沉船。	interface	wiki_rescrape	wiki_rescrape
 They have legs.	它们有腿。	interface	wiki_rescrape	wiki_rescrape
 Fairy ring (ALP)	仙女环（ALP）	interface	wiki_rescrape	wiki_rescrape
-Molten glass (can be noted)	熔融玻璃（可兑换为纸币）	interface	wiki_rescrape	wiki_rescrape
+Molten glass (can be noted)	熔融玻璃（可兑换为票据）	interface	wiki_rescrape	wiki_rescrape
 Delphinium seeds	翠雀花种子	interface	wiki_rescrape	wiki_rescrape
 Fire = Tepat	火 = Tepat	interface	wiki_rescrape	wiki_rescrape
 @ttip_list@Mounted Shark	@ttip_list@壁挂鲨鱼	interface	wiki_rescrape	wiki_rescrape
@@ -33803,7 +33803,7 @@ Gorak's Plane	戈拉克的位面	interface	wiki_rescrape	wiki_rescrape
 Which of these is not a type of dragon?	以下哪一项不是龙的类型？	interface	wiki_rescrape	wiki_rescrape
 Change icon (mission)	更改图标（任务）	interface	wiki_rescrape	wiki_rescrape
 Antipoison (or equivalent)	解毒药（或同等物品）	interface	wiki_rescrape	wiki_rescrape
-Pick Limpwurt in Catherby	在凯瑟比镇采摘酸模	interface	wiki_rescrape	wiki_rescrape
+Pick Limpwurt in Catherby	在凯瑟比镇采摘软木草	interface	wiki_rescrape	wiki_rescrape
 Quest: Troll Stronghold (Members Only)	任务：巨魔要塞（仅限会员）	interface	wiki_rescrape	wiki_rescrape
 Adventurers.	冒险者。	interface	wiki_rescrape	wiki_rescrape
 You have unlocked: Larupia fur clothing and Gourmet	你已解锁：棘刺狮皮服装和美食家	interface	wiki_rescrape	wiki_rescrape
@@ -34673,7 +34673,7 @@ It doubles in size.	它的大小翻了一倍。	interface	wiki_rescrape	wiki_res
 Cargo: Crate of amulets	货物：装有护符的箱	interface	wiki_rescrape	wiki_rescrape
 Islands: Isle of Souls	岛屿：灵魂岛	interface	wiki_rescrape	wiki_rescrape
 Max net depth: Moderate	最大网深：中等	interface	wiki_rescrape	wiki_rescrape
-Find a map south west of the Kharazi Jungle and copy it.	在卡哈兹丛林西南方找到一张地图并复制它。	interface	wiki_rescrape	wiki_rescrape
+Find a map south west of the Kharazi Jungle and copy it.	在卡拉兹丛林西南方找到一张地图并复制它。	interface	wiki_rescrape	wiki_rescrape
 Red Axe Employee Records	红斧员工记录	interface	wiki_rescrape	wiki_rescrape
 The bottom of the flag is purple.	旗帜的底部是紫色的。	interface	wiki_rescrape	wiki_rescrape
 You need a bucket of ectoplasm to put into the Ectofuntus.	你需要一桶灵质才能放入灵泉。	interface	wiki_rescrape	wiki_rescrape
@@ -34806,7 +34806,7 @@ Unlocked from Shilo Village	从希洛村解锁	interface	wiki_rescrape	wiki_resc
 The flowers on this bush have not yet opened enough to harvest	这株灌木上的花还没开到可以采摘的程度	interface	wiki_rescrape	wiki_rescrape
 Unlocked from Tale of the Righteous	从正义传说解锁	interface	wiki_rescrape	wiki_rescrape
 Quality Weapons Shop	优质武器商店	interface	wiki_rescrape	wiki_rescrape
-Your dream has finished.	你的梦疗法已结束。	interface	wiki_rescrape	wiki_rescrape
+Your dream has finished.	你的梦境已结束。	interface	wiki_rescrape	wiki_rescrape
 Slot 1:	栏位1：	interface	wiki_rescrape	wiki_rescrape
 Find some discarded farming equipment east of Hosidius.	在霍西迪乌斯城以东找到一些被丢弃的农业设备。	interface	wiki_rescrape	wiki_rescrape
 Test the currents west of Pirates' Cove.	测试海盗湾以西的水流。	interface	wiki_rescrape	wiki_rescrape
@@ -34848,7 +34848,7 @@ Magic - 1+ points	魔法 - 1+点数	interface	wiki_rescrape	wiki_rescrape
 You'll have to make another from scratch!	你得从头再做一个！	interface	wiki_rescrape	wiki_rescrape
 Members: Elemental amulets	会员：元素护身符	interface	wiki_rescrape	wiki_rescrape
 Slayer ring for teleports	用于传送的杀戮戒指	interface	wiki_rescrape	wiki_rescrape
-Eastern Kharazi Jungle - *** Incomplete ***	东卡哈兹丛林 - *** 未完成 ***	interface	wiki_rescrape	wiki_rescrape
+Eastern Kharazi Jungle - *** Incomplete ***	东卡拉兹丛林 - *** 未完成 ***	interface	wiki_rescrape	wiki_rescrape
 You need a pickaxe and chisel to chip anything off this.	你需要一把镐子和一把凿子才能从这上面凿下东西。	interface	wiki_rescrape	wiki_rescrape
 Access to Tarn's Lair	进入塔恩的巢穴	interface	wiki_rescrape	wiki_rescrape
 Parlour: @ttip_list@(empty)	客厅：@ttip_list@（空）	interface	wiki_rescrape	wiki_rescrape

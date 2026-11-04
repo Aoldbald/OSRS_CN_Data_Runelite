@@ -11334,10 +11334,10 @@ A Legends' Guild guard; he protects the entrance to the Legends' Guild.	传奇�
 Radimus is the Grand Vizier of the Legends' Guild.	拉迪穆斯是传奇公会的大维齐尔。	examine	npc	Radimus Erkle
 He deals in exotic types of wood.	他经营珍稀木材。	examine	npc	Jungle forester
 She deals in exotic types of wood.	她经营珍稀木材。	examine	npc	Jungle forester
-A tall, dark, and charismatic member of the Kharazi tribe.	一个高大、黝黑、有魅力的卡哈兹部落成员。	examine	npc	Gujuo
-The Kharazi tribe's elusive shaman.	卡哈兹部落难以捉摸的萨满。	examine	npc	Ungadulu
-The Kharazi tribe's elusive shaman; something doesn't look quite right with him.	卡哈兹部落难以捉摸的萨满；他看起来有点不对劲。	examine	npc	Ungadulu
-A Kharazi warrior, tormented by evil spirits.	一个被恶灵折磨的卡哈兹战士。	examine	npc	Tormented Warrior
+A tall, dark, and charismatic member of the Kharazi tribe.	一个高大、黝黑、有魅力的卡拉兹部落成员。	examine	npc	Gujuo
+The Kharazi tribe's elusive shaman.	卡拉兹部落难以捉摸的萨满。	examine	npc	Ungadulu
+The Kharazi tribe's elusive shaman; something doesn't look quite right with him.	卡拉兹部落难以捉摸的萨满；他看起来有点不对劲。	examine	npc	Ungadulu
+A Kharazi warrior, tormented by evil spirits.	一个被恶灵折磨的卡拉兹战士。	examine	npc	Tormented Warrior
 She sells general items at the Legends' Guild.	她在传奇公会出售各种杂货。	examine	npc	Fionella
 An eccentric shopkeeper, related to the Grand Vizier of the Legends' Guild.	一个古怪的店主，与传奇公会的大维齐尔有关系。	examine	npc	Siegfried Erkle
 An ancient, powerful demon of the underworld.	一个古老、强大的地下世界恶魔。	examine	npc	Nezikchened
@@ -25552,7 +25552,7 @@ A gateway to Port Khazard.	通往卡扎德港的传送门。	examine	chisel_resc
 A gateway to the Ice Plateau.	通往冰原的传送门。	examine	chisel_rescrape	chisel_rescrape
 A gateway to your respawn destination.	通往你重生点的传送门。	examine	chisel_rescrape	chisel_rescrape
 A gateway to your boat's last mooring point.	通往你船只上一个系泊点的传送门。	examine	chisel_rescrape	chisel_rescrape
-A King needs a bed and that's why this has always been here in this room that has also always been here.	国王需要一张床，所以这张床一直放在这个也一直存在的房间里。	examine	chisel_rescrape	chisel_rescrapeA key made of solid iron.	一把纯铁制成的钥匙。	examine	wiki_rescrape	wiki_rescrape
+A King needs a bed and that's why this has always been here in this room that has also always been here.	国王需要一张床，所以这张床一直放在这个也一直存在的房间里。	examine	chisel_rescrape	chisel_rescrape
 A still dripping venomous fang from a powerful araxyte etched with powerful runes.	一只强大的阿拉克西特身上还在滴着毒液的毒牙，上面刻有强大的符文。	examine	wiki_rescrape	wiki_rescrape
 A rather disgusting cocktail.	一杯相当恶心的鸡尾酒。	examine	wiki_rescrape	wiki_rescrape
 It's a bucket of bloodwood sap. I could use this to treat logs.	这是一桶血木树汁。我可以用它来处理原木。	examine	wiki_rescrape	wiki_rescrape
@@ -25974,7 +25974,7 @@ For helping plants grow.	用于帮助植物生长。	examine	cachedump	cachedump
 An amulet with a skull on it.	一枚带有头骨的护身符。	examine	cachedump	cachedump
 There's nothing left!	什么也不剩了！	examine	cachedump	cachedump
 A strange shard of dark stone.	一块奇怪的暗色石头碎片。	examine	cachedump	cachedump
-A priceless artifact from Varlamore.	一件来自瓦拉莫的无价神器。	examine	cachedump	cachedump
+A priceless artifact from Varlamore.	一件来自瓦拉莫尔的无价神器。	examine	cachedump	cachedump
 An old Fremmenik artifact.	一件古老的弗瑞曼尼克神器。	examine	cachedump	cachedump
 Property of the Outpost.	前哨站财产。	examine	cachedump	cachedump
 A heart suspended in fluid within a canopic jar.	一颗悬浮在卡诺皮克罐液体中的心脏。	examine	cachedump	cachedump
