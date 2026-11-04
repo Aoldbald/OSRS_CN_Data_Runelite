@@ -11070,7 +11070,7 @@ Go now, and keep our icon close, for it marks you as one of the chosen. Without 
 Okay... I'll go right away!	好……我马上去！	dialogue	Desert Treasure II - The Fallen Empire	Mysterious Voice 2
 And so another voice joins the Silent Choir.	又有一个声音加入了寂静合唱团。	dialogue	Desert Treasure II - The Fallen Empire	Mysterious Voice 1
 He is afraid. He is not ready.	他害怕了。他还没准备好。	dialogue	Desert Treasure II - The Fallen Empire	Mysterious Voice 3
-It matters not. The day of ascension approaches. His fear will be washed away by the endless sea...	没关系。升天之日即将来临。他的恐惧将被无尽之海冲刷殆尽……	dialogue	Desert Treasure II - The Fallen Empire	Mysterious Voice 1
+It matters not. The day of ascension approaches. His fear will be washed away by the endless sea...	没关系。飞升之日即将来临。他的恐惧将被无尽之海冲刷殆尽……	dialogue	Desert Treasure II - The Fallen Empire	Mysterious Voice 1
 This torch schematic. It's a fake.	这张火把示意图是假的。	dialogue	Desert Treasure II - The Fallen Empire	Ketla
 Fake? But how?	假的？怎么可能？	dialogue	Desert Treasure II - The Fallen Empire	Player
 It is marked by the black hand. This is the doing of the Silent Choir.	上面有黑手的标记。这是寂静合唱团干的。	dialogue	Desert Treasure II - The Fallen Empire	Ketla
@@ -47812,8 +47812,8 @@ But it seems we will have to ponder this mystery later. Let us head in and see w
 It is said that Ralos and Ranul will come together at Mokhaiotl, the centre of the world. It is there that they will unite all souls as one, destroying this world and creating a new one.	据说拉洛斯和拉努尔会在世界中心莫凯奥特合二为一。在那里，他们将统一所有灵魂，毁灭这个世界并创造一个新世界。	dialogue	The Heart of Darkness	Prince Itzla Arkan
 Itzlan and [player name], I take it?	伊茨兰和[player name]，对吧？	dialogue	The Heart of Darkness	Forebearer Janus
 That's us.	就是我们。	dialogue	The Heart of Darkness	Player
-Good. Allow me to welcome you to the Tower of Ascension. You are here because you hope to be welcomed into our family. We hope to welcome you as well, but alas, not all can be deemed worthy.	很好。欢迎来到升天之塔。你们来这里是因为希望被接纳进我们的大家庭。我们也希望欢迎你们，但可惜，并非所有人都能被认为有价值。	dialogue	The Heart of Darkness	Forebearer Janus
-Here, in the Tower of Ascension, you will demonstrate your intellect, strength, loyalty and ability to sacrifice. In doing so, you will prove your worth to Ralos and Ranul.	在这里，在升天之塔中，你们将展示自己的智慧、力量、忠诚和牺牲能力。这样，你们就能向拉洛斯和拉努尔证明自己的价值。	dialogue	The Heart of Darkness	Forebearer Janus
+Good. Allow me to welcome you to the Tower of Ascension. You are here because you hope to be welcomed into our family. We hope to welcome you as well, but alas, not all can be deemed worthy.	很好。欢迎来到飞升之塔。你们来这里是因为希望被接纳进我们的大家庭。我们也希望欢迎你们，但可惜，并非所有人都能被认为有价值。	dialogue	The Heart of Darkness	Forebearer Janus
+Here, in the Tower of Ascension, you will demonstrate your intellect, strength, loyalty and ability to sacrifice. In doing so, you will prove your worth to Ralos and Ranul.	在这里，在飞升之塔中，你们将展示自己的智慧、力量、忠诚和牺牲能力。这样，你们就能向拉洛斯和拉努尔证明自己的价值。	dialogue	The Heart of Darkness	Forebearer Janus
 When you are ready to begin, climb the stairs. Your first trial awaits.	准备好开始后，就爬上楼梯。你们的第一次考验在等着你们。	dialogue	The Heart of Darkness	Forebearer Janus
 Hey you! You're not allowed up there.	嘿，你！你不能上去那里。	dialogue	The Heart of Darkness	Forebearer Janus
 Itzlan. [player name]. When you are ready to begin, climb the stairs. Your first trial awaits.	伊茨兰。[player name]。准备好开始后，就爬上楼梯。你们的第一次考验在等着你们。	dialogue	The Heart of Darkness	Forebearer Janus
@@ -47938,7 +47938,7 @@ Let's head over to the temple.	我们去神殿那边吧。	dialogue	The Heart of
 You should proceed to the temple. The Augur awaits.	你应该前往神殿。占兆师在等着。	dialogue	The Heart of Darkness	Forebearer Janus
 Welcome, friends. You chosen few stand here because you have proven yourselves to be worthy. Here, you will not just find a home, you will find a family. Together, this family will bring about the Final Dawn.	欢迎，朋友们。你们这些被选中的少数人站在这里，是因为你们已经证明了自己是值得的。在这里，你们不仅会找到一个家，还会找到一个家庭。这个家庭将共同带来最终黎明。	dialogue	The Heart of Darkness	Forebearer Fides
 No doubt you are wondering how we will achieve our destiny. I call upon our glorious leader, the Augur, to explain our holy mission.	毫无疑问，你们想知道我们将如何实现我们的命运。我请我们光荣的领袖，占兆师，来解释我们神圣的使命。	dialogue	The Heart of Darkness	Forebearer Fides
-This morning, you were nothing more than ants, scrambling to find purpose amongst the dirt. Now though... now you have achieved ascension.	今天早上，你们还不过是蚂蚁，在泥土中挣扎着寻找意义。但现在……现在你们已经实现了升华。	dialogue	The Heart of Darkness	Augur Metzli
+This morning, you were nothing more than ants, scrambling to find purpose amongst the dirt. Now though... now you have achieved ascension.	今天早上，你们还不过是蚂蚁，在泥土中挣扎着寻找意义。但现在……现在你们已经实现了飞升。	dialogue	The Heart of Darkness	Augur Metzli
 Once, I was just the same. Like so many of you, I started my life with nothing. I would wake each morning and pray that I would find enough food to last through the day.	曾经，我也和你们一样。和你们中的许多人一样，我的人生起点一无所有。我每天早晨醒来，祈祷能找到足够的食物撑过一天。	dialogue	The Heart of Darkness	Augur Metzli
 All the while, those above me treated me worse than a common criminal. I was a villain to them! Why? Simply because they were born with privilege, and I was not.	而与此同时，那些在我之上的人对待我比对待普通罪犯还要恶劣。在他们眼里，我是个恶棍！为什么？仅仅因为他们生来享有特权，而我没有。	dialogue	The Heart of Darkness	Augur Metzli
 Eventually, I looked to the Sect of Ranul for guidance. I thought they might have shown me my path, but I was wrong.	最终，我向拉努尔教派寻求指引。我以为他们可能为我指明了道路，但我错了。	dialogue	The Heart of Darkness	Augur Metzli
@@ -47949,7 +47949,7 @@ To most, they were children like any other, but I was shown the truth of their b
 Now, they seek Mokhaiotl. There, they will unite us all as one, and a new world will be born. My purpose, which I now share with you, is to lead them there.	现在，他们在寻找莫凯奥特。在那里，他们将使我们所有人合为一体，一个新世界将诞生。我的使命，现在与你们分享，就是带领他们到达那里。	dialogue	The Heart of Darkness	Augur Metzli
 Blasphemy! Deceit! That is what people cry when they hear the truth. The Church of Ralos teaches that our work is false, and our royal leaders lap up their every word!	亵渎！欺骗！这就是人们听到真相时的呼喊。拉洛斯教会教导说我们的工作是虚假的，而我们的王室领袖对他们言听计从！	dialogue	The Heart of Darkness	Augur Metzli
 Perhaps you still harbour doubts yourselves. I do not judge you. We have all been lied to our entire lives, and in truth, even after I was blessed by our gods, I held many doubts myself.	也许你们自己心中仍有疑虑。我不会评判你们。我们一生都在被欺骗，事实上，即使在我受到我们神祇的祝福之后，我自己也抱有许多疑虑。	dialogue	The Heart of Darkness	Augur Metzli
-But you have all been chosen. You have all achieved ascension. I know that you are among the few who will understand. You are among the few who can see the truth!	但你们都被选中了。你们都实现了升华。我知道你们是少数能够理解的人。你们是少数能够看到真相的人！	dialogue	The Heart of Darkness	Augur Metzli
+But you have all been chosen. You have all achieved ascension. I know that you are among the few who will understand. You are among the few who can see the truth!	但你们都被选中了。你们都实现了飞升。我知道你们是少数能够理解的人。你们是少数能够看到真相的人！	dialogue	The Heart of Darkness	Augur Metzli
 And see it you will! You do not need to take the word of a mere herald. Instead, bask in the glory of our gods reborn!	而你们将会看到！你们不需要相信一个区区传令官的话。相反，沐浴在我们重生神祇的荣光中吧！	dialogue	The Heart of Darkness	Augur Metzli
 You may recognise these faces as Ennius and Furia Tullus, but now I give you the truth. Before you stand our gods! Ralos and Ranul!	你们可能认出这些面孔是恩纽斯和弗里亚.图卢斯，但现在我告诉你们真相。站在你们面前的是我们的神祇！拉洛斯和拉努尔！	dialogue	The Heart of Darkness	Augur Metzli
 Together, we will accompany them on their glorious journey! We will guide them to Mokhaiotl and bring about the Final Dawn! This is our purpose! This is our destiny! This is Twilight's Promise!	我们将一起陪伴他们踏上光荣的旅程！我们将引导他们前往莫凯奥特，带来最终黎明！这就是我们的使命！这就是我们的命运！这就是暮光之约！	dialogue	The Heart of Darkness	Augur Metzli
@@ -54712,7 +54712,7 @@ Are you truly so misguided that you cannot see the truth before you? I hold both
 Not since Zamorak himself has anyone possessed this much power! Nothing will stop me following in his footsteps!	自萨莫拉克本人以来，从未有人拥有过如此强大的力量！没有什么能阻止我追随他的脚步！	dialogue	While Guthix Sleeps	Lucien
 You think Zamorak will just stand by and let that happen?	你觉得萨莫拉克会袖手旁观，任由你这样做？	dialogue	While Guthix Sleeps	Player
 He doesn't have a choice. He no longer has any power here. His days are already done.	他别无选择。他在这里已经没有力量了。他的时代已经结束了。	dialogue	While Guthix Sleeps	Lucien
-Now, this conversation bores me. My ascension approaches, and I only have room for the strongest as my worshippers. Those too weak to slay even these lowly beasts will certainly not be wanted!	好了，这场谈话让我厌烦。我的升腾即将到来，我只为最强者留出位置作为我的信徒。那些弱到连这些低等野兽都杀不死的家伙，当然不会被需要！	dialogue	While Guthix Sleeps	Lucien
+Now, this conversation bores me. My ascension approaches, and I only have room for the strongest as my worshippers. Those too weak to slay even these lowly beasts will certainly not be wanted!	好了，这场谈话让我厌烦。我的飞升即将到来，我只为最强者留出位置作为我的信徒。那些弱到连这些低等野兽都杀不死的家伙，当然不会被需要！	dialogue	While Guthix Sleeps	Lucien
 Time for us to leave, Darve!	我们该走了，达尔夫！	dialogue	While Guthix Sleeps	Movario
 We're with you, [player name]!	我们支持你，[player name]！	dialogue	While Guthix Sleeps	Idria
 [player name], you must return to the temple below Lumbridge! Idria and her Guardians of Armadyl have already departed to support you!	[player name]，你必须回到仑桥镇下方的神庙！伊德莉亚和她的阿玛杜尔守护者已经出发支援你了！	dialogue	While Guthix Sleeps	Akrisae
@@ -77397,7 +77397,7 @@ That's where we come in! Those merchant folk sail up to the south-end of the sto
 Makes sense to me, what's in it for you guys?	有道理，那你们能得到什么？	dialogue	Rum-dashed Ralph	Player
 Why, the thrill of the sport! Sailing isn't just about going places, it's about mastery of the boat, the pull of the sails, the feeling of the tiller in your hand and the taste of rum in your mouth! *hic	当然是运动的刺激！航行不只是去某个地方，而是掌控船只、拉帆、手握舵柄的感觉，还有嘴里朗姆酒的味道！*嗝	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
 Sailing as a sport is what us Barracudas do, we have trials setup all across the sea where you can test your mettle against the clock.	航行作为一项运动，就是我们梭鱼帮做的事，我们在海上各处设有试炼，你可以挑战时间，测试自己的本事。	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
-I'm in charge of this here trial, the Tempor Tantrum.	我负责这里的试炼，叫‘泰姆波发脾气’。	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
+I'm in charge of this here trial, the Tempor Tantrum.	我负责这里的试炼，叫‘海灵狂怒’。	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
 The objective is simple: Sail south, collect a rum shipment from our boat south of Tempoross and deliver it back to this boat here.	目标很简单：向南航行，从海灵南边的船上取一批朗姆酒，然后送回这里。	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
 While you're out there, keep an eye out for any lost supplies aswell as they also determine your rank.	在外面的时候，也要留意任何丢失的补给品，因为它们也决定你的等级。	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
 If you can deliver all the rum shipments and collect all the lost supplies in the time given, ye'll be awarded a barracuda rank!	如果你能在规定时间内送达所有朗姆酒并收集所有丢失的补给品，就能获得梭鱼等级！	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
@@ -79082,7 +79082,7 @@ An imp! Painted green? Well... I suppose it will have to do!	一个小恶魔！�
 An important part of Christmas - some would actually say it's the most important part - is gifts.	圣诞节的一个重要部分——有些人甚至会说这是最重要的部分——就是礼物。	dialogue	ptbr_import	ptbr
 An interface opens, giving players choices on which clan seal to teleport to.	一个界面打开，让玩家选择要传送到哪个公会印章。	dialogue	ptbr_import	ptbr
 An interface will be open during the period of this event when ever you're in the event area. Do you want to toggle this off?	在此活动期间，只要你身处活动区域，就会有一个界面保持打开。你想关闭它吗？	dialogue	ptbr_import	ptbr
-An intricate roll of fabric awarded to those who have achieved the marlin rank at the Tempor Tantrum Barracuda Trial. This would make a fine flag to showcase on a boat.	一卷精美的织物，奖励给在坦波发脾气梭鱼试炼中达到马林鱼等级的人。这可以做成一面漂亮的旗帜展示在船上。	dialogue	ptbr_import	ptbr
+An intricate roll of fabric awarded to those who have achieved the marlin rank at the Tempor Tantrum Barracuda Trial. This would make a fine flag to showcase on a boat.	一卷精美的织物，奖励给在海灵狂怒梭鱼试炼中达到马林鱼等级的人。这可以做成一面漂亮的旗帜展示在船上。	dialogue	ptbr_import	ptbr
 An ogre approaches the telescope's view.	一个食人魔进入了望远镜的视野。	dialogue	ptbr_import	ptbr
 An ogre artefact appears in front of you. You quickly put it into your backpack.	一个食人魔神器出现在你面前。你迅速把它放进了背包。	dialogue	ptbr_import	ptbr
 An old book is forced into your hands.	一本旧书被塞到了你手里。	dialogue	ptbr_import	ptbr
@@ -84183,7 +84183,7 @@ I travelled to the Fight Arena and found a Launderer who knew Movario. He gave m
 I travelled to the Quetzacalli Gorge Pub and rented a room there. I met with Itzla's Contact, but they turned out to be Itzla himself. He explained that his plan is for us to infiltrate the Twilight Emissaries by posing as new recruits. To do so, I spoke to the Quetzacalli Gorge Shopkeeper, a member of the Emissaries, about joining. He agreed to send word to them.	我前往克察卡利峡谷酒吧，在那里租了一个房间。我见到了伊茨拉的联系人，结果发现他就是伊茨拉本人。他解释说，他的计划是让我们假扮新兵潜入暮光使者。为此，我跟克察卡利峡谷的店主（使者的一员）谈了加入的事。他同意向他们传话。	dialogue	ptbr_import	ptbr
 I travelled to the Quetzacalli Gorge Pub and rented a room there. I met with Itzla's Contact, but they turned out to be Itzla himself. He explained that his plan is for us to infiltrate the Twilight Emissaries by posing as new recruits. To do so, I spoke to the Quetzacalli Gorge Shopkeeper, a member of the Emissaries, about joining. He agreed to send word to them. I returned to Itzla and let him know that the Shopkeeper agreed to contact the Emissaries for us. Itzla then asked me to meet him at the Twilight Temple where the Emissaries are based.	我前往克察卡利峡谷酒吧，在那里租了一个房间。我见到了伊茨拉的联系人，结果发现他就是伊茨拉本人。他解释说，他的计划是让我们假扮新兵潜入暮光使者。为此，我跟克察卡利峡谷的店主（使者的一员）谈了加入的事。他同意向他们传话。我回到伊茨拉那里，告诉他店主同意为我们联系使者。然后伊茨拉让我到使者所在的暮光神庙与他会合。	dialogue	ptbr_import	ptbr
 I travelled to the Twilight Temple and witnessed Metzli giving a speech to her followers with Ennius and Furia at her side. During the speech, Itzla was brought out from a Dungeon directly below the Temple.	我前往暮光神庙，目睹了梅茨利在恩尼乌斯和富里亚的陪同下向追随者发表演讲。演讲期间，伊茨拉被从神庙正下方的地牢里带了出来。	dialogue	ptbr_import	ptbr
-I travelled to the Twilight Temple east of Quetzacalli Gorge and met with Itzla outside of the Tower of Ascension. While we waited to be called up to take our Recruitment Tests, I spoke to the other Recruits. One of them told me the Emissaries had a new leader called the Augur.	我前往克察卡利峡谷东边的暮光神庙，在升天之塔外与伊茨拉会面。在等待被叫去参加招募测试时，我与其他新兵交谈。其中一人告诉我，使者们有了一位新领袖，叫做预言者。	dialogue	ptbr_import	ptbr
+I travelled to the Twilight Temple east of Quetzacalli Gorge and met with Itzla outside of the Tower of Ascension. While we waited to be called up to take our Recruitment Tests, I spoke to the other Recruits. One of them told me the Emissaries had a new leader called the Augur.	我前往克察卡利峡谷东边的暮光神庙，在飞升之塔外与伊茨拉会面。在等待被叫去参加招募测试时，我与其他新兵交谈。其中一人告诉我，使者们有了一位新领袖，叫做预言者。	dialogue	ptbr_import	ptbr
 I tried speaking to Carol but she just won't budge. Do you have any ideas?	我试着跟卡罗尔谈过，但她就是不肯让步。你有什么主意吗？	dialogue	ptbr_import	ptbr
 I tried to do a quest once that I needed goblin mail for, but I couldn't find any, so I gave up.	我曾经想做一个需要哥布林链甲的任务，但我找不到，所以就放弃了。	dialogue	ptbr_import	ptbr
 I tried to help your son but he kicked me off of Wester Island!	我试图帮助你儿子，但他把我赶出了韦斯特岛！	dialogue	ptbr_import	ptbr
@@ -85802,13 +85802,13 @@ Itzla and I spoke to Forebearer Fides in the Temple about our first duties. She 
 Itzla and I travelled down into the Caverns beneath the Crypt of Tonali. We explored them, but couldn't find Furia or Metzli. However, we instead found some Old One Ruins.	伊茨拉和我下到了托纳利墓穴下方的洞穴中。我们探索了一番，但没有找到弗里亚或梅兹莉。不过，我们反而发现了一些古老者废墟。	dialogue	ptbr_import	ptbr
 Itzla and I travelled down into the Caverns beneath the Crypt of Tonali. We explored them, but couldn't find Furia or Metzli. However, we instead found some Old One Ruins. We should see if we can find a way into these Ruins.	伊茨拉和我下到了托纳利墓穴下方的洞穴中。我们探索了一番，但没有找到弗里亚或梅兹莉。不过，我们反而发现了一些古老者废墟。我们应该看看能否找到进入这些废墟的路。	dialogue	ptbr_import	ptbr
 Itzla and I travelled down into the Caverns beneath the Crypt of Tonali. We should explore them and see if we can find Furia and Metzli.	伊茨拉和我下到了托纳利墓穴下方的洞穴中。我们应该探索一下，看看能否找到弗里亚和梅兹莉。	dialogue	ptbr_import	ptbr
-Itzla and I were called into the Tower of Ascension by Forebearer Janus. He tasked us with overcoming four Trials within the Tower, which we were successful in doing so. He then invited us to attend an Initiation Ceremony in the Temple.	伊茨拉和我被先驱者雅努斯召入了升天之塔。他交给我们的任务是通过塔内的四项试炼，我们成功完成了。随后他邀请我们参加神庙的入会仪式。	dialogue	ptbr_import	ptbr
-Itzla and I were called into the Tower of Ascension by Forebearer Janus. He tasked us with overcoming four Trials within the Tower, which we were successful in doing so. We should speak to Forebearer Janus about this.	伊茨拉和我被先驱者雅努斯召入了升天之塔。他交给我们的任务是通过塔内的四项试炼，我们成功完成了。我们应该就此与先驱者雅努斯谈谈。	dialogue	ptbr_import	ptbr
-Itzla and I were called into the Tower of Ascension by Forebearer Janus. He told us that to become Emissaries, we need to overcome various Trials within the Tower.	伊茨拉和我被先驱者雅努斯召入了升天之塔。他告诉我们，要成为使者，我们需要通过塔内的各种试炼。	dialogue	ptbr_import	ptbr
-Itzla and I were called into the Tower of Ascension by Forebearer Janus. He told us that to become Emissaries, we need to overcome various Trials within the Tower. We successfully completed the first Trial, but three more remain.	伊茨拉和我被先驱者雅努斯召入了升天之塔。他告诉我们，要成为使者，我们需要通过塔内的各种试炼。我们成功完成了第一项试炼，但还有三项。	dialogue	ptbr_import	ptbr
+Itzla and I were called into the Tower of Ascension by Forebearer Janus. He tasked us with overcoming four Trials within the Tower, which we were successful in doing so. He then invited us to attend an Initiation Ceremony in the Temple.	伊茨拉和我被先驱者雅努斯召入了飞升之塔。他交给我们的任务是通过塔内的四项试炼，我们成功完成了。随后他邀请我们参加神庙的入会仪式。	dialogue	ptbr_import	ptbr
+Itzla and I were called into the Tower of Ascension by Forebearer Janus. He tasked us with overcoming four Trials within the Tower, which we were successful in doing so. We should speak to Forebearer Janus about this.	伊茨拉和我被先驱者雅努斯召入了飞升之塔。他交给我们的任务是通过塔内的四项试炼，我们成功完成了。我们应该就此与先驱者雅努斯谈谈。	dialogue	ptbr_import	ptbr
+Itzla and I were called into the Tower of Ascension by Forebearer Janus. He told us that to become Emissaries, we need to overcome various Trials within the Tower.	伊茨拉和我被先驱者雅努斯召入了飞升之塔。他告诉我们，要成为使者，我们需要通过塔内的各种试炼。	dialogue	ptbr_import	ptbr
+Itzla and I were called into the Tower of Ascension by Forebearer Janus. He told us that to become Emissaries, we need to overcome various Trials within the Tower. We successfully completed the first Trial, but three more remain.	伊茨拉和我被先驱者雅努斯召入了飞升之塔。他告诉我们，要成为使者，我们需要通过塔内的各种试炼。我们成功完成了第一项试炼，但还有三项。	dialogue	ptbr_import	ptbr
 Itzla and I were called into the Tower of Ascension by Forebearer Janus. He told us that to become Emissaries, we need to overcome various Trials within the Tower. We successfully completed the three Trials, but one more remains.	伊兹拉和我被先驱者雅努斯召入飞升之塔。他告诉我们，要成为使者，必须通过塔内的各种试炼。我们成功完成了三项试炼，但还剩一项。	dialogue	ptbr_import	ptbr
 Itzla and I were called into the Tower of Ascension by Forebearer Janus. He told us that to become Emissaries, we need to overcome various Trials within the Tower. We successfully completed the two Trials, but two more remain.	伊兹拉和我被先驱者雅努斯召入飞升之塔。他告诉我们，要成为使者，必须通过塔内的各种试炼。我们成功完成了两项试炼，但还剩两项。	dialogue	ptbr_import	ptbr
-Itzla and I were called into the Tower of Ascension by Forebearer Janus. We should head inside and speak to him.	伊茨拉和我被先驱者雅努斯召入升天之塔。我们应该进去和他谈谈。	dialogue	ptbr_import	ptbr
+Itzla and I were called into the Tower of Ascension by Forebearer Janus. We should head inside and speak to him.	伊茨拉和我被先驱者雅努斯召入飞升之塔。我们应该进去和他谈谈。	dialogue	ptbr_import	ptbr
 Itzla and let him know that the Shopkeeper agreed to contact the Emissaries for us. Itzla then asked me to meet him at the Twilight Temple where the Emissaries are based. I can find the Temple east of Quetzacalli Gorge.	伊兹拉让我告诉他，店主同意替我们联系使者。然后伊兹拉让我在使者所在的暮光神殿与他会合。神殿在奎察卡利峡谷以东。	dialogue	ptbr_import	ptbr
 Itzla departs.	伊兹拉离开了。	dialogue	ptbr_import	ptbr
 Itzla holds out his sword.	伊兹拉举起他的剑。	dialogue	ptbr_import	ptbr
@@ -88878,7 +88878,7 @@ Servius and I met with Attala in the Cam Torum Market. She suggested we start by
 Servius, Teokan of Ralos in the Sunrise Palace in Civitas illa Fortis.	拉洛斯的神官塞维乌斯在福蒂斯城的日出宫殿。	dialogue	ptbr_import	ptbr
 Servius, Teokan of Ralos in the Sunrise Palace in Civitas illa Fortis. He told me that Queen Zyanyi Arkan wishes to speak with me. I should let him know when I'm ready to meet with her.	拉洛斯的神官塞维乌斯在福蒂斯城的日出宫殿。他告诉我齐安伊.阿坎女王想和我谈谈。我应该在他准备好与她见面时告诉他。	dialogue	ptbr_import	ptbr
 Servius, Teokan of Ralos in the Sunrise Palace in Civitas illa Fortis. He took me to meet with Queen Zyanyi Arkan, who tasked me with helping to rescue her son, Prince Itzla Arkan, from the Twilight Emissaries. She told me to go to the Twilight Temple to gather information on the Emissaries' plans for Itzla.	拉洛斯的神官塞维乌斯在福蒂斯城的日出宫殿。他带我去见了齐安伊.阿坎女王，女王委托我帮助从暮光使者手中救出她的儿子伊茨拉.阿坎王子。她让我去暮光神殿收集关于使者们对伊茨拉计划的情报。	dialogue	ptbr_import	ptbr
-Servius, Teokan of Ralos in the Sunrise Palace in Civitas illa Fortis. He took me to meet with Queen Zyanyi Arkan, who tasked me with helping to rescue her son, Prince Itzla Arkan, from the Twilight Emissaries. She told me to go to the Twilight Temple to gather information on the Emissaries' plans for Itzla. To help with my infiltration, I might find it useful to obtain some Cultist Robes from a Chest in the Tower of Ascension.	拉洛斯的神官塞维乌斯在福蒂斯城的日出宫殿。他带我去见了齐安伊.阿坎女王，女王委托我帮助从暮光使者手中救出她的儿子伊茨拉.阿坎王子。她让我去暮光神殿收集关于使者们对伊茨拉计划的情报。为了帮助我潜入，从升天塔的箱子里弄些邪教徒长袍可能会很有用。	dialogue	ptbr_import	ptbr
+Servius, Teokan of Ralos in the Sunrise Palace in Civitas illa Fortis. He took me to meet with Queen Zyanyi Arkan, who tasked me with helping to rescue her son, Prince Itzla Arkan, from the Twilight Emissaries. She told me to go to the Twilight Temple to gather information on the Emissaries' plans for Itzla. To help with my infiltration, I might find it useful to obtain some Cultist Robes from a Chest in the Tower of Ascension.	拉洛斯的神官塞维乌斯在福蒂斯城的日出宫殿。他带我去见了齐安伊.阿坎女王，女王委托我帮助从暮光使者手中救出她的儿子伊茨拉.阿坎王子。她让我去暮光神殿收集关于使者们对伊茨拉计划的情报。为了帮助我潜入，从飞升之塔的箱子里弄些邪教徒长袍可能会很有用。	dialogue	ptbr_import	ptbr
 Set a global minimum charge threshold?	设置全局最低充能阈值？	dialogue	ptbr_import	ptbr
 Seven Priestly Warriors?	七位祭司战士？	dialogue	ptbr_import	ptbr
 Several beers later....	几杯啤酒下肚后……	dialogue	ptbr_import	ptbr
@@ -90036,7 +90036,7 @@ Tell you to leave.	叫你离开。	dialogue	ptbr_import	ptbr
 Tell you what, I really want to try them out. Would you like a haircut?	我跟你说，我真的很想试试它们。你想剪个头发吗？	dialogue	ptbr_import	ptbr
 Teller's booth	出纳窗口	dialogue	ptbr_import	ptbr
 Temple of the Eye quest).	眼之神殿任务）。	dialogue	ptbr_import	ptbr
-Tempor Tantrum Barracuda Trial in the Storm Tempor.	暴风泰姆波尔中的泰姆波尔发脾气梭鱼试炼。	dialogue	ptbr_import	ptbr
+Tempor Tantrum Barracuda Trial in the Storm Tempor.	风暴海域中的海灵狂怒梭鱼试炼。	dialogue	ptbr_import	ptbr
 Ten cabbages. I would of course prefer to give them away, but alas I have to make ends meet. What do you say?	十颗卷心菜。我当然更想白送，但可惜我得养家糊口。你觉得怎么样？	dialogue	ptbr_import	ptbr
 Ten cooked trout.	十条熟鳟鱼。	dialogue	ptbr_import	ptbr
 Ten loaves of bread.	十条面包。	dialogue	ptbr_import	ptbr
@@ -93027,8 +93027,8 @@ Turnips.	芜菁。	dialogue	ptbr_import	ptbr
 Tutorial Island	教程岛	dialogue	ptbr_import	ptbr
 Twilight Emissaries #4	暮光使者 #4	dialogue	ptbr_import	ptbr
 Twilight Temple and witnessed Metzli giving a speech to her followers with Ennius and Furia at her side. During the speech, Itzla was brought out from a Dungeon directly below the Temple. I should explore this Dungeon and see what I can discover.	暮光神殿，目睹了梅兹莉在恩纽斯和富里亚的陪同下向她的追随者发表演讲。演讲期间，伊茨拉被从神殿正下方的地牢里带了出来。我应该探索这个地牢，看看能发现什么。	dialogue	ptbr_import	ptbr
-Twilight Temple east of Quetzacalli Gorge and met with Itzla outside the Tower of Ascension. While we wait to be called up to take our Recruitment Tests, Itzla suggested I speak to the other Recruits.	奎察卡利峡谷东边的暮光神殿，并在飞升塔外与伊茨拉会面。在等待被叫上去进行招募测试的同时，伊茨拉建议我和其他新兵谈谈。	dialogue	ptbr_import	ptbr
-Twilight Temple east of Quetzacalli Gorge and met with Itzla outside the Tower of Ascension. While we waited to be called up to take our Recruitment Tests, I spoke with the other Recruits. One of them told me the Emissaries had a new leader called the Augur. I should discuss this with Itzla.	奎察卡利峡谷东边的暮光神殿，并在飞升塔外与伊茨拉会面。在等待被叫上去进行招募测试的同时，我和其他新兵聊了聊。其中一人告诉我，使者们有了一位新领袖，名叫预言者。我应该和伊茨拉讨论一下这件事。	dialogue	ptbr_import	ptbr
+Twilight Temple east of Quetzacalli Gorge and met with Itzla outside the Tower of Ascension. While we wait to be called up to take our Recruitment Tests, Itzla suggested I speak to the other Recruits.	奎察卡利峡谷东边的暮光神殿，并在飞升之塔外与伊茨拉会面。在等待被叫上去进行招募测试的同时，伊茨拉建议我和其他新兵谈谈。	dialogue	ptbr_import	ptbr
+Twilight Temple east of Quetzacalli Gorge and met with Itzla outside the Tower of Ascension. While we waited to be called up to take our Recruitment Tests, I spoke with the other Recruits. One of them told me the Emissaries had a new leader called the Augur. I should discuss this with Itzla.	奎察卡利峡谷东边的暮光神殿，并在飞升之塔外与伊茨拉会面。在等待被叫上去进行招募测试的同时，我和其他新兵聊了聊。其中一人告诉我，使者们有了一位新领袖，名叫预言者。我应该和伊茨拉讨论一下这件事。	dialogue	ptbr_import	ptbr
 Twilight's Promise and the Final Dawn.	暮光之约和最终黎明。	dialogue	ptbr_import	ptbr
 Twisted bow. Are you sure? This is not reversible.	扭曲弓。你确定吗？此操作不可逆。	dialogue	ptbr_import	ptbr
 Two bags should be more than enough thank you.	两袋应该绰绰有余了，谢谢你。	dialogue	ptbr_import	ptbr
@@ -110330,7 +110330,7 @@ You're back, my child. Did you find Efaritay?	你回来了，我的孩子。你�
 Please be quick, my child.	请快一点，我的孩子。	dialogue	wiki_rescrape	wiki_rescrape
 Now's not the time for that. You need to deal with Drakan.	现在不是说这个的时候。你得去对付德拉肯。	dialogue	wiki_rescrape	wiki_rescrape
 You go to use the door, but notice a chest nearby with some useful supplies in it...	你正要去用门，却注意到附近有一个宝箱，里面有一些有用的补给品……	dialogue	wiki_rescrape	wiki_rescrape
-I've seen empires rise, then watched them crumble into dust... I've witnessed the ascension of gods, then watched those same gods fade into nothing...	我见过帝国崛起，又看着它们化为灰尘……我见证过诸神的升天，又看着那些神祇归于无……	dialogue	wiki_rescrape	wiki_rescrape
+I've seen empires rise, then watched them crumble into dust... I've witnessed the ascension of gods, then watched those same gods fade into nothing...	我见过帝国崛起，又看着它们化为灰尘……我见证过诸神的飞升，又看着那些神祇归于无……	dialogue	wiki_rescrape	wiki_rescrape
 But now, here you stand. You understand that even with me in this state, the odds are very much against you. Yet despite that, you stand here all the same.	但现在，你站在这里。你明白即使我处于这种状态，胜算也对你极为不利。然而尽管如此，你还是站在了这里。	dialogue	wiki_rescrape	wiki_rescrape
 You. A mere human... I don't even know your name.	你。一个区区人类……我甚至不知道你的名字。	dialogue	wiki_rescrape	wiki_rescrape
 I'm sorry... His wound... It's too great. If we reverse the vampyrification...	对不起……他的伤……太重了。如果我们逆转吸血鬼化……	dialogue	wiki_rescrape	wiki_rescrape
@@ -113126,7 +113126,7 @@ You can't fool me. A bass is a type of fish and this looks nothing like a fish.	
 Well, it would be nice for someone to do something about those mangy stray dogs you see in Varrock.	嗯，要是有人能对那些维洛克城的流浪狗做点什么就好了。	dialogue	wiki_rescrape	wiki_rescrape
 While you were away, I heard of a commotion near the northernmost tree on the island. Could you please check it out?	你不在的时候，我听说岛上最北边那棵树附近有骚动。你能去看看吗？	dialogue	wiki_rescrape	wiki_rescrape
 Lucky indeed... It's almost like you were specifically looking for them?	确实幸运……简直就像你专门在找它们一样？	dialogue	wiki_rescrape	wiki_rescrape
-Mmm... Ascension juice.	嗯……升华汁液。	dialogue	wiki_rescrape	wiki_rescrape
+Mmm... Ascension juice.	嗯……飞升果汁。	dialogue	wiki_rescrape	wiki_rescrape
 Trampling time...	踩踏时间……	dialogue	wiki_rescrape	wiki_rescrape
 Whilst that music must sound absolutely amazing to crabs, it's a little too... avant-garde for your tastes. You choose to imagine different music instead.	虽然那音乐在螃蟹听来一定美妙绝伦，但对你来说有点太……前卫了。你选择在脑海中想象别的音乐。	dialogue	wiki_rescrape	wiki_rescrape
 When you're ready, we can fight again. Or, if you think you're capable, you can face me at full strength.	你准备好后，我们可以再战一场。或者，如果你觉得自己有实力，可以面对全力状态的我。	dialogue	wiki_rescrape	wiki_rescrape
@@ -113420,7 +113420,7 @@ So why haven't you gone any further?	那你为什么没有继续深入？	dialog
 That's amazing. I like it because it sounds funny to me. Banjo!	太棒了。我喜欢它，因为我觉得它听起来很有趣。班卓琴！	dialogue	wiki_rescrape	wiki_rescrape
 However, unlike monsters, in a real fight against another hunter, your protection prayers will only reduce damage by 40%.	然而，与怪物不同，在与另一名猎人进行真正的战斗时，你的保护祈祷只能减少40%的伤害。	dialogue	wiki_rescrape	wiki_rescrape
 Are you ready to proceed?	你准备好继续了吗？	dialogue	wiki_rescrape	wiki_rescrape
-The time has come... for ascension.	升天的时刻……已经到来。	dialogue	wiki_rescrape	wiki_rescrape
+The time has come... for ascension.	飞升的时刻……已经到来。	dialogue	wiki_rescrape	wiki_rescrape
 Oh no reason whatsoever...	哦，完全没什么原因……	dialogue	wiki_rescrape	wiki_rescrape
 Chronozon weakens...	克罗诺宗变弱了……	dialogue	wiki_rescrape	wiki_rescrape
 Are you sure you wish to recolour your Amulet of the Eye? This will consume the Abyssal green dye and replace any existing recolours.	你确定要给你的眼之护符重新着色吗？这将消耗深渊绿色染料，并替换任何现有的重新着色。	dialogue	wiki_rescrape	wiki_rescrape
@@ -113895,7 +113895,7 @@ There's a box of old stinky onions by the back door. We just need some sugar! Th
 You hand over a blood rune.	你交出了一枚血符石。	dialogue	wiki_rescrape	wiki_rescrape
 Have I told you about my beloved Neite?	我跟你讲过我心爱的奈特吗？	dialogue	wiki_rescrape	wiki_rescrape
 Bran's bloody horn... By God, now that's not something I expected to see... Ever!	布兰的血角……天哪，这可不是我预料到会见到的东西……永远想不到！	dialogue	wiki_rescrape	wiki_rescrape
-Ascension!	升华！	dialogue	wiki_rescrape	wiki_rescrape
+Ascension!	飞升！	dialogue	wiki_rescrape	wiki_rescrape
 It all started when I confronted the king, he admitted the plague is a hoax.	一切都始于我与国王对峙，他承认瘟疫是个骗局。	dialogue	wiki_rescrape	wiki_rescrape
 The Diamond of Smoke seems to have mystically found its way back here.	烟雾钻石似乎神秘地回到了这里。	dialogue	wiki_rescrape	wiki_rescrape
 Well, I can sell you some rope for 15 coins. Or I can be making you some if you gets me four balls of wool. I strands them together I does, makes em strong.	嗯，我可以卖给你一些绳子，15枚金币。或者如果你给我四团羊毛，我可以给你做一些。我把它们搓在一起，让它们变得结实。	dialogue	wiki_rescrape	wiki_rescrape
@@ -113910,7 +113910,7 @@ Mrrph...	呜噜……	dialogue	wiki_rescrape	wiki_rescrape
 Here they come!	它们来了！	dialogue	wiki_rescrape	wiki_rescrape
 Could you give me my essence noted?	你能把我的精华以票据形式给我吗？	dialogue	wiki_rescrape	wiki_rescrape
 I hope you get eaten by the KBD, [player name]!	我希望你被KBD吃掉，[player name]！	dialogue	wiki_rescrape	wiki_rescrape
-Now... ascension...	现在……升华……	dialogue	wiki_rescrape	wiki_rescrape
+Now... ascension...	现在……飞升……	dialogue	wiki_rescrape	wiki_rescrape
 We need someone worldly to bring back stray dogs for us. Would you be willing to help us?	我们需要一个见多识广的人帮我们带回流浪狗。你愿意帮助我们吗？	dialogue	wiki_rescrape	wiki_rescrape
 It happens sometimes... I feel the urge to do something daft, like running in the complete opposite direction to where I wanted to go. Sometimes I can resist it, and sometimes I can't.	有时会发生……我感到一股冲动想做一些傻事，比如朝与我想要去的完全相反的方向跑。有时我能抗拒，有时不能。	dialogue	wiki_rescrape	wiki_rescrape
 Sorry, but I'm trying to talk to [player name]. However, he appears to be ignoring me...	抱歉，我正想和[player name]说话。但他似乎在无视我……	dialogue	wiki_rescrape	wiki_rescrape

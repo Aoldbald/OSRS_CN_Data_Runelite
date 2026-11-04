@@ -1148,7 +1148,7 @@ You can now salvage from fisherman's shipwrecks.	你现在可以从渔夫沉船�
 You can now build a steel salvaging hook (with 18 Construction).	你现在可以建造钢制打捞钩 (需要18级建筑)。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now dock your boat at Ardougne, accept up to three port tasks at the same time and build a bronze cannon (with 21 Construction).	你现在可以将船停靠在阿多尼城，最多同时接受三个港口任务并建造青铜大炮 (需要21级建筑)。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now build a teak cargo hold (with 21 Construction).	你现在可以建造柚木货舱 (需要21级建筑)。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
-You can now dock your boat at Port Khazard and take on the Tempor Tantrum Barracuda Trial in the Storm Tempor.	你现在可以将船停靠在卡扎德港并在风暴海域中接受大海之怒梭鱼试炼。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now dock your boat at Port Khazard and take on the Tempor Tantrum Barracuda Trial in the Storm Tempor.	你现在可以将船停靠在卡扎德港并在风暴海域中接受海灵狂怒梭鱼试炼。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now build a teak hull (with 23 Construction).	你现在可以建造柚木船体 (需要23级建筑)。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now build a Keg (with 25 Construction).	你现在可以建造桶 (需要25级建筑)。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now dock your boat at Witchaven.	你现在可以将船停靠在海巫港。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
@@ -1619,7 +1619,7 @@ You can now recruit Spotter Virginia as a crewmate, and use Steel salvaging hook
 You can now dock your boat at Ardougne.[sic] and build a Teak hull on your boat.	你现在可以将船停靠在阿多尼城，并在你的船上建造柚木船体。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now dock your boat at Void Knight's Outpost and build a Teak cargo hold on your boat.	你现在可以将船停靠在虚空骑士前哨站，并在你的船上建造柚木货舱。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 Congratulations, you just reached the Sailing Beta's maximum level. You will not be able to level up anymore. Your Sailing level is now 30.	恭喜，你已达到航海测试版的最高等级。你将无法再升级。你的航海等级现在是30级。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
-You have reached the highest level in the Beta! You can now take on the Tempor Tantrum Barracuda trial, dock at Port Khazard and Corsair Cove, and use Dragon cannons.	你已经达到了测试版的最高等级！你现在可以接受坦波尔.坦特鲁姆.梭鱼试炼，停靠在卡扎德港和海盗湾，并使用龙族大炮。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You have reached the highest level in the Beta! You can now take on the Tempor Tantrum Barracuda trial, dock at Port Khazard and Corsair Cove, and use Dragon cannons.	你已经达到了测试版的最高等级！你现在可以接受海灵狂怒梭鱼试炼，停靠在卡扎德港和海盗湾，并使用龙族大炮。	lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now chop with a Rune Axe and Gilded Axe.	你现在可以使用符文斧和镀金斧砍伐了。	lvl_up_msg	Woodcutting	Woodcutting level up messages
 Members can now cut down Mahogany Trees and craft Clothes Pouches.	会员现在可以砍伐桃花心木树并制作衣服袋。	lvl_up_msg	Woodcutting	Woodcutting level up messages
 Members can now chop with a Dragon Axe or Infernal Axe.	会员现在可以使用龙金斧或地狱斧砍伐。	lvl_up_msg	Woodcutting	Woodcutting level up messages
@@ -1638,7 +1638,7 @@ You can now build an anchor for your boat and dock your boat at Charred Island.	
 You can now dock your boat at and take port tasks from Catherby.	你现在可以将船停靠在凯瑟比镇，并接取那里的港口任务。	lvl_up_msg	ptbr_import	ptbr
 You can now salvage Pirate shipwrecks and dock your boat at Brimhaven.	你现在可以打捞海盗沉船，并将船停靠在布尔哈文镇。	lvl_up_msg	ptbr_import	ptbr
 You can now dock your boat at Ardougne.	你现在可以将船停靠在阿多尼城。	lvl_up_msg	ptbr_import	ptbr
-You can now challenge yourself with the Tempor Tantrum barracuda trial south of the Pandemonium and dock your boat at Port Khazard. You have also reached the maximum Sailing level for this Alpha!	你现在可以挑战潘德莫尼姆岛南部的泰姆波.坦特伦梭鱼试炼，并将船停靠在卡扎德港。你也已经达到了本次 Alpha 测试的最高航海等级！	lvl_up_msg	ptbr_import	ptbr
+You can now challenge yourself with the Tempor Tantrum barracuda trial south of the Pandemonium and dock your boat at Port Khazard. You have also reached the maximum Sailing level for this Alpha!	你现在可以挑战潘德莫尼姆岛南部的海灵狂怒梭鱼试炼，并将船停靠在卡扎德港。你也已经达到了本次 Alpha 测试的最高航海等级！	lvl_up_msg	ptbr_import	ptbr
 You can now dock your boat at Musa Point and The End, fully chart The Firth of Lum and purchase a Kandarin small boat.	你现在可以将船停靠在穆萨角与终焉之地，完整绘制卢姆湾海图，并购买一艘坎达林小船。	lvl_up_msg	wiki_rescrape	wiki_rescrape
 You have unlocked: Falador low wall climb.	你已解锁：法拉多城矮墙攀爬。	lvl_up_msg	wiki_rescrape	wiki_rescrape
 You have unlocked: Cross the River Lum to Al Kharid.	你已解锁：横渡卢姆河前往阿尔卡里德城。	lvl_up_msg	wiki_rescrape	wiki_rescrape

@@ -8073,7 +8073,7 @@ Pirate shipwrecks	海盗沉船	interface	generalUI	skillGuide
 Mercenary shipwrecks	雇佣兵沉船	interface	generalUI	skillGuide
 Fremennik shipwrecks	费明尼克沉船	interface	generalUI	skillGuide
 Merchant shipwrecks	商人沉船	interface	generalUI	skillGuide
-The Tempor Tantrum - The Storm Tempor	大海之怒 - 风暴海域	interface	generalUI	skillGuide
+The Tempor Tantrum - The Storm Tempor	海灵狂怒 - 风暴海域	interface	generalUI	skillGuide
 The Jubbly Jive - Backwater	胖食人鸟式摇摆 - 回水湾	interface	generalUI	skillGuide
 The Gwenith Glide - Porth Gwenith Requires: <colNum0>Regicide</col>	格温尼斯滑翔 - 格温尼斯港<br>需要：<colNum0>弑君</col>	interface	generalUI	skillGuide
 Wooden hull	木制船体	interface	generalUI	skillGuide
@@ -33162,7 +33162,7 @@ You need at least one copper ore and one tin ore to smelt a bronze	你至少需�
 You search the ice and find a key.	你搜索冰块，找到了一把钥匙。	interface	wiki_rescrape	wiki_rescrape
 Find a spool of Barracuda grade rope east of Wintumber Island.	在冬木岛以东找到一卷梭鱼级绳索。	interface	wiki_rescrape	wiki_rescrape
 These gloves allow the wearer to nimbly dislodge birds' nests, giving them a greater chance of receiving their desired type of nest.	这副手套能让佩戴者灵巧地取下鸟巢，从而更有可能获得他们想要的鸟巢类型。	interface	wiki_rescrape	wiki_rescrape
-The Tempor Tantrum Statistics	坦珀脾气统计	interface	wiki_rescrape	wiki_rescrape
+The Tempor Tantrum Statistics	海灵狂怒统计	interface	wiki_rescrape	wiki_rescrape
 Oak logs x 10	橡木原木 x 10	interface	wiki_rescrape	wiki_rescrape
 Amulet of glory (Members)	荣耀护符（会员）	interface	wiki_rescrape	wiki_rescrape
 Extra Information	额外信息	interface	wiki_rescrape	wiki_rescrape
@@ -33387,7 +33387,7 @@ Defeat the Tanglefoot	击败缠足怪	interface	wiki_rescrape	wiki_rescrape
 Fighting for Aga	为阿加而战	interface	wiki_rescrape	wiki_rescrape
 You add some water to the vat.	你往大桶里加了一些水。	interface	wiki_rescrape	wiki_rescrape
 These legs enhance your learning speed in the farming skill, increasing farming XP by 0.6% while worn. An extra 0.5% boost is given if all four parts of the farmer's outfit are equipped.	这条裤子能提升你学习农业技能的速度，穿戴时农业经验增加0.6%。若装备农夫套装的四件全部，则额外提升0.5%。	interface	wiki_rescrape	wiki_rescrape
-Ammo: Ascension bolts	弹药：登升弩箭	interface	wiki_rescrape	wiki_rescrape
+Ammo: Ascension bolts	弹药：飞升弩箭	interface	wiki_rescrape	wiki_rescrape
 Combat gear for The Kendal fight	用于肯达尔之战的战斗装备	interface	wiki_rescrape	wiki_rescrape
 You need an Agility level of 93 to do that.	你需要93级敏捷才能这样做。	interface	wiki_rescrape	wiki_rescrape
 Any antipoison	任何解毒药	interface	wiki_rescrape	wiki_rescrape
@@ -33713,7 +33713,7 @@ You need an Agility level of 24 to climb over here.	你需要24级敏捷才能�
 To make that you need a steel bar.	制作那个你需要一根钢锭。	interface	wiki_rescrape	wiki_rescrape
 You will need a charged cell to power any rift	你需要一个充能的能量单元来为任何裂隙供能	interface	wiki_rescrape	wiki_rescrape
 Ammo: Atlatl darts	弹药：投矛器飞镖	interface	wiki_rescrape	wiki_rescrape
-Members: Ascension rocks	会员：升腾岩石	interface	wiki_rescrape	wiki_rescrape
+Members: Ascension rocks	会员：飞升岩石	interface	wiki_rescrape	wiki_rescrape
 Select Short green guy	选择小绿人鸡尾酒	interface	wiki_rescrape	wiki_rescrape
 Karamja Spirits Bar - Completed!	卡拉姆詹岛烈酒酒吧 - 已完成！	interface	wiki_rescrape	wiki_rescrape
 How many claws do terrorbirds have?	骇鸟有几只爪子？	interface	wiki_rescrape	wiki_rescrape
@@ -34211,7 +34211,7 @@ Click here to resign as group leader.	点击此处辞去团队领袖职务。	in
 Toadflax blend is next to Sodium hydroxide.	亚麻蟾蜍草混合物在氢氧化钠旁边。	interface	wiki_rescrape	wiki_rescrape
 Fairy ring (AIR)	仙女环（AIR）	interface	wiki_rescrape	wiki_rescrape
 Troubleshooting your AMCE	排查你的 AMCE 故障	interface	wiki_rescrape	wiki_rescrape
-Members: Ascension crossbows	会员：晋升弩	interface	wiki_rescrape	wiki_rescrape
+Members: Ascension crossbows	会员：飞升弩	interface	wiki_rescrape	wiki_rescrape
 Insert Earth rune into the highlighted slot	将大地符石插入高亮槽位	interface	wiki_rescrape	wiki_rescrape
 Gathering quest materials	收集任务材料	interface	wiki_rescrape	wiki_rescrape
 Option 2: Save	选项2：保存	interface	wiki_rescrape	wiki_rescrape
@@ -34622,7 +34622,7 @@ Teleports to Mort'ton (minigame tele, teleport scroll)	传送至莫顿镇（小�
 Willow branches	柳木树枝	interface	wiki_rescrape	wiki_rescrape
 Room Modifiers:	房间修正：	interface	wiki_rescrape	wiki_rescrape
 Drag Jug to tab 9	将壶拖到标签页9	interface	wiki_rescrape	wiki_rescrape
-The Tempor Tantrum	时空暴怒	interface	wiki_rescrape	wiki_rescrape
+The Tempor Tantrum	海灵狂怒	interface	wiki_rescrape	wiki_rescrape
 Drag Flax to tab 2	将亚麻拖到标签页2	interface	wiki_rescrape	wiki_rescrape
 You will no longer see your progress on the Group Ironman hiscores.	你将不再在团队铁人排行榜上看到自己的进度。	interface	wiki_rescrape	wiki_rescrape
 Quest: Defender of Varrock (Members Only)	任务：维洛克守护者（仅限会员）	interface	wiki_rescrape	wiki_rescrape
