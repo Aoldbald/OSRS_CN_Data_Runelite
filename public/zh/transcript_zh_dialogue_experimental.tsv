@@ -115769,7 +115769,7 @@ On that topic, you can improve your smithing by smelting ores into bars and then
 This is hardly the Shayzien Prison. These walls are rotting away! There must be a way through one of them.	这哪像谢兹恩城的监狱。这些墙都在腐烂！肯定有办法从其中一堵墙穿过去。	dialogue	wiki_rescrape	wiki_rescrape
 Once you've run out of Prayer Points, you'll need to restore them before you can use any prayers again. Prayer Points can be restored at an altar. To find an altar, just look for the relevant icon on your map.	一旦你的祈祷点数用完，就需要先恢复它们才能再次使用任何祈祷。祈祷点数可以在祭坛恢复。要找到祭坛，只需在地图上寻找相应的图标。	dialogue	wiki_rescrape	wiki_rescrape
 Various materials can be spun into yarn or string using a spinning wheel. To find a spinning wheel, just look for the relevant icon on your map.	各种材料都可以用纺车纺成纱线或绳子。要找到纺车，只需在地图上寻找相应的图标。	dialogue	wiki_rescrape	wiki_rescrape
-For that, I'd suggest you talk to Captain Harlan. He's the local expert on combat. You'll find him just north of the castle, outside the General Store.	关于这个，我建议你去和船长Harlan谈谈。他是本地战斗方面的专家。你可以在城堡北面、杂货店外面找到他。	dialogue	wiki_rescrape	wiki_rescrape
+For that, I'd suggest you talk to Captain Harlan. He's the local expert on combat. You'll find him just north of the castle, outside the General Store.	关于这个，我建议你去和哈兰队长谈谈。他是本地战斗方面的专家。你可以在城堡北面、杂货店外面找到他。	dialogue	wiki_rescrape	wiki_rescrape
 Yes, I have a spare one here.	是的，我这里正好有一个备用的。	dialogue	wiki_rescrape	wiki_rescrape
 Mostly alone. He liked his privacy. He'd always be happy to get a bottle or two out if he did have visitors though. He'd always insist on me or my father having at least one drink with him if we visited.	大多是一个人。他喜欢清静。不过要是有客人来，他总是乐意拿出一两瓶酒来。我们要是去拜访，他总会坚持让我或我父亲至少陪他喝一杯。	dialogue	wiki_rescrape	wiki_rescrape
 Well, when it comes to murder, there are a few things we generally look at. First, there's the body itself. Determining the cause of death is a good start for any investigation.	嗯，说到谋杀，我们一般会关注几件事。首先是尸体本身。确定死因是任何调查的良好开端。	dialogue	wiki_rescrape	wiki_rescrape
@@ -115800,7 +115800,7 @@ Don't worry, flotsam never stays away from this island for very long. Yep, there
 Ahoy there. It be a nice day for fishing.	嗨，你好啊。今天是个钓鱼的好日子。	dialogue	wiki_rescrape	wiki_rescrape
 Look. Nasty human over there. Kill time now.	看。那边有个讨厌的人类。现在是杀的时候了。	dialogue	wiki_rescrape	wiki_rescrape
 Arrr! Don't mention it.	啊哈！不用客气。	dialogue	wiki_rescrape	wiki_rescrape
-So prayers are specifically a Saradomin thing?	所以祈祷是Saradomin专属的东西？	dialogue	wiki_rescrape	wiki_rescrape
+So prayers are specifically a Saradomin thing?	所以祈祷是萨拉多明专属的东西？	dialogue	wiki_rescrape	wiki_rescrape
 It's not good, Sergeant. The killer has struck again!	情况不妙，中士。杀手又出手了！	dialogue	wiki_rescrape	wiki_rescrape
 Okay, there's clearly a story here.	好吧，这里面显然有故事。	dialogue	wiki_rescrape	wiki_rescrape
 You can't inspect the victim's head as it has been completely removed.	你无法检查受害者的头部，因为它已被完全移除。	dialogue	wiki_rescrape	wiki_rescrape
@@ -115817,13 +115817,13 @@ There are all sorts! Mithril, adamantite, runite... Shall I tell you about them?
 Not like we are. I think for him it's more of a hobby. I seem to recall that he didn't always live around here. Shayzien is where he used to be from I think.	不像我们这样。我觉得对他来说这更像是个爱好。我好像记得他并不一直住在这附近。我想他以前是谢兹恩城那边的人。	dialogue	wiki_rescrape	wiki_rescrape
 Don't mention it. Now, is there anything else I can do for you?	不用客气。那么，还有什么我能帮你的吗？	dialogue	wiki_rescrape	wiki_rescrape
 You flee one crime scene, arrive at another, then escape imprisonment, but now you expect me to listen to you? Why?	你逃离一个犯罪现场，又到了另一个，然后越狱，现在却指望我听你的？为什么？	dialogue	wiki_rescrape	wiki_rescrape
-Evil human! Mudfoot kill you now!	邪恶的人类！Mudfoot现在就杀了你！	dialogue	wiki_rescrape	wiki_rescrape
+Evil human! Mudfoot kill you now!	邪恶的人类！泥脚现在就杀了你！	dialogue	wiki_rescrape	wiki_rescrape
 Perhaps you'll get to the bottom of it faster with an extra pair of hands. I could be quite useful.	多一双手，也许你能更快查明真相。我可以帮上不少忙。	dialogue	wiki_rescrape	wiki_rescrape
 No? It's a very small house for two people. I wouldn't blame her if she'd got a bit sick of 'im.	没有？两个人住这房子可太小了。要是她有点受够了他，我也不会怪她。	dialogue	wiki_rescrape	wiki_rescrape
 Well... er... he didn't used to live 'ere all the time. I think this was his holiday home or somethin' like that. Then 'bout ten years ago he moved here permanently.	嗯……呃……他以前并不是一直住在这儿的。我想这是他的度假屋之类的。然后大约十年前，他永久搬到了这里。	dialogue	wiki_rescrape	wiki_rescrape
 We've recruited the help of [Player] who seems to be confident in taking on the horrors of the archive single-handedly. We have little choice at this stage, so let us hope they can hold this burden alone.	我们招募了[Player]的协助，此人似乎有信心独自应对档案库中的恐怖。现阶段我们别无选择，只能希望他们能独自承担这份重担。	dialogue	wiki_rescrape	wiki_rescrape
 Maybe his daughter killed him 'cause he was snoring too loud?	也许他女儿杀了他，因为他打呼噜太响了？	dialogue	wiki_rescrape	wiki_rescrape
-That there is, my child. I am from the nearby camp of peaceful monks. We spend our days dedicating ourselves to Saradomin, and sometimes spreading his teachings across the kingdom.	确实有，我的孩子。我来自附近一个和平僧侣的营地。我们终日献身于Saradomin，有时也在王国各地传播他的教义。	dialogue	wiki_rescrape	wiki_rescrape
+That there is, my child. I am from the nearby camp of peaceful monks. We spend our days dedicating ourselves to Saradomin, and sometimes spreading his teachings across the kingdom.	确实有，我的孩子。我来自附近一个和平僧侣的营地。我们终日献身于萨拉多明，有时也在王国各地传播他的教义。	dialogue	wiki_rescrape	wiki_rescrape
 No. Thank you, but I'd like some time alone. A quiet walk is the sort of thing I need. But...	不用了。谢谢你，但我想一个人待一会儿。安静地散散步正是我需要的。不过……	dialogue	wiki_rescrape	wiki_rescrape
 It was a long time ago, when I was just a child. My mother and sister were murdered, right here in Land's End, but they never found the killer...	那是很久以前的事了，那时我还是个孩子。我的母亲和姐姐被谋杀了，就在兰兹角村这里，但他们一直没找到凶手……	dialogue	wiki_rescrape	wiki_rescrape
 Okay... Good luck with that...	好吧……祝你好运……	dialogue	wiki_rescrape	wiki_rescrape
@@ -115833,7 +115833,7 @@ No, but given you've been rather busy yourself, I'm guessing you know everything
 Yes. Nasty humans try to frame innocent goblins. Me here to stop them. Me make them go dead.	对。讨厌的人类想陷害无辜的哥布林。我来阻止他们。我让他们死掉。	dialogue	wiki_rescrape	wiki_rescrape
 Me throw them hard. Harder me throw, more death happen.	我用力扔它们。扔得越用力，死得越多。	dialogue	wiki_rescrape	wiki_rescrape
 Hello there. Good day for farming, isn't it?	你好啊。今天是个务农的好日子，不是吗？	dialogue	wiki_rescrape	wiki_rescrape
-There's a reason why the Church of Saradomin is by far the largest religion in all these lands!	Saradomin教会之所以是所有这些土地上迄今为止最大的宗教，是有原因的！	dialogue	wiki_rescrape	wiki_rescrape
+There's a reason why the Church of Saradomin is by far the largest religion in all these lands!	萨拉多明教会之所以是所有这些土地上最大的宗教，是有原因的！	dialogue	wiki_rescrape	wiki_rescrape
 I see... It seems H.A.M. are starting to become more problematic. That is unfortunate...	我明白了……看来H.A.M.开始变得越来越成问题了。真不幸……	dialogue	wiki_rescrape	wiki_rescrape
 What do you know about the victim?	你对受害者了解多少？	dialogue	wiki_rescrape	wiki_rescrape
 The conclusion? An illness. One so tragic, the surviving daughter never fully recovered. She spent years in care, but eventually her father decided to bring her home.	结论呢？一种疾病。悲惨到幸存的女儿从未完全康复。她在看护下度过了多年，但最终她父亲决定把她带回家。	dialogue	wiki_rescrape	wiki_rescrape
@@ -115918,13 +115918,13 @@ I see. So, any tips for my investigation?	我明白了。那对我的调查有�
 Heh! I don't keep it up here, do I? It's all down in the basement. I keep it there, that I do.	嘿！我可不把它放在这上面，对吧？全都在地下室里。我就放在那儿，没错。	dialogue	wiki_rescrape	wiki_rescrape
 Ah, well you'll want to make sure you have a ranged weapon then.	啊，那你可得确保自己有一把远程武器。	dialogue	wiki_rescrape	wiki_rescrape
 Could you run me through combat basics again?	能再给我讲讲战斗基础吗？	dialogue	wiki_rescrape	wiki_rescrape
-As it turns out, no. Mudfoot here is actually trying to deal with the thieves as well.	结果并不是。这里的Mudfoot其实也在对付那些盗贼。	dialogue	wiki_rescrape	wiki_rescrape
+As it turns out, no. Mudfoot here is actually trying to deal with the thieves as well.	结果并不是。这里的泥脚其实也在对付那些盗贼。	dialogue	wiki_rescrape	wiki_rescrape
 How should I go about improving my skills?	我该如何提升我的技能？	dialogue	wiki_rescrape	wiki_rescrape
 Because he was a monster! For my entire childhood we lived in fear of him, until the day finally came when my mother decided enough was enough...	因为他是个怪物！我整个童年都在恐惧中度过，直到那一天终于到来，我母亲决定忍无可忍了……	dialogue	wiki_rescrape	wiki_rescrape
 Okay, but cook man just scared that me cook better than him.	好吧，但厨子只是害怕我做饭比他好。	dialogue	wiki_rescrape	wiki_rescrape
 H.A.M. will get rid of people like you!	H.A.M.会除掉你这种人！	dialogue	wiki_rescrape	wiki_rescrape
 Saradomin be with you, stranger.	萨拉多明与你同在，陌生人。	dialogue	wiki_rescrape	wiki_rescrape
-Not yet. Mudfoot seems to be having some... difficulties with that.	还没有。Mudfoot似乎在那方面遇到了一些……困难。	dialogue	wiki_rescrape	wiki_rescrape
+Not yet. Mudfoot seems to be having some... difficulties with that.	还没有。泥脚似乎在那方面遇到了一些……困难。	dialogue	wiki_rescrape	wiki_rescrape
 Anything you'd care to share?	有什么愿意分享的吗？	dialogue	wiki_rescrape	wiki_rescrape
 To learn more about Firemaking, see the guide for it in the Skills panel.	要了解更多关于生火的信息，请参阅技能面板中的相关指南。	dialogue	wiki_rescrape	wiki_rescrape
 Too right.	太对了。	dialogue	wiki_rescrape	wiki_rescrape
@@ -115941,7 +115941,7 @@ Commissioner Edwards. He led the Shayzien Constabulary for years, until he stepp
 Magic? Me try that once. They say to cast spell you wave hands, but me just wave big hammer instead. Work just as good.	魔法？我试过一次。他们说施法要挥手，但我只是挥大锤子。效果一样好。	dialogue	wiki_rescrape	wiki_rescrape
 Well, let's hope we can explain that to them when they come to question us.	好吧，希望他们来盘问我们时，我们能解释清楚。	dialogue	wiki_rescrape	wiki_rescrape
 Hello there. I was wondering if I could ask you some questions?	你好。我想问几个问题，可以吗？	dialogue	wiki_rescrape	wiki_rescrape
-Mudfoot gives Captain Harlan the items from the General Store.	Mudfoot把杂货店的物品交给了哈兰船长。	dialogue	wiki_rescrape	wiki_rescrape
+Mudfoot gives Captain Harlan the items from the General Store.	泥脚把杂货店的物品交给了哈兰队长。	dialogue	wiki_rescrape	wiki_rescrape
 Come on, adventurer, let's get you out of here. Corporals... get started on cleaning up here.	来吧，冒险者，我们带你离开这里。下士们……开始清理这里吧。	dialogue	wiki_rescrape	wiki_rescrape
 Whatever you decide, don't forget that you don't need to go carrying everything on you. You can store all of your items, including any goods you've gathered or made, in your bank.	无论你决定做什么，别忘了你不需要把所有东西都带在身上。你可以把所有物品，包括你收集或制作的货物，都存放在银行里。	dialogue	wiki_rescrape	wiki_rescrape
 Now, the first thing to know is that crafting is a bit of a catch-all term. When it comes to making things, you often have dedicated professions like smithing.	首先要知道的是，制作是个比较笼统的说法。说到制造东西，你常常有像锻造这样的专门职业。	dialogue	wiki_rescrape	wiki_rescrape
@@ -116143,7 +116143,7 @@ Alright, let's get going then.	好吧，那我们出发吧。	dialogue	wiki_resc
 If you wish to investigate the crime scene, I won't stop you, but I'm not going to waste time telling you how to do it. I'm busy enough as it is.	如果你想调查犯罪现场，我不会阻止你，但我不会浪费时间告诉你怎么做。我已经够忙的了。	dialogue	wiki_rescrape	wiki_rescrape
 Other goblins say they see next thief by ruined building, west of shop. They say she use big stick that make air go magic.	其他哥布林说他们在商店西边的废墟旁看到了下一个盗贼。他们说她用一根大棍子让空气变得有魔法。	dialogue	wiki_rescrape	wiki_rescrape
 Alright there. Here for some mining?	你好啊。来采矿的吗？	dialogue	wiki_rescrape	wiki_rescrape
-I don't think it was them, Sergeant. A hooded figure was spotted leaving the crime scene, literally just now!	我不认为是她干的，中士。有人看到一个兜帽人刚刚离开犯罪现场，就在刚才！	dialogue	wiki_rescrape	wiki_rescrape
+I don't think it was them, Sergeant. A hooded figure was spotted leaving the crime scene, literally just now!	我觉得另有其人，中士。有人看到一个兜帽人刚刚离开犯罪现场，就在刚才！	dialogue	wiki_rescrape	wiki_rescrape
 You inspect the victim's legs. They are coated in blood and both feet have been removed.	你检查了受害者的双腿。上面沾满了血，两只脚都被砍掉了。	dialogue	wiki_rescrape	wiki_rescrape
 Could you give me some smithing advice?	你能给我一些锻造方面的建议吗？	dialogue	wiki_rescrape	wiki_rescrape
 Could you tell me more about prayers?	你能多告诉我一些关于祈祷的事吗？	dialogue	wiki_rescrape	wiki_rescrape
@@ -116247,14 +116247,14 @@ There is a large amount of blood on top of the drawers.	抽屉柜上有一大片
 Stupid human. You meant to use fancy magic. Let me do close up hits.	愚蠢的人类。你本来想用花哨的魔法。让我来近身攻击。	dialogue	wiki_rescrape	wiki_rescrape
 Well, you don't need any help from me then. How about you, adventurer?	那么，你就不需要我的帮助了。你呢，冒险者？	dialogue	wiki_rescrape	wiki_rescrape
 Did you see or hear anything before your father's death?	在你父亲死前，你看到或听到什么了吗？	dialogue	wiki_rescrape	wiki_rescrape
-Zamorak fuels us!	Zamorak赐予我们力量！	dialogue	wiki_rescrape	wiki_rescrape
+Zamorak fuels us!	扎莫拉克赐予我们力量！	dialogue	wiki_rescrape	wiki_rescrape
 Again!	再来！	dialogue	wiki_rescrape	wiki_rescrape
 So you can't think of any actual reason why someone would want him dead?	所以你想不出任何真正有人想让他死的理由？	dialogue	wiki_rescrape	wiki_rescrape
 Best I get to it then.	那我最好赶紧去办。	dialogue	wiki_rescrape	wiki_rescrape
 I see... Well, perhaps I can help you with your quest. I'm actually on a quest myself to find whoever robbed the General Store. Maybe we can work together?	我明白了……那么，也许我能帮你完成你的任务。其实我自己也在执行任务，要找出抢劫杂货店的人。也许我们可以合作？	dialogue	wiki_rescrape	wiki_rescrape
 You inspect the victim's arms. You don't find anything of note.	你检查了受害者的手臂。你没有发现任何值得注意的东西。	dialogue	wiki_rescrape	wiki_rescrape
 There's been a murder. No need to worry though, we're here to get to the bottom of it.	发生了一起谋杀案。不过不用担心，我们来这里是为了查明真相。	dialogue	wiki_rescrape	wiki_rescrape
-Humans silly anyway. They no consider powerful hero like Mudfoot! Me on quest to stop all the nasty humans.	人类反正很愚蠢。他们不把像Mudfoot这样强大的英雄放在眼里！我正在执行任务，要阻止所有可恶的人类。	dialogue	wiki_rescrape	wiki_rescrape
+Humans silly anyway. They no consider powerful hero like Mudfoot! Me on quest to stop all the nasty humans.	人类反正很愚蠢。他们不把像泥脚这样强大的英雄放在眼里！我正在执行任务，要阻止所有可恶的人类。	dialogue	wiki_rescrape	wiki_rescrape
 And the three together make up the combat triangle?	这三种合起来就构成了战斗三角？	dialogue	wiki_rescrape	wiki_rescrape
 They're not wrong though. We did fail to report a murder to them.	不过他们说得没错。我们确实没有向他们报告谋杀案。	dialogue	wiki_rescrape	wiki_rescrape
 Okay. Me meet you back outside windmill when you done.	好。你办完后，我们在风车外面见。	dialogue	wiki_rescrape	wiki_rescrape
@@ -116266,7 +116266,7 @@ If the raid scale is duo+:	如果突袭规模为双人及以上：	dialogue	wiki
 An odd acting butcher who has no produce, yet did have a blood-covered knife hidden under his bed. Does that not seem a bit suspicious?	一个行为古怪的屠夫，没有任何货物，床下却藏着一把沾满血的刀。这难道不显得有些可疑吗？	dialogue	wiki_rescrape	wiki_rescrape
 Sergeant Hudson! Sergeant Hudson!	哈德森中士！哈德森中士！	dialogue	wiki_rescrape	wiki_rescrape
 Well, I do know a bit about crafting. I'm sure I can teach you a thing or two...	嗯，我确实懂一点制作。我相信我能教你一两招……	dialogue	wiki_rescrape	wiki_rescrape
-Okay, Mudfoot... We need to find whoever robbed the General Store. Where do we begin?	好吧，Mudfoot……我们需要找出抢劫杂货店的人。我们从哪里开始？	dialogue	wiki_rescrape	wiki_rescrape
+Okay, Mudfoot... We need to find whoever robbed the General Store. Where do we begin?	好吧，泥脚……我们需要找出抢劫杂货店的人。我们从哪里开始？	dialogue	wiki_rescrape	wiki_rescrape
 Okay. Me meet you back outside ruined building behind castle when you done.	好。你办完后，我们在城堡后面的废墟外面见。	dialogue	wiki_rescrape	wiki_rescrape
 500? But me the boss. Human just trusty sidekick. Me should get more money. Bigger money too. Boss always bigger than sidekick, so money be bigger to match.	500？可我是老大。人类只是可靠的跟班。我应该拿更多钱。钱也要更大。老大总是比跟班大，所以钱也得更大才对。	dialogue	wiki_rescrape	wiki_rescrape
 And once we're ready, where do we find this mage?	那我们准备好之后，去哪里找这个法师？	dialogue	wiki_rescrape	wiki_rescrape
@@ -116282,7 +116282,7 @@ Absolutely! Smithing is the art of making weapons and armour from metal. While y
 You depart for Port Piscarilius with Betty.	你和贝蒂动身前往皮斯卡里琉斯港。	dialogue	wiki_rescrape	wiki_rescrape
 Why does it have blood on it?	为什么上面有血？	dialogue	wiki_rescrape	wiki_rescrape
 But that what me do. Me do the close up hit. Why no work?	可那就是我做的啊。我进行近身攻击。为什么没用？	dialogue	wiki_rescrape	wiki_rescrape
-Stupid humans should never have crossed Mudfoot the good at quests. Guard man will want to know about good job. He probably clap for us. Humans like clapping.	愚蠢的人类根本不该招惹擅长任务的Mudfoot。守卫会想知道这件好事的。他大概会为我们鼓掌。人类喜欢鼓掌。	dialogue	wiki_rescrape	wiki_rescrape
+Stupid humans should never have crossed Mudfoot the good at quests. Guard man will want to know about good job. He probably clap for us. Humans like clapping.	愚蠢的人类根本不该招惹擅长任务的泥脚。守卫会想知道这件好事的。他大概会为我们鼓掌。人类喜欢鼓掌。	dialogue	wiki_rescrape	wiki_rescrape
 I've found a few things, but I think there's still more to uncover.	我发现了一些东西，但我认为还有更多有待发掘。	dialogue	wiki_rescrape	wiki_rescrape
 We should go tell guard man that nasty thieves have gone dead.	我们该去告诉守卫，那些可恶的盗贼已经死了。	dialogue	wiki_rescrape	wiki_rescrape
 I regularly travel around here, sharing the word of our holy lord. That is what I am doing right now, in fact, and it was what I was doing when he came and confronted me.	我经常在这一带游历，传播我们神圣之主的教诲。事实上，我现在就在做这件事，他来找我对峙时我也正在做这件事。	dialogue	wiki_rescrape	wiki_rescrape
@@ -116477,7 +116477,7 @@ Yes... I guess you're right.	是的……我想你说得对。	dialogue	wiki_res
 No. All it did was confirm what we already knew. He had no obvious motive, and a butcher being in possession of a knife isn't enough evidence to mean anything.	没有。只是证实了我们已知的情况。他没有明显的动机，而一个屠夫拥有刀并不足以说明任何问题。	dialogue	wiki_rescrape	wiki_rescrape
 You can't carry any more flotsam.	你无法携带更多漂浮物了。	dialogue	wiki_rescrape	wiki_rescrape
 But... your own father... Why?	可是……你自己的父亲……为什么？	dialogue	wiki_rescrape	wiki_rescrape
-Captain Harlan gives Mudfoot his half of the bounty.	哈兰船长把一半赏金给了泥脚。	dialogue	wiki_rescrape	wiki_rescrape
+Captain Harlan gives Mudfoot his half of the bounty.	哈兰队长把一半赏金给了泥脚。	dialogue	wiki_rescrape	wiki_rescrape
 So you can execute me in front of a cheering crowd? Or lock me in a cell to live the rest of my life with no sunlight and a diet of mouldy bread? No. This ends here!	好让你在欢呼的人群面前处决我？或者把我锁在牢房里，让我余生不见阳光、只吃发霉的面包？不。到此为止！	dialogue	wiki_rescrape	wiki_rescrape
 No. Every criminal in this kingdom would likely consider Edwards their enemy.	没有。这个王国里的每个罪犯很可能都会把爱德华视为敌人。	dialogue	wiki_rescrape	wiki_rescrape
 You can store your items in a bank. To find one, look for the relevant icon on your map.	你可以把物品存放在银行里。要找银行，只需在地图上寻找相关图标。	dialogue	wiki_rescrape	wiki_rescrape
