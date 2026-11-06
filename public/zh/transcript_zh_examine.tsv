@@ -256,13 +256,13 @@ A book on the history of astronomy.	一本关于天文学历史的书籍。	exam
 A small key for a large door (Allows access to the goblin kitchen in the Observatory Dungeon).	一扇大门的小钥匙 (可进入天文台地牢的哥布林厨房)。	examine	item	Goblin kitchen key
 An unusual mould in the shape of a disc.	一个圆盘形状的奇特模具。	examine	item	Lens mould
 A perfectly circular disc of glass.	一个完美圆形的玻璃圆盘。	examine	item	Observatory lens
-A slender bone shard given to you by Zadimus.	扎迪穆斯给你的细长骨片。	examine	item	Bone shard
+A slender bone shard given to you by Zadimus.	扎迪姆斯给你的细长骨片。	examine	item	Bone shard
 A bone key fashioned from a shard of bone (Provides access to Rashiliyia's Tomb).	用骨片制成的骨匙 (可进入拉希利娅的坟墓)。	examine	item	Bone key
 A stone plaque with carved letters in it.	一块刻有字母的石板。	examine	item	Stone-plaque
 An ancient tattered scroll.	一份古老的破烂卷轴。	examine	item	Tattered scroll
 An ancient crumpled scroll.	一份古老的皱褶卷轴。	examine	item	Crumpled scroll
 The remains of the Zombie Queen.	僵尸女王的残骸。	examine	item	Rashiliyia corpse
-The remains of Zadimus.	扎迪穆斯的残骸。	examine	item	Zadimus corpse
+The remains of Zadimus.	扎迪姆斯的残骸。	examine	item	Zadimus corpse
 A magical crystal sphere.	一个魔法水晶球。	examine	item	Locating crystal
 A curious looking neck ornament.	一个奇特的颈部装饰品。	examine	item	Beads of the dead
 Lovely money!	诱人的金钱！	examine	item	Coins
@@ -463,7 +463,7 @@ This would make warm clothing.	这个可以做成保暖衣物。	examine	item	Be
 It's a sheet of silk.	这是一块丝绸。	examine	item	Silk
 A slightly muddy spade.	一把略带泥土的铲子。	examine	item	Spade
 A coil of rope.	一卷绳子。	examine	item	Rope
-Get your axes from Bob's Axes.	从鲍勃的斧头店获取你的斧头。	examine	item	Flyer
+Get your axes from Bob's Axes.	从鲍勃斧头店获取你的斧头。	examine	item	Flyer
 A plank of wood!	一块木板！	examine	item	Plank
 I need to pull this.	我需要拉它。	examine	item	Christmas cracker
 A fraction of a roof.	屋顶的一部分。	examine	item	Tile
@@ -1150,9 +1150,9 @@ A small mirror, probably used for grooming.	一面小巧的镜子，大概是用
 This must be Filliman Tarlocks personal journal.	这一定是菲利曼.塔洛克的个人日记。	examine	item	Journal
 A druidic spell given to you freely by the spirit of Filliman Tarlock.	菲利曼.塔洛克之灵免费赠予你的德鲁伊法术。	examine	item	Druidic spell
 A used druidic spell given to you freely by the spirit of Filliman Tarlock.	菲利曼.塔洛克之灵免费赠予你的已使用德鲁伊法术。	examine	item	A used spell
-A mushroom from the swamps of Mort Myre.	来自莫特迈耶沼泽的蘑菇。	examine	item	Mort myre fungus
+A mushroom from the swamps of Mort Myre.	来自莫特迈尔沼泽的蘑菇。	examine	item	Mort myre fungus
 A cutting from a budding branch.	从发芽的树枝上剪下的枝条。	examine	item	Mort myre stem
-A pear picked from a dying bush in Mort Myre.	从莫特迈耶枯萎的灌木上摘下的梨。	examine	item	Mort myre pear
+A pear picked from a dying bush in Mort Myre.	从莫特迈尔枯萎的灌木上摘下的梨。	examine	item	Mort myre pear
 Used to make sickles.	用于制作镰刀。	examine	item	Sickle mould
 A symbol of your chompy bird hunting prowess: Ogre Bowman (30 kills)	象征你高超食人鸟狩猎技巧的标志：食人魔射手 (30次击杀)	examine	item	Chompy bird hat
 A symbol of your chompy bird hunting prowess: Bowman (40 kills)	象征你高超食人鸟狩猎技巧的标志：射手 (40次击杀)	examine	item	Chompy bird hat
@@ -1209,7 +1209,7 @@ This map shows the secret way up to Death Plateau.	这张地图显示了通往�
 Boots made for climbing.	为攀爬而制作的靴子。	examine	item	Climbing boots
 Climbing boots with spikes.	带尖刺的登山靴。	examine	item	Spiked boots
 Place on the stone mechanism in the right order to open the door.	按正确顺序放置在石头机关上以打开门。	examine	item	Stone ball
-Entrance certificate to the Imperial Guard.	帝国卫队入伍证书。	examine	item	Certificate
+Entrance certificate to the Imperial Guard.	帝国守卫入伍证书。	examine	item	Certificate
 A solid stone shield.	一面坚固的石盾。	examine	item	Granite shield
 Large glistening bones which glow with a pale yellow aura.	散发着淡黄色光芒的巨大发光骨头。	examine	item	Shaikahan bones
 Fairly big bones which smell distinctly of Jogre.	相当大的骨头，散发着明显的乔格雷食人魔气味。	examine	item	Jogre bones
@@ -1702,7 +1702,7 @@ This fruit is known as White Pearl. Should taste good.	这种水果被称为白�
 You can grow this seed even in cold mountain ranges!	你甚至可以在寒冷的山区种植这种种子！	examine	item	White pearl seed
 It's a piece of the Ancient Rock of the mountain people. It's still just a stone.	这是一块来自山民古老岩石的碎片。它仍然只是一块石头。	examine	item	Half a rock
 The corpse of a woman who died long ago.	一具死去已久的女性尸体。	examine	item	Corpse of woman
-This used to belong to Asleif, daughter of the mountain camp chieftain.	这曾经属于山营酋长的女儿阿斯莱夫。	examine	item	Asleif's necklace
+This used to belong to Asleif, daughter of the mountain camp chieftain.	这曾经属于山营酋长的女儿阿斯莱芙。	examine	item	Asleif's necklace
 Yuck, it's sticky, dirty mud.	呸，这是黏糊糊的脏泥。	examine	item	Mud
 A muddy rock.	一块泥泞的岩石。	examine	item	Muddy rock
 It's just a long stick, really.	这真的只是一根长棍子。	examine	item	Pole
@@ -1872,7 +1872,7 @@ An unstrung composite ogre bow.	一把未穿线的复合食人魔弓。	examine	
 A composite ogre bow.	一把复合食人魔弓。	examine	item	Comp ogre bow
 A book of H.A.M affiliation.	一本反怪物人联的书籍。	examine	item	Book of 'h.a.m'
 Ancient ogre bones from the ogre burial tomb.	来自食人魔坟墓的古代食人魔骨。	examine	item	Fayrg bones
-Some strange liquid given to you by Zavistic Rarve.	扎维斯蒂克.拉尔夫给你的一些奇怪液体。	examine	item	Strange potion
+Some strange liquid given to you by Zavistic Rarve.	扎维斯提克.拉尔夫给你的一些奇怪液体。	examine	item	Strange potion
 A book of necromantic spells.	一本死灵法术书。	examine	item	Necromancy book
 Looks like an innocent cup of tea.	看起来像一杯普通的茶。	examine	item	Cup of tea
 A key to some sort of special tomb area (Used in the Zogre Flesh Eaters quest).	某种特殊墓地区域的钥匙 (用于佐格雷食人魔任务)。	examine	item	Ogre gate key
@@ -2905,13 +2905,13 @@ A key for the Temple Library (Used in the In Aid of the Myreque quest).	神殿�
 A book about seven warrior priests, written about 200 years ago.	一本关于七位战士祭司的书，写于大约200年前。	examine	item	The sleeping seven
 An ancient history book.	一本古老的历史书。	examine	item	Histories of the hallowland
 An ancient leather-bound tome.	一本古老的皮面精装书。	examine	item	Modern day morytania
-Rod of Ivandis dust.	伊凡迪斯杖的粉末。	examine	item	Rod dust
+Rod of Ivandis dust.	伊万迪斯之杖的粉末。	examine	item	Rod dust
 A silvery rod of mithril and silver with a sapphire on the top.	一根由秘银和银制成的银色权杖，顶端镶嵌着一颗蓝宝石。	examine	item	Silvthrill rod
 An enchanted rod of mithril and silver with a sapphire on the top.	一根由秘银和银制成的法杖，顶端镶嵌着一颗蓝宝石。	examine	item	Silvthrill rod
 A fully charged rod.	一根满充能的法杖。	examine	item	Rod of ivandis (10)
 A partially charged rod.	一根部分充能的法杖。	examine	item	Rod of ivandis (9)
 2! 2 charges left! Ha Ha Ha.	2！还剩2次充能！哈哈哈。	examine	item	Rod of ivandis (2)
-A mould of the Rod of Ivandis.	伊凡迪斯杖的模具。	examine	item	Rod mould
+A mould of the Rod of Ivandis.	伊万迪斯之杖的模具。	examine	item	Rod mould
 It's ground up silver.	这是银粉。	examine	item	Silver dust
 An unfinished potion.	一瓶未完成的药水。	examine	item	Guthix balance (unf)
 A potion of harralander, red spiders eggs, garlic and silver dust.	一瓶由哈拉兰德草、红蜘蛛卵、大蒜和银粉制成的药水。	examine	item	Guthix balance(4)
@@ -3774,14 +3774,14 @@ As used by King Tyras' personal guard.	泰拉斯国王私人卫队使用的。	e
 A message for Veliaf.	给维利亚夫的信息。	examine	item	Message
 Dress like the powerful vyrewatch!	穿得像强大的吸血鬼哨兵！	examine	item	Vyrewatch top
 Ghetto disguise!	贫民窟伪装！	examine	item	Citizen top
-A sketch of the northern approach of Castle Drakan.	德雷戛纳堡北部入口的草图。	examine	item	Castle sketch 1
-A sketch of the western approach of Castle Drakan.	德雷戛纳堡西部入口的草图。	examine	item	Castle sketch 2
-A sketch of the southern approach of Castle Drakan.	德雷戛纳堡南部入口的草图。	examine	item	Castle sketch 3
+A sketch of the northern approach of Castle Drakan.	德雷坎城堡北部入口的草图。	examine	item	Castle sketch 1
+A sketch of the western approach of Castle Drakan.	德雷坎城堡西部入口的草图。	examine	item	Castle sketch 2
+A sketch of the southern approach of Castle Drakan.	德雷坎城堡南部入口的草图。	examine	item	Castle sketch 3
 A message found behind a loose tile.	在一块松动的瓷砖后面发现的信息。	examine	item	Message
 A pouch filled with blood.	一个装满血的袋子。	examine	item	Blood tithe pouch
 A key to some large, strange door (Used in the Darkness of Hallowvale quest).	一把通往某个巨大而奇怪的门的钥匙 (用于哈洛维尔的黑暗任务)。	examine	item	Large ornate key
 A book called Haemalchemy Volume 1.	一本名为《血液炼金术第1卷》的书。	examine	item	Haemalchemy volume 1
-A sealed message from Safalaan to Veliaf.	一封从萨法兰到维利亚夫的密封信息。	examine	item	Sealed message
+A sealed message from Safalaan to Veliaf.	一封从萨法拉恩到维利亚夫的密封信息。	examine	item	Sealed message
 A key to some door (Used in the Darkness of Hallowvale quest).	一把通往某扇门的钥匙 (用于哈洛维尔的黑暗任务)。	examine	item	Door key
 The top of a ladder.	梯子的顶部。	examine	item	Ladder top
 A tome of experience that awards 2,000 XP per chapter.	一本每章奖励2,000经验值的经验之书。	examine	item	Tome of experience (3)
@@ -4232,7 +4232,7 @@ Silly jester tights.	滑稽的小丑紧身裤。	examine	item	Silly jester tight
 Silly jester boots.	滑稽的小丑靴子。	examine	item	Silly jester boots
 A jester stick.	一根小丑棒。	examine	item	A jester stick
 Apricot cream pie.	杏子奶油派。	examine	item	Apricot cream pie
-The head of the Troll King...nice!	巨魔之王的头……不错！	examine	item	Decapitated head
+The head of the Troll King...nice!	巨魔国王的头……不错！	examine	item	Decapitated head
 A slightly sq'irky, I mean quirky, fruit.	一种略显奇特，我是说有点古怪的水果。	examine	item	Spring sq'irk
 Made from 4 spring sq'irks.	由4个春季斯奎克果制成。	examine	item	Spring sq'irkjuice
 Made from 2 summer sq'irks.	由2个夏季斯奎克果制成。	examine	item	Summer sq'irkjuice
@@ -4281,9 +4281,9 @@ Red reward token earned from helping people journey to Burgh de Rott.	通过帮�
 Blue reward token earned from helping people journey to Burgh de Rott.	通过帮助人们前往伯格德罗特镇获得的蓝色奖励代币。	examine	item	Reward token
 The claws from a nail beast.	来自钉兽的爪子。	examine	item	Nail beast nails
 You'll certainly be alright wearing this.	穿上这个你肯定会没事的。	examine	item	Lumberjack top
-Yellow reward token earned from helping people journey to Paterdomus.	通过帮助人们前往帕多姆斯获得的黄色奖励代币。	examine	item	Reward token
-Red reward token earned from helping people journey to Paterdomus.	通过帮助人们前往帕多姆斯获得的红色奖励代币。	examine	item	Reward token
-Blue reward token earned from helping people journey to Paterdomus.	通过帮助人们前往帕多姆斯获得的蓝色奖励代币。	examine	item	Reward token
+Yellow reward token earned from helping people journey to Paterdomus.	通过帮助人们前往帕特多穆斯获得的黄色奖励代币。	examine	item	Reward token
+Red reward token earned from helping people journey to Paterdomus.	通过帮助人们前往帕特多穆斯获得的红色奖励代币。	examine	item	Reward token
+Blue reward token earned from helping people journey to Paterdomus.	通过帮助人们前往帕特多穆斯获得的蓝色奖励代币。	examine	item	Reward token
 A sign.	一个标志。	examine	item	Pushup
 Five skull staples.	五个头骨钉。	examine	item	Skull staples
 Don't make anyone jump when you ring this!	按这个的时候别吓到任何人！	examine	item	Slayer bell
@@ -5248,7 +5248,7 @@ Census of King Rada III, by Matthias Vorseth.	《拉达三世国王人口普查�
 Diary of Steklan Ricktor, volume 7.	《斯特克兰.里克托尔日记》，第7卷。	examine	item	Ricktor's diary (7)
 An extract from Eathram & Rada, by Anonymous.	《伊斯拉姆与拉达》摘录，匿名著。	examine	item	Eathram & rada extract
 Killing of a King, by Griselle.	《弑君》，格里塞尔著。	examine	item	Killing of a king
-A letter from Lord Hosidius to the Council of Elders.	霍西迪乌斯领主写给长老会的信。	examine	item	Hosidius letter
+A letter from Lord Hosidius to the Council of Elders.	霍西迪乌斯领主写给长老议会的信。	examine	item	Hosidius letter
 The Parable of the Wintertodt, by Anonymous.	《冬将军寓言》，匿名著。	examine	item	Wintertodt parable
 The Royal Accord of Twill.	《特威尔皇家协议》。	examine	item	Twill accord
 Speech of King Byrne I, on the occasion of his coronation.	《拜恩一世国王加冕演说》。	examine	item	Byrne's coronation speech
@@ -5313,7 +5313,7 @@ A monkey retrieved from the wreckage of Glough's airship laboratory.	一只从�
 The remains of an ethereal shield.	精神护盾的残骸。	examine	item	Elysian spirit shield
 An onyx gem, charged with energy.	一颗充能的玛瑙宝石。	examine	item	Charged onyx
 The gem has been carefully resculpted to invert the flow of energy.	这颗宝石已被精心重塑以逆转能量流动。	examine	item	Deconstructed onyx
-King Narnode's personal seed pod, for travelling to the Grand Tree.	纳罗德国王的个人种子荚，用于前往大树家园。	examine	item	Royal seed pod
+King Narnode's personal seed pod, for travelling to the Grand Tree.	纳诺德国王的个人种子荚，用于前往大树家园。	examine	item	Royal seed pod
 A key to a door in a maze beneath Ape Atoll.	猿猴岛下方迷宫中一扇门的钥匙。	examine	item	Bronze key
 Needs a shaft.	需要杆子。	examine	item	Bronze javelin tips
 It's not very strong, but it could be pointy if you put a pointy tip on it.	它不是很坚固，但如果你装上尖头，它可以变得尖锐。	examine	item	Javelin shaft
@@ -5663,7 +5663,7 @@ A journal belonging to Larkur of Rellekka. Smells fishy.	一本属于雷勒卡�
 It feels weak, but it might be okay for burning.	感觉火力不够，但也许可以用来燃烧。	examine	item	Kindling
 An empty hollowed out fruit. It could be used as a makeshift vial.	一个空的挖空果实。可用作简易小瓶。	examine	item	Empty gourd vial
 A hollowed out fruit filled with water.	一个装满水的挖空果实。	examine	item	Water-filled gourd vial
-A depiction of Mount Quidamortem.	奎达莫特山的描绘。	examine	item	Snow globe
+A depiction of Mount Quidamortem.	奎达莫特姆山的描绘。	examine	item	Snow globe
 You too can look like Santa.	你也可以看起来像圣诞老人。	examine	item	Sack of presents
 That's one ginormous present.	那是一个巨大的礼物。	examine	item	Giant present
 The helmet of a forgotton warrior, corrupted by the dark altar.	被黑暗祭坛腐蚀的被遗忘战士的头盔。	examine	item	Corrupted helm
@@ -5738,10 +5738,10 @@ Large storage unit	大型存储单元	examine	item	Large storage unit
 An insignia representing Kodai, Xeric's fearsome wizards.	一枚代表科代 (泽里克的可怕魔法师)的徽章。	examine	item	Kodai insignia
 Strange glowing symbols are inscribed in this tablet.	这块石板上刻着奇异的发光符号。	examine	item	Ancient tablet
 A set containing an Ancestral hat, robe top and robe bottom.	一套包含先祖兜帽、长袍上衣和长袍下装的套装。	examine	item	Ancestral robes set
-This should open the main doors of the manor house (Used in the Misthalin Mystery quest).	这应该能打开庄园的主门 (用于米斯特林之谜任务)。	examine	item	Manor key
-A key crafted from ruby (Used in the Misthalin Mystery quest).	一把由红宝石制成的钥匙 (用于米斯特林之谜任务)。	examine	item	Ruby key
-A key crafted from emerald (Used in the Misthalin Mystery quest).	一把由祖母绿制成的钥匙 (用于米斯特林之谜任务)。	examine	item	Emerald key
-A key crafted from sapphire (Used in the Misthalin Mystery quest).	一把由蓝宝石制成的钥匙 (用于米斯特林之谜任务)。	examine	item	Sapphire key
+This should open the main doors of the manor house (Used in the Misthalin Mystery quest).	这应该能打开庄园的主门 (用于米斯塔林之谜任务)。	examine	item	Manor key
+A key crafted from ruby (Used in the Misthalin Mystery quest).	一把由红宝石制成的钥匙 (用于米斯塔林之谜任务)。	examine	item	Ruby key
+A key crafted from emerald (Used in the Misthalin Mystery quest).	一把由祖母绿制成的钥匙 (用于米斯塔林之谜任务)。	examine	item	Emerald key
+A key crafted from sapphire (Used in the Misthalin Mystery quest).	一把由蓝宝石制成的钥匙 (用于米斯塔林之谜任务)。	examine	item	Sapphire key
 This ring can reveal a hunter creature's track.	这枚戒指能揭示狩猎生物的踪迹。	examine	item	Ring of pursuit
 This ring returns you to your spawn point.	这枚戒指能将你送回重生点。	examine	item	Ring of returning(5)
 Aids the user against vampyres.	帮助用户对抗吸血鬼。	examine	item	Efaritay's aid
@@ -6020,7 +6020,7 @@ One dose of fishy super anti-firebreath potion.	一份鱼腥超级抗龙息药�
 A light shield with a haunting, skeletal visage.	一个带有阴森骷髅面容的轻型盾。	examine	item	Dragonfire ward
 A piece of the Fossil Island map.	一块化石岛地图碎片。	examine	item	Map piece
 It looks very old.	它看起来很古老。	examine	item	Aivas' diary
-This book contains records of censuses that were carried out in Avarrocka and Varrock.	这本书包含在阿瓦洛克卡和维洛克城进行的人口普查记录。	examine	item	Varrock census records
+This book contains records of censuses that were carried out in Avarrocka and Varrock.	这本书包含在阿瓦罗卡和维洛克城进行的人口普查记录。	examine	item	Varrock census records
 An old journal.	一本破旧的日记。	examine	item	Malumac's journal
 A forgotten story about a forgotten warrior.	一个关于被遗忘战士的被遗忘的故事。	examine	item	Ablenkian's escape
 The Fall of Imcandoria by Highseer Gulbrand.	《伊姆坎多里亚的陷落》，高见者古尔布兰德著。	examine	item	Imcandoria's fall
@@ -6029,7 +6029,7 @@ Lutwidge and the Moonfly by Shudersque.	《卢特威奇和月蝇》，舒德斯�
 The Tale of Serafina by James Locke.	《塞拉菲娜的故事》，詹姆斯.洛克著。	examine	item	Serafina
 The Weeping by Herbert Dunwich.	《哭泣》，赫伯特.邓威奇著。	examine	item	The weeping
 Some old notes found on Crandor. They're written in a strange text.	在克兰多岛发现的一些破旧的笔记。它们是用奇怪的文字写的。	examine	item	Old notes
-Some old notes found on Ungael. They're written in a strange text.	在恩盖尔发现的一些破旧的笔记。它们是用奇怪的文字写的。	examine	item	Old notes
+Some old notes found on Ungael. They're written in a strange text.	在昂盖尔发现的一些破旧的笔记。它们是用奇怪的文字写的。	examine	item	Old notes
 Some old notes found on Lithkren. They're written in a strange text.	在利斯克伦发现的一些破旧的笔记。它们是用奇怪的文字写的。	examine	item	Old notes
 A glass orb with a dragonstone in the centre.	一个中心有龙石的玻璃宝珠。	examine	item	Inert locator orb
 An ancient bust. The name Robert is inscribed on the bottom.	一个古代半身像。底部刻着罗伯特这个名字。	examine	item	Robert bust
@@ -6039,7 +6039,7 @@ An ancient bust. The name Aivas is inscribed on the bottom.	一个古代半身�
 An ancient key made of dragon metal.	一把由龙金制成的古代钥匙。	examine	item	Dragon key
 A piece of an ancient key. I found this on an island north of Rellekka.	一块古代钥匙的碎片。我在雷勒卡城北部的一个岛上发现了这个。	examine	item	Dragon key piece
 A piece of an ancient key. I found this in the Shayzien Crypts.	一块古代钥匙的碎片。我在谢兹恩墓穴中发现了这个。	examine	item	Dragon key piece
-A piece of an ancient key. I found this buried in Mort Myre.	一块古代钥匙的碎片。我在莫特迈耶沼泽中发现了这个。	examine	item	Dragon key piece
+A piece of an ancient key. I found this buried in Mort Myre.	一块古代钥匙的碎片。我在莫特迈尔沼泽中发现了这个。	examine	item	Dragon key piece
 A piece of an ancient key. I found this in an old Karamjan temple.	一块古代钥匙的碎片。我在一个古老的卡拉姆詹神殿中发现了这个。	examine	item	Dragon key piece
 An ancient key.	一把古代钥匙。	examine	item	Dragon key
 A strange key. It seems to be made out of various metals, including mithril.	一把奇怪的钥匙。它似乎是由各种金属制成的，包括秘银。	examine	item	Ancient key
@@ -6139,7 +6139,7 @@ A strange potion made using blood.	一瓶用血制成的奇怪药水。	examine	
 A strange potion.	一瓶奇怪的药水。	examine	item	Potion
 Hopefully they contain the information we need.	希望它们包含我们需要的信息。	examine	item	Old notes
 A tatty old diary.	一本破旧的日记。	examine	item	Old diary
-Flaygian's final gift to us.	弗莱吉安给我们的最后礼物。	examine	item	Flaygian's notes
+Flaygian's final gift to us.	弗莱吉恩给我们的最后礼物。	examine	item	Flaygian's notes
 Some solid chain.	一些坚固的链条。	examine	item	Chain
 A tome of experience that awards 2,500 XP per chapter.	一本经验之书，每章奖励2,500经验值。	examine	item	Tome of experience
 An old book about war.	一本关于战争的旧书。	examine	item	The turncloak
@@ -6569,7 +6569,7 @@ This needs imbuing.	这需要注魔。	examine	item	Refined tephra
 This is refined, imbued, and ready to go.	此物已精炼注魔，随时可用。	examine	item	Imbued tephra
 A crown fit for the most wealthy of elves.	一顶适合最富有的精灵的王冠。	examine	item	Crystal crown
 A crystal of the Ithell clan.	一颗伊塞尔家族的水晶。	examine	item	Crystal of ithell
-A crystal of the Iorwerth clan.	一颗伊尔沃斯家族的水晶。	examine	item	Crystal of iorwerth
+A crystal of the Iorwerth clan.	一颗伊尔沃斯氏族的水晶。	examine	item	Crystal of iorwerth
 A crystal of the Trahaearn clan.	一颗特拉哈恩家族的水晶。	examine	item	Crystal of trahaearn
 A crystal of the Cadarn clan.	一颗卡达恩家族的水晶。	examine	item	Crystal of cadarn
 A crystal of the Crwys clan.	一颗克鲁维斯家族的水晶。	examine	item	Crystal of crwys
@@ -7074,7 +7074,7 @@ Too delicate to be worn. This belongs in a museum.	太脆弱了无法佩戴。�
 The corrupted core of a Mind Golem.	心灵魔像的污染核心。	examine	item	Mind core
 The corrupted core of a Body Golem.	躯体魔像的污染核心。	examine	item	Body core
 The corrupted core of a Chaos Golem.	混沌魔像的污染核心。	examine	item	Chaos core
-A compilation of old notes found on Ungael, written in a strange text.	在恩盖尔发现的一组古老笔记的汇编，用奇怪的文字写成。	examine	item	Ungael lab notes
+A compilation of old notes found on Ungael, written in a strange text.	在昂盖尔发现的一组古老笔记的汇编，用奇怪的文字写成。	examine	item	Ungael lab notes
 A compilation of old notes found on Lithkren, written in a strange text.	在利斯克伦发现的一组古老笔记的汇编，用奇怪的文字写成。	examine	item	Lithkren vault notes
 A dusty note found in the Tower of Magic Prison.	在魔法监狱塔中发现的一张布满灰尘的笔记。	examine	item	Dusty note
 Shows your clan's colours.	显示你氏族的颜色。	examine	item	Clan cloak
@@ -7915,8 +7915,8 @@ A magic rock! This one casts the Vengeance spell.	一块魔法石！可以用来
 A magic rock! This one smells funny and lets you teleport.	一块魔法石！这个闻起来很奇怪，还能让你传送。	examine	item	Trinket of fairies
 A magic rock! This one gives you a random corrupted weapon instead.	一块魔法石！这个会给你一件随机的腐蚀武器。	examine	item	Trinket of advanced weaponry
 A magic rock! This one gives you random thralls.	一块魔法石！这个会给你随机的仆从。	examine	item	Trinket of undead
-Opens a chest in Golrie's caves (used in the Path of Glouphrie quest).	打开戈尔里洞穴中的宝箱 (用于格卢弗里之路任务)。	examine	item	Chest key
-This opens the door into Golrie's strongroom (used in the Path of Glouphrie quest).	这能打开进入戈尔里保险库的门 (用于格卢弗里之路任务)。	examine	item	Strongroom key
+Opens a chest in Golrie's caves (used in the Path of Glouphrie quest).	打开戈尔里洞穴中的宝箱 (用于格洛弗里之路任务)。	examine	item	Chest key
+This opens the door into Golrie's strongroom (used in the Path of Glouphrie quest).	这能打开进入戈尔里保险库的门 (用于格洛弗里之路任务)。	examine	item	Strongroom key
 A seed to be sung into a magical crystal chime.	一颗可被吟唱成魔法水晶风铃的种子。	examine	item	Crystal chime seed
 It makes a sound.	它会发出声音。	examine	item	Crystal chime
 Notes written by Yewnock.	尤诺克写的笔记。	examine	item	Yewnock's notes
@@ -8277,7 +8277,7 @@ A meaty Varlamorian kebab.	一份丰盛的瓦拉莫尔烤肉。	examine	item	Tes
 These sails have seen better days.	这些帆已经破旧不堪。	examine	item	Tattered sails
 Not pretty, but they're functional.	不好看，但很实用。	examine	item	Sails
 Hastily written notes on a bizarre request for runes.	匆忙写下的关于奇异符石请求的笔记。	examine	item	Betty's notes
-A key for the Varrock Museum storeroom (Used in the Ethically Acquired Antiquities quest).	一把维洛克城博物馆储藏室的钥匙 (用于''合理''取得的文物任务)。	examine	item	Storeroom key
+A key for the Varrock Museum storeroom (Used in the Ethically Acquired Antiquities quest).	一把维洛克博物馆储藏室的钥匙 (用于''合理''取得的文物任务)。	examine	item	Storeroom key
 A fake, curved sword.	一把假的弯剑。	examine	item	Prop sword
 A neat way to carry things!	一个携带物品的好方法！	examine	item	Butler's tray
 A mostly clean uniform.	一套还算干净的制服。	examine	item	Butler's uniform
@@ -9863,7 +9863,7 @@ The pun was intended.	双关语有意为之。	examine	npc	Evil spirit
 A bunch of legs, eyes and teeth.	一堆腿、眼睛和牙齿。	examine	npc	Fever spider
 A worker in the brewery.	酿酒厂的一名工人。	examine	npc	Brewer
 It's a sinister-looking squid-type thing.	一个看起来邪恶的鱿鱼状生物。	examine	npc	Karamthulhu
-One of King Tyras's men.	提拉斯国王的手下之一。	examine	npc	Tyras guard
+One of King Tyras's men.	泰拉斯国王的手下之一。	examine	npc	Tyras guard
 A frail little troll.	一个虚弱的小巨魔。	examine	npc	Ug
 A beautiful troll.	一个美丽的巨魔。	examine	npc	Aga
 A massive, scary-looking troll.	一个巨大、看起来可怕的巨魔。	examine	npc	Arrg
@@ -10123,7 +10123,7 @@ Sells gnomish things.	出售地精物品。	examine	npc	Gnome shop keeper
 Ahhh. Isn't it cute?	啊。它不可爱吗？	examine	npc	Cute Creature
 What is that thing!	那是什么东西！	examine	npc	Evil Creature
 A small fluffy inhabitant of the Grand Tree.	大树的一个毛茸茸的小居民。	examine	npc	fluffie
-A spy of Glouphrie.	格卢弗里的间谍。	examine	npc	fluffie
+A spy of Glouphrie.	格洛弗里的间谍。	examine	npc	fluffie
 That's a lot of bones on his back...	他背上的骨头真多……	examine	npc	Odd Old Man
 Looks like he could do with a sip of amontillado.	看起来他需要喝一口阿蒙蒂亚多酒。	examine	npc	Fortunato
 White and fluffy.	白色且毛茸茸。	examine	npc	Ram
@@ -10465,7 +10465,7 @@ Keeps order in the tribe's territory.	维持部落领地的秩序。	examine	npc
 A worshipper of Zulrah.	祖尔拉的崇拜者。	examine	npc	Zul-Cheray
 He has volunteered to be a sacrifice to Zulrah.	他自愿成为祖尔拉的祭品。	examine	npc	Sacrifice
 The tribe's eel-catcher.	部落的捕鳗人。	examine	npc	Zul-Onan
-He served King Tyras before he found a new master.	他在找到新主人之前曾为提拉斯国王效力。	examine	npc	Zul-Aniel
+He served King Tyras before he found a new master.	他在找到新主人之前曾为泰拉斯国王效力。	examine	npc	Zul-Aniel
 He's set up a telescope pointing deep into the swamp.	他架起了一台指向沼泽深处的望远镜。	examine	npc	Broken Handz
 The green hooded serpent of the poison waste.	毒沼的绿色兜帽巨蛇。	examine	npc	Zulrah
 The crimson hooded serpent of the poison waste.	毒沼的深红色兜帽巨蛇。	examine	npc	Zulrah
@@ -10879,14 +10879,14 @@ An ugly, smelly creature, with a spear.	一个丑陋、恶臭的生物，手持�
 Alberich, a fierce barbarian warrior.	阿尔贝里希，一个凶猛的野蛮人战士。	examine	npc	Barbarian
 Fafner, a tough barbarian warrior.	法夫纳，一个强悍的野蛮人战士。	examine	npc	Barbarian
 Fasolt, a strong barbarian warrior.	法索尔特，一个强壮的野蛮人战士。	examine	npc	Barbarian
-Siegmund, a guard in the Barbarian Village.	西格蒙德，野蛮人聚落的一名守卫。	examine	npc	Barbarian
-Siegfried, a young guard in the Barbarian Village.	齐格弗里德，野蛮人聚落的一名年轻守卫。	examine	npc	Barbarian
+Siegmund, a guard in the Barbarian Village.	西格蒙德，野蛮人村庄的一名守卫。	examine	npc	Barbarian
+Siegfried, a young guard in the Barbarian Village.	齐格弗里德，野蛮人村庄的一名年轻守卫。	examine	npc	Barbarian
 Lydspor, a well-travelled barbarian warrior.	利德斯波，一个游历广泛的野蛮人战士。	examine	npc	Barbarian
-Hagen, a guard in the Barbarian Village.	哈根，野蛮人聚落的一名守卫。	examine	npc	Barbarian
+Hagen, a guard in the Barbarian Village.	哈根，野蛮人村庄的一名守卫。	examine	npc	Barbarian
 Minarch, a barbarian who likes his beer.	米纳克，一个喜欢啤酒的野蛮人。	examine	npc	Barbarian
 Likes a good fight.	喜欢好好打一架。	examine	npc	Hunding
 Wotan, a sturdy barbarian warrior.	沃坦，一个结实的野蛮人战士。	examine	npc	Barbarian
-Acelin, a guard in the Barbarian Village.	阿塞林，野蛮人聚落的一名守卫。	examine	npc	Barbarian
+Acelin, a guard in the Barbarian Village.	阿塞林，野蛮人村庄的一名守卫。	examine	npc	Barbarian
 Adelino, a barbarian warrior with a big axe.	阿德利诺，一个拿着大斧的野蛮人战士。	examine	npc	Barbarian
 Adolpho, a barbarian warrior with a warhammer.	阿道夫，一个拿着战锤的野蛮人战士。	examine	npc	Barbarian
 Aitan, a barbarian archer.	艾坦，一个野蛮人射手。	examine	npc	Barbarian
@@ -11089,7 +11089,7 @@ What big teeth you have.	你的牙齿真大。	examine	npc	Dire Wolf
 He looks pretty handy with that bow.	他使起那把弓来相当娴熟。	examine	npc	Iorwerth Archer
 I don't want to get on the wrong side of him.	我不想跟他作对。	examine	npc	Iorwerth Warrior
 An odd looking person.	一个长相奇特的人。	examine	npc	Arianwyn
-Leader of King Tyras's men.	提拉斯国王部队的领袖。	examine	npc	General Hining
+Leader of King Tyras's men.	泰拉斯国王部队的领袖。	examine	npc	General Hining
 Responsible for the food and equipment of the troops.	负责部队的食物和装备。	examine	npc	Quartermaster
 One of King Lathas' messengers.	拉萨斯国王的信使之一。	examine	npc	King's Messenger
 Mysterious swamp lights...	神秘的沼泽之光……	examine	npc	Will o' the wisp
@@ -11382,9 +11382,9 @@ He loves to fish!	他喜欢钓鱼！	examine	npc	Joshua
 He looks elderly.	他看起来很年迈。	examine	npc	Grandpa Jack
 He likes to cut down trees.	他喜欢伐木。	examine	npc	Forester
 I can fish here.	这里可以钓鱼。	examine	npc	Fishing spot
-Commander of the Imperial Guard.	帝国卫队的指挥官。	examine	npc	Denulth
-A sergeant of the Imperial Guard.	帝国卫队的一名中士。	examine	npc	Sergeant
-A soldier of the Imperial Guard.	帝国卫队的一名士兵。	examine	npc	Soldier
+Commander of the Imperial Guard.	帝国守卫的指挥官。	examine	npc	Denulth
+A sergeant of the Imperial Guard.	帝国守卫的一名中士。	examine	npc	Sergeant
+A soldier of the Imperial Guard.	帝国守卫的一名士兵。	examine	npc	Soldier
 A dishevelled and irritable hermit.	一个衣衫褴褛、易怒的隐士。	examine	npc	Saba
 An experienced sherpa.	一位经验丰富的夏尔巴人。	examine	npc	Tenzing
 The Burthorpe Castle cook.	伯索普城堡的厨师。	examine	npc	Eadburg
@@ -11783,7 +11783,7 @@ Definitely not a chicken.	这肯定不是鸡。	examine	npc	Desert Phoenix
 An old archaeologist.	一位年迈的考古学家。	examine	npc	Elissa
 Putting up a fight!	奋力抵抗！	examine	npc	Zanik
 A heroic cave goblin joining you for another adventure!	一位英勇的洞穴哥布林加入你，踏上新的冒险！	examine	npc	Zanik
-The Chosen Commander?	被选中的指挥官？	examine	npc	Zanik
+The Chosen Commander?	选召指挥官？	examine	npc	Zanik
 He looks pretty skilled with that bow.	他使起那把弓来相当娴熟。	examine	npc	H.A.M. Archer
 He bristles with arcane power.	他浑身散发着奥术力量。	examine	npc	H.A.M. Mage
 She's addressing the crowd.	她正在向人群讲话。	examine	npc	Zanik
@@ -12104,7 +12104,7 @@ Task master.	任务大师。	examine	npc	Secretary
 The head secretary of the Purple Pewter mining company.	紫锡矿业公司的首席秘书。	examine	npc	Purple Pewter Secretary
 The head secretary of the Yellow Fortune mining company.	黄运矿业公司的首席秘书。	examine	npc	Yellow Fortune Secretary
 The head secretary of the Blue Opal mining company.	蓝欧泊矿业公司的首席秘书。	examine	npc	Blue Opal Secretary
-The head secretary of the Green Gemstone mining company.	绿宝石矿业公司的首席秘书。	examine	npc	Green Gemstone Secretary
+The head secretary of the Green Gemstone mining company.	绿色宝石矿业公司的首席秘书。	examine	npc	Green Gemstone Secretary
 The head secretary of the White Chisel mining company.	白凿矿业公司的首席秘书。	examine	npc	White Chisel Secretary
 The head secretary of the Silver Cog mining company.	银齿轮矿业公司的首席秘书。	examine	npc	Silver Cog Secretary
 The head secretary of the Brown Engine mining company.	棕引擎矿业公司的首席秘书。	examine	npc	Brown Engine Secretary
@@ -12128,7 +12128,7 @@ Looks like he knows a thing or two.	看起来他知道一二。	examine	npc	Marf
 A trader for the Purple Pewter mining company.	紫锡矿业公司的贸易商。	examine	npc	Trader
 A trader for the Blue Opal mining company.	蓝欧泊矿业公司的贸易商。	examine	npc	Trader
 A trader for the Yellow Fortune mining company.	黄运矿业公司的贸易商。	examine	npc	Trader
-A trader for the Green Gemstone mining company.	绿宝石矿业公司的贸易商。	examine	npc	Trader
+A trader for the Green Gemstone mining company.	绿色宝石矿业公司的贸易商。	examine	npc	Trader
 A trader for the White Chisel mining company.	白凿矿业公司的贸易商。	examine	npc	Trader
 A trader for the Silver Cog mining company.	银齿轮矿业公司的贸易商。	examine	npc	Trader
 A trader for the Brown Engine mining company.	棕引擎矿业公司的贸易商。	examine	npc	Trader
@@ -12319,7 +12319,7 @@ Makes everything better.	让一切更好。	examine	npc	Nurse Boubou
 She isn't messing around.	她不是闹着玩的。	examine	npc	Captain Rachelle
 He's on a break.	他在休息。	examine	npc	Soldier
 Getting stronger by the day.	一天比一天强。	examine	npc	Soldier
-A skilled ranger of the Shayzien Army.	谢兹恩军队的一名熟练射手。	examine	npc	Ranger
+A skilled ranger of the Shayzien Army.	谢兹恩城卫军的一名熟练射手。	examine	npc	Ranger
 You'd best do what she says.	你最好听她的。	examine	npc	Drill Sergeant
 They're having an intense workout.	他们正在进行高强度训练。	examine	npc	Soldier
 A senior member of the Shayzien Intelligence Corps.	谢兹恩情报团的高级成员。	examine	npc	Captain Ginea
@@ -12575,7 +12575,7 @@ Lord of the Icefiends.	冰怪之王。	examine	npc	Ice demon
 Servant of the Ice Demon.	冰魔的仆从。	examine	npc	Icefiend
 Maybe it's tasty.	也许它很好吃。	examine	npc	Guanic bat
 Its bulbous eyes and pasty colour are typical of these underground creatures.	其球状眼睛和苍白肤色是这些地下生物的典型特征。	examine	npc	Cave snake
-A high ranking officer of the Shayzien Army.	谢兹恩军队的高级军官。	examine	npc	Captain Rimor
+A high ranking officer of the Shayzien Army.	谢兹恩城卫军的高级军官。	examine	npc	Captain Rimor
 A small reptile.	一种小型爬行动物。	examine	npc	Lizard
 A strange power emanates from this device.	一股奇怪的力量从这个装置中散发出来。	examine	npc	Strange Device
 An experienced mountaineer.	一个经验丰富的登山者。	examine	npc	Mountain Guide
@@ -12773,7 +12773,7 @@ An ancient stone automaton.	一座古老的石制自动人偶。	examine	npc	Sto
 It's got a bone to pick with you.	它跟你有点过节。	examine	npc	Skeleton
 This is what fear looks like.	这就是恐惧的化身。	examine	npc	Galvek
 That doesn't look good.	情况不妙。	examine	npc	Tsunami
-A researcher from the Varrock Museum.	一个来自维洛克城博物馆的研究员。	examine	npc	Dallas Jones
+A researcher from the Varrock Museum.	一个来自维洛克博物馆的研究员。	examine	npc	Dallas Jones
 Like Bob, but not.	像鲍勃，但不是。	examine	npc	Not Bob
 She looks dangerous.	她看起来很危险	examine	npc	Camorra
 A forgotten hero.	一个被遗忘的英雄。	examine	npc	Tristan
@@ -12890,7 +12890,7 @@ A Shayzien soldier tasked with loading the catapults.	一个负责装载弩炮�
 He keeps the siege engines running.	他保持攻城器械运转。	examine	npc	Lovakengj Engineer
 Leader of the Shayzien Infantry. He hates everything with scales.	谢兹恩步兵的领袖，他憎恨一切有鳞片的东西。	examine	npc	General Vir
 Balances on wet logs during thick fog.	在浓雾中湿漉漉的木头上保持着平衡。	examine	npc	Swamp frog
-A spy for the Shayzien Army.	谢兹恩军队的间谍。	examine	npc	Shayzien Infiltrator
+A spy for the Shayzien Army.	谢兹恩城卫军的间谍。	examine	npc	Shayzien Infiltrator
 They seem to be occupied in prayer.	他们似乎忙于祈祷。	examine	npc	Ket'sal K'uk
 They chant in a mysterious tongue.	他们用神秘的语言吟唱。	examine	npc	Ek'ans Chan
 A big angry plant.	一株愤怒的大植物。	examine	npc	Hespori
@@ -13368,7 +13368,7 @@ A master of anything explosive.	精通各种爆炸物。	examine	npc	Burntof
 A shifty looking guy.	一个看起来狡猾的家伙。	examine	npc	Marley
 Looks like a pile of rubble.	看起来像一堆瓦砾。	examine	npc	Rubble
 I wouldn't want to be around when it goes off.	我不想在它爆炸时在场。	examine	npc	Fuse
-The last, lonely inhabitant of Camdozaal.	坎多扎尔最后、孤独的居住者。	examine	npc	Ramarno
+The last, lonely inhabitant of Camdozaal.	卡姆多扎尔最后、孤独的居住者。	examine	npc	Ramarno
 Pint-sized Zebak	小巧的泽巴克。	examine	npc	Zebak
 Runes are his passion.	符石是他的挚爱。	examine	npc	Aubury
 I can see some strange fish swimming around.	我能看到一些奇怪的鱼在游动。	examine	npc	Fishing spot
@@ -15539,7 +15539,7 @@ It's got dwarf brew in it.	里面装着矮人麦酒。	examine	object	Brew Barre
 The dreaded throne of Iban.	伊班那令人畏惧的王座。	examine	object	Iban's Throne
 I'm glad I'm on this side of those bars.	幸好我在这些栏杆的这边。	examine	object	Cage
 I don't much like the look of that...	我不太喜欢那东西的样子……	examine	object	Tomb
-Once the Well of Voyage, now the Well of the Damned.	昔日的航海之井，如今被诅咒的井。	examine	object	Well
+Once the Well of Voyage, now the Well of the Damned.	昔日的航行之井，如今被诅咒的井。	examine	object	Well
 A window.	一扇窗户。	examine	object	Window
 An odd looking rock formation.	一处外观奇特的岩石构造。	examine	object	Rock
 Looks like I can climb these.	看起来我可以攀爬这些。	examine	object	Protruding rocks
@@ -16144,8 +16144,8 @@ There's a nasty stench coming from the cave.	洞穴里散发出一股恶臭。	e
 Faint rays of daylight shine through.	微弱的日光透射进来。	examine	object	Cave exit
 It's very dark down there.	下面非常黑。	examine	object	Cave exit
 Very pointy, very sharp.	非常尖，非常锋利。	examine	object	Standing spears
-This is the place where you buried Asleif.	这是你埋葬阿斯莱夫的地方。	examine	object	Burial mound
-Asleif was given a proper burial on this spot.	阿斯莱夫在此得到了妥善安葬。	examine	object	Burial cairn
+This is the place where you buried Asleif.	这是你埋葬阿斯莱芙的地方。	examine	object	Burial mound
+Asleif was given a proper burial on this spot.	阿斯莱芙在此得到了妥善安葬。	examine	object	Burial cairn
 Sticky, dirty mud.	黏糊糊的脏泥。	examine	object	Mud
 This stinks...	这真臭……	examine	object	Swamp
 The roots go down into the mud.	树根深入泥中。	examine	object	Roots
@@ -17730,8 +17730,8 @@ A desert door.	一扇沙漠之门。	examine	object	Door
 A timber door.	一扇木门。	examine	object	Door
 A way in to the house.	进入房屋的入口。	examine	object	Door
 A statue of Hazelmere the Ethereal.	一尊缥缈的黑兹尔米尔雕像。	examine	object	Hazelmere statue
-A broken statue of Glouphrie the Untrusted.	一尊破损的不可信者格卢弗里雕像。	examine	object	Glouphrie statue
-A remains of the statue of Glouphrie the Untrusted.	不可信者格卢弗里雕像的残骸。	examine	object	Glouphrie statue
+A broken statue of Glouphrie the Untrusted.	一尊破损的不可信者格洛弗里雕像。	examine	object	Glouphrie statue
+A remains of the statue of Glouphrie the Untrusted.	不可信者格洛弗里雕像的残骸。	examine	object	Glouphrie statue
 I'm sure the tree is glad its wood was put to good use.	我相信这棵树会欣慰自己的木材被善用。	examine	object	Door
 It's a pretty crystal ornament.	一件漂亮的水晶装饰品。	examine	object	Ornament
 A rowdy rabble of goblins. Boo hiss!	一群喧闹的哥布林。嘘声四起！	examine	object	Goblin crowd
@@ -17982,7 +17982,7 @@ The symbol of Varrock.	维洛克城的标志。	examine	object	Mahogany wall dec
 The symbol of Zamorak.	扎莫拉克的标志。	examine	object	Mahogany wall decoration
 A picture of a money bag.	一幅钱袋的图画。	examine	object	Oak wall decoration
 Lets you see through walls.	让你可以看穿墙壁。	examine	object	Window
-A path leading out of Mort Myre. You'll be running away if you go down here.	一条通向莫特迈耶沼泽外的小路。走下去的话你会逃跑的。	examine	object	Path
+A path leading out of Mort Myre. You'll be running away if you go down here.	一条通向莫特迈尔沼泽外的小路。走下去的话你会逃跑的。	examine	object	Path
 I could mend this if I had some wood...	如果我有木头的话可以修补这个……	examine	object	Broken bridge
 This bridge is partially broken.	这座桥部分破损。	examine	object	Partially broken bridge
 This bridge is slightly broken.	这座桥略有破损。	examine	object	Slightly broken bridge
@@ -19831,7 +19831,7 @@ A map of Morytania.	一张莫利塔尼亚地图。	examine	object	Display case
 A model of a bridge over the River Lum.	一个仑河上桥梁的模型。	examine	object	Display case
 A model of the Observatory near Ardougne.	一个阿多尼城附近天文台的模型。	examine	object	Display case
 Fangs for the memory.	纪念用的獠牙。	examine	object	Display case
-A map of the Barbarian Village.	一张野蛮人聚落地图。	examine	object	Display case
+A map of the Barbarian Village.	一张野蛮人村庄地图。	examine	object	Display case
 A map of Edgeville.	一张边陲镇地图。	examine	object	Display case
 Black Knight armour.	黑骑士盔甲。	examine	object	Display case
 Infinity equipment.	无限装备。	examine	object	Display case
@@ -20651,7 +20651,7 @@ Keep track of your STASH.	追踪你的储藏单元。	examine	object	Noticeboard
 How odd.	真奇怪。	examine	object	Staircase
 Some form of ancient terraforming device. Oh deere it looks broken.	某种古老的土地改造装置。哦天哪，它看起来坏了。	examine	object	Ancient machinery
 Amongst other things... I can hear the ocean within.	除了其他东西……我能在里面听到海洋的声音。	examine	object	Strange Shell
-A table where the leaders of Great Kourend meet.	大库兰德领导者们会面的桌子。	examine	object	Large table
+A table where the leaders of Great Kourend meet.	库兰德王国领导者们会面的桌子。	examine	object	Large table
 A defence against the threat of the lizardmen.	针对蜥蜴人威胁的防御工事。	examine	object	Portcullis
 We are discovered. Flee immediately.	我们被发现了。立即逃跑。	examine	object	Letter
 An artist's impression of King Byrne I.	艺术家对拜恩一世国王的印象画。	examine	object	Painting
@@ -20715,7 +20715,7 @@ Who disturbed their slumber? Lost their head too, it seems.	谁打扰了他们�
 Someone should really put that back.	真该有人把它放回去。	examine	object	Great Olmic Statue
 Completely drained of all power.	所有力量都被耗尽。	examine	object	Drained Crystal
 Rubble dub dub.	碎石隆隆。	examine	object	Rubble
-Slain during a battle with the Shayzien Army.	在与谢兹恩军队的战斗中被杀。	examine	object	Lizardman corpse
+Slain during a battle with the Shayzien Army.	在与谢兹恩城卫军的战斗中被杀。	examine	object	Lizardman corpse
 Heads, spikes, walls.	头、尖刺、墙壁。	examine	object	Lizardman head
 A dark and dank lair of the lizardmen.	一个阴暗潮湿的蜥蜴人巢穴。	examine	object	Lizardman lair
 A rather spooky lamp.	一盏相当阴森的灯。	examine	object	Swampy lamp
@@ -22231,7 +22231,7 @@ Maybe there's something nice in here.	也许这里面有什么好东西。	exami
 Some old shelves. It doesn't look like they've been touched for years.	一些旧架子。看起来多年没人碰过了。	examine	object	Shelves
 Roots from the nearby Blisterwood tree.	来自附近水疱木树的根。	examine	object	Root
 yep, that's a bench.	是的，那是个长凳。	examine	object	Bench
-The imposing gates to Castle Drakan.	通往德雷戛纳堡的威严大门。	examine	object	Castle Gates
+The imposing gates to Castle Drakan.	通往德雷坎城堡的威严大门。	examine	object	Castle Gates
 Even vampyres need to sleep too.	即使是吸血鬼也需要睡觉。	examine	object	Coffin
 Maybe there's some blankets in here.	也许这里面有些毯子。	examine	object	Trunk
 Probably used for sitting on?	大概是用来坐的？	examine	object	Chair
@@ -22561,7 +22561,7 @@ Full of rock and ore.	装满了岩石和矿石。	examine	object	Mine cart
 An empty mine cart.	一个空矿车。	examine	object	Mine cart
 Heavily reinforced. Would be difficult to force open.	重度加固，很难强行打开。	examine	object	Vault Door
 Built to protect the Vault from intruders.	为保护金库免受入侵者而建。	examine	object	Security Barrier
-A Camdozaal lockbox ready for the taking.	一个准备被拿走的坎多扎尔锁盒。	examine	object	Simple lockbox
+A Camdozaal lockbox ready for the taking.	一个准备被拿走的卡姆多扎尔锁盒。	examine	object	Simple lockbox
 An empty pedestal where a lockbox would normally live.	一个原本放置锁盒的空基座。	examine	object	Empty pedestal
 An ancient stone slab used in religious offerings.	一块用于宗教献祭的古老石板。	examine	object	Preparation Table
 A mysterious altar used in an ancient ritual.	一个用于古老仪式的神秘祭坛。	examine	object	Altar
@@ -25114,7 +25114,7 @@ An orange key from Melzar's Maze.	一把来自梅尔扎迷宫的橙色钥匙。	
 An ornate stand displaying a banner from Leagues VI - Demonic Pacts.	一个华丽的支架，展示着第六赛季联赛：恶魔契约的旗帜。	examine	ptbr_import	ptbr
 An out of place wizard. An expert on teleportation magic.	一个格格不入的魔法师。一位传送魔法专家。	examine	ptbr_import	ptbr
 Arise!	起来！	examine	ptbr_import	ptbr
-As a follower during Death to the Dorgeshuun: An eager cave goblin on her first trip to the surface. As a follower during Another Slice of H.A.M.: A heroic cave goblin joining you for another adventure! Land of the Goblins: Hero of the cave goblins! During cutscenes: The Chosen Commander?	作为多格舒恩之死任务中的追随者：一个初次踏上地面的热心洞穴哥布林。作为反怪物人联的又一诡计任务中的追随者：一个英雄般的洞穴哥布林，加入你的另一场冒险！哥布林之地：洞穴哥布林的英雄！过场动画中：被选中的指挥官？	examine	ptbr_import	ptbr
+As a follower during Death to the Dorgeshuun: An eager cave goblin on her first trip to the surface. As a follower during Another Slice of H.A.M.: A heroic cave goblin joining you for another adventure! Land of the Goblins: Hero of the cave goblins! During cutscenes: The Chosen Commander?	作为多格舒恩之死任务中的追随者：一个初次踏上地面的热心洞穴哥布林。作为反怪物人联的又一诡计任务中的追随者：一个英雄般的洞穴哥布林，加入你的另一场冒险！哥布林之地：洞穴哥布林的英雄！过场动画中：选召指挥官？	examine	ptbr_import	ptbr
 As the name suggests, he likes to parley.	顾名思义，他喜欢谈判。	examine	ptbr_import	ptbr
 Athletic! It looks like they've been jumping for hours. I'm getting tired just watching them.	好有活力！看起来他们已经跳了好几个小时了。光是看着他们我就累了。	examine	ptbr_import	ptbr
 Beware of bull! Will bite!	小心公牛！会咬人！	examine	ptbr_import	ptbr
@@ -25235,7 +25235,7 @@ Strange vines have blocked the way through...	奇怪的藤蔓挡住了去路…�
 Strayed too far from the village.	离村子走得太远了。	examine	ptbr_import	ptbr
 Takes a while to open.	打开需要一会儿。	examine	ptbr_import	ptbr
 That saw must be pretty blunt by now.	那把锯子现在肯定很钝了。	examine	ptbr_import	ptbr
-The Bank of Gielinor.	吉莱诺银行。	examine	ptbr_import	ptbr
+The Bank of Gielinor.	基利诺尔银行。	examine	ptbr_import	ptbr
 The Guardian of Dawn, she's alive! The crack of Dawn. (upon death)	怪诞守卫者.黎明，她还活着！黎明的裂缝。（死亡时）	examine	ptbr_import	ptbr
 The Guardian of Dusk, he's alive! The crack of Dusk. (upon death)	怪诞守卫者.黄昏，他还活着！黄昏的裂缝。（死亡时）	examine	ptbr_import	ptbr
 The Jagex cat. During Dragon Slayer II: Formerly Robert the Strong, now a cat.	Jagex 猫。在屠龙者 II 期间：曾是强者罗伯特，现在是一只猫。	examine	ptbr_import	ptbr
@@ -25628,7 +25628,7 @@ An old key with the symbol of a gibbous moon on it.	一把破旧的钥匙，上�
 An old key with the symbol of a new moon on it.	一把破旧的钥匙，上面有朔月（新月）的标志。	examine	wiki_rescrape	wiki_rescrape
 An ornate golden key.	一把华丽的金色钥匙。	examine	wiki_rescrape	wiki_rescrape
 A rather solid key.	一把相当结实的钥匙。	examine	wiki_rescrape	wiki_rescrape
-An emblem of House Drakan.	德拉肯家族的徽章。	examine	wiki_rescrape	wiki_rescrape
+An emblem of House Drakan.	德雷坎家族的徽章。	examine	wiki_rescrape	wiki_rescrape
 The left half of a crest.	纹章的左半部分。	examine	wiki_rescrape	wiki_rescrape
 The right half of a crest.	纹章的右半部分。	examine	wiki_rescrape	wiki_rescrape
 An ornate crest.	一个华丽的纹章。	examine	wiki_rescrape	wiki_rescrape
@@ -25719,24 +25719,24 @@ Going undercover.	正在执行卧底任务。	examine	wiki_rescrape	wiki_rescrap
 He's in a spot of bother.	他遇到了一点麻烦。	examine	wiki_rescrape	wiki_rescrape
 He seems rather angry... and drunk.	他看起来相当愤怒……而且喝醉了。	examine	wiki_rescrape	wiki_rescrape
 He looks very weak.	他看起来非常虚弱。	examine	wiki_rescrape	wiki_rescrape
-He may not look the same, but he's still very much the old Safalaan.	他可能看起来不一样了，但他骨子里还是那个老萨法拉安。	examine	wiki_rescrape	wiki_rescrape
+He may not look the same, but he's still very much the old Safalaan.	他可能看起来不一样了，但他骨子里还是那个老萨法拉恩。	examine	wiki_rescrape	wiki_rescrape
 He's not looking great.	他看起来不太好。	examine	wiki_rescrape	wiki_rescrape
-Ivan's making sure Safalaan is safe.	伊凡正在确保萨法拉安的安全。	examine	wiki_rescrape	wiki_rescrape
-Veliaf's making sure Safalaan is safe.	维利亚夫正在确保萨法拉安的安全。	examine	wiki_rescrape	wiki_rescrape
+Ivan's making sure Safalaan is safe.	伊凡正在确保萨法拉恩的安全。	examine	wiki_rescrape	wiki_rescrape
+Veliaf's making sure Safalaan is safe.	维利亚夫正在确保萨法拉恩的安全。	examine	wiki_rescrape	wiki_rescrape
 Her injuries will never fully heal.	她的伤势永远无法完全愈合。	examine	wiki_rescrape	wiki_rescrape
 She's not looking so good.	她看起来不太好。	examine	wiki_rescrape	wiki_rescrape
 She looks to be in a bit of a tricky situation.	她看起来处境有点棘手。	examine	wiki_rescrape	wiki_rescrape
-The former ruler of Hallowvale.	霍洛维尔的前任统治者。	examine	wiki_rescrape	wiki_rescrape
+The former ruler of Hallowvale.	哈洛维尔的前任统治者。	examine	wiki_rescrape	wiki_rescrape
 An imposing winged woman.	一位气势逼人的有翼女子。	examine	wiki_rescrape	wiki_rescrape
 A curious looking vampyre.	一个长相奇特的吸血鬼。	examine	wiki_rescrape	wiki_rescrape
 The ruler of Morytania.	莫利塔尼亚的统治者。	examine	wiki_rescrape	wiki_rescrape
 A nasty arachnid.	一只恶心的蛛形纲生物。	examine	wiki_rescrape	wiki_rescrape
 A rather large arachnid.	一只相当大的蛛形纲生物。	examine	wiki_rescrape	wiki_rescrape
-What has Safalaan become...	萨法拉安变成了什么……	examine	wiki_rescrape	wiki_rescrape
+What has Safalaan become...	萨法拉恩变成了什么……	examine	wiki_rescrape	wiki_rescrape
 A vampyre's prisoner.	一个吸血鬼的囚犯。	examine	wiki_rescrape	wiki_rescrape
 They look dirty and tired!	他们看起来又脏又累！	examine	wiki_rescrape	wiki_rescrape
 The ruler of Morytania and the Lord of Vampyrium, untethered.	莫利塔尼亚的统治者，吸血鬼之地的主人，挣脱了束缚。	examine	wiki_rescrape	wiki_rescrape
-Blood from Drakan's lifelong reserves.	来自德拉肯毕生储备的血液。	examine	wiki_rescrape	wiki_rescrape
+Blood from Drakan's lifelong reserves.	来自德雷坎毕生储备的血液。	examine	wiki_rescrape	wiki_rescrape
 How many were killed to accumulate this much blood?	要杀多少人才能积累这么多血？	examine	wiki_rescrape	wiki_rescrape
 Dangerous, magical blood.	危险而充满魔力的血液。	examine	wiki_rescrape	wiki_rescrape
 An odd-looking crow.	一只长相奇怪的乌鸦。	examine	wiki_rescrape	wiki_rescrape

@@ -624,7 +624,7 @@ Convert-shards	兑换碎片	actions	npc	Noranna Tytanin
 Loot	搜刮	actions	npc	Grave
 Lap-count	圈数统计	actions	npc	Bobawu
 Value	估价	actions	npc	Skully
-Ungael	航向至恩盖尔	actions	npc	Torfinn
+Ungael	航向至昂盖尔	actions	npc	Torfinn
 Glider-to Ta Quir Priw	滑翔至大树家园	actions	npc	Gnormadium Avlafrim
 Glider-to Gandius	滑翔至甘迪乌斯	actions	npc	Gnormadium Avlafrim
 Glider-to Kar-Hewo	滑翔至阿尔卡里德城	actions	npc	Gnormadium Avlafrim
@@ -1697,11 +1697,11 @@ Take-10-concoction	取10份药剂	actions	object	Crate
 Jump to	跳至	actions	object	Pillar
 Lumbridge	仑桥镇	actions	object	Portal Nexus
 Falador	法拉多城	actions	object	Portal Nexus
-Senntisten	森提斯坦	actions	object	Portal Nexus
+Senntisten	森蒂斯坦	actions	object	Portal Nexus
 Marim	马瑞姆	actions	object	Portal Nexus
 Kharyrll	卡里尔	actions	object	Portal Nexus
 Lunar Isle	月亮岛	actions	object	Portal Nexus
-Great Kourend	大库兰德	actions	object	Portal Nexus
+Great Kourend	库兰德王国	actions	object	Portal Nexus
 Annakarl	安娜卡尔	actions	object	Portal Nexus
 Troll Stronghold	巨魔要塞	actions	object	Portal Nexus
 Catherby	凯瑟比镇	actions	object	Portal Nexus

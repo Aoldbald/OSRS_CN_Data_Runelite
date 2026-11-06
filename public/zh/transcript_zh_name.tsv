@@ -342,7 +342,7 @@ Stone-plaque	石碑	name	item	Stone-plaque
 Tattered scroll	破烂的卷轴	name	item	Tattered scroll
 Crumpled scroll	皱巴巴的卷轴	name	item	Crumpled scroll
 Rashiliyia corpse	拉希利娅的尸体	name	item	Rashiliyia corpse
-Zadimus corpse	扎迪穆斯的尸体	name	item	Zadimus corpse
+Zadimus corpse	扎迪姆斯的尸体	name	item	Zadimus corpse
 Locating crystal	定位水晶	name	item	Locating crystal
 Beads of the dead	亡者珠串	name	item	Beads of the dead
 Coins	金币	name	item	Coins
@@ -875,7 +875,7 @@ Maze key	迷宫钥匙	name	item	Maze key
 Stake	木桩	name	item	Stake
 Garlic	大蒜	name	item	Garlic
 Seasoned sardine	已调味的沙丁鱼	name	item	Seasoned sardine
-Fluffs' kitten	弗拉夫斯的小猫	name	item	Fluffs' kitten
+Fluffs' kitten	毛毛的小猫	name	item	Fluffs' kitten
 Pet kitten	宠物小猫	name	item	Pet kitten
 Pet cat	宠物猫	name	item	Pet cat
 Doogle leaves	杜格尔叶	name	item	Doogle leaves
@@ -1498,9 +1498,9 @@ Mirror	镜子	name	item	Mirror
 Journal	日记	name	item	Journal
 Druidic spell	德鲁伊法术	name	item	Druidic spell
 A used spell	已使用的法术	name	item	A used spell
-Mort myre fungus	莫特迈耶菇	name	item	Mort myre fungus
-Mort myre stem	莫特迈耶茎	name	item	Mort myre stem
-Mort myre pear	莫特迈耶梨	name	item	Mort myre pear
+Mort myre fungus	莫特迈尔菇	name	item	Mort myre fungus
+Mort myre stem	莫特迈尔茎	name	item	Mort myre stem
+Mort myre pear	莫特迈尔梨	name	item	Mort myre pear
 Sickle mould	镰刀模具	name	item	Sickle mould
 Chompy bird hat	食人鸟帽	name	item	Chompy bird hat
 Agility arena ticket	敏捷竞技场票	name	item	Agility arena ticket
@@ -2135,7 +2135,7 @@ White pearl	白珍珠	name	item	White pearl
 White pearl seed	白珍珠种子	name	item	White pearl seed
 Half a rock	半块岩石	name	item	Half a rock
 Corpse of woman	女性尸体	name	item	Corpse of woman
-Asleif's necklace	阿斯莱夫的项链	name	item	Asleif's necklace
+Asleif's necklace	阿斯莱芙的项链	name	item	Asleif's necklace
 Mud	泥	name	item	Mud
 Muddy rock	泥石	name	item	Muddy rock
 Pole	杆子	name	item	Pole
@@ -3640,16 +3640,16 @@ Histories of the hallowland	圣地历史	name	item	Histories of the hallowland
 Modern day morytania	现代莫利塔尼亚	name	item	Modern day morytania
 Rod dust	杖粉	name	item	Rod dust
 Silvthrill rod	银振杖	name	item	Silvthrill rod
-Rod of ivandis (10)	伊凡迪斯杖 (10)	name	item	Rod of ivandis (10)
-Rod of ivandis (9)	伊凡迪斯杖 (9)	name	item	Rod of ivandis (9)
-Rod of ivandis (8)	伊凡迪斯杖 (8)	name	item	Rod of ivandis (8)
-Rod of ivandis (7)	伊凡迪斯杖 (7)	name	item	Rod of ivandis (7)
-Rod of ivandis (6)	伊凡迪斯杖 (6)	name	item	Rod of ivandis (6)
-Rod of ivandis (5)	伊凡迪斯杖 (5)	name	item	Rod of ivandis (5)
-Rod of ivandis (4)	伊凡迪斯杖 (4)	name	item	Rod of ivandis (4)
-Rod of ivandis (3)	伊凡迪斯杖 (3)	name	item	Rod of ivandis (3)
-Rod of ivandis (2)	伊凡迪斯杖 (2)	name	item	Rod of ivandis (2)
-Rod of ivandis (1)	伊凡迪斯杖 (1)	name	item	Rod of ivandis (1)
+Rod of ivandis (10)	伊万迪斯之杖 (10)	name	item	Rod of ivandis (10)
+Rod of ivandis (9)	伊万迪斯之杖 (9)	name	item	Rod of ivandis (9)
+Rod of ivandis (8)	伊万迪斯之杖 (8)	name	item	Rod of ivandis (8)
+Rod of ivandis (7)	伊万迪斯之杖 (7)	name	item	Rod of ivandis (7)
+Rod of ivandis (6)	伊万迪斯之杖 (6)	name	item	Rod of ivandis (6)
+Rod of ivandis (5)	伊万迪斯之杖 (5)	name	item	Rod of ivandis (5)
+Rod of ivandis (4)	伊万迪斯之杖 (4)	name	item	Rod of ivandis (4)
+Rod of ivandis (3)	伊万迪斯之杖 (3)	name	item	Rod of ivandis (3)
+Rod of ivandis (2)	伊万迪斯之杖 (2)	name	item	Rod of ivandis (2)
+Rod of ivandis (1)	伊万迪斯之杖 (1)	name	item	Rod of ivandis (1)
 Rod mould	杖模具	name	item	Rod mould
 Silver dust	银粉	name	item	Silver dust
 Guthix balance (unf)	古斯平衡药水 (未完成)	name	item	Guthix balance (unf)
@@ -4318,7 +4318,7 @@ Magic essence(4)	魔法精华 (4)	name	item	Magic essence(4)
 Magic essence(3)	魔法精华 (3)	name	item	Magic essence(3)
 Magic essence(2)	魔法精华 (2)	name	item	Magic essence(2)
 Magic essence(1)	魔法精华 (1)	name	item	Magic essence(1)
-Nuff's certificate	努夫的证书	name	item	Nuff's certificate
+Nuff's certificate	纳夫的证书	name	item	Nuff's certificate
 Ivory comb	象牙梳	name	item	Ivory comb
 Golden scarab	金圣甲虫	name	item	Golden scarab
 Stone scarab	石圣甲虫	name	item	Stone scarab
@@ -7428,7 +7428,7 @@ Varrock census records	维洛克人口普查记录	name	item	Varrock census reco
 Malumac's journal	马拉马克的日记	name	item	Malumac's journal
 Ablenkian's escape	阿布莱恩基安的逃亡	name	item	Ablenkian's escape
 Imcandoria's fall	伊姆坎多里亚的陷落	name	item	Imcandoria's fall
-Imafore's betrayal	伊玛福尔的背叛	name	item	Imafore's betrayal
+Imafore's betrayal	伊马福尔的背叛	name	item	Imafore's betrayal
 Lutwidge and the moonfly	拉特威奇与月蝇	name	item	Lutwidge and the moonfly
 Serafina	塞拉菲娜	name	item	Serafina
 The weeping	哭泣者	name	item	The weeping
@@ -7539,7 +7539,7 @@ Xeric's sentinel	泽里克的哨兵斗篷	name	item	Xeric's sentinel
 Xeric's general	泽里克的将军斗篷	name	item	Xeric's general
 Xeric's champion	泽里克的征服者斗篷	name	item	Xeric's champion
 Ivandis flail	伊凡迪斯连枷	name	item	Ivandis flail
-Drakan's medallion	德拉坎的奖章	name	item	Drakan's medallion
+Drakan's medallion	德雷坎的奖章	name	item	Drakan's medallion
 Mysterious herb	神秘草药	name	item	Mysterious herb
 Mysterious meat	神秘的肉	name	item	Mysterious meat
 Mysterious crushed meat	神秘碎肉	name	item	Mysterious crushed meat
@@ -8702,7 +8702,7 @@ Ancient carcanet	古代项链	name	item	Ancient carcanet
 Mind core	心灵核心	name	item	Mind core
 Body core	躯体核心	name	item	Body core
 Chaos core	混沌核心	name	item	Chaos core
-Ungael lab notes	恩盖尔实验室笔记	name	item	Ungael lab notes
+Ungael lab notes	昂盖尔实验室笔记	name	item	Ungael lab notes
 Lithkren vault notes	利斯克伦金库笔记	name	item	Lithkren vault notes
 Dusty note	布满灰尘的笔记	name	item	Dusty note
 Clan cloak	氏族斗篷	name	item	Clan cloak
@@ -12263,7 +12263,7 @@ Grug	格鲁格	name	npc	Grug
 Ogre guard	食人魔守卫	name	npc	Ogre guard
 Zogre	佐格雷食人魔	name	npc	Zogre
 Skogre	斯科格	name	npc	Skogre
-Zavistic Rarve	扎维斯蒂克.拉尔夫	name	npc	Zavistic Rarve
+Zavistic Rarve	扎维斯提克.拉尔夫	name	npc	Zavistic Rarve
 Slash Bash	斯拉什.巴什	name	npc	Slash Bash
 Sithik Ints	西锡克.因茨	name	npc	Sithik Ints
 Gargh	加格	name	npc	Gargh
@@ -12825,7 +12825,7 @@ Sergeant Grimspike	格里姆斯派克中士	name	npc	Sergeant Grimspike
 Purple Pewter Director	紫锡主管	name	npc	Purple Pewter Director
 Blue Opal Director	蓝蛋白石主管	name	npc	Blue Opal Director
 Yellow Fortune Director	黄运主管	name	npc	Yellow Fortune Director
-Green Gemstone Director	绿宝石主管	name	npc	Green Gemstone Director
+Green Gemstone Director	绿色宝石主管	name	npc	Green Gemstone Director
 White Chisel Director	白凿主管	name	npc	White Chisel Director
 Silver Cog Director	银齿轮主管	name	npc	Silver Cog Director
 Brown Engine Director	棕引擎主管	name	npc	Brown Engine Director
@@ -13498,12 +13498,12 @@ Vampyre Juvenile	新生吸血鬼	name	npc	Vampyre Juvenile
 Former Vampyre	前吸血鬼	name	npc	Former Vampyre
 Vyrewatch	吸血鬼哨兵	name	npc	Vyrewatch
 Vanstrom Klause	范斯特罗姆.克劳斯	name	npc	Vanstrom Klause
-Vanescula Drakan	范尼斯库拉.德雷坎	name	npc	Vanescula Drakan
+Vanescula Drakan	瓦内斯库拉.德雷坎	name	npc	Vanescula Drakan
 Ranis Drakan	拉尼斯.德雷坎	name	npc	Ranis Drakan
 Flying female vampire	飞行女吸血鬼	name	npc	Flying female vampire
 Old Man Ral	老人拉尔	name	npc	Old Man Ral
 Aeonisig Raispher	埃奥尼西格.莱斯弗	name	npc	Aeonisig Raispher
-Safalaan Hallow	萨法兰.哈洛	name	npc	Safalaan Hallow
+Safalaan Hallow	萨法拉恩.哈洛	name	npc	Safalaan Hallow
 Sarius Guile	萨里乌斯.盖尔	name	npc	Sarius Guile
 Trader Sven	商人斯文	name	npc	Trader Sven
 Meiyerditch citizen	迈尔迪奇市民	name	npc	Meiyerditch citizen
@@ -13842,7 +13842,7 @@ Irena	艾琳娜	name	npc	Irena
 Shantay	沙泰	name	npc	Shantay
 Shantay Guard	沙泰守卫	name	npc	Shantay Guard
 Oaknock the Engineer	工程师奥克诺克	name	npc	Oaknock the Engineer
-Glouphrie the Untrusted	不受信任的格卢弗里	name	npc	Glouphrie the Untrusted
+Glouphrie the Untrusted	不受信任的格洛弗里	name	npc	Glouphrie the Untrusted
 King Healthorg	海尔索格国王	name	npc	King Healthorg
 Desert Wolf	沙漠狼	name	npc	Desert Wolf
 Ugthanki	乌格坦基骆驼	name	npc	Ugthanki
@@ -14092,7 +14092,7 @@ Mistag	米斯塔格	name	npc	Mistag
 Cave goblin miner	洞穴哥布林矿工	name	npc	Cave goblin miner
 Cave goblin guard	洞穴哥布林守卫	name	npc	Cave goblin guard
 Mosol Rei	莫索尔.雷	name	npc	Mosol Rei
-Spirit of Zadimus	扎迪穆斯之灵	name	npc	Spirit of Zadimus
+Spirit of Zadimus	扎迪姆斯之灵	name	npc	Spirit of Zadimus
 Undead one	亡灵	name	npc	Undead one
 Rashiliyia	拉希利娅	name	npc	Rashiliyia
 Nazastarool	纳扎斯塔鲁尔	name	npc	Nazastarool
@@ -14230,7 +14230,7 @@ Master Crafter	制作大师	name	npc	Master Crafter
 Bert	伯特	name	npc	Bert
 Yak	牦牛	name	npc	Yak
 Iceberg	冰山	name	npc	Iceberg
-Ice Troll King	冰巨魔之王	name	npc	Ice Troll King
+Ice Troll King	冰巨魔国王	name	npc	Ice Troll King
 Frenzied ice troll runt	狂怒冰巨魔幼崽	name	npc	Frenzied ice troll runt
 Frenzied ice troll male	狂怒冰巨魔雄性	name	npc	Frenzied ice troll male
 Frenzied ice troll female	狂怒冰巨魔雌性	name	npc	Frenzied ice troll female
@@ -14302,11 +14302,11 @@ Charmed Warrior	被魅惑的战士	name	npc	Charmed Warrior
 Secretary	秘书	name	npc	Secretary
 Purple Pewter Secretary	紫锡秘书	name	npc	Purple Pewter Secretary
 Yellow Fortune Secretary	黄运秘书	name	npc	Yellow Fortune Secretary
-Blue Opal Secretary	蓝蛋白石秘书	name	npc	Blue Opal Secretary
-Green Gemstone Secretary	绿宝石秘书	name	npc	Green Gemstone Secretary
+Blue Opal Secretary	蓝色蛋白石秘书	name	npc	Blue Opal Secretary
+Green Gemstone Secretary	绿色宝石秘书	name	npc	Green Gemstone Secretary
 White Chisel Secretary	白凿秘书	name	npc	White Chisel Secretary
 Silver Cog Secretary	银齿轮秘书	name	npc	Silver Cog Secretary
-Brown Engine Secretary	棕引擎秘书	name	npc	Brown Engine Secretary
+Brown Engine Secretary	棕色引擎秘书	name	npc	Brown Engine Secretary
 Red Axe Secretary	红斧秘书	name	npc	Red Axe Secretary
 Orlando Smith	奥兰多.史密斯	name	npc	Orlando Smith
 Natural historian	自然历史学家	name	npc	Natural historian
@@ -14362,7 +14362,7 @@ Mosquito swarm	蚊子群	name	npc	Mosquito swarm
 Tanglefoot (hard)	缠足怪 (困难)	name	npc	Tanglefoot (hard)
 Chronozon (hard)	克罗诺宗 (困难)	name	npc	Chronozon (hard)
 Bouncer (hard)	保镖 (困难)	name	npc	Bouncer (hard)
-Ice Troll King (hard)	冰巨魔之王 (困难)	name	npc	Ice Troll King (hard)
+Ice Troll King (hard)	冰巨魔国王 (困难)	name	npc	Ice Troll King (hard)
 Black demon (hard)	黑恶魔 (困难)	name	npc	Black demon (hard)
 Bloodhound	寻血猎犬	name	npc	Bloodhound
 Glod (hard)	格洛德 (困难)	name	npc	Glod (hard)
@@ -14973,7 +14973,7 @@ Mysterious Stranger	神秘陌生人	name	npc	Mysterious Stranger
 Vyrelord	吸血鬼领主	name	npc	Vyrelord
 Vyrelady	吸血鬼女领主	name	npc	Vyrelady
 Harpert	哈珀特	name	npc	Harpert
-Vertida Sefalatis	维尔蒂达.塞法拉蒂斯	name	npc	Vertida Sefalatis
+Vertida Sefalatis	维蒂达.塞法拉蒂斯	name	npc	Vertida Sefalatis
 Flaygian Screwte	弗莱吉恩.斯克鲁特	name	npc	Flaygian Screwte
 Mekritus A'hara	梅克里图斯.阿哈拉	name	npc	Mekritus A'hara
 Andiess Juip	安迪耶斯.朱伊普	name	npc	Andiess Juip
@@ -15000,7 +15000,7 @@ Xarpus	扎普斯	name	npc	Xarpus
 Nylocas Hagios	尼洛卡斯.哈吉奥斯	name	npc	Nylocas Hagios
 Nylocas Vasilias	尼洛卡斯.瓦西利亚斯	name	npc	Nylocas Vasilias
 Pestilent Bloat	瘟疫肿胀怪	name	npc	Pestilent Bloat
-The Maiden of Sugadinti	苏加丁蒂的少女	name	npc	The Maiden of Sugadinti
+The Maiden of Sugadinti	苏加丁提的少女	name	npc	The Maiden of Sugadinti
 Nylocas Matomenos	尼洛卡斯.马托梅诺斯	name	npc	Nylocas Matomenos
 Blood spawn	血裔	name	npc	Blood spawn
 Abigaila	阿比盖拉	name	npc	Abigaila
@@ -15936,8 +15936,8 @@ Alina	阿琳娜	name	npc	Alina
 Noah	诺亚	name	npc	Noah
 Sergeant Tobyn	托宾中士	name	npc	Sergeant Tobyn
 Prince Itzla Arkan	伊茨拉.阿坎王子	name	npc	Prince Itzla Arkan
-Servius, Teokan of Ralos	拉洛斯的神官塞维乌斯	name	npc	Servius, Teokan of Ralos
-Furia Tullus	弗里亚.图卢斯	name	npc	Furia Tullus
+Servius, Teokan of Ralos	拉洛斯的神官塞尔维乌斯	name	npc	Servius, Teokan of Ralos
+Furia Tullus	富里亚.图卢斯	name	npc	Furia Tullus
 Ennius Tullus	恩尼乌斯.图卢斯	name	npc	Ennius Tullus
 Hosa	霍萨	name	npc	Hosa
 Lovada	洛瓦达	name	npc	Lovada
@@ -17115,7 +17115,7 @@ Dynamite(p)	炸药 (毒)	name	object	Dynamite(p)
 Broken fence	破损的栅栏	name	object	Broken fence
 Rock slide	岩石滑坡	name	object	Rock slide
 Picture	图画	name	object	Picture
-Sinclair mansion drain	辛克莱尔公馆排水沟	name	object	Sinclair mansion drain
+Sinclair mansion drain	辛克莱尔庄园排水沟	name	object	Sinclair mansion drain
 Sinclair family fountain	辛克莱尔家族喷泉	name	object	Sinclair family fountain
 Sinclair family crest	辛克莱尔家徽	name	object	Sinclair family crest
 Anna's barrel	安娜的木桶	name	object	Anna's barrel
@@ -18228,7 +18228,7 @@ Repaired furnace	修复的熔炉	name	object	Repaired furnace
 Exit path	出口路径	name	object	Exit path
 Sq'irk tree	斯奎克树	name	object	Sq'irk tree
 Hazelmere statue	黑兹尔米尔雕像	name	object	Hazelmere statue
-Glouphrie statue	格卢弗里雕像	name	object	Glouphrie statue
+Glouphrie statue	格洛弗里雕像	name	object	Glouphrie statue
 Ornament	装饰品	name	object	Ornament
 Goblin crowd	一群哥布林	name	object	Goblin crowd
 Boxing mat	拳击垫	name	object	Boxing mat
@@ -19010,7 +19010,7 @@ Broken rope bridge	破损的绳桥	name	object	Broken rope bridge
 Exit cavern	出口洞穴	name	object	Exit cavern
 Stone ladder	石梯	name	object	Stone ladder
 Cave opening	洞穴开口	name	object	Cave opening
-Ice Troll King	冰巨魔之王	name	object	Ice Troll King
+Ice Troll King	冰巨魔国王	name	object	Ice Troll King
 Fremennik boat	费明尼克船	name	object	Fremennik boat
 Soul Devourer	噬魂者	name	object	Soul Devourer
 Tower door	塔楼门	name	object	Tower door
@@ -21119,7 +21119,7 @@ Kourend Shield	库兰德盾	name	object	Kourend Shield
 Royal Accord of Twill	特威尔皇家协议	name	object	Royal Accord of Twill
 Icon of Ralos	拉洛斯圣物	name	object	Icon of Ralos
 Column of Kourend	库兰德柱	name	object	Column of Kourend
-Column of Imafore's Betrayal	伊玛福尔的背叛柱	name	object	Column of Imafore's Betrayal
+Column of Imafore's Betrayal	伊马福尔的背叛柱	name	object	Column of Imafore's Betrayal
 Armour of the Cloud Titan	云泰坦盔甲	name	object	Armour of the Cloud Titan
 Old One Statue	古老者雕像	name	object	Old One Statue
 Fang of the Colossal Wyrm	巨型蛇龙毒牙	name	object	Fang of the Colossal Wyrm
@@ -21127,7 +21127,7 @@ Statue of King Maximus	马克西穆斯国王雕像	name	object	Statue of King Ma
 Statue of Queen Zyanyi	齐安伊女王雕像	name	object	Statue of Queen Zyanyi
 Statue of Prince Itzla	伊茨拉王子雕像	name	object	Statue of Prince Itzla
 Statue of Freja	弗雷娅雕像	name	object	Statue of Freja
-Statue of Emperor Imafore	伊玛福尔皇帝雕像	name	object	Statue of Emperor Imafore
+Statue of Emperor Imafore	伊马福尔皇帝雕像	name	object	Statue of Emperor Imafore
 Libation bowl	奠酒碗	name	object	Libation bowl
 Exposed altar	暴露的祭坛	name	object	Exposed altar
 Unbuilt Landing Site	未建成的着陆点	name	object	Unbuilt Landing Site
@@ -22094,7 +22094,7 @@ Tarnished amulet	锈蚀护身符	name	wiki_rescrape	wiki_rescrape
 Venator heart	猎手心脏	name	wiki_rescrape	wiki_rescrape
 Dried out venator heart	干枯的猎手心脏	name	wiki_rescrape	wiki_rescrape
 Squire's journal	侍从的日记	name	wiki_rescrape	wiki_rescrape
-From Misthalin to Morytania	从米斯萨林到莫利塔尼亚	name	wiki_rescrape	wiki_rescrape
+From Misthalin to Morytania	从米斯塔林到莫利塔尼亚	name	wiki_rescrape	wiki_rescrape
 Sarl's journal	萨尔的日记	name	wiki_rescrape	wiki_rescrape
 Scruffy notebook	斯克拉菲笔记本	name	wiki_rescrape	wiki_rescrape
 Pious proceedings	虔诚记录	name	wiki_rescrape	wiki_rescrape
@@ -22114,7 +22114,7 @@ Gibbous moon key	凸月钥匙	name	wiki_rescrape	wiki_rescrape
 New moon key	新月钥匙	name	wiki_rescrape	wiki_rescrape
 Gilded key	镀金钥匙	name	wiki_rescrape	wiki_rescrape
 Solid key	实心钥匙	name	wiki_rescrape	wiki_rescrape
-Drakan emblem	德拉肯徽记	name	wiki_rescrape	wiki_rescrape
+Drakan emblem	德雷坎徽记	name	wiki_rescrape	wiki_rescrape
 Left crest half	左半纹章	name	wiki_rescrape	wiki_rescrape
 Right crest half	右半纹章	name	wiki_rescrape	wiki_rescrape
 Full crest	完整纹章	name	wiki_rescrape	wiki_rescrape
@@ -22194,7 +22194,7 @@ Ivan and Safalaan	伊万和萨法拉恩	name	wiki_rescrape	wiki_rescrape
 Veliaf and Safalaan	维利亚夫和萨法拉恩	name	wiki_rescrape	wiki_rescrape
 Efaritay Hallow	埃法里泰.哈洛	name	wiki_rescrape	wiki_rescrape
 Mysterious Woman	神秘女子	name	wiki_rescrape	wiki_rescrape
-Sugadinti Vitur	苏加丁蒂.维图尔	name	wiki_rescrape	wiki_rescrape
+Sugadinti Vitur	苏加丁提.维图尔	name	wiki_rescrape	wiki_rescrape
 Mysterious Vampyre	神秘吸血鬼	name	wiki_rescrape	wiki_rescrape
 Wyrd	沃德	name	wiki_rescrape	wiki_rescrape
 Sarei	萨雷	name	wiki_rescrape	wiki_rescrape
@@ -22286,7 +22286,7 @@ Giants' Foundry	巨人铸造厂	name	activity	manual_split
 God Wars	神战	name	activity	manual_split
 Guardians of the Rift	裂隙守护者	name	activity	manual_split
 Dagannoth Kings	深潜者之王	name	activity	manual_split
-Player Owned Houses	玩家的房屋	name	activity	manual_split
+Player Owned Houses	玩家房屋	name	activity	manual_split
 Tithe Farm	什一税农场	name	activity	manual_split
 Last Man Standing	最后幸存者	name	activity	manual_split
 Volcanic Mine	火山矿场	name	activity	manual_split
@@ -22343,7 +22343,7 @@ Civitas illa Fortis	福蒂斯城	name	location	manual_split
 Avium Savannah	阿维乌姆草原	name	location	manual_split
 Slayer Tower	杀戮者之塔	name	location	manual_split
 Catacombs of Kourend	库兰德王国地下墓穴	name	location	manual_split
-Stronghold Slayer Dungeon	杀戮者要塞地牢	name	location	manual_split
+Stronghold Slayer Dungeon	杀戮者地牢	name	location	manual_split
 Karuulm Slayer Dungeon	卡鲁尔姆杀戮者地牢	name	location	manual_split
 Chasm of Fire	火焰深渊地牢	name	location	manual_split
 Brimhaven Dungeon	布尔哈文地牢	name	location	manual_split
