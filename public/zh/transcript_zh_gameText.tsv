@@ -2571,10 +2571,10 @@ You've started a new quest: @q_mes@Pandemonium	你已开始一项新任务：@q_
 You board the boat.	你登上了船。	gameText	missing-reflow	
 You have unlocked a new music track: @mes_hl_red@Crest of a Wave	你解锁了一首新音乐：@mes_hl_red@浪尖之冠	gameText	missing-reflow	
 You have unlocked a new music track: @mes_hl_red@Honkytonky Sea Shanty <Num0>	你已解锁一首新音乐：@mes_hl_red@Honkytonky Sea Shanty <Num0>	gameText	missing-reflow	
-You have unlocked a new music track: @mes_hl_red@Yo Ho Ho!	你已解锁一首新音乐：@mes_hl_red@Yo Ho Ho!	gameText	missing-reflow	
-You have unlocked a new music track: @mes_hl_red@Life at Sea	你已解锁一首新音乐：@mes_hl_red@Life at Sea	gameText	missing-reflow	
-You have unlocked a new music track: @mes_hl_red@All Aboard	你已解锁一首新音乐：@mes_hl_red@All Aboard	gameText	missing-reflow	
-You have unlocked a new music track: @mes_hl_red@Set Sail	你已解锁一首新音乐：@mes_hl_red@Set Sail	gameText	missing-reflow	
+You have unlocked a new music track: @mes_hl_red@Yo Ho Ho!	你已解锁一首新音乐：@mes_hl_red@哟吼吼！	gameText	missing-reflow	
+You have unlocked a new music track: @mes_hl_red@Life at Sea	你已解锁一首新音乐：@mes_hl_red@海上生活	gameText	missing-reflow	
+You have unlocked a new music track: @mes_hl_red@All Aboard	你已解锁一首新音乐：@mes_hl_red@全员登船	gameText	missing-reflow	
+You have unlocked a new music track: @mes_hl_red@Set Sail	你已解锁一首新音乐：@mes_hl_red@扬帆起航	gameText	missing-reflow	
 You have nothing suitable to deposit.	你没有适合存放的物品。	gameText	missing-reflow	
 You don't have any reason to try to chart that.	你没有理由去绘制那个。	gameText	missing-reflow	
 You need to complete the Pandemonium quest first.	你需要先完成潘德莫尼姆任务。	gameText	missing-reflow	
@@ -2669,12 +2669,12 @@ You dye the wig blonde.	你把假发染成了金色。	gameText	wiki_rescrape	wi
 You drink some of your potion.	你喝了一些药水。	gameText	wiki_rescrape	wiki_rescrape
 You have finished the @sail_txt@Port Sarim jewellery delivery port task and been given @sail_txt@1 x Tiny port coin bag as payment.	你完成了@sail_txt@沙林港首饰运送港口任务，并获得了@sail_txt@1 x 小型港口硬币袋作为报酬。	gameText	wiki_rescrape	wiki_rescrape
 The spade gets hotter, and expands slightly.	铲子变得更热，并略微膨胀。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Royale	你解锁了一首新的音乐曲目：@mes_hl_red@Royale	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Royale	你解锁了一首新的音乐曲目：@mes_hl_red@皇家	gameText	wiki_rescrape	wiki_rescrape
 The vial shatters as it hits the floor.	小瓶掉到地上摔碎了。	gameText	wiki_rescrape	wiki_rescrape
 You cook the karambwan. It looks delicious.	你烹饪了卡拉姆班鱼。它看起来很好吃。	gameText	wiki_rescrape	wiki_rescrape
 I need to get closer to use that.	我需要靠近一点才能使用那个。	gameText	wiki_rescrape	wiki_rescrape
 You climb out of the pit.	你从坑里爬了出来。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Wonder	你解锁了一首新的音乐曲目：@mes_hl_red@Wonder	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Wonder	你解锁了一首新的音乐曲目：@mes_hl_red@惊奇	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@The jagged reefs here shred the underside of the boat! No hull nor keel can withstand them!	@mes_hl_red@这里的嶙峋礁石会撕裂船底！任何船体和龙骨都承受不住！	gameText	wiki_rescrape	wiki_rescrape
 @ap_mes@You just completed the task Getting started with Ranged! Speak to Adventurer Jon to claim your reward.	@ap_mes@你刚刚完成了任务“远程入门”！与冒险者乔恩交谈以领取你的奖励。	gameText	wiki_rescrape	wiki_rescrape
 Level 35 Fletching: Bone shortbow	35级制箭：骨制短弓	gameText	wiki_rescrape	wiki_rescrape
@@ -2692,16 +2692,16 @@ You found some loot: Mind talisman	你找到了一些战利品：心智护符	ga
 @mes_hl_blu@Well done, you've saved the fox from the poachers! The fox has left you a gift...	@mes_hl_blu@干得好，你从偷猎者手中救出了狐狸！狐狸给你留下了一份礼物……	gameText	wiki_rescrape	wiki_rescrape
 You find a stone bowl.	你找到一个石碗。	gameText	wiki_rescrape	wiki_rescrape
 You carefully cut the wood into a shortbow.	你小心地把木头削成一把短弓。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Hypnotised	你解锁了一首新音乐曲目：@mes_hl_red@Hypnotised	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Hypnotised	你解锁了一首新音乐曲目：@mes_hl_red@被催眠	gameText	wiki_rescrape	wiki_rescrape
 Level 59 Magic: Mark of Darkness	59级魔法：黑暗印记	gameText	wiki_rescrape	wiki_rescrape
 Level 40 Firemaking: Teak pyre logs	40级生火：火葬用柚木原木	gameText	wiki_rescrape	wiki_rescrape
 It has produced an even fouler mixture.	它产生了一种更加恶心的混合物。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Witching	你解锁了一首新音乐曲目：@mes_hl_red@Witching	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Unknown Land	你解锁了一首新音乐曲目：@mes_hl_red@Unknown Land	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Witching	你解锁了一首新音乐曲目：@mes_hl_red@巫术	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Unknown Land	你解锁了一首新音乐曲目：@mes_hl_red@未知之地	gameText	wiki_rescrape	wiki_rescrape
 You find an old vase.	你发现了一个旧花瓶。	gameText	wiki_rescrape	wiki_rescrape
 You drink some of your extended stamina potion.	你喝了一些延长版耐力药水。	gameText	wiki_rescrape	wiki_rescrape
 You need to complete the Dragon Slayer I quest first.	你需要先完成屠龙者 I 任务。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Tale of Keldagrim	你解锁了一首新音乐曲目：@mes_hl_red@Tale of Keldagrim	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Tale of Keldagrim	你解锁了一首新音乐曲目：@mes_hl_red@凯尔达格林的故事	gameText	wiki_rescrape	wiki_rescrape
 You pick some flax.	你采摘了一些亚麻。	gameText	wiki_rescrape	wiki_rescrape
 Charting complete: @sail_txt@Find a strange stone tablet south east of Musa Point.	绘图完成：@sail_txt@在穆萨角东南方找到一块奇怪的石板。	gameText	wiki_rescrape	wiki_rescrape
 A gravestone contains some of your recently dropped items; you can retrieve them by visiting it. The World Map will show its location if the area has a map.	墓碑中存有部分你最近掉落的物品；你可以前往墓碑取回。如果该区域有地图，世界地图会显示其位置。	gameText	wiki_rescrape	wiki_rescrape
@@ -2709,7 +2709,7 @@ Check the skill guide to see what else your new Agility level unlocks!	查看技
 You have helped enough to earn a portion of the catch.	你帮忙足够多，赢得了一份渔获。	gameText	wiki_rescrape	wiki_rescrape
 You pick up the crate with Zanik in it.	你捡起了装有扎尼克的箱。	gameText	wiki_rescrape	wiki_rescrape
 You light the cloth wrapped arrow head.	你点燃了用布包裹的箭头。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Rugged Terrain	你解锁了一首新音乐曲目：@mes_hl_red@Rugged Terrain	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Rugged Terrain	你解锁了一首新音乐曲目：@mes_hl_red@崎岖地形	gameText	wiki_rescrape	wiki_rescrape
 There's nothing here to take.	这里没什么可拿的。	gameText	wiki_rescrape	wiki_rescrape
 Level 25 Prayer: Protect Item	25级祈祷：保护物品	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@The Grand Tree	你开始了一个新任务：@q_mes@大树家园	gameText	wiki_rescrape	wiki_rescrape
@@ -2741,9 +2741,9 @@ You soak the nice crispy bread until it becomes slimy to the touch.	你把香脆
 Ardent Ocean charting completion: @sail_txt@1/69	炽热之海测绘完成度：@sail_txt@1/69	gameText	wiki_rescrape	wiki_rescrape
 The allotment is now empty.	农田现在是空的。	gameText	wiki_rescrape	wiki_rescrape
 You duck down as you enter this small door.	你低头弯腰穿过这扇小门。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Shipwrecked	你解锁了一首新音乐曲目：@mes_hl_red@Shipwrecked	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Arrival	你解锁了一首新音乐曲目：@mes_hl_red@Arrival	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Over to Nardah	你解锁了一首新音乐曲目：@mes_hl_red@Over to Nardah	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Shipwrecked	你解锁了一首新音乐曲目：@mes_hl_red@遇难	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Arrival	你解锁了一首新音乐曲目：@mes_hl_red@抵达	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Over to Nardah	你解锁了一首新音乐曲目：@mes_hl_red@前往那尔达城	gameText	wiki_rescrape	wiki_rescrape
 You treat the allotment with ultracompost.	你用终极堆肥处理了农田。	gameText	wiki_rescrape	wiki_rescrape
 Your ring of dueling crumbles to dust.	你的决斗戒指化为灰尘。	gameText	wiki_rescrape	wiki_rescrape
 You get a bruma root.	你获得了一根布鲁玛根。	gameText	wiki_rescrape	wiki_rescrape
@@ -2777,21 +2777,21 @@ Level 31 Smithing: Iron platelegs	31级锻造：铁制腿甲	gameText	wiki_rescr
 You found some loot: 5 x Saltpetre	你找到了一些战利品：5 x 硝石	gameText	wiki_rescrape	wiki_rescrape
 This week brings most of the remaining changes from Summer Sweep Up, including new Slayer rewards, improvements to Ghommal's Lucky Penny, Shark lures and more... - click here for the newspost.|4	本周带来了夏季大扫除剩余的大部分改动，包括新的杀戮奖励、戈马尔的幸运便士改进、鲨鱼诱饵等…… - 点击此处查看新闻帖。|4	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide to see what else your new Prayer level unlocks!	查看技能指南，了解你新的祈祷等级还解锁了什么！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Principality	你解锁了一首新音乐曲目：@mes_hl_red@Principality	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Principality	你解锁了一首新音乐曲目：@mes_hl_red@公国	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@The sails are not strong enough to withstand the lightning in these stormy seas!	@mes_hl_red@这些帆不够坚固，无法承受这暴风雨海域中的闪电！	gameText	wiki_rescrape	wiki_rescrape
 Level 36 Thieving: Cave goblin	36级偷窃：洞穴哥布林	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dogs of War	你解锁了一首新音乐曲目：@mes_hl_red@Dogs of War	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dogs of War	你解锁了一首新音乐曲目：@mes_hl_red@战争之犬	gameText	wiki_rescrape	wiki_rescrape
 It makes you feel a bit dizzy, but it heals some health.	它让你感到有点头晕，但能恢复一些生命值。	gameText	wiki_rescrape	wiki_rescrape
 You carefully walk across the rickety bridge...	你小心翼翼地走过摇摇欲坠的桥……	gameText	wiki_rescrape	wiki_rescrape
 The ref throws the ball into the air.	裁判把球抛向空中。	gameText	wiki_rescrape	wiki_rescrape
-But you can hunt for chompys in the rest of the ogre area.	但你可以在食人魔区域的其他地方猎捕chompys。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Ballad of Enchantment	你解锁了一首新音乐曲目：@mes_hl_red@Ballad of Enchantment	gameText	wiki_rescrape	wiki_rescrape
+But you can hunt for chompys in the rest of the ogre area.	但你可以在食人魔区域的其他地方猎捕食人鸟。	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Ballad of Enchantment	你解锁了一首新音乐曲目：@mes_hl_red@魔法歌谣	gameText	wiki_rescrape	wiki_rescrape
 Your combat bracelet has four charges left.	你的战斗手镯还剩四次充能。	gameText	wiki_rescrape	wiki_rescrape
 You just found an Emerald!	你刚找到了一颗绿宝石！	gameText	wiki_rescrape	wiki_rescrape
 Level 24 Cooking: Asgarnian Ale	24级烹饪：阿斯加尼亚麦酒	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Arabique	你解锁了一首新音乐曲目：@mes_hl_red@Arabique	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Arabique	你解锁了一首新音乐曲目：@mes_hl_red@阿拉伯风格	gameText	wiki_rescrape	wiki_rescrape
 You note the position of the wreck in your charts. Evidence suggests all members of the crew abandoned ship shortly after leaving the Node.	你在海图上记下了残骸的位置。证据表明，船员们在离开节点后不久就全部弃船了。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Beyond	你解锁了一首新音乐曲目：@mes_hl_red@Beyond	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Beyond	你解锁了一首新音乐曲目：@mes_hl_red@超越	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@The Tourist Trap	你开始了一个新任务：@q_mes@旅游陷阱	gameText	wiki_rescrape	wiki_rescrape
 Level 15 Fishing: Suphi fish (members-only)	15级钓鱼：Suphi鱼（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Fanfare 3	你解锁了一首新音乐曲目：@mes_hl_red@Fanfare 3	gameText	wiki_rescrape	wiki_rescrape
@@ -2816,7 +2816,7 @@ Well done! You have completed an easy task in the Varrock area. Your Achievement
 You can only get a ticket when the flashing arrow is above the pillar.	只有当闪烁的箭头位于柱子上方时，你才能拿到票。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Temple of Light	你解锁了一首新的音乐曲目：@mes_hl_red@光明神殿	gameText	wiki_rescrape	wiki_rescrape
 You land on the ground.	你落到了地面上。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Scape Soft	你解锁了一首新的音乐曲目：@mes_hl_red@Scape Soft	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Scape Soft	你解锁了一首新的音乐曲目：@mes_hl_red@OSRS - 柔和	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_pur@You've received some paint!	@mes_hl_pur@你收到了一些颜料！	gameText	wiki_rescrape	wiki_rescrape
 The candles on the floor burn your feet!	地板上的蜡烛烫到了你的脚！	gameText	wiki_rescrape	wiki_rescrape
 Level 50 Fletching: Maple vale totems	50级制箭：枫木山谷图腾	gameText	wiki_rescrape	wiki_rescrape
@@ -2871,17 +2871,17 @@ Building mode is now off.	建造模式现已关闭。	gameText	wiki_rescrape	wik
 You prepare to exit the Druid's grotto.	你准备离开德鲁伊的洞穴。	gameText	wiki_rescrape	wiki_rescrape
 You enter the tunnel.	你进入了隧道。	gameText	wiki_rescrape	wiki_rescrape
 You tip the water over the side.	你把水倒向船外。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Down Below	你解锁了一首新音乐曲目：@mes_hl_red@Down Below	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Golem	你解锁了一首新音乐曲目：@mes_hl_red@The Golem	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Down Below	你解锁了一首新音乐曲目：@mes_hl_red@下方	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Golem	你解锁了一首新音乐曲目：@mes_hl_red@魔像	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Tower of Life	你开始了一个新任务：@q_mes@Tower of Life	gameText	wiki_rescrape	wiki_rescrape
 You find a scroll box!	你发现了一个卷轴盒！	gameText	wiki_rescrape	wiki_rescrape
 You can't open the settings interface while in combat.	战斗中无法打开设置界面。	gameText	wiki_rescrape	wiki_rescrape
 You slip on the rock and fall into the water.	你在岩石上滑倒，掉进了水里。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Island of the Trolls	你解锁了一首新音乐曲目：@mes_hl_red@Island of the Trolls	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Island of the Trolls	你解锁了一首新音乐曲目：@mes_hl_red@巨魔之岛	gameText	wiki_rescrape	wiki_rescrape
 You successfully disarm the trap.	你成功解除了陷阱。	gameText	wiki_rescrape	wiki_rescrape
-Level 14 Mining: Barronite	14级采矿：Barronite	gameText	wiki_rescrape	wiki_rescrape
+Level 14 Mining: Barronite	14级采矿：巴隆石	gameText	wiki_rescrape	wiki_rescrape
 Trawler will leave in 30 seconds.	拖网渔船将在30秒后出发。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Reggae	你解锁了一首新音乐曲目：@mes_hl_red@Reggae	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Reggae	你解锁了一首新音乐曲目：@mes_hl_red@雷鬼	gameText	wiki_rescrape	wiki_rescrape
 Your games necklace has five uses left.	你的游戏项链还剩五次使用次数。	gameText	wiki_rescrape	wiki_rescrape
 Level 6 Woodcutting: Steel felling axe (members-only)	6级伐木：钢制伐木斧（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 You have mined all you can from the shell.	你已从贝壳中采尽了所有能采的东西。	gameText	wiki_rescrape	wiki_rescrape
@@ -2898,19 +2898,19 @@ Level 5 Ranged: Steel cannon (members-only)	等级 5 远程：钢制大炮（仅
 Your skills necklace has one charge left.	你的技能项链还剩一次充能。	gameText	wiki_rescrape	wiki_rescrape
 You climb down the shelves.	你从架子上爬了下来。	gameText	wiki_rescrape	wiki_rescrape
 10 of your tokens crumble away.	你的10个代币碎裂消失了。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Village	你解锁了一首新的音乐曲目：@mes_hl_red@Village	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Village	你解锁了一首新的音乐曲目：@mes_hl_red@村庄	gameText	wiki_rescrape	wiki_rescrape
 Level 2 Thieving: Vegetable stall	2级偷窃：蔬菜摊位	gameText	wiki_rescrape	wiki_rescrape
 Level 56 Magic: Summon Boat	56级魔法：召唤船	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Magic Dance	你解锁了一首新的音乐曲目：@mes_hl_red@Magic Dance	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Magic Dance	你解锁了一首新的音乐曲目：@mes_hl_red@魔法之舞	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Shield of Arrav	你开始了一个新任务：@q_mes@阿拉夫之盾	gameText	wiki_rescrape	wiki_rescrape
 You give Cap'n Izzy the 200 coin entrance fee.	你向伊兹船长支付了200枚硬币的入场费。	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide for more information about Woodcutting.	查看技能指南以了解更多关于伐木的信息。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Shadow	你解锁了一首新的音乐曲目：@mes_hl_red@The Shadow	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Shadow	你解锁了一首新的音乐曲目：@mes_hl_red@阴影	gameText	wiki_rescrape	wiki_rescrape
 Your reward is: 5 x Emerald.	你的奖励是：5 x 绿宝石。	gameText	wiki_rescrape	wiki_rescrape
 You pick the lock on the prison door.	你撬开了监狱门上的锁。	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Goblin skull	不可交易的掉落物：哥布林头骨	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Murder Mystery	你开始了一个新任务：@q_mes@谋杀之谜	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Venomous	你解锁了一首新的音乐曲目：@mes_hl_red@Venomous	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Venomous	你解锁了一首新的音乐曲目：@mes_hl_red@剧毒	gameText	wiki_rescrape	wiki_rescrape
 You begin setting up a trap.	你开始设置一个陷阱。	gameText	wiki_rescrape	wiki_rescrape
 You flip the onyx switch.	你扳动了玛瑙开关。	gameText	wiki_rescrape	wiki_rescrape
 Your Digsite Pendant has two uses left.	你的考古挖掘场护符还剩两次使用次数。	gameText	wiki_rescrape	wiki_rescrape
@@ -2921,21 +2921,21 @@ You're stunned!	你被击晕了！	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide to see what else your new Thieving level unlocks!	查看技能指南，看看你新的偷窃等级还解锁了什么！	gameText	wiki_rescrape	wiki_rescrape
 You need a Hunter level of at least 75 to catch this impling barehanded.	你需要至少75级狩猎才能徒手捕捉这只小精灵。	gameText	wiki_rescrape	wiki_rescrape
 You do not have a birdhouse with the required hunter level to build here.	你没有达到建造所需狩猎等级的鸟屋。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Egypt	你解锁了一首新音乐曲目：@mes_hl_red@Egypt	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Egypt	你解锁了一首新音乐曲目：@mes_hl_red@埃及	gameText	wiki_rescrape	wiki_rescrape
 Miscellaneous charting completion: @sail_txt@1/33	杂项绘制进度：@sail_txt@1/33	gameText	wiki_rescrape	wiki_rescrape
 Level 41 Mining: Gilded pickaxe	41级采矿：镀金镐	gameText	wiki_rescrape	wiki_rescrape
 You remember where the secret door is for future reference.	你记住了秘密门的位置，以备将来参考。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Eagles' Peak	你解锁了一首新音乐曲目：@mes_hl_red@Eagles' Peak	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Eagles' Peak	你解锁了一首新音乐曲目：@mes_hl_red@鹰峰	gameText	wiki_rescrape	wiki_rescrape
 The sapling seems to love @mes_hl_blu@droppings as the @mes_hl_blu@third ingredient.	这棵树苗似乎很喜欢把@mes_hl_blu@粪便作为@mes_hl_blu@第三种原料。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Safety in Numbers	你解锁了一首新音乐曲目：@mes_hl_red@Safety in Numbers	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Stuck in the Mire	你解锁了一首新音乐曲目：@mes_hl_red@Stuck in the Mire	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Safety in Numbers	你解锁了一首新音乐曲目：@mes_hl_red@人多安全	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Stuck in the Mire	你解锁了一首新音乐曲目：@mes_hl_red@陷入泥潭	gameText	wiki_rescrape	wiki_rescrape
 Level 4 Herblore: Attack mix	4级草药学：攻击混合药剂	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Pick & Shovel	你解锁了一首新音乐曲目：@mes_hl_red@Pick & Shovel	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Pick & Shovel	你解锁了一首新音乐曲目：@mes_hl_red@镐与铲	gameText	wiki_rescrape	wiki_rescrape
 Level 20 Ranged: Willow bows	20级远程：柳木弓	gameText	wiki_rescrape	wiki_rescrape
 This is an allotment. The soil has not been treated. The patch is empty and weeded.	这是一块农田。土壤尚未处理。地块空着且已除草。	gameText	wiki_rescrape	wiki_rescrape
 You need an Agility level of at least 40 to get past this trap!	你需要至少40级敏捷才能通过这个陷阱！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dunjun	你解锁了一首新音乐曲目：@mes_hl_red@Dunjun	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Cellar Dwellers	你解锁了一首新音乐曲目：@mes_hl_red@The Cellar Dwellers	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dunjun	你解锁了一首新音乐曲目：@mes_hl_red@地牢	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Cellar Dwellers	你解锁了一首新音乐曲目：@mes_hl_red@地窖居民	gameText	wiki_rescrape	wiki_rescrape
 A supernatural force draws energy from you.	一股超自然力量从你身上吸取能量。	gameText	wiki_rescrape	wiki_rescrape
 You mis-hit the chisel and smash the red topaz to pieces!	你凿偏了，把红托帕石砸成了碎片！	gameText	wiki_rescrape	wiki_rescrape
 Some of your items couldn't be deposited.	你的一些物品无法存入。	gameText	wiki_rescrape	wiki_rescrape
@@ -3029,7 +3029,7 @@ You place the logs into the grate.	你把原木放进格栅。	gameText	wiki_res
 You need at least three blossomed items to add something to the druid pouch.	你至少需要三件盛开物品才能往德鲁伊的袋里添加东西。	gameText	wiki_rescrape	wiki_rescrape
 You've caught a golden warbler.	你捕获了一只金黄莺。	gameText	wiki_rescrape	wiki_rescrape
 Eating the kebab has done damage to some of your stats.	吃下烤肉对你的部分属性造成了伤害。	gameText	wiki_rescrape	wiki_rescrape
-Level 33 Thieving: Rusty Pirate Chests	33级偷窃：拉斯蒂海盗宝箱	gameText	wiki_rescrape	wiki_rescrape
+Level 33 Thieving: Rusty Pirate Chests	33级偷窃：生锈的海盗宝箱	gameText	wiki_rescrape	wiki_rescrape
 Level 5 Herblore: Anti-poison potion	5级草药学：抗毒药水	gameText	wiki_rescrape	wiki_rescrape
 Some of your Adventure path tasks may have been updated.	你的部分冒险之路任务可能已更新。	gameText	wiki_rescrape	wiki_rescrape
 Chronicle: currently costs 300 coins.	编年史：当前价格为300金币。	gameText	wiki_rescrape	wiki_rescrape
@@ -3038,11 +3038,11 @@ Well done! You have completed a hard task in the Ardougne area. Your Achievement
 You must complete the medium, hard or elite tier of the Varrock achievement diary to use that option.	你必须完成维洛克城成就日记的中等、困难或精英等级才能使用该选项。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Mirage	你解锁了一首新音乐曲目：@mes_hl_red@幻影	gameText	wiki_rescrape	wiki_rescrape
 Level 35 Cooking: Rainbow fish	35级烹饪：彩虹鱼	gameText	wiki_rescrape	wiki_rescrape
-You attempt to use the Monkey Greegree but nothing happens.	你尝试使用猴子 Greegree，但什么也没发生。	gameText	wiki_rescrape	wiki_rescrape
+You attempt to use the Monkey Greegree but nothing happens.	你尝试使用猴子护符，但什么也没发生。	gameText	wiki_rescrape	wiki_rescrape
 You hear the doors' locking mechanism grind open.	你听到门的锁定机械装置嘎吱作响地打开了。	gameText	wiki_rescrape	wiki_rescrape
 You take an orange tree seed out of the bird's nest.	你从鸟巢中取出一颗橙子树种子。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Emotion	你解锁了一首新的音乐曲目：@mes_hl_red@Emotion	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The City of Sun	你解锁了一首新的音乐曲目：@mes_hl_red@The City of Sun	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Emotion	你解锁了一首新的音乐曲目：@mes_hl_red@情感	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The City of Sun	你解锁了一首新的音乐曲目：@mes_hl_red@太阳之城	gameText	wiki_rescrape	wiki_rescrape
 Level 11 Woodcutting: Black felling axe (members-only)	等级11 伐木：黑铁伐木斧（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 Level 10 Fletching: Bronze darts	等级10 制箭：青铜飞镖	gameText	wiki_rescrape	wiki_rescrape
 You pick the stone tablet up.	你捡起了石板。	gameText	wiki_rescrape	wiki_rescrape
@@ -3061,7 +3061,7 @@ The burrowing crab forces you out of its way.	穴居蟹把你挤开了。	gameTe
 Level 34 Prayer: Incredible Reflexes	34 级祈祷：惊人反应	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Dwarf Theme	你解锁了一首新的音乐曲目：@mes_hl_red@矮人主题曲	gameText	wiki_rescrape	wiki_rescrape
 Your reward is: 1 x Zombie shirt.	你的奖励是：1 x 僵尸衬衫。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dead Can Dance	你解锁了一首新的音乐曲目：@mes_hl_red@Dead Can Dance	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dead Can Dance	你解锁了一首新的音乐曲目：@mes_hl_red@亡者能舞	gameText	wiki_rescrape	wiki_rescrape
 The vines suddenly break, damaging you in the process!	藤蔓突然断裂，在此过程中对你造成了伤害！	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Tribal 2	你解锁了一首新的音乐曲目：@mes_hl_red@部落 2	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Fanfare	你解锁了一首新的音乐曲目：@mes_hl_red@号角齐鸣	gameText	wiki_rescrape	wiki_rescrape
@@ -3158,20 +3158,20 @@ Level 3 Herblore: Guam leaf	3级草药学：瓜姆叶	gameText	wiki_rescrape	wik
 You investigate what looks like hinges on the plaque and find it opens.	你查看牌匾上看起来像铰链的地方，发现它可以打开。	gameText	wiki_rescrape	wiki_rescrape
 You carefully cut the wood into a crossbow stock.	你小心地把木材削成弩托。	gameText	wiki_rescrape	wiki_rescrape
 Level 39 Fletching: Iron/willow crossbows	39级制箭：铁制/柳木弩	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Vanescula	你解锁了一首新音乐曲目：@mes_hl_red@Vanescula	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Vanescula	你解锁了一首新音乐曲目：@mes_hl_red@瓦内斯库拉	gameText	wiki_rescrape	wiki_rescrape
 Level 11 Woodcutting: Black axe	11级伐木：黑铁斧	gameText	wiki_rescrape	wiki_rescrape
 You drink the bottle of almost smuggled rum.	你喝下了那瓶走私来的朗姆酒。	gameText	wiki_rescrape	wiki_rescrape
 Level 20 Thieving: Silk stall	20级偷窃：丝绸摊位	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Baroque	你解锁了一首新音乐曲目：@mes_hl_red@Baroque	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Baroque	你解锁了一首新音乐曲目：@mes_hl_red@巴洛克	gameText	wiki_rescrape	wiki_rescrape
 You have accepted the @sail_txt@Ardougne fish delivery port task.	你已接受@sail_txt@阿多尼城鱼类运送港口任务。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Parade	你解锁了一首新音乐曲目：@mes_hl_red@Parade	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Parade	你解锁了一首新音乐曲目：@mes_hl_red@游行	gameText	wiki_rescrape	wiki_rescrape
 You steal an iron dagger.	你偷走了一把铁制匕首。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Waterfall Quest	你开始了一个新任务：@q_mes@瀑布任务	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Woodland	你解锁了一首新音乐曲目：@mes_hl_red@Woodland	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Woodland	你解锁了一首新音乐曲目：@mes_hl_red@林地	gameText	wiki_rescrape	wiki_rescrape
 You smack the villager over the head and render them unconscious.	你猛击村民的头部，将其打晕。	gameText	wiki_rescrape	wiki_rescrape
 That tasted very dodgy. You feel very ill.	那味道非常可疑。你感到非常不适。	gameText	wiki_rescrape	wiki_rescrape
 You hand over all the bones.	你交出了所有骨头。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Undercurrent	你解锁了一首新音乐曲目：@mes_hl_red@Undercurrent	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Undercurrent	你解锁了一首新音乐曲目：@mes_hl_red@暗流	gameText	wiki_rescrape	wiki_rescrape
 The force of the new barrier pushes you away.	新屏障的力量将你推开。	gameText	wiki_rescrape	wiki_rescrape
 You don't really need to bail yet.	你现在还不需要舀水。	gameText	wiki_rescrape	wiki_rescrape
 Shantay pass: currently costs 5 coins.	沙泰隘口：目前花费5枚金币。	gameText	wiki_rescrape	wiki_rescrape
@@ -3233,15 +3233,15 @@ You've been awarded @mes_hl_blu@22 Anima-infused bark.	你获得了 @mes_hl_blu@
 Your reward is: 1 x Gold necklace.	你的奖励是：1 x 金项链。	gameText	wiki_rescrape	wiki_rescrape
 You hold the Mind talisman towards the mysterious ruins.	你把心智护符举向神秘废墟。	gameText	wiki_rescrape	wiki_rescrape
 You use your skills necklace's last charge.	你使用了技能项链的最后一次充能。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Attention	你解锁了一首新的音乐曲目：@mes_hl_red@Attention	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Attention	你解锁了一首新的音乐曲目：@mes_hl_red@注意	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide to see what else your new Cooking level unlocks!	查看技能指南，看看你新的烹饪等级还解锁了什么！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Power of Tears	你解锁了一首新的音乐曲目：@mes_hl_red@The Power of Tears	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Lonesome	你解锁了一首新的音乐曲目：@mes_hl_red@Lonesome	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Power of Tears	你解锁了一首新的音乐曲目：@mes_hl_red@眼泪的力量	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Lonesome	你解锁了一首新的音乐曲目：@mes_hl_red@孤独	gameText	wiki_rescrape	wiki_rescrape
 You mix the charcoal into the liquid.	你把木炭混入液体中。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Tiptoe	你解锁了一首新的音乐曲目：@mes_hl_red@Tiptoe	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Tiptoe	你解锁了一首新的音乐曲目：@mes_hl_red@踮脚	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Sheep Herder	你开始了一个新任务：@q_mes@牧羊人	gameText	wiki_rescrape	wiki_rescrape
 Level 7 Fletching: Bronze 'brutal' arrows	7级制箭：青铜“野蛮”箭	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Distant Land	你解锁了一首新的音乐曲目：@mes_hl_red@Distant Land	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Distant Land	你解锁了一首新的音乐曲目：@mes_hl_red@远方	gameText	wiki_rescrape	wiki_rescrape
 There is no essence in this pouch.	这个小袋里没有精华。	gameText	wiki_rescrape	wiki_rescrape
 You have accepted the @sail_txt@Pandemonium battleaxe delivery port task.	你已接受@sail_txt@潘德莫尼姆战斧运送港口任务。	gameText	wiki_rescrape	wiki_rescrape
 You have no salvage to deposit.	你没有可存放的残骸。	gameText	wiki_rescrape	wiki_rescrape
@@ -3261,27 +3261,27 @@ You drink the liquid...	你喝下液体……	gameText	wiki_rescrape	wiki_rescra
 Untradeable drop: Buttons	不可交易的掉落物：纽扣	gameText	wiki_rescrape	wiki_rescrape
 The people of Hosidius are protecting this patch for you.	霍西迪乌斯城的人民正在为你保护这块地。	gameText	wiki_rescrape	wiki_rescrape
 Level 13 Crafting: Jade ring	13级制作：翡翠戒指	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Prospering Fortune	你解锁了一首新的音乐曲目：@mes_hl_red@Prospering Fortune	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Prospering Fortune	你解锁了一首新的音乐曲目：@mes_hl_red@繁荣的财富	gameText	wiki_rescrape	wiki_rescrape
 You take an acorn out of the bird's nest.	你从鸟巢里取出一颗橡子。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Knightmare	你解锁了一首新的音乐曲目：@mes_hl_red@Knightmare	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Knightmare	你解锁了一首新的音乐曲目：@mes_hl_red@骑士梦魇	gameText	wiki_rescrape	wiki_rescrape
 You hurl the shuddering vial into the water...	你把颤抖的小瓶扔进水里……	gameText	wiki_rescrape	wiki_rescrape
 Level 57 Magic: Resurrect Superior Skeleton	57级魔法：复活高级骷髅	gameText	wiki_rescrape	wiki_rescrape
 Well done! You have completed a medium task in the Varrock area. Your Achievement Diary has been updated.	干得好！你完成了维洛克城地区的一个中等任务。你的成就日志已更新。	gameText	wiki_rescrape	wiki_rescrape
 You've deposited enough orbs to be rewarded additional runes when you leave.	你已存入足够的宝珠，离开时将获得额外符文的奖励。	gameText	wiki_rescrape	wiki_rescrape
 You create some mulch using droppings as the first ingredient.	你以粪便作为第一种原料制作了一些覆盖物。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Upcoming	你解锁了一首新的音乐曲目：@mes_hl_red@Upcoming	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Upcoming	你解锁了一首新的音乐曲目：@mes_hl_red@即将到来	gameText	wiki_rescrape	wiki_rescrape
 You feel reinvigorated after drinking from the pool.	喝下池水后，你感到精神焕发。	gameText	wiki_rescrape	wiki_rescrape
 Level 28 Prayer: Steel Skin	28级祈祷：钢铁皮肤	gameText	wiki_rescrape	wiki_rescrape
 You search the chest for traps.	你搜索宝箱寻找陷阱。	gameText	wiki_rescrape	wiki_rescrape
 The Kraken has been defeated!	克拉肯海怪已被击败！	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Venture 2	你解锁了一首新的音乐曲目：@mes_hl_red@Venture 2	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Wildwood	你解锁了一首新的音乐曲目：@mes_hl_red@Wildwood	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Wildwood	你解锁了一首新的音乐曲目：@mes_hl_red@荒野森林	gameText	wiki_rescrape	wiki_rescrape
 You unlock the gate.	你打开了大门。	gameText	wiki_rescrape	wiki_rescrape
 You cannot switch worlds so soon after combat.	战斗结束后不能这么快切换世界。	gameText	wiki_rescrape	wiki_rescrape
 Level 20 Fishing: Bream (members-only)	20级钓鱼：鳊鱼（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 Congratulations! You have solved this room's puzzle!	恭喜！你解开了这个房间的谜题！	gameText	wiki_rescrape	wiki_rescrape
 You need to cast superheat item on ore.	你需要对矿石施放矿石冶炼术。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Creature Cruelty	你解锁了一首新的音乐曲目：@mes_hl_red@Creature Cruelty	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Creature Cruelty	你解锁了一首新的音乐曲目：@mes_hl_red@虐待动物	gameText	wiki_rescrape	wiki_rescrape
 You put some ectoplasm and bonemeal into the Ectofuntus, and worship it.	你把一些灵质和骨粉放入灵泉，并崇拜它。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Death on the Isle	你开始了一个新任务：@q_mes@孤岛谋杀案	gameText	wiki_rescrape	wiki_rescrape
 You empty the vial into the tin.	你把小瓶里的东西倒进锡罐。	gameText	wiki_rescrape	wiki_rescrape
@@ -3309,7 +3309,7 @@ Check the skill guide for more information about Fishing.	查看技能指南以�
 Check the skill guide to see what else your new Defence level unlocks!	查看技能指南，看看你的新防御等级还解锁了什么！	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Tomorrow	你解锁了一首新音乐曲目：@mes_hl_red@明天	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Fishing	你解锁了一首新音乐曲目：@mes_hl_red@钓鱼	gameText	wiki_rescrape	wiki_rescrape
-Did you know? You can use basalt on Snowflake in Weiss to note it.	你知道吗？你可以对Weiss的Snowflake使用玄武岩来将其标记。	gameText	wiki_rescrape	wiki_rescrape
+Did you know? You can use basalt on Snowflake in Weiss to note it.	你知道吗？你可以对魏斯聚落的雪花使用玄武岩来将其兑换成票据。	gameText	wiki_rescrape	wiki_rescrape
 You leap across with a mighty leap!	你奋力一跃，跳了过去！	gameText	wiki_rescrape	wiki_rescrape
 You can't use that rope swing from here.	你无法从这里使用那根绳索秋千。	gameText	wiki_rescrape	wiki_rescrape
 You fill the bucket from the waterfall.	你从瀑布处装满了桶。	gameText	wiki_rescrape	wiki_rescrape
@@ -3437,18 +3437,18 @@ You have unlocked a new music track: @mes_hl_red@Close Quarters	你解锁了一�
 You take a dragonfruit tree seed out of the bird's nest.	你从鸟巢里取出一颗火龙果树种子。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@A Matter of Intrigue	你解锁了一首新的音乐曲目：@mes_hl_red@暗流涌动	gameText	wiki_rescrape	wiki_rescrape
 Well done! You have completed a medium task in the Falador area. Your Achievement Diary has been updated.	干得好！你已完成法拉多城地区的一个中等任务。你的成就日志已更新。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Wonderous	你解锁了一首新音乐曲目：@mes_hl_red@Wonderous	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Wonderous	你解锁了一首新音乐曲目：@mes_hl_red@奇妙	gameText	wiki_rescrape	wiki_rescrape
 Rohak the dwarf looks very drunk.	矮人罗哈克看起来醉得很厉害。	gameText	wiki_rescrape	wiki_rescrape
 You tip the water out of the bucket.	你把桶里的水倒了出来。	gameText	wiki_rescrape	wiki_rescrape
 You need level 65 Herblore to clean the Grimy cadantine.	你需要65级草药学才能清洗未清洗的卡丹丁草。	gameText	wiki_rescrape	wiki_rescrape
 You have finished the @sail_txt@Pandemonium platebody delivery port task and been given @sail_txt@1 x Tiny port coin bag as payment.	你已完成@sail_txt@潘德莫尼姆胸甲运送港口任务，并获得@sail_txt@1 x 小型港口钱袋作为报酬。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Long Way Home	你解锁了一首新音乐曲目：@mes_hl_red@Long Way Home	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Long Way Home	你解锁了一首新音乐曲目：@mes_hl_red@归途漫漫	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@The effects of the saturated heart have worn off.	@mes_hl_red@完全魔能之心的效果已消失。	gameText	wiki_rescrape	wiki_rescrape
 You find a Hespori seed!	你找到了一个赫斯波里种子！	gameText	wiki_rescrape	wiki_rescrape
 You step through the rift and find yourself at the Nature Altar.	你穿过裂隙，发现自己来到了自然祭坛。	gameText	wiki_rescrape	wiki_rescrape
 The spider drains your prayer...	蜘蛛吸取了你的祈祷……	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide for more information about Slayer.	查看技能指南以了解更多关于杀戮的信息。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Lost Melody	你解锁了一首新音乐曲目：@mes_hl_red@The Lost Melody	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Lost Melody	你解锁了一首新音乐曲目：@mes_hl_red@失落的旋律	gameText	wiki_rescrape	wiki_rescrape
 Who knows what is in the water...	谁知道水里有什么……	gameText	wiki_rescrape	wiki_rescrape
 Your blow only glances off the bandit's head.	你的攻击只是擦过了强盗的头。	gameText	wiki_rescrape	wiki_rescrape
 You take a papaya tree seed out of the bird's nest.	你从鸟巢中取出一颗木瓜树种子。	gameText	wiki_rescrape	wiki_rescrape
@@ -3475,9 +3475,9 @@ You climb down the tree...	你爬下树……	gameText	wiki_rescrape	wiki_rescra
 You've started a new quest: @q_mes@The Dig Site	你开始了一个新任务：@q_mes@考古挖掘场	gameText	wiki_rescrape	wiki_rescrape
 Your PIN is still pending.	你的PIN仍在等待处理。	gameText	wiki_rescrape	wiki_rescrape
 Your reward is: 1 x Spicy maggots.	你的奖励是：1 x 香辣的蛆。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Have a Blast	你解锁了一首新的音乐曲目：@mes_hl_red@Have a Blast	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Have a Blast	你解锁了一首新的音乐曲目：@mes_hl_red@尽情狂欢	gameText	wiki_rescrape	wiki_rescrape
 To use Harmony Island as a destination:	要将和谐岛作为目的地：	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Chosen	你解锁了一首新的音乐曲目：@mes_hl_red@The Chosen	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Chosen	你解锁了一首新的音乐曲目：@mes_hl_red@被选中的	gameText	wiki_rescrape	wiki_rescrape
 You steal some damaged armour.	你偷到了一些破损的盔甲。	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Monkey paw	不可交易的掉落物：猴爪	gameText	wiki_rescrape	wiki_rescrape
 Level 48 Crafting: Snakeskin bandana	48级制作：蛇皮头巾	gameText	wiki_rescrape	wiki_rescrape
@@ -3485,7 +3485,7 @@ Check the skill guide for more information about Firemaking.	查看技能指南�
 Guard: Quick, men, get him!!	守卫：快，伙计们，抓住他！！	gameText	wiki_rescrape	wiki_rescrape
 You catch a giant carp.	你钓到了一条巨鲤鱼。	gameText	wiki_rescrape	wiki_rescrape
 You skip gladly out of murky Mort Myre.	你高兴地蹦跳着离开了阴暗的莫特米尔。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Burning Sun	你解锁了一首新的音乐曲目：@mes_hl_red@The Burning Sun	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Burning Sun	你解锁了一首新的音乐曲目：@mes_hl_red@燃烧之日	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Prince Ali Rescue	你开始了一个新任务：@q_mes@救援阿里王子	gameText	wiki_rescrape	wiki_rescrape
 Well done! You have completed an easy task in the Wilderness area. Your Achievement Diary has been updated.	干得好！你已完成荒野区域的一个简单任务。你的成就日志已更新。	gameText	wiki_rescrape	wiki_rescrape
 The Portal talisman (cosmic) is destroyed as you drop it.	你丢下传送门护符 (宇宙) 时，它被摧毁了。	gameText	wiki_rescrape	wiki_rescrape
@@ -3552,8 +3552,8 @@ Prospector legs: currently costs 50 golden nuggets.	探矿者腿甲：目前需�
 Fully charting this sea has unlocked the use of some @sail_txt@rapids within it.	完整绘制这片海域的图后，你解锁了其中一些@sail_txt@急流的用途。	gameText	wiki_rescrape	wiki_rescrape
 Level 31 Thieving: Pyramid Plunder - Room 2	31级偷窃：金字塔掠夺 - 2号房间	gameText	wiki_rescrape	wiki_rescrape
 You find some pottery.	你找到了一些陶器。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Miles Away	你解锁了一首新音乐曲目：@mes_hl_red@Miles Away	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Ogre the Top	你解锁了一首新音乐曲目：@mes_hl_red@Ogre the Top	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Miles Away	你解锁了一首新音乐曲目：@mes_hl_red@千里之外	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Ogre the Top	你解锁了一首新音乐曲目：@mes_hl_red@食人魔之巅	gameText	wiki_rescrape	wiki_rescrape
 Level 13 Crafting: Cut jade	13级制作：切割翡翠	gameText	wiki_rescrape	wiki_rescrape
 The doors won't open.	门打不开。	gameText	wiki_rescrape	wiki_rescrape
 You fill the bucket.	你把桶装满了。	gameText	wiki_rescrape	wiki_rescrape
@@ -3561,13 +3561,13 @@ You've started a new quest: @q_mes@The Garden of Death	你开始了一个新任�
 You've started a new quest: @q_mes@The Fremennik Isles	你开始了一个新任务：@q_mes@费明尼克群岛	gameText	wiki_rescrape	wiki_rescrape
 Your Gnome Stronghold Agility lap count is: 1.	你的地精要塞敏捷圈数为：1。	gameText	wiki_rescrape	wiki_rescrape
 The Godfather is no longer paying attention to you.	教父不再关注你了。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Mausoleum	你解锁了一首新音乐曲目：@mes_hl_red@Mausoleum	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@What Happens Below...	你解锁了一首新音乐曲目：@mes_hl_red@What Happens Below...	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Mausoleum	你解锁了一首新音乐曲目：@mes_hl_red@陵墓	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@What Happens Below...	你解锁了一首新音乐曲目：@mes_hl_red@下方发生的事…	gameText	wiki_rescrape	wiki_rescrape
 You were hit by some darts, something on them makes you feel dizzy!	你被一些飞镖击中，上面的东西让你感到头晕！	gameText	wiki_rescrape	wiki_rescrape
 Level 5 Slayer: Crawling hands	5级杀戮：爬行之手	gameText	wiki_rescrape	wiki_rescrape
 Something caused a reaction when mixed!	混合时有什么东西引起了反应！	gameText	wiki_rescrape	wiki_rescrape
 You steal a herb.	你偷到了一株草药。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Regal	你解锁了一首新音乐曲目：@mes_hl_red@Regal	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Regal	你解锁了一首新音乐曲目：@mes_hl_red@皇家	gameText	wiki_rescrape	wiki_rescrape
 You start disarming the trap...	你开始拆除陷阱……	gameText	wiki_rescrape	wiki_rescrape
 You put the skull in the coffin.	你把头骨放进了棺材。	gameText	wiki_rescrape	wiki_rescrape
 You have been awarded 2,500 Construction experience!	你获得了2,500点建筑经验！	gameText	wiki_rescrape	wiki_rescrape
@@ -3601,9 +3601,9 @@ You manage to catch the toad and inflate it with the yellow dye.	你成功抓住
 You feel slightly concussed from the blow.	这一击让你感到有些脑震荡。	gameText	wiki_rescrape	wiki_rescrape
 Level 40 Mining: Gem rocks	40级采矿：宝石岩石	gameText	wiki_rescrape	wiki_rescrape
 You repair a section of the bridge.	你修复了桥的一段。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Trade Parade	你解锁了一首新音乐曲目：@mes_hl_red@The Trade Parade	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Volcanic Vikings	你解锁了一首新音乐曲目：@mes_hl_red@Volcanic Vikings	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Competition	你解锁了一首新音乐曲目：@mes_hl_red@Competition	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Trade Parade	你解锁了一首新音乐曲目：@mes_hl_red@贸易游行	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Volcanic Vikings	你解锁了一首新音乐曲目：@mes_hl_red@火山维京人	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Competition	你解锁了一首新音乐曲目：@mes_hl_red@竞赛	gameText	wiki_rescrape	wiki_rescrape
 The slave takes your desert shirt.	奴隶拿走了你的沙漠衬衣。	gameText	wiki_rescrape	wiki_rescrape
 You have finished the @sail_txt@Pandemonium platebody delivery port task and been given @sail_txt@1 x Tiny port reward bag (the pandemonium) as payment.	你完成了@sail_txt@潘德莫尼姆板甲运送港口任务，并获得了@sail_txt@1 x 微型港口奖励袋（潘德莫尼姆岛）作为报酬。	gameText	wiki_rescrape	wiki_rescrape
 @ap_mes@Congratulations! You have completed all the tasks for the Combat path, speak to Adventurer Jon to claim your reward.	@ap_mes@恭喜！你已完成战斗路径的所有任务，去找冒险者乔恩领取奖励吧。	gameText	wiki_rescrape	wiki_rescrape
@@ -3614,7 +3614,7 @@ The sapling seems to love @mes_hl_blu@green leaves as the @mes_hl_blu@second ing
 Level 9 Fletching: Bronze/wooden crossbows	9级制箭：青铜/木制弩	gameText	wiki_rescrape	wiki_rescrape
 The slave takes your desert boots.	奴隶拿走了你的沙漠靴。	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@Your prayers have been drained!	@mes_hl_red@你的祈祷值已被抽干！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Stillness	你解锁了一首新音乐曲目：@mes_hl_red@Stillness	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Stillness	你解锁了一首新音乐曲目：@mes_hl_red@静止	gameText	wiki_rescrape	wiki_rescrape
 You add some green leaves to your mulch as the third ingredient.	你往覆盖物里加入了一些绿叶作为第三种原料。	gameText	wiki_rescrape	wiki_rescrape
 It heals some health. You feel strong!	它恢复了一些生命值。你感到强壮了！	gameText	wiki_rescrape	wiki_rescrape
 Level 35 Woodcutting: Teak trees	35级伐木：柚木树	gameText	wiki_rescrape	wiki_rescrape
@@ -3639,7 +3639,7 @@ Untradeable drop: Big frog leg	不可交易的掉落物：大青蛙腿	gameText	
 You have unlocked a new music track: @mes_hl_red@Start	你解锁了一首新的音乐曲目：@mes_hl_red@开始	gameText	wiki_rescrape	wiki_rescrape
 Your Digsite Pendant has one use left.	你的考古挖掘场护符还剩一次使用次数。	gameText	wiki_rescrape	wiki_rescrape
 You manage to pick the lock.	你成功撬开了锁。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Teklan	你解锁了一首新的音乐曲目：@mes_hl_red@Teklan	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Teklan	你解锁了一首新的音乐曲目：@mes_hl_red@特克兰	gameText	wiki_rescrape	wiki_rescrape
 You find a belt buckle.	你找到了一个皮带扣。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Misthalin Mystery	你开始了一个新任务：@q_mes@米斯塔林之谜	gameText	wiki_rescrape	wiki_rescrape
 You add some green leaves to your mulch as the second ingredient.	你将一些绿叶加入覆盖物中，作为第二种原料。	gameText	wiki_rescrape	wiki_rescrape
@@ -3691,26 +3691,26 @@ You have unlocked a new music track: @mes_hl_red@Splendour	你解锁了一首新
 You add three harvested items to your druid pouch.	你将三个采集到的物品放入你的德鲁伊的袋中。	gameText	wiki_rescrape	wiki_rescrape
 You were hit by the saw blade!	你被锯片击中了！	gameText	wiki_rescrape	wiki_rescrape
 You can't jump from here; you need to get closer to jump here.	你不能从这里跳；你需要靠近一些才能在这里跳。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Spooky	你解锁了一首新的音乐曲目：@mes_hl_red@Spooky	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Spooky	你解锁了一首新的音乐曲目：@mes_hl_red@诡异	gameText	wiki_rescrape	wiki_rescrape
 You finish making 10 darts.	你完成了10支飞镖的制作。	gameText	wiki_rescrape	wiki_rescrape
 Level 35 Cooking: Plain pizza	35级烹饪：原味披萨	gameText	wiki_rescrape	wiki_rescrape
 The brazier has gone out.	火盆已经熄灭了。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Shadowland	你解锁了一首新的音乐曲目：@mes_hl_red@Shadowland	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Shadowland	你解锁了一首新的音乐曲目：@mes_hl_red@阴影之地	gameText	wiki_rescrape	wiki_rescrape
 Your skills necklace has three charges left.	你的技能项链还剩三次充能。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Medieval	你解锁了一首新的音乐曲目：@mes_hl_red@Medieval	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Medieval	你解锁了一首新的音乐曲目：@mes_hl_red@中世纪	gameText	wiki_rescrape	wiki_rescrape
 Well done! You have completed a medium task in the Lumbridge & Draynor area. Your Achievement Diary has been updated.	干得好！你完成了仑桥镇与德雷诺村地区的一个中等任务。你的成就日志已更新。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Faithless	你解锁了一首新的音乐曲目：@mes_hl_red@Faithless	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Faithless	你解锁了一首新的音乐曲目：@mes_hl_red@无信仰者	gameText	wiki_rescrape	wiki_rescrape
 The blessed sickle prevents the swamp from decaying you.	祝福镰刀能防止沼泽侵蚀你。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Desert Heat	你解锁了一首新的音乐曲目：@mes_hl_red@Desert Heat	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Desert Heat	你解锁了一首新的音乐曲目：@mes_hl_red@沙漠热浪	gameText	wiki_rescrape	wiki_rescrape
 Your games necklace has four uses left.	你的游戏项链还剩四次使用次数。	gameText	wiki_rescrape	wiki_rescrape
 You finish adding the Oak logs to the fire.	你成功将橡木原木添入火中。	gameText	wiki_rescrape	wiki_rescrape
 You don't have room to hold that.	你没有空间拿那个。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Lightwalk	你解锁了一首新的音乐曲目：@mes_hl_red@Lightwalk	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Lightwalk	你解锁了一首新的音乐曲目：@mes_hl_red@光之行	gameText	wiki_rescrape	wiki_rescrape
 You climb the tree...	你爬上了树……	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Golden key	不可交易的掉落物：金色钥匙	gameText	wiki_rescrape	wiki_rescrape
 Rohak the dwarf looks a bit drunk.	矮人罗哈克看起来有点醉了。	gameText	wiki_rescrape	wiki_rescrape
 Your inventory is too full to hold any more oak logs.	你的物品栏太满了，无法再装下更多橡木原木。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Grotto	你解锁了一首新的音乐曲目：@mes_hl_red@Grotto	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Grotto	你解锁了一首新的音乐曲目：@mes_hl_red@洞穴	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Reggae 2	你解锁了一首新的音乐曲目：@mes_hl_red@Reggae 2	gameText	wiki_rescrape	wiki_rescrape
 You note the position of the crashed glider in your charts. From what you can tell, the glider crashed because strapping gnomes to paper aeroplanes is a flawed method of long distance travel.	你在海图上标记了坠毁的滑翔机的位置。据你所知，滑翔机坠毁是因为把地精绑在纸飞机上进行长途旅行本身就是个有缺陷的方法。	gameText	wiki_rescrape	wiki_rescrape
 You find some very old jewelry.	你找到了一些非常古老的珠宝。	gameText	wiki_rescrape	wiki_rescrape
@@ -3792,34 +3792,34 @@ The freeze cast upon you is beginning to thaw.	施加在你身上的冰冻开始
 You have unlocked a new music track: @mes_hl_red@Arabian 2	你解锁了一首新的音乐曲目：@mes_hl_red@Arabian 2	gameText	wiki_rescrape	wiki_rescrape
 You climb up the ladder which seems to twist and wind in all directions.	你爬上梯子，它似乎朝各个方向扭曲蜿蜒。	gameText	wiki_rescrape	wiki_rescrape
 You find a shiny coin.	你找到了一枚闪亮的硬币。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Impulses	你解锁了一首新的音乐曲目：@mes_hl_red@Impulses	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Impulses	你解锁了一首新的音乐曲目：@mes_hl_red@冲动	gameText	wiki_rescrape	wiki_rescrape
 The guard sees you!	守卫发现了你！	gameText	wiki_rescrape	wiki_rescrape
 Level 35 Fletching: Willow vale totems	35级制箭：柳木山谷图腾	gameText	wiki_rescrape	wiki_rescrape
 You found some loot: Uncut emerald	你找到了一些战利品：未切割的绿宝石	gameText	wiki_rescrape	wiki_rescrape
 Collect your potion from Dominic's barrels when you are ready to use it.	准备好使用时，从Dominic的木桶中取走你的药水。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Miracle Dance	你解锁了一首新的音乐曲目：@mes_hl_red@Miracle Dance	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Miracle Dance	你解锁了一首新的音乐曲目：@mes_hl_red@奇迹之舞	gameText	wiki_rescrape	wiki_rescrape
 You can't pickpocket during combat.	战斗中无法扒窃。	gameText	wiki_rescrape	wiki_rescrape
 You pull lever B up.	你把拉杆 B 拉了上去。	gameText	wiki_rescrape	wiki_rescrape
 You take a rock pick.	你拿起一把石镐。	gameText	wiki_rescrape	wiki_rescrape
 You found some loot: Kwuarm seed	你找到了一些战利品：库阿姆草种子	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@H.A.M. Fisted	你解锁了一首新的音乐曲目：@mes_hl_red@H.A.M. Fisted	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@H.A.M. Fisted	你解锁了一首新的音乐曲目：@mes_hl_red@反怪物人联 - 拳头	gameText	wiki_rescrape	wiki_rescrape
 You steal an iron axe.	你偷走了一把铁斧。	gameText	wiki_rescrape	wiki_rescrape
 You can't log out until 10 seconds after the end of combat.	战斗结束后10秒内你无法登出。	gameText	wiki_rescrape	wiki_rescrape
 You mine an uncut ruby from the crab shell.	你从蟹壳中开采出一颗未切割的红宝石。	gameText	wiki_rescrape	wiki_rescrape
 You pour the vinegar into the pot.	你把醋倒进罐里。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Gaol	你解锁了一首新的音乐曲目：@mes_hl_red@Gaol	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Gaol	你解锁了一首新的音乐曲目：@mes_hl_red@监狱	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Morytania	你解锁了一首新的音乐曲目：@mes_hl_red@莫利塔尼亚	gameText	wiki_rescrape	wiki_rescrape
 Level 10 Crafting: Spin sinew into crossbow strings	等级10 制作：将筋腱纺成弩弦	gameText	wiki_rescrape	wiki_rescrape
 You note the position and contents of this port task board in your charts.	你将这个港口任务板的位置和内容记录在了你的海图上。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Black Knights' Fortress	你开始了一个新任务：@q_mes@黑骑士要塞	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Saga	你解锁了一首新的音乐曲目：@mes_hl_red@Saga	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Saga	你解锁了一首新的音乐曲目：@mes_hl_red@传奇	gameText	wiki_rescrape	wiki_rescrape
 Level 11 Construction: Oak cargo hold	等级11 建筑：橡木货舱	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Background	你解锁了一首新的音乐曲目：@mes_hl_red@Background	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Background	你解锁了一首新的音乐曲目：@mes_hl_red@背景	gameText	wiki_rescrape	wiki_rescrape
 You clean the Grimy guam leaf.	你清洗了未清洗的瓜姆叶。	gameText	wiki_rescrape	wiki_rescrape
 You find some ancient arrowheads, almost rusted away.	你找到了一些古老的箭头，几乎已经锈蚀殆尽。	gameText	wiki_rescrape	wiki_rescrape
 Level 40 Fletching: Battlestaves	等级40 制箭：战斗法杖	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Bull bones	不可交易的掉落物：公牛骨头	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Talking Forest	你解锁了一首新的音乐曲目：@mes_hl_red@Talking Forest	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Talking Forest	你解锁了一首新的音乐曲目：@mes_hl_red@会说话的森林	gameText	wiki_rescrape	wiki_rescrape
 Have your say on the Graveyard Rewards Blog and a rework to Graceful! Click here to vote.|p	在墓地奖励博客和优雅套装重做中发表你的看法！点击此处投票。|p	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Recruitment Drive	你开始了一个新任务：@q_mes@招募行动	gameText	wiki_rescrape	wiki_rescrape
 You drink some of your antipoison potion.	你喝了一些解毒药水。	gameText	wiki_rescrape	wiki_rescrape
@@ -3857,18 +3857,18 @@ You mix the root into the mixture.	你把根混入混合物中。	gameText	wiki_
 You manage to mine some ore.	你成功挖到了一些矿石。	gameText	wiki_rescrape	wiki_rescrape
 You clean the Grimy avantoe.	你清洗了未清洗的阿凡托草。	gameText	wiki_rescrape	wiki_rescrape
 Level 41 Woodcutting: Gilded axe	等级 41 伐木：镀金斧	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Shining	你解锁了一首新音乐曲目：@mes_hl_red@Shining	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Shining	你解锁了一首新音乐曲目：@mes_hl_red@发光	gameText	wiki_rescrape	wiki_rescrape
 Your Draynor Village Rooftop lap count is: 1.	你的德雷诺村屋顶跑圈次数为：1。	gameText	wiki_rescrape	wiki_rescrape
 You dig through the earth...	你挖开泥土……	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Jolly R	你解锁了一首新音乐曲目：@mes_hl_red@Jolly R	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Jolly R	你解锁了一首新音乐曲目：@mes_hl_red@欢乐 R	gameText	wiki_rescrape	wiki_rescrape
 You add the bone to the pot of vinegar.	你把骨头放进一罐醋里。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Rag and Bone Man I	你开始了一个新任务：@q_mes@拾荒者 I	gameText	wiki_rescrape	wiki_rescrape
 You'll need some rope to fix it.	你需要一些绳子来修理它。	gameText	wiki_rescrape	wiki_rescrape
 Combat path is now the path in focus.	战斗路径现在是聚焦的路径。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Magic Magic Magic	你解锁了一首新音乐曲目：@mes_hl_red@Magic Magic Magic	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dragontooth Island	你解锁了一首新音乐曲目：@mes_hl_red@Dragontooth Island	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dragontooth Island	你解锁了一首新音乐曲目：@mes_hl_red@龙牙岛	gameText	wiki_rescrape	wiki_rescrape
 Discover QOL changes to Runite Golem ore, Infernal tools and more with our latest Gathering Efficiencies update - click here for the newspost.|4	通过我们最新的采集效率更新，了解符文魔像矿石、地狱工具等 QOL 改动——点击此处查看新闻帖。|4	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Expanse	你解锁了一首新音乐曲目：@mes_hl_red@Expanse	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Expanse	你解锁了一首新音乐曲目：@mes_hl_red@广阔	gameText	wiki_rescrape	wiki_rescrape
 You steal a rusty sword.	你偷走了一把生锈的剑。	gameText	wiki_rescrape	wiki_rescrape
 You turn the statuette to the right.	你把小雕像转向右边。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@The Giant Dwarf	你开始了一个新任务：@q_mes@巨大的矮人	gameText	wiki_rescrape	wiki_rescrape
@@ -3934,7 +3934,7 @@ You have unlocked a new music track: @mes_hl_red@The Desert	你解锁了一首�
 You choose the slow route through Mort Myre Swamp.	你选择了穿过莫特迈尔沼泽的慢速路线。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Icthlarin's Little Helper	你开始了一个新任务：@q_mes@伊克哈林的小帮手	gameText	wiki_rescrape	wiki_rescrape
 Well done! You have completed a hard task in the Western Provinces area. Your Achievement Diary has been updated.	干得好！你完成了西部省份地区的一个困难任务。你的成就日志已更新。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Scape Wild	你解锁了一首新的音乐曲目：@mes_hl_red@Scape Wild	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Scape Wild	你解锁了一首新的音乐曲目：@mes_hl_red@OSRS - 荒野	gameText	wiki_rescrape	wiki_rescrape
 Prospector boots: currently costs 30 golden nuggets.	探矿者靴：目前售价 30 个金块。	gameText	wiki_rescrape	wiki_rescrape
 Coal bag: currently costs 100 golden nuggets.	煤袋：目前售价 100 个金块。	gameText	wiki_rescrape	wiki_rescrape
 Charting complete: @sail_txt@Look at the port task board in Port Sarim.	海图绘制完成：@sail_txt@查看沙林港的港口任务板。	gameText	wiki_rescrape	wiki_rescrape
@@ -3968,7 +3968,7 @@ You have unlocked a new music track: @mes_hl_red@The Navigator	你解锁了一�
 You find some coins.	你找到了一些金币。	gameText	wiki_rescrape	wiki_rescrape
 You attempt to replace the broken railing...	你尝试替换破损的栏杆……	gameText	wiki_rescrape	wiki_rescrape
 You note the position of the wreck in your charts. It seems someone tried to use the rudder on this boat as an oar.	你在海图上记下了残骸的位置。看来有人试图用这艘船的舵当桨。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Scape Sad	你解锁了一首新的音乐曲目：@mes_hl_red@Scape Sad	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Scape Sad	你解锁了一首新的音乐曲目：@mes_hl_red@OSRS - 悲伤	gameText	wiki_rescrape	wiki_rescrape
 You leave Zanik behind.	你把扎尼克留在了身后。	gameText	wiki_rescrape	wiki_rescrape
 Level 35 Thieving: Fur stall	等级 35 偷窃：毛皮摊位	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@You hammer the stake into the vampyre's chest!	@mes_hl_red@你把木桩锤进吸血鬼的胸膛！	gameText	wiki_rescrape	wiki_rescrape
@@ -3990,7 +3990,7 @@ Have your say on Pete Kayer's Zarosian Cape cosmetic kit! Click here to vote.|p	
 You have unlocked a new music track: @mes_hl_red@Breeze	你解锁了一首新的音乐曲目：@mes_hl_red@微风	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@X Marks the Spot	你开始了一个新任务：@q_mes@X 标记地点	gameText	wiki_rescrape	wiki_rescrape
 Level 45 Crafting: Snakeskin boots	等级 45 制作：蛇皮靴	gameText	wiki_rescrape	wiki_rescrape
-Level 20 Ranged: Studded leather body	等级 20 远程：铆钉皮革身体	gameText	wiki_rescrape	wiki_rescrape
+Level 20 Ranged: Studded leather body	等级 20 远程：铆钉皮甲	gameText	wiki_rescrape	wiki_rescrape
 You board the ship and sail to Port Piscarilius.	你登上船，航行前往皮斯卡里琉斯港。	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@You have items stored in an item retrieval service. Please visit the last location you died. If you die again before retrieving them, they will be lost.	@mes_hl_red@你有物品存放在物品取回服务处。请前往你上次死亡的地点。如果你在取回前再次死亡，它们将会丢失。	gameText	wiki_rescrape	wiki_rescrape
 You carefully cut the wood into 4 arrow shafts.	你小心地将木材切成4根箭杆。	gameText	wiki_rescrape	wiki_rescrape
@@ -4036,15 +4036,15 @@ Level 5 Ranged: Oak bows	5级远程：橡木弓	gameText	wiki_rescrape	wiki_resc
 The brazier is broken and shrapnel damages you.	火盆碎裂，弹片伤到了你。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Sarim's Vermin	你解锁了一首新的音乐曲目：@mes_hl_red@萨里姆的害虫	gameText	wiki_rescrape	wiki_rescrape
 You have activated a trap on the chest.	你触发了箱子上的陷阱。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Sunburn	你解锁了一首新的音乐曲目：@mes_hl_red@Sunburn	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Sunburn	你解锁了一首新的音乐曲目：@mes_hl_red@晒伤	gameText	wiki_rescrape	wiki_rescrape
 You use the key and the door opens.	你使用钥匙，门打开了。	gameText	wiki_rescrape	wiki_rescrape
 Your Al Kharid Rooftop lap count is: 1.	你的阿尔卡里德城屋顶跑圈次数为：1。	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Fletching: Willow shield	42级制箭：柳木盾	gameText	wiki_rescrape	wiki_rescrape
 You make a duplicate of the key in bronze.	你用青铜复制了一把钥匙。	gameText	wiki_rescrape	wiki_rescrape
 Level 52 Fletching: Broad arrows	52级制箭：宽箭	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Settlement	你解锁了一首新的音乐曲目：@mes_hl_red@Settlement	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Settlement	你解锁了一首新的音乐曲目：@mes_hl_red@定居点	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide for more information about Construction.	查看技能指南以了解更多关于建筑的信息。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@La Mort	你解锁了一首新的音乐曲目：@mes_hl_red@La Mort	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@La Mort	你解锁了一首新的音乐曲目：@mes_hl_red@死亡	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Mourning's End Part II	你开始了一个新任务：@q_mes@哀悼的终结 II	gameText	wiki_rescrape	wiki_rescrape
 You pick a mushroom from the log.	你从木头上采下一个蘑菇。	gameText	wiki_rescrape	wiki_rescrape
 You recharge your prayer points at the altar of nature.	你在自然祭坛恢复了祈祷点数。	gameText	wiki_rescrape	wiki_rescrape
@@ -4153,7 +4153,7 @@ You finish homogenising the @mes_hl_pur@Azure aura mix.	你完成了@mes_hl_pur@
 You don't have enough Agility Arena Tickets.	你的敏捷竞技场票不够。	gameText	wiki_rescrape	wiki_rescrape
 You drink the bottle of ogre prayer potion.	你喝下了食人魔祈祷药水。	gameText	wiki_rescrape	wiki_rescrape
 You don't have any more raw t-bone steak to cook.	你没有更多生T骨牛排可以烹饪了。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Desolate Isle	你解锁了一首新乐曲：@mes_hl_red@The Desolate Isle	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Desolate Isle	你解锁了一首新乐曲：@mes_hl_red@荒凉之岛	gameText	wiki_rescrape	wiki_rescrape
 Level 14 Herblore: Strength mix	等级14草药学：力量药剂	gameText	wiki_rescrape	wiki_rescrape
 You mix the limpwurt root into your potion.	你把软木草根混入药水中。	gameText	wiki_rescrape	wiki_rescrape
 Level 27 Fletching: Oak shield	等级27制箭：橡木盾	gameText	wiki_rescrape	wiki_rescrape
@@ -4173,7 +4173,7 @@ You found some loot: Medium pouch	你找到了一些战利品：中型精华袋	
 You throw the vine up and wrap it around the branch.	你把藤蔓抛上去，缠住了树枝。	gameText	wiki_rescrape	wiki_rescrape
 Emptied 3 x Snape grass seed to your inventory.	已将3 x 斯内普草种子放入你的物品栏。	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Heavy box	不可交易的掉落物：重箱子	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Look to the Stars	你解锁了一首新乐曲：@mes_hl_red@Look to the Stars	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Look to the Stars	你解锁了一首新乐曲：@mes_hl_red@仰望星空	gameText	wiki_rescrape	wiki_rescrape
 Level 17 Fletching: Iron javelins	等级17制箭：铁制标枪	gameText	wiki_rescrape	wiki_rescrape
 Did you know? On mobile you can use bank tags to help categorise and display your bank contents.	你知道吗？在移动端你可以使用银行标签来帮助分类和展示你的银行内容。	gameText	wiki_rescrape	wiki_rescrape
 Cargo hold materials: @mes_hl_red@Plank x 8, @mes_hl_red@Bronze nails x 32.	货舱材料：@mes_hl_red@木板 x 8，@mes_hl_red@青铜钉 x 32。	gameText	wiki_rescrape	wiki_rescrape
@@ -4212,7 +4212,7 @@ Level 60 Firemaking: Yew logs	60级生火：紫杉原木	gameText	wiki_rescrape	
 It's not here for you.	它不是为你准备的。	gameText	wiki_rescrape	wiki_rescrape
 You retrieve a block of quicklime.	你取出一块生石灰。	gameText	wiki_rescrape	wiki_rescrape
 Level 5 Hunter: Golden warblers	5级狩猎：金黄莺	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dimension X	你解锁了一首新的音乐曲目：@mes_hl_red@Dimension X	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dimension X	你解锁了一首新的音乐曲目：@mes_hl_red@X 维度	gameText	wiki_rescrape	wiki_rescrape
 You prod at the shoal of fish to scare it.	你戳了戳鱼群把它吓跑。	gameText	wiki_rescrape	wiki_rescrape
 You fail to cut through it.	你没能切开它。	gameText	wiki_rescrape	wiki_rescrape
 You light the nodes in the corridor to help guide the way.	你点亮了走廊里的节点以帮助指引道路。	gameText	wiki_rescrape	wiki_rescrape
@@ -4227,10 +4227,10 @@ You cook the thin snail.	你烹饪了生瘦蜗牛肉。	gameText	wiki_rescrape	w
 You search the cart but find nothing.	你搜索了推车，但什么也没找到。	gameText	wiki_rescrape	wiki_rescrape
 The water in your bowl evaporates in the desert heat.	你碗里的水在沙漠的酷热中蒸发了。	gameText	wiki_rescrape	wiki_rescrape
 You have accepted the @sail_txt@Brimhaven rum delivery port task.	你已接受@sail_txt@布尔哈文镇朗姆酒运送港口任务。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Preserved	你解锁了一首新的音乐曲目：@mes_hl_red@Preserved	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Preserved	你解锁了一首新的音乐曲目：@mes_hl_red@保存完好	gameText	wiki_rescrape	wiki_rescrape
 You eat the toad crunchies.	你吃掉了蟾蜍脆饼。	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Agility: Draynor narrow tunnel	42级敏捷：德雷诺窄隧道	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Boss Moosic	你解锁了一首新乐曲：@mes_hl_red@Boss Moosic	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Boss Moosic	你解锁了一首新乐曲：@mes_hl_red@Boss音乐	gameText	wiki_rescrape	wiki_rescrape
 This option can only be toggled when the "Show lower tiers of tiered prayers" is off.	仅当“显示分级祈祷的低阶版本”关闭时，才能切换此选项。	gameText	wiki_rescrape	wiki_rescrape
 The law energy does not respond to your touch.	律法能量对你的触碰毫无反应。	gameText	wiki_rescrape	wiki_rescrape
 None of your items could be deposited.	你的物品都无法存入。	gameText	wiki_rescrape	wiki_rescrape
@@ -4241,17 +4241,17 @@ Level 25 Cooking: Fruit batta	25级烹饪：水果芭塔	gameText	wiki_rescrape	
 You place the glowing fungus in the mine cart.	你把荧光菇放入矿车。	gameText	wiki_rescrape	wiki_rescrape
 You retrieve a polished Zombie Bone from the pot.	你从罐中取出一根打磨过的僵尸骨头。	gameText	wiki_rescrape	wiki_rescrape
 You start pruning the bush...	你开始修剪灌木……	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Spymaster	你解锁了一首新乐曲：@mes_hl_red@The Spymaster	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Spymaster	你解锁了一首新乐曲：@mes_hl_red@间谍大师	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@Darkness emanates from Vanstrom!	@mes_hl_red@黑暗从范斯特罗姆身上散发出来！	gameText	wiki_rescrape	wiki_rescrape
 You lose some @tempoross_warn@fish and a @tempoross_warn@Bucket to the fire.	你损失了一些@tempoross_warn@鱼和一个@tempoross_warn@桶，被火焰吞噬。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Out of the Deep	你解锁了一首新乐曲：@mes_hl_red@Out of the Deep	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Out of the Deep	你解锁了一首新乐曲：@mes_hl_red@出自深渊	gameText	wiki_rescrape	wiki_rescrape
 You note the position of the wreck in your charts. It looks like someone dropped the anchor through the hull of this boat.	你在海图上记下了残骸的位置。看起来有人把锚从这艘船的船体上扔了下去。	gameText	wiki_rescrape	wiki_rescrape
 Your inventory is too full to hold any more grubs.	你的背包太满了，无法再装下更多幼虫。	gameText	wiki_rescrape	wiki_rescrape
 Your reward awaits you in the nearby chest.	你的奖励在附近的宝箱中等着你。	gameText	wiki_rescrape	wiki_rescrape
 As soon as you touch the coins you hear the grinding sound of bones against stone as you see skeletons and zombies rising up out of the ground. The coins turn to dust in your hands.	你一碰到金币，就听到骨头摩擦石头的刺耳声，只见骷髅和僵尸从地下升起。金币在你手中化为灰尘。	gameText	wiki_rescrape	wiki_rescrape
 Level 67 Magic: Teleport to Boat	67级魔法：传送至船	gameText	wiki_rescrape	wiki_rescrape
 You build the spinning wheel.	你建造了纺车。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Conspiracy	你解锁了一首新乐曲：@mes_hl_red@Conspiracy	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Conspiracy	你解锁了一首新乐曲：@mes_hl_red@阴谋	gameText	wiki_rescrape	wiki_rescrape
 You could climb down here, but it is too uneven to climb up.	你可以从这里爬下去，但这里太不平整，无法爬上来。	gameText	wiki_rescrape	wiki_rescrape
 Level 73 Magic: Tele Group Waterbirth	73级魔法：群体传送至水诞岛	gameText	wiki_rescrape	wiki_rescrape
 You haven't got any signatures yet.	你还没有收集到任何签名。	gameText	wiki_rescrape	wiki_rescrape
@@ -4261,13 +4261,13 @@ Ranalph Devere: Forever will I languish in torment...	拉纳尔夫.德维尔：�
 Level 4 Smithing: Bronze dart tips	4级锻造：青铜镖尖	gameText	wiki_rescrape	wiki_rescrape
 Blood Barrage: 4 x Death rune, 4 x Blood rune, 1 x Soul rune	血之弹幕：4 x 死亡符石，4 x 血符石，1 x 灵魂符石	gameText	wiki_rescrape	wiki_rescrape
 Level 5 Strength: Black halberd (members-only)	5级力量：黑铁戟 (仅限会员)	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Expedition	你解锁了一首新乐曲：@mes_hl_red@Expedition	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Expedition	你解锁了一首新乐曲：@mes_hl_red@远征	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Grim reaper bottoms - collect it from Diango.	你解锁了一件节日物品：死神下装 - 从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
 You carefully use your axe to tap the log into place.	你小心地用斧头把原木敲入到位。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Zealot	你解锁了一首新乐曲：@mes_hl_red@Zealot	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Zealot	你解锁了一首新乐曲：@mes_hl_red@狂热者	gameText	wiki_rescrape	wiki_rescrape
 You collect your current duck from the tools compartment.	你从工具隔间中取出你的海流鸭。	gameText	wiki_rescrape	wiki_rescrape
 Level 30 Crafting: Emerald bracelet	30级制作：绿宝石手镯	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Woe of the Wyvern	你解锁了一首新乐曲：@mes_hl_red@Woe of the Wyvern	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Woe of the Wyvern	你解锁了一首新乐曲：@mes_hl_red@飞龙之祸	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Dragon defender	不可交易的掉落物：龙金格挡匕首	gameText	wiki_rescrape	wiki_rescrape
 Level 13 Construction: Rug	13级建筑：地毯	gameText	wiki_rescrape	wiki_rescrape
 You eat a baked potato with butter and cheese.	你吃了一个黄油乳酪烤土豆。	gameText	wiki_rescrape	wiki_rescrape
@@ -4277,8 +4277,8 @@ Level 85 Construction: Gilded mahogany clock	85级建筑：镀金桃花心木钟
 Level 50 Hitpoints: Nightmare Staff (with orb) (members-only)	50级生命值：梦魇法杖 (带宝珠) (仅限会员)	gameText	wiki_rescrape	wiki_rescrape
 You put 2 x Belladonna seed straight into your open seed box.	你把2 x 颠茄种子直接放入你打开的种子盒。	gameText	wiki_rescrape	wiki_rescrape
 Level 31 Cooking: Larupia (members-only)	31级烹饪：拉鲁皮亚 (仅限会员)	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Beyond the Meadow	你解锁了一首新乐曲：@mes_hl_red@Beyond the Meadow	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Blistering Barnacles	你解锁了一首新乐曲：@mes_hl_red@Blistering Barnacles	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Beyond the Meadow	你解锁了一首新乐曲：@mes_hl_red@草地之外	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Blistering Barnacles	你解锁了一首新乐曲：@mes_hl_red@灼热藤壶	gameText	wiki_rescrape	wiki_rescrape
 You have no more salvage to sort.	你没有更多可分类的回收物了。	gameText	wiki_rescrape	wiki_rescrape
 You take the preform from the handy storage area. It will start to get cold now.	你从便利储物区取出未完成的部件。它现在会开始变冷。	gameText	wiki_rescrape	wiki_rescrape
 Level 31 Agility: Draynor Manor stones to Champions' Guild	31级敏捷：德雷诺庄园石头至冠军公会	gameText	wiki_rescrape	wiki_rescrape
@@ -4379,10 +4379,10 @@ You retrieve a polished Rat Bone from the pot.	你从罐子里取出一根打磨
 You have unlocked a new music track: @mes_hl_red@Not a Moment of Relief	你解锁了一首新音乐曲目：@mes_hl_red@片刻不得喘息	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Bait	你解锁了一首新音乐曲目：@mes_hl_red@诱饵	gameText	wiki_rescrape	wiki_rescrape
 You cut the pineapple into rings.	你把菠萝切成了圆环。	gameText	wiki_rescrape	wiki_rescrape
-You've started a new quest: @q_mes@Roving Elves	你已开始一个新任务：@q_mes@Roving Elves	gameText	wiki_rescrape	wiki_rescrape
+You've started a new quest: @q_mes@Roving Elves	你已开始一个新任务：@q_mes@游荡的精灵	gameText	wiki_rescrape	wiki_rescrape
 You crush the garlic into a fine powder.	你把大蒜捣成了细粉。	gameText	wiki_rescrape	wiki_rescrape
 Your cannon is out of ammo!	你的大炮没有弹药了！	gameText	wiki_rescrape	wiki_rescrape
-You need to be at least level 65 Fishing to catch Karambwan.	你需要至少65级钓鱼才能捕捉Karambwan。	gameText	wiki_rescrape	wiki_rescrape
+You need to be at least level 65 Fishing to catch Karambwan.	你需要至少65级钓鱼才能捕捉卡拉姆班鱼。	gameText	wiki_rescrape	wiki_rescrape
 You add the beam to the scaffold as a crossbeam.	你把梁作为横梁加到脚手架上。	gameText	wiki_rescrape	wiki_rescrape
 It takes you a while to get back out again.	你花了好一会儿才重新出来。	gameText	wiki_rescrape	wiki_rescrape
 You drink some of your antivenom potion.	你喝了一些抗毒药水。	gameText	wiki_rescrape	wiki_rescrape
@@ -4538,7 +4538,7 @@ You made an uncooked Cake of Guidance mix!	你制作了一份未烹饪的指引�
 You fail to find any sign of unusual creatures.	你未能发现任何异常生物的踪迹。	gameText	wiki_rescrape	wiki_rescrape
 Level 20 Construction: Shoe box	20级建筑：鞋盒	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@My Arm's Big Adventure	你开始了一个新任务：@q_mes@"我的手臂"大冒险	gameText	wiki_rescrape	wiki_rescrape
-You need a Sailing level of 50 to buy this boat.	你需要50级帆船才能购买这艘船。	gameText	wiki_rescrape	wiki_rescrape
+You need a Sailing level of 50 to buy this boat.	你需要50级航海才能购买这艘船。	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_blu@Bees are very active on this bush and there are pollen-rich flowers. You carefully collect some Strange pollen.	@mes_hl_blu@蜜蜂在这片灌木上非常活跃，还有富含花粉的花朵。你小心地采集了一些奇怪的花粉。	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@The bloodveld explodes, coating your armour in corrosive acid!	@mes_hl_red@血魔爆炸了，腐蚀性酸液溅满了你的盔甲！	gameText	wiki_rescrape	wiki_rescrape
 Your hunting knowledge allows you to find an extra grub.	你的狩猎知识让你多找到了一只幼虫。	gameText	wiki_rescrape	wiki_rescrape
@@ -4785,10 +4785,10 @@ It seems to love it! You estimate the nutritional value of the mulch to be @mes_
 Level 28 Cooking: Slimy eel (members-only)	等级28烹饪：黏滑鳗鱼（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 Level 15 Woodcutting: Oak trees	15级伐木：橡树	gameText	wiki_rescrape	wiki_rescrape
 Level 16 Crafting: Red topaz ring	16级制作：红色托帕石戒指	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@All's Fairy in Love & War	你解锁了一首新音乐曲目：@mes_hl_red@All's Fairy in Love & War	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@All's Fairy in Love & War	你解锁了一首新音乐曲目：@mes_hl_red@爱情与战争中的一切童话	gameText	wiki_rescrape	wiki_rescrape
 You need an Agility level of 33 to negotiate this obstacle.	你需要33级敏捷才能通过这个障碍。	gameText	wiki_rescrape	wiki_rescrape
 You leave the icy cavern.	你离开了冰冷洞穴。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Zanik's Theme	你解锁了一首新音乐曲目：@mes_hl_red@Zanik's Theme	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Zanik's Theme	你解锁了一首新音乐曲目：@mes_hl_red@扎尼克主题曲	gameText	wiki_rescrape	wiki_rescrape
 It doesn't need watering now.	它现在不需要浇水。	gameText	wiki_rescrape	wiki_rescrape
 Level 31 Crafting: Emerald amulet	31级制作：绿宝石护符	gameText	wiki_rescrape	wiki_rescrape
 Your kitten got lonely and ran off.	你的小猫感到孤单，跑掉了。	gameText	wiki_rescrape	wiki_rescrape
@@ -4823,7 +4823,7 @@ This is an allotment. The soil has not been treated. The patch has cabbages grow
 Level 28 Thieving: Chest at the Isle of Souls	28级偷窃：灵魂岛的宝箱	gameText	wiki_rescrape	wiki_rescrape
 You plant a marigold seed in the flower patch.	你在花卉种植地里种下一颗金盏花种子。	gameText	wiki_rescrape	wiki_rescrape
 Level 68 Woodcutting: Nature Offerings	68级伐木：自然祭品	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@School's Out	你解锁了一首新音乐曲目：@mes_hl_red@School's Out	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@School's Out	你解锁了一首新音乐曲目：@mes_hl_red@放学了	gameText	wiki_rescrape	wiki_rescrape
 You carefully pick a spine from the cactus.	你小心地从仙人掌上摘下一根刺。	gameText	wiki_rescrape	wiki_rescrape
 You've already paid the Revenant Entry Fee.	你已经支付了亡魂入场费。	gameText	wiki_rescrape	wiki_rescrape
 Level 5 Sailing: Hosidius	5级航海：霍西迪乌斯城	gameText	wiki_rescrape	wiki_rescrape
@@ -4844,7 +4844,7 @@ Level 5 Smithing: Bronze hastae	等级 5 锻造：青铜长矛	gameText	wiki_res
 Level 30 Fletching: Steel arrows	等级 30 制箭：钢箭	gameText	wiki_rescrape	wiki_rescrape
 Level 61 Woodcutting: Dragon axe	等级 61 伐木：龙金斧	gameText	wiki_rescrape	wiki_rescrape
 You have accepted the @sail_txt@Port Sarim amulet delivery port task.	你已接受@sail_txt@沙林港护身符运送港口任务。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Mastermindless	你解锁了一首新音乐曲目：@mes_hl_red@Mastermindless	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Mastermindless	你解锁了一首新音乐曲目：@mes_hl_red@毫无主见	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_blu@You collect the rum shipment. Now you need to deliver it to Rum-dashed Ralph!	@mes_hl_blu@你收取了朗姆酒货物。现在你需要把它交给酒狂.拉尔夫！	gameText	wiki_rescrape	wiki_rescrape
 You drink the Dwarven Stout. It tastes foul.	你喝下矮人黑啤酒。味道很糟糕。	gameText	wiki_rescrape	wiki_rescrape
 You cut a branch from the willow tree.	你从柳树上砍下一根树枝。	gameText	wiki_rescrape	wiki_rescrape
@@ -4872,14 +4872,14 @@ The diamond glows and starts spinning as it hovers above the rock.	钻石发出�
 Level 72 Magic: Lassar Teleport	等级 72 魔法：拉萨尔传送术	gameText	wiki_rescrape	wiki_rescrape
 Level 20 Fletching: Oak shortbows	等级 20 制箭：橡木短弓	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_ora@The Eclipse Moon attacks you from a direction you weren't prepared for!	@mes_hl_ora@月蚀从你未防备的方向攻击你！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@A Farmer's Grind	你解锁了一首新音乐曲目：@mes_hl_red@A Farmer's Grind	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@A Farmer's Grind	你解锁了一首新音乐曲目：@mes_hl_red@农耕劳作	gameText	wiki_rescrape	wiki_rescrape
 You open the secret door.	你打开了秘密门。	gameText	wiki_rescrape	wiki_rescrape
 You put the Grimy irit leaf herb into your herb sack.	你把未清洗的伊瑞特叶草药放进草药袋。	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Hitpoints: Void Knight equipment	等级 42 生命值：虚空骑士装备	gameText	wiki_rescrape	wiki_rescrape
 This jaguar doesn't possess any of your blood!	这只美洲豹没有你的血！	gameText	wiki_rescrape	wiki_rescrape
 To cure this patch you need to prune the disease away with a pair of secateurs.	要治愈这块种植地，你需要用修枝剪把病害剪除。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Slice of Station	你解锁了一首新音乐曲目：@mes_hl_red@Slice of Station	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Regal Pomp	你解锁了一首新音乐曲目：@mes_hl_red@Regal Pomp	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Slice of Station	你解锁了一首新音乐曲目：@mes_hl_red@车站片段	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Regal Pomp	你解锁了一首新音乐曲目：@mes_hl_red@皇家盛况	gameText	wiki_rescrape	wiki_rescrape
 You eat half the Botanical pie.	你吃掉了半个植物派。	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Crafting: Gold Tiara	42级制作：金头冠	gameText	wiki_rescrape	wiki_rescrape
 Level 65 Firemaking: Yew pyre logs	65级生火：火葬用紫杉原木	gameText	wiki_rescrape	wiki_rescrape
@@ -4897,7 +4897,7 @@ You've unlocked a holiday item: Spooky robe - collect it from Diango.	你解锁�
 The nature energy reacts strangely to your touch.	自然能量对你的触碰产生了奇怪的反应。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@On the Frontline	你解锁了一首新音乐曲目：@mes_hl_red@前线之上	gameText	wiki_rescrape	wiki_rescrape
 Level 56 Fletching: Sapphire-tipped mithril bolts	56级制箭：蓝宝石尖秘银弩箭	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Nox Irae	你解锁了一首新音乐曲目：@mes_hl_red@Nox Irae	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Nox Irae	你解锁了一首新音乐曲目：@mes_hl_red@愤怒之夜	gameText	wiki_rescrape	wiki_rescrape
 Level 54 Magic: Paddewwa Teleport	54级魔法：帕德瓦传送术	gameText	wiki_rescrape	wiki_rescrape
 You reel in some salvage.	你钓上来一些打捞物。	gameText	wiki_rescrape	wiki_rescrape
 Level 50 Prayer: Antler Guard	50级祈祷：鹿角护手	gameText	wiki_rescrape	wiki_rescrape
@@ -4919,26 +4919,26 @@ You note the position of the corpse in your charts. You struggle to comprehend h
 You need some Runes, or a way of dealing damage which you can smuggle onto Entrana. Runes for Crumble Undead (level 39 Magic) are best.	你需要一些符文，或者一种能偷带上恩特纳岛的造成伤害的方法。亡灵粉碎（39级魔法）所需的符文最佳。	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_gre@You feel the effects of the acid wear off.	@mes_hl_gre@你感觉酸液的效果消退了。	gameText	wiki_rescrape	wiki_rescrape
 You add the page to the book.	你将书页加入书中。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Stones of Old	你解锁了一首新的音乐曲目：@mes_hl_red@Stones of Old	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Stones of Old	你解锁了一首新的音乐曲目：@mes_hl_red@古老之石	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Damaged armour	不可交易的掉落物：破损的盔甲	gameText	wiki_rescrape	wiki_rescrape
 Emptied 1 x Kwuarm seed to your inventory.	已将1 x 库阿姆草种子放入你的物品栏。	gameText	wiki_rescrape	wiki_rescrape
 Level 41 Cooking: Jubbly	41级烹饪：Jubbly	gameText	wiki_rescrape	wiki_rescrape
 Level 30 Woodcutting: Willow trees	30级伐木：柳树	gameText	wiki_rescrape	wiki_rescrape
 You rub the buttons on your clothes and they become more shiny.	你摩擦衣服上的纽扣，它们变得更加闪亮。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Lost to Time	你解锁了一首新的音乐曲目：@mes_hl_red@Lost to Time	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Lost to Time	你解锁了一首新的音乐曲目：@mes_hl_red@湮没于时光之中	gameText	wiki_rescrape	wiki_rescrape
 Level 20 Construction: Bedroom	20级建筑：卧室	gameText	wiki_rescrape	wiki_rescrape
 You attempt to pick the priest's pocket.	你试图扒窃祭司的口袋。	gameText	wiki_rescrape	wiki_rescrape
 Level 22 Prayer: Rapid Heal	22级祈祷：快速治愈	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Whispering Wind	你解锁了一首新的音乐曲目：@mes_hl_red@Whispering Wind	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Whispering Wind	你解锁了一首新的音乐曲目：@mes_hl_red@低语之风	gameText	wiki_rescrape	wiki_rescrape
 You have a sneaking suspicion that you would have received an elite scroll box.	你隐隐怀疑自己本应获得一个精英卷轴盒。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Genie	你解锁了一首新的音乐曲目：@mes_hl_red@The Genie	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Genie	你解锁了一首新的音乐曲目：@mes_hl_red@精灵	gameText	wiki_rescrape	wiki_rescrape
 You must fight your way against a sandstorm!	你必须奋力对抗一场沙尘暴！	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_red@Your Blood moon tassets has degraded slightly.	@mes_hl_red@你的血月裙甲略有磨损。	gameText	wiki_rescrape	wiki_rescrape
 You build the well.	你建造了水井。	gameText	wiki_rescrape	wiki_rescrape
 Deep beneath Gielinor, an ancient archive stirs... Good luck.	在Gielinor深处，一座古老的档案馆正在苏醒……祝你好运。	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Spookier skirt - collect it from Diango.	你解锁了一件节日物品：诡异裙子 - 从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
 You forge a beautiful and very heavy golden helmet out of solid gold.	你用纯金锻造出一顶美丽而非常沉重的金色头盔。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Masquerade	你解锁了一首新的音乐曲目：@mes_hl_red@Masquerade	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Masquerade	你解锁了一首新的音乐曲目：@mes_hl_red@假面舞会	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide for more information about Sailing.	查看技能指南以了解更多关于航海的信息。	gameText	wiki_rescrape	wiki_rescrape
 Level 66 Firemaking: Fire of Nourishment	66级生火：滋养之火	gameText	wiki_rescrape	wiki_rescrape
 Level 75 Magic: Barbarian Teleport	75级魔法：野蛮人聚落传送术	gameText	wiki_rescrape	wiki_rescrape
@@ -4975,7 +4975,7 @@ You have unlocked Bigger and Badder.	你已解锁“更大更凶”。	gameText	
 You need 3 x Steel bar.	你需要 3 x 钢锭。	gameText	wiki_rescrape	wiki_rescrape
 Level 30 Crafting: Repair Piscarilius fishing cranes	等级 30 制作：修理皮斯卡里琉斯城钓鱼起重机	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Saucepan - collect it from Diango.	你已解锁一件节日物品：平底锅——可从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Spiritbloom	你已解锁一首新音乐曲目：@mes_hl_red@Spiritbloom	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Spiritbloom	你已解锁一首新音乐曲目：@mes_hl_red@灵花绽放	gameText	wiki_rescrape	wiki_rescrape
 Level 10 Prayer: Rock Skin	等级 10 祈祷：岩石皮肤	gameText	wiki_rescrape	wiki_rescrape
 Level 29 Cooking: Mud pie (members-only)	等级 29 烹饪：泥派（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 You have cancelled the @sail_txt@Pandemonium platebody delivery port task.	你已取消 @sail_txt@潘德莫尼姆板甲运送港口任务。	gameText	wiki_rescrape	wiki_rescrape
@@ -4983,13 +4983,13 @@ Check the skill guide to see what else your new Sailing level unlocks!	查看技
 Level 37 Magic: Falador Teleport	等级 37 魔法：法拉多城传送术	gameText	wiki_rescrape	wiki_rescrape
 Your reward is: 1 x Mime top.	你的奖励是：1 x 哑剧上衣。	gameText	wiki_rescrape	wiki_rescrape
 You must complete the medium, hard or elite tier of the Varrock achievement diary to use this feature.	你必须完成维洛克城成就日记的中等、困难或精英等级才能使用此功能。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Fairy Dragon	你已解锁一首新音乐曲目：@mes_hl_red@The Fairy Dragon	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Fairy Dragon	你已解锁一首新音乐曲目：@mes_hl_red@仙龙	gameText	wiki_rescrape	wiki_rescrape
 You smear the poisonous Karambwan paste over the spear.	你把有毒的卡拉姆班鱼糊涂抹在长矛上。	gameText	wiki_rescrape	wiki_rescrape
 You need 1 x Mith grapple.	你需要 1 x 秘银抓钩。	gameText	wiki_rescrape	wiki_rescrape
 You should use that tablet on a piece of Ruby jewellery.	你应该把那块石板用在红宝石首饰上。	gameText	wiki_rescrape	wiki_rescrape
 Your reward is: 1 x Square sandwich.	你的奖励是：1 x 方形三明治。	gameText	wiki_rescrape	wiki_rescrape
 You fashion the feathers into a Pheasant boots.	你把羽毛制成了一双雉鸡靴。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@H.A.M. and Seek	你已解锁一首新音乐曲目：@mes_hl_red@H.A.M. and Seek	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@H.A.M. and Seek	你已解锁一首新音乐曲目：@mes_hl_red@反怪物人联 - 捉迷藏	gameText	wiki_rescrape	wiki_rescrape
 You need at least one adamantite ore and six coal to smelt an adamantite bar.	你需要至少一块精金矿石和六块煤才能熔炼一块精金锭。	gameText	wiki_rescrape	wiki_rescrape
 Level 36 Cooking: Damiana tea (members-only)	等级 36 烹饪：达米安娜茶（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 You forge a beautiful bowl from solid gold.	你用纯金锻造出一个美丽的碗。	gameText	wiki_rescrape	wiki_rescrape
@@ -5003,12 +5003,12 @@ You enable the recoil effect of your ring.	你启用了戒指的反伤效果。	
 The hespori doesn't take kindly to your attempt to harvest it.	赫斯波里对你的采收企图并不友善。	gameText	wiki_rescrape	wiki_rescrape
 You consume a Forester's ration to fuel a mighty chop.	你食用一份护林员的口粮，以发动一次强力砍伐。	gameText	wiki_rescrape	wiki_rescrape
 Well done! You have completed a hard task in the Desert area. Your Achievement Diary has been updated.	干得好！你完成了沙漠地区的一项困难任务。你的成就日志已更新。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Delrith	你已解锁一首新音乐曲目：@mes_hl_red@Delrith	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Delrith	你已解锁一首新音乐曲目：@mes_hl_red@德尔里斯	gameText	wiki_rescrape	wiki_rescrape
 You collect some @mes_hl_pur@Azure aura mix from the mixing vessel.	你从混合容器中收集了一些 @mes_hl_pur@蔚蓝光环药剂。	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide to see what else your new Firemaking level unlocks!	查看技能指南，了解你的新生火等级还解锁了什么！	gameText	wiki_rescrape	wiki_rescrape
 You squeeze through the crack in the wall.	你从墙上的裂缝中挤了过去。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Last Shanty	你已解锁一首新音乐曲目：@mes_hl_red@The Last Shanty	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Null and Void	你已解锁一首新音乐曲目：@mes_hl_red@Null and Void	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Last Shanty	你已解锁一首新音乐曲目：@mes_hl_red@最后的海歌	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Null and Void	你已解锁一首新音乐曲目：@mes_hl_red@无效	gameText	wiki_rescrape	wiki_rescrape
 You have completed charting a sea: @sail_txt@Lumbridge Basin	你已完成一片海域的测绘：@sail_txt@仑桥镇水域	gameText	wiki_rescrape	wiki_rescrape
 Level 41 Agility: Auburnvale rock scramble	等级 41 敏捷：奥本谷攀岩	gameText	wiki_rescrape	wiki_rescrape
 Well done! You have completed a hard task in the Lumbridge & Draynor area. Your Achievement Diary has been updated.	干得好！你完成了仑桥镇与德雷诺村地区的一项困难任务。你的成就日志已更新。	gameText	wiki_rescrape	wiki_rescrape
@@ -5017,7 +5017,7 @@ Final Challenge!	最终挑战！	gameText	wiki_rescrape	wiki_rescrape
 Your potion making knowledge allows you to squeeze out two extra doses!	你的药剂制作知识让你多挤出了两剂！	gameText	wiki_rescrape	wiki_rescrape
 Level 85 Construction: Fancy rejuvenation pool	等级 85 建筑：华丽的回春池	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Between a Rock...	你开始了一个新任务：@q_mes@岩石之间…	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Quest	你已解锁一首新音乐曲目：@mes_hl_red@Quest	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Quest	你已解锁一首新音乐曲目：@mes_hl_red@任务	gameText	wiki_rescrape	wiki_rescrape
 The Blood Moon pierces your defence and saps your vitality!	血月刺穿了你的防御并吸取了你的生命力！	gameText	wiki_rescrape	wiki_rescrape
 The Black Knight Titan considers itself defeated, even though you lack Excalibur.	黑骑士泰坦认为自己已被击败，尽管你并没有王者之剑。	gameText	wiki_rescrape	wiki_rescrape
 You need 4 x West Ardougne teleport.	你需要4个西阿多尼城传送术。	gameText	wiki_rescrape	wiki_rescrape
@@ -5051,7 +5051,7 @@ The scroll tells you that there were more ships washed up, further out to sea.	�
 Level 18 Crafting: Leather chaps	等级18制作：皮裤	gameText	wiki_rescrape	wiki_rescrape
 Level 32 Cooking: Drunk Dragon (members-only)	等级32烹饪：醉龙（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 You stuff the squirming Karamthulhu into the barrel.	你把扭动挣扎的卡拉姆苏鲁鱿鱼塞进木桶里。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Serene	你解锁了一首新音乐曲目：@mes_hl_red@Serene	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Serene	你解锁了一首新音乐曲目：@mes_hl_red@宁静	gameText	wiki_rescrape	wiki_rescrape
 This jungle has been cut back to the ground.	这片丛林已被砍伐至地面。	gameText	wiki_rescrape	wiki_rescrape
 Level 28 Cooking: Vegetable batta	等级28烹饪：蔬菜芭塔	gameText	wiki_rescrape	wiki_rescrape
 You have run out of Prayer points and will need to recharge at an altar or use a Prayer potion.	你的祈祷点数已耗尽，需要在祭坛处充能或使用祈祷药水。	gameText	wiki_rescrape	wiki_rescrape
@@ -5064,7 +5064,7 @@ It seems to like it. You estimate the nutritional value of the mulch to be @mes_
 Level 75 Attack: Arclight	等级75攻击：弧光剑	gameText	wiki_rescrape	wiki_rescrape
 You return the book to the bookcase.	你把书放回书架。	gameText	wiki_rescrape	wiki_rescrape
 Level 50 Magic: Iban Blast	等级50魔法：伊班爆裂术	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Fangs for the Memory	你解锁了一首新音乐曲目：@mes_hl_red@Fangs for the Memory	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Fangs for the Memory	你解锁了一首新音乐曲目：@mes_hl_red@记忆之牙	gameText	wiki_rescrape	wiki_rescrape
 The door creaks slowly open - you rush through before it closes behind you.	门吱呀作响地缓缓打开——你在它于身后关上之前冲了过去。	gameText	wiki_rescrape	wiki_rescrape
 You have finished the @sail_txt@Musa Point cocktail delivery port task and been given @sail_txt@1 x Tiny port reward bag (musa point) as payment.	你完成了@sail_txt@穆萨角鸡尾酒运送港口任务，并获得了@sail_txt@1个微型港口奖励袋（穆萨角）作为报酬。	gameText	wiki_rescrape	wiki_rescrape
 I should check the lift manual to see what to do next.	我应该查看升降机手册，看看接下来该做什么。	gameText	wiki_rescrape	wiki_rescrape
@@ -5117,7 +5117,7 @@ You ineffectually squash the poor puffer fish against your helmet.	你把可怜�
 Secateurs don't work with this - you need to use plant cure.	修枝剪对此无效——你需要使用植物治疗药水。	gameText	wiki_rescrape	wiki_rescrape
 You have completed your task! You killed 36 Metal Dragons. You gained 6,084 xp.	你完成了任务！你击杀了36只金属巨龙。你获得了6,084点经验。	gameText	wiki_rescrape	wiki_rescrape
 Level 12 Construction: Wooden kitchen table	12级建筑：木制厨房桌	gameText	wiki_rescrape	wiki_rescrape
-That Karambwan vessel is already loaded with Karambwanji.	那个卡拉姆班鱼笼里已经装满了卡拉姆班鱼。	gameText	wiki_rescrape	wiki_rescrape
+That Karambwan vessel is already loaded with Karambwanji.	那个卡拉姆班鱼笼里已经装了卡拉姆班小鱼。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Upper Depths	你解锁了一首新乐曲：@mes_hl_red@上层深渊	gameText	wiki_rescrape	wiki_rescrape
 You examine the bush for signs of disease and find that it's in perfect health.	你检查了灌木是否有病害迹象，发现它非常健康。	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Spooky boots - collect it from Diango.	你解锁了一件节日物品：幽灵靴 - 从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
@@ -5130,7 +5130,7 @@ You fear the wrath of the gods!	你畏惧众神的怒火！	gameText	wiki_rescra
 You'll need some logs to make any repairs!	你需要一些原木才能进行任何修理！	gameText	wiki_rescrape	wiki_rescrape
 You heat the steel bar into a liquid state.	你将钢锭加热至液态。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Pirate's Treasure	你开始了一个新任务：@q_mes@海盗的宝藏	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dies Irae	你解锁了一首新乐曲：@mes_hl_red@Dies Irae	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dies Irae	你解锁了一首新乐曲：@mes_hl_red@愤怒之日	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Banshee top - collect it from Diango.	你解锁了一件节日物品：女妖上衣 - 从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
 Charting complete: @sail_txt@Use your spyglass to get a good view of the Wizards' Tower from the north.	绘制完成：@sail_txt@使用你的望远镜从北面好好观察法师塔。	gameText	wiki_rescrape	wiki_rescrape
 You've caught an orange salamander.	你捕获了一只橙色蝾螈。	gameText	wiki_rescrape	wiki_rescrape
@@ -5216,8 +5216,8 @@ The requested removal of your PIN has been cancelled.	你请求移除PIN的操�
 You finish crystallising the @mes_hl_pur@Liplack liquor.	你完成了@mes_hl_pur@利普拉克酒的结晶化。	gameText	wiki_rescrape	wiki_rescrape
 Level 33 Fletching: Steel 'brutal' arrows	33级制箭：钢制'野蛮'箭	gameText	wiki_rescrape	wiki_rescrape
 Level 28 Hunter: Larupia fur clothing	28级狩猎：棘刺狮皮衣物	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Roc and Roll	你解锁了一首新的音乐曲目：@mes_hl_red@Roc and Roll	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Aye Car Rum Ba	你解锁了一首新的音乐曲目：@mes_hl_red@Aye Car Rum Ba	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Roc and Roll	你解锁了一首新的音乐曲目：@mes_hl_red@摇滚	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Aye Car Rum Ba	你解锁了一首新的音乐曲目：@mes_hl_red@哎哟，朗姆酒	gameText	wiki_rescrape	wiki_rescrape
 You hear a strange sound coming from the nearby seal.	你听到附近的封印传来一阵奇怪的声音。	gameText	wiki_rescrape	wiki_rescrape
 You have accepted the @sail_txt@Ardougne sand delivery port task.	你已接受@sail_txt@阿多尼城沙子运送港口任务。	gameText	wiki_rescrape	wiki_rescrape
 You retrieve a polished Troll Bone from the pot.	你从罐中取出一根打磨过的巨魔骨头。	gameText	wiki_rescrape	wiki_rescrape
@@ -5297,15 +5297,15 @@ You pay 1,600 coins and sail to Port Tyras.	你支付1,600枚金币，航行至�
 You move deeper into the jungle.	你深入丛林。	gameText	wiki_rescrape	wiki_rescrape
 You need level 40 Herblore to clean the Grimy irit leaf.	你需要40级草药学才能清洗未清洗的伊瑞特叶。	gameText	wiki_rescrape	wiki_rescrape
 You hack your way through the vines.	你劈开藤蔓前进。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Escape	你解锁了一首新音乐曲目：@mes_hl_red@Escape	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Escape	你解锁了一首新音乐曲目：@mes_hl_red@逃脱	gameText	wiki_rescrape	wiki_rescrape
 Level 60 Fletching: 75 Arrow shafts (Yew logs)	等级60制箭：75支箭杆（紫杉原木）	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Judgement of the Depths	你解锁了一首新音乐曲目：@mes_hl_red@Judgement of the Depths	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Judgement of the Depths	你解锁了一首新音乐曲目：@mes_hl_red@深渊的审判	gameText	wiki_rescrape	wiki_rescrape
 They certainly taste... unique.	它们尝起来确实……很独特。	gameText	wiki_rescrape	wiki_rescrape
 You begin sorting through your salvage...	你开始整理打捞物……	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Predator Xarpus	你解锁了一首新音乐曲目：@mes_hl_red@Predator Xarpus	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Predator Xarpus	你解锁了一首新音乐曲目：@mes_hl_red@掠食者扎普斯	gameText	wiki_rescrape	wiki_rescrape
 Level 21 Cooking: Giant crab meat	等级21烹饪：巨蟹肉	gameText	wiki_rescrape	wiki_rescrape
 You smother the raw Karambwanji paste over the burnt Jogre bones.	你把生卡拉姆班鱼糊涂抹在烧焦的乔格雷食人魔骨头上。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Gates of Menaphos	你解锁了一首新音乐曲目：@mes_hl_red@The Gates of Menaphos	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Gates of Menaphos	你解锁了一首新音乐曲目：@mes_hl_red@梅纳菲斯之门	gameText	wiki_rescrape	wiki_rescrape
 You retrieve a polished Cave Goblin Bone from the pot.	你从罐中取出一根打磨过的洞穴哥布林骨头。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Perilous Moons	你已开始新任务：@q_mes@灾厄之月	gameText	wiki_rescrape	wiki_rescrape
 You need an Agility level of 85 to negotiate these rocks.	你需要85级敏捷才能通过这些岩石。	gameText	wiki_rescrape	wiki_rescrape
@@ -5315,18 +5315,18 @@ Level 61 Crafting: Splitbark helm	等级61制作：裂皮头盔	gameText	wiki_re
 Level 30 Firemaking: Abyssal Lantern (with willow logs)	等级30生火：深渊灯笼（使用柳木原木）	gameText	wiki_rescrape	wiki_rescrape
 Level 10 Smithing: Bronze keel parts	等级10锻造：青铜龙骨部件	gameText	wiki_rescrape	wiki_rescrape
 You need a net trap to set a trap. Combine a net and a rope to make one.	你需要网式陷阱才能设置陷阱。将网和绳子组合即可制作。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Overpass	你解锁了一首新音乐曲目：@mes_hl_red@Overpass	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Overpass	你解锁了一首新音乐曲目：@mes_hl_red@天桥	gameText	wiki_rescrape	wiki_rescrape
 @tempoross_win@The skies clear as Tempoross retreats to the depths.	@tempoross_win@随着海灵退回深海，天空放晴了。	gameText	wiki_rescrape	wiki_rescrape
 Level 62 Firemaking: Abyssal Lantern (with blisterwood logs)	等级62生火：深渊灯笼（使用水泡木原木）	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked an emote: Scared	你解锁了一个表情动作：害怕	gameText	wiki_rescrape	wiki_rescrape
 Level 13 Cooking: T-bone Steak	等级13烹饪：T骨牛排	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Bloodbath	你解锁了一首新音乐曲目：@mes_hl_red@Bloodbath	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Bloodbath	你解锁了一首新音乐曲目：@mes_hl_red@血浴	gameText	wiki_rescrape	wiki_rescrape
 Level 38 Smithing: Steel keel parts	等级38锻造：钢制龙骨部件	gameText	wiki_rescrape	wiki_rescrape
 Level 18 Fletching: Iron 'brutal' arrows	等级18制箭：铁制'野蛮'箭	gameText	wiki_rescrape	wiki_rescrape
 The smelly net is empty.	发臭的网是空的。	gameText	wiki_rescrape	wiki_rescrape
 You can't do that just now.	你现在不能这么做。	gameText	wiki_rescrape	wiki_rescrape
 Level 36 Agility: Escape from the Water Obelisk island	等级36敏捷：逃离水之方尖碑岛	gameText	wiki_rescrape	wiki_rescrape
-Level 36 Agility: Nemus Retreat stepping stones	等级36敏捷：Nemus Retreat踏脚石	gameText	wiki_rescrape	wiki_rescrape
+Level 36 Agility: Nemus Retreat stepping stones	等级36敏捷：内穆斯隐居地踏脚石	gameText	wiki_rescrape	wiki_rescrape
 You cast out your salvaging hook towards the shipwreck...	你朝沉船抛出打捞钩……	gameText	wiki_rescrape	wiki_rescrape
 You already have Varmen's expedition notes, so you find nothing of interest.	你已经拥有瓦门的探险笔记，因此没有发现任何有趣的东西。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Ambient Jungle	你解锁了一首新音乐曲目：@mes_hl_red@丛林环境音	gameText	wiki_rescrape	wiki_rescrape
@@ -5352,7 +5352,7 @@ Level 9 Crafting: Leather cowl	9级制作：皮帽	gameText	wiki_rescrape	wiki_r
 It has an odd metallic taste to it.	它有一股奇怪的金属味。	gameText	wiki_rescrape	wiki_rescrape
 The Eclipse Moon's light pierces your defence and blinds you!	月蚀的光芒穿透了你的防御，使你失明！	gameText	wiki_rescrape	wiki_rescrape
 You need 1 x Arceuus library book.	你需要1本阿西乌斯图书馆书籍。	gameText	wiki_rescrape	wiki_rescrape
-Level 75 Attack: Hallowfell	75级攻击：圣落	gameText	wiki_rescrape	wiki_rescrape
+Level 75 Attack: Hallowfell	75级攻击：霍洛费尔	gameText	wiki_rescrape	wiki_rescrape
 You enchant the Salve amulet.	你为萨鲁夫护符附魔。	gameText	wiki_rescrape	wiki_rescrape
 Level 26 Cooking: Toad batta	26级烹饪：蟾蜍芭塔	gameText	wiki_rescrape	wiki_rescrape
 You smelt the adamantite in the furnace along with six heaps of coal.	你在熔炉中连同六堆煤一起熔炼了精金矿。	gameText	wiki_rescrape	wiki_rescrape
@@ -5436,28 +5436,28 @@ Level 14 Cooking: Cider	14级烹饪：苹果酒	gameText	wiki_rescrape	wiki_resc
 You clamber back inside the Troll Stronghold.	你爬回了巨魔要塞内。	gameText	wiki_rescrape	wiki_rescrape
 You need 1 x Initiate Helm.	你需要1 x 见习头盔。	gameText	wiki_rescrape	wiki_rescrape
 You mix the digweed into the @mes_hl_pur@Marley's moonlight, drastically improving its quality!	你把地丁草混入@mes_hl_pur@马利的月光中，大幅提升了它的品质！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Espionage	你解锁了一首新音乐曲目：@mes_hl_red@Espionage	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Lament of Meiyerditch	你解锁了一首新音乐曲目：@mes_hl_red@Lament of Meiyerditch	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Espionage	你解锁了一首新音乐曲目：@mes_hl_red@间谍活动	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Lament of Meiyerditch	你解锁了一首新音乐曲目：@mes_hl_red@迈尔迪奇的哀歌	gameText	wiki_rescrape	wiki_rescrape
 Level 35 Magic: Ghostly Grasp (members-only)	35级魔法：幽灵抓握（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
-Charting complete: @sail_txt@Use your spyglass to get a good view of Keep le Faye from the east.	制图完成：@sail_txt@用你的望远镜从东面好好观察Keep le Faye。	gameText	wiki_rescrape	wiki_rescrape
+Charting complete: @sail_txt@Use your spyglass to get a good view of Keep le Faye from the east.	制图完成：@sail_txt@用你的望远镜从东面好好观察勒菲堡。	gameText	wiki_rescrape	wiki_rescrape
 You slip and trigger a trap!	你滑倒了，触发了一个陷阱！	gameText	wiki_rescrape	wiki_rescrape
 You finish concentrating the @mes_hl_pur@Azure aura mix.	你完成了@mes_hl_pur@蔚蓝光环药剂的浓缩。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dorgeshuun City	你解锁了一首新音乐曲目：@mes_hl_red@Dorgeshuun City	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dorgeshuun City	你解锁了一首新音乐曲目：@mes_hl_red@多格舒恩城	gameText	wiki_rescrape	wiki_rescrape
 You carve a snake into the totem.	你在图腾上刻了一条蛇。	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_pur@Xamphur becomes empowered by a Mark of Darkness!	@mes_hl_pur@赞弗尔受到黑暗印记的强化！	gameText	wiki_rescrape	wiki_rescrape
 You eat half the Admiral pie.	你吃掉了半个海军派。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Land Down Under	你解锁了一首新音乐曲目：@mes_hl_red@Land Down Under	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Land Down Under	你解锁了一首新音乐曲目：@mes_hl_red@地下之地	gameText	wiki_rescrape	wiki_rescrape
 Level 5 Sailing: Tasks from Land's End	5级航海：兰兹角村的任务	gameText	wiki_rescrape	wiki_rescrape
 You attempt to steal some bread from the baker's stall.	你试图从面包师摊位偷一些面包。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Davy Jones' Locker	你解锁了一首新音乐曲目：@mes_hl_red@Davy Jones' Locker	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Arcane	你解锁了一首新音乐曲目：@mes_hl_red@Arcane	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Davy Jones' Locker	你解锁了一首新音乐曲目：@mes_hl_red@戴维.琼斯的储物柜	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Arcane	你解锁了一首新音乐曲目：@mes_hl_red@奥术	gameText	wiki_rescrape	wiki_rescrape
 Level 64 Magic: Lesser Corruption	64级魔法：轻度腐化术	gameText	wiki_rescrape	wiki_rescrape
 New item added to your collection log: Mime top	新物品已加入你的收藏日志：哑剧上衣	gameText	wiki_rescrape	wiki_rescrape
 Level 30 Defence: Adamant armour	30级防御：精金盔甲	gameText	wiki_rescrape	wiki_rescrape
 Level 55 Firemaking: Teak logs (barbarian technique)	55级生火：柚木原木（野蛮人技巧）	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Karamja Jam	你解锁了一首新音乐曲目：@mes_hl_red@Karamja Jam	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Karamja Jam	你解锁了一首新音乐曲目：@mes_hl_red@卡拉姆詹果酱	gameText	wiki_rescrape	wiki_rescrape
 You hear a metallic click coming from somewhere nearby.	你听到附近某处传来金属的咔哒声。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Barbarian Workout	你解锁了一首新音乐曲目：@mes_hl_red@Barbarian Workout	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Barbarian Workout	你解锁了一首新音乐曲目：@mes_hl_red@野蛮人训练	gameText	wiki_rescrape	wiki_rescrape
 Level 10 Smithing: Bronze battleaxes	10级锻造：青铜战斧	gameText	wiki_rescrape	wiki_rescrape
 You put the Grimy tarromin herb into your herb sack.	你把未清洗的塔罗明草放进了草药袋。	gameText	wiki_rescrape	wiki_rescrape
 That's not an item set.	那不是物品套装。	gameText	wiki_rescrape	wiki_rescrape
@@ -5475,10 +5475,10 @@ Well done! You have completed a hard task in the Morytania area. Your Achievemen
 You have already looted this Sarcophagus.	你已经搜刮过这个石棺了。	gameText	wiki_rescrape	wiki_rescrape
 The lift seems to be almost fixed now.	升降机现在似乎快修好了。	gameText	wiki_rescrape	wiki_rescrape
 A small spider jumps at you from the log you just cut.	一只小蜘蛛从你刚砍下的原木上朝你扑来。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@H.A.M. Attack	你解锁了一首新音乐曲目：@mes_hl_red@H.A.M. Attack	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@H.A.M. Attack	你解锁了一首新音乐曲目：@mes_hl_red@反怪物人联 - 攻击	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Troll Romance	你开始了一个新任务：@q_mes@巨魔浪漫史	gameText	wiki_rescrape	wiki_rescrape
 You need 1 x Monkey dentures.	你需要 1 x 猴子假牙。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Undead Dungeon	你解锁了一首新音乐曲目：@mes_hl_red@Undead Dungeon	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Undead Dungeon	你解锁了一首新音乐曲目：@mes_hl_red@亡灵地牢	gameText	wiki_rescrape	wiki_rescrape
 Level 24 Fletching: Blurite/oak crossbows	24级制箭：蓝晶石/橡木弩	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Scythe - collect it from Diango.	你解锁了一件节日物品：镰刀 - 从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
 Level 50 Firemaking: Willow logs (barbarian technique)	50级生火：柳木原木（野蛮人技巧）	gameText	wiki_rescrape	wiki_rescrape
@@ -5544,14 +5544,14 @@ A guide for Cook's Assistant has been opened in the Old School RuneScape Wiki.	�
 You need a Slayer level of 92 to know how to wound this monster.	你需要 92 级杀戮才能知道如何伤害这只怪物。	gameText	wiki_rescrape	wiki_rescrape
 You need 1 x Gas mask. You can get another from the cupboard in Edmond's house west of Elena's house..	你需要 1 x 防毒面具。你可以从埃琳娜家西边埃德蒙家的橱柜里再拿一个。	gameText	wiki_rescrape	wiki_rescrape
 New item added to your collection log: Agility arena ticket	你的收藏日志新增物品：敏捷竞技场票	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Head to Head	你解锁了一首新音乐曲目：@mes_hl_red@Head to Head	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Country Jig	你解锁了一首新音乐曲目：@mes_hl_red@Country Jig	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Head to Head	你解锁了一首新音乐曲目：@mes_hl_red@针锋相对	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Country Jig	你解锁了一首新音乐曲目：@mes_hl_red@乡村吉格舞	gameText	wiki_rescrape	wiki_rescrape
 Dharok's helmet has degraded slightly.	达罗克的头盔已轻微磨损。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Chain of Command	你解锁了一首新音乐曲目：@mes_hl_red@Chain of Command	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Chain of Command	你解锁了一首新音乐曲目：@mes_hl_red@指挥链	gameText	wiki_rescrape	wiki_rescrape
 The ruby glows and starts spinning as it hovers above the rock.	红宝石发出光芒，并在岩石上方盘旋时开始旋转。	gameText	wiki_rescrape	wiki_rescrape
 You are not sure what has caused this odd shaped rock formation, but note it down on your charts all the same.	你不确定是什么造成了这块形状奇特的岩石构造，但还是把它记在了海图上。	gameText	wiki_rescrape	wiki_rescrape
 Level 22 Mining: Volcanic ash	22级采矿：火山灰	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Preservation	你解锁了一首新音乐曲目：@mes_hl_red@Preservation	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Preservation	你解锁了一首新音乐曲目：@mes_hl_red@保存	gameText	wiki_rescrape	wiki_rescrape
 You plant a limpwurt seed in the flower patch.	你在花卉种植地种下一颗软木草种子。	gameText	wiki_rescrape	wiki_rescrape
 There's no use for bruma roots at this time.	目前布鲁玛树根没有用处。	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Spirits of the Elid	你开始了一个新任务：@q_mes@埃利德之灵	gameText	wiki_rescrape	wiki_rescrape
@@ -5567,7 +5567,7 @@ You need a Firemaking level of 12 to light an oil lamp.	你需要12级生火才�
 You half-cook the batta.	你把芭塔烤至半熟。	gameText	wiki_rescrape	wiki_rescrape
 Level 49 Prayer: Redemption	49级祈祷：救赎	gameText	wiki_rescrape	wiki_rescrape
 You need 1000 x soul runes.	你需要1000 x 灵魂符石。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Corporal Punishment	你解锁了一首新音乐曲目：@mes_hl_red@Corporal Punishment	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Corporal Punishment	你解锁了一首新音乐曲目：@mes_hl_red@体罚	gameText	wiki_rescrape	wiki_rescrape
 The orb is cold, and warmer than last time.	宝珠是冷的，但比上次更暖。	gameText	wiki_rescrape	wiki_rescrape
 You have already used all of your available teleports for today. Try again tomorrow when the cape has recharged.	你今天已经用完了所有可用的传送次数。等明天披风充能后再试。	gameText	wiki_rescrape	wiki_rescrape
 You fashion the feathers into a Pheasant legs.	你把羽毛制成雉鸡腿甲。	gameText	wiki_rescrape	wiki_rescrape
@@ -5642,7 +5642,7 @@ Level 29 Cooking: Cheese and tomato batta	29级烹饪：乳酪番茄巴塔	gameT
 You manage to catch a fish.	你成功钓到了一条鱼。	gameText	wiki_rescrape	wiki_rescrape
 You prepare to cast the spell...	你准备施放法术……	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide to see what else your new Hunter level unlocks!	查看技能指南，了解你的新狩猎等级还解锁了什么！	gameText	wiki_rescrape	wiki_rescrape
-Level 57 Woodcutting: Waka canoe	57级伐木：Waka独木舟	gameText	wiki_rescrape	wiki_rescrape
+Level 57 Woodcutting: Waka canoe	57级伐木：瓦卡独木舟	gameText	wiki_rescrape	wiki_rescrape
 You finish setting up the trap.	你完成了陷阱的设置。	gameText	wiki_rescrape	wiki_rescrape
 Level 80 Firemaking: Magic pyre logs	80级生火：火葬用魔法原木	gameText	wiki_rescrape	wiki_rescrape
 Level 65 Magic: Bake Pie	65级魔法：派烘焙术	gameText	wiki_rescrape	wiki_rescrape
@@ -5659,7 +5659,7 @@ This would be ideal for scaring birds!	这非常适合用来吓走鸟类！	game
 The Storm Tempor charting completion: @sail_txt@1/4	风暴坦波海图绘制进度：@sail_txt@1/4	gameText	wiki_rescrape	wiki_rescrape
 You carve an eagle into the totem.	你在图腾上雕刻了一只鹰。	gameText	wiki_rescrape	wiki_rescrape
 @ach_comp@Lunar Triplet: Open the Reward Chest after defeating all three Moons.	@ach_comp@月之三连：击败全部三个月亮后打开奖励箱。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Wayward	你解锁了一首新音乐曲目：@mes_hl_red@Wayward	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Wayward	你解锁了一首新音乐曲目：@mes_hl_red@任性	gameText	wiki_rescrape	wiki_rescrape
 You need 1 x Diving apparatus.	你需要1 x 潜水装置。	gameText	wiki_rescrape	wiki_rescrape
 You clamber onto the windswept roof of the Troll Stronghold.	你攀上了巨魔要塞迎风的屋顶。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Goblin Village	你解锁了一首新音乐曲目：@mes_hl_red@哥布林村庄	gameText	wiki_rescrape	wiki_rescrape
@@ -5693,14 +5693,14 @@ Level 22 Crafting: Opal bracelet	22级制作：蛋白石手镯	gameText	wiki_res
 Level 48 Fishing: Leaping trout	48级钓鱼：跃起的鳟鱼	gameText	wiki_rescrape	wiki_rescrape
 You haven't learnt how to cast this spell yet.	你还没学会如何施放这个法术。	gameText	wiki_rescrape	wiki_rescrape
 ~ You're an Ogre Yeoman! ~	~ 你是一名食人魔自耕农！ ~	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Coil	你解锁了一首新音乐曲目：@mes_hl_red@Coil	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Coil	你解锁了一首新音乐曲目：@mes_hl_red@盘绕	gameText	wiki_rescrape	wiki_rescrape
 You need 1 x Raw chicken.	你需要1个生鸡肉。	gameText	wiki_rescrape	wiki_rescrape
 Level 60 Ranged: Craw's bow	60级远程：克劳的弓	gameText	wiki_rescrape	wiki_rescrape
 You add some yellow spice to the stew.	你在炖菜里加了一些黄色香料。	gameText	wiki_rescrape	wiki_rescrape
 You dye the goblin mail black.	你把哥布林链甲染成了黑色。	gameText	wiki_rescrape	wiki_rescrape
 Level 49 Magic: Ruby-tipped crossbow bolts	49级魔法：红宝石尖弩箭	gameText	wiki_rescrape	wiki_rescrape
 Use your fossil on the bench to clean it.	把你的化石用在长凳上清洁它。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Where Eagles Lair	你解锁了一首新的音乐轨道：@mes_hl_red@Where Eagles Lair	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Where Eagles Lair	你解锁了一首新的音乐轨道：@mes_hl_red@鹰巢所在	gameText	wiki_rescrape	wiki_rescrape
 New item added to your collection log: Bronze defender	新物品已添加到你的收藏日志：青铜格挡匕首	gameText	wiki_rescrape	wiki_rescrape
 You didn't have anything to deposit.	你没有任何东西可以存入。	gameText	wiki_rescrape	wiki_rescrape
 You disturb a tribesman hiding in the jungle.	你惊动了一个藏在丛林里的土著。	gameText	wiki_rescrape	wiki_rescrape
@@ -5788,9 +5788,9 @@ Your armour interferes with Ava's device.	你的盔甲干扰了艾娃的装置�
 You hack your way through the jungle bush.	你劈开丛林灌木，开出一条路。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@The Quizmaster	你解锁了一首新的音乐曲目：@mes_hl_red@问答大师	gameText	wiki_rescrape	wiki_rescrape
 You slide the lid onto the pot.	你把盖子滑到罐子上。	gameText	wiki_rescrape	wiki_rescrape
-You have finished the @sail_txt@Brimhaven spice delivery port task and been given @sail_txt@1 x Tiny port coin bag as payment.	你完成了@sail_txt@布尔哈文镇香料运送港口任务，并获得了@sail_txt@1 x 小型港口钱袋作为报酬。	gameText	wiki_rescrape	wiki_rescrape
+You have finished the @sail_txt@Brimhaven spice delivery port task and been given @sail_txt@1 x Tiny port coin bag as payment.	你完成了@sail_txt@布尔哈文镇香料运送港口任务，并获得了@sail_txt@1 x 微型港口金币袋作为报酬。	gameText	wiki_rescrape	wiki_rescrape
 You build the cleaning bench.	你建造了清洗长凳。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Upir Likhyi	你解锁了一首新的音乐曲目：@mes_hl_red@Upir Likhyi	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Upir Likhyi	你解锁了一首新的音乐曲目：@mes_hl_red@乌皮尔.利克伊	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Mourner letter	不可交易掉落物：哀悼者信件	gameText	wiki_rescrape	wiki_rescrape
 You don't have any sand.	你没有沙子。	gameText	wiki_rescrape	wiki_rescrape
 You caught some fish.	你钓到了一些鱼。	gameText	wiki_rescrape	wiki_rescrape
@@ -5858,7 +5858,7 @@ Level 42 Hitpoints: Void Knight mace (members-only)	等级42生命值：虚空�
 You make the sketch of the northern approach.	你绘制了北面通道的草图。	gameText	wiki_rescrape	wiki_rescrape
 Level 10 Attack: White weapons (members-only)	等级10攻击：白色武器（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 You eat the triangle sandwich.	你吃掉了三角形三明治。	gameText	wiki_rescrape	wiki_rescrape
-Level 47 Thieving: Chests in Hemenster and Rellekka	等级47偷窃：Hemenster和雷勒卡城的宝箱	gameText	wiki_rescrape	wiki_rescrape
+Level 47 Thieving: Chests in Hemenster and Rellekka	等级47偷窃：赫门斯特和雷勒卡城的宝箱	gameText	wiki_rescrape	wiki_rescrape
 You cannot use grapple-tipped bolts for combat.	你无法使用抓钩尖头弩箭进行战斗。	gameText	wiki_rescrape	wiki_rescrape
 You need a Mining level of 52 to mine your way through this rock.	你需要52级采矿才能挖穿这块岩石。	gameText	wiki_rescrape	wiki_rescrape
 You drink the tea and find yourself feeling energised!	你喝下茶，感到精力充沛！	gameText	wiki_rescrape	wiki_rescrape
@@ -5910,11 +5910,11 @@ You pick an onion.	你摘了一个洋葱。	gameText	wiki_rescrape	wiki_rescrape
 You fashion the feathers into a Pheasant hat.	你将羽毛制作成了一顶雉鸡帽。	gameText	wiki_rescrape	wiki_rescrape
 Konar won't respond until she's aware of you and your intentions.	在她了解你和你的意图之前，科纳不会回应你。	gameText	wiki_rescrape	wiki_rescrape
 Your reward is: 1 x Mime boots.	你的奖励是：1 x 哑剧靴子。	gameText	wiki_rescrape	wiki_rescrape
-Guthan's body has degraded slightly.	古斯的身体略有磨损。	gameText	wiki_rescrape	wiki_rescrape
+Guthan's body has degraded slightly.	古桑的身体略有磨损。	gameText	wiki_rescrape	wiki_rescrape
 Level 43 Fishing: Cormorant's glove	等级 43 钓鱼：鸬鹚手套	gameText	wiki_rescrape	wiki_rescrape
 You can't log into a non-members' world while you're standing here.	你站在这里时无法登录非会员世界。	gameText	wiki_rescrape	wiki_rescrape
 Level 21 Crafting: Vegetable sack	等级 21 制作：蔬菜麻袋	gameText	wiki_rescrape	wiki_rescrape
-You have finished the @sail_txt@Brimhaven rum delivery port task and been given @sail_txt@1 x Tiny port coin bag as payment.	你完成了@sail_txt@布尔哈文镇朗姆酒运送港口任务，并获得了@sail_txt@1 x 小型港口硬币袋作为报酬。	gameText	wiki_rescrape	wiki_rescrape
+You have finished the @sail_txt@Brimhaven rum delivery port task and been given @sail_txt@1 x Tiny port coin bag as payment.	你完成了@sail_txt@布尔哈文镇朗姆酒运送港口任务，并获得了@sail_txt@1 x 微型港口金币袋作为报酬。	gameText	wiki_rescrape	wiki_rescrape
 Level 15 Sailing: Skiff	等级 15 航海：小帆船	gameText	wiki_rescrape	wiki_rescrape
 Level 25 Thieving: Sorceress's Garden minigame - Spring	等级 25 偷窃：女巫花园小游戏 - 春季	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Out at the Mines	你解锁了一首新音乐曲目：@mes_hl_red@矿场之外	gameText	wiki_rescrape	wiki_rescrape
@@ -5987,7 +5987,7 @@ Nezikchened: Ha ha ha... I shall return for thee when the time is right.	内齐�
 You can feel an evil presence nearby...	你能感觉到附近有一股邪恶的气息……	gameText	wiki_rescrape	wiki_rescrape
 Level 31 Smithing: Steel axes	等级 31 锻造：钢斧	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Hitpoints: Void Knight equipment (members-only)	等级 42 生命值：虚空骑士装备（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
-You don't have Forinthry surge.	你没有Forinthry surge。	gameText	wiki_rescrape	wiki_rescrape
+You don't have Forinthry surge.	你没有福林斯瑞涌动。	gameText	wiki_rescrape	wiki_rescrape
 You slayed all the beasts before you logged out.	你在登出前杀死了所有野兽。	gameText	wiki_rescrape	wiki_rescrape
 The Hespori is currently immune to your attacks.	赫斯波里目前对你的攻击免疫。	gameText	wiki_rescrape	wiki_rescrape
 You need an axe to chop this tree.	你需要一把斧头才能砍这棵树。	gameText	wiki_rescrape	wiki_rescrape
@@ -6036,23 +6036,23 @@ Level 26 Cooking: Toad batta (members-only)	26级烹饪：蟾蜍芭塔（仅限�
 You can't water that.	你不能给那个浇水。	gameText	wiki_rescrape	wiki_rescrape
 Level 59 Crafting: Trident of the Swamp	59级制作：沼泽三叉戟	gameText	wiki_rescrape	wiki_rescrape
 This is a herb patch. The soil has not been treated. The patch needs weeding.	这是一块草药种植地。土壤尚未处理。种植地需要除草。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Slug a Bug Ball	你解锁了一首新曲目：@mes_hl_red@Slug a Bug Ball	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Slug a Bug Ball	你解锁了一首新曲目：@mes_hl_red@蛞蝓虫球	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Gnomeball	你解锁了一首新曲目：@mes_hl_red@地精球	gameText	wiki_rescrape	wiki_rescrape
 Untradeable drop: Ripped mourner trousers	不可交易的掉落物：破损哀悼者裤子	gameText	wiki_rescrape	wiki_rescrape
 You climb down some crudely-hewn steps.	你顺着粗糙开凿的台阶爬了下去。	gameText	wiki_rescrape	wiki_rescrape
 You start operating the salvaging hook...	你开始操作打捞钩……	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Grim reaper gloves - collect it from Diango.	你解锁了一件节日物品：死神手套——可从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
 Your drift net is full.	你的流刺网已满。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Complication	你解锁了一首新曲目：@mes_hl_red@Complication	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Complication	你解锁了一首新曲目：@mes_hl_red@复杂	gameText	wiki_rescrape	wiki_rescrape
 You plant 4 seeds in the grapevine patch.	你在葡萄藤种植地种下4颗种子。	gameText	wiki_rescrape	wiki_rescrape
 Level 72 Magic: Nightmare Staff (without orb)	72级魔法：梦魇法杖（无宝珠）	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Test Your Sails	你解锁了一首新曲目：@mes_hl_red@Test Your Sails	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Oriental	你解锁了一首新曲目：@mes_hl_red@Oriental	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Oriental	你解锁了一首新曲目：@mes_hl_red@东方	gameText	wiki_rescrape	wiki_rescrape
 You haven't got any compost to store.	你没有可储存的堆肥。	gameText	wiki_rescrape	wiki_rescrape
 You accidentally trigger a trap...	你不小心触发了一个陷阱……	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Night of the Vampyre	你解锁了一首新曲目：@mes_hl_red@Night of the Vampyre	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Night of the Vampyre	你解锁了一首新曲目：@mes_hl_red@吸血鬼之夜	gameText	wiki_rescrape	wiki_rescrape
 You found some loot: Catalytic talisman	你找到了一些战利品：催化护符	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Cain's Tutorial	你解锁了一首新曲目：@mes_hl_red@Cain's Tutorial	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Cain's Tutorial	你解锁了一首新曲目：@mes_hl_red@凯恩的教程	gameText	wiki_rescrape	wiki_rescrape
 Now you just need to make a fuse for it.	现在你只需要为它做一个引信。	gameText	wiki_rescrape	wiki_rescrape
 Level 23 Crafting: Tiara	23级制作：头冠	gameText	wiki_rescrape	wiki_rescrape
 You can only plant maple tree seeds in a plantpot.	你只能在花盆里种植枫树种子。	gameText	wiki_rescrape	wiki_rescrape
@@ -6063,7 +6063,7 @@ Charting complete: @sail_txt@Find a sealed crate near Entrana and sample the con
 You discard the leftover pollen.	你丢弃了剩余的花粉。	gameText	wiki_rescrape	wiki_rescrape
 You plant 4 seeds in the white rosebush patch.	你在白玫瑰丛种植地种下4颗种子。	gameText	wiki_rescrape	wiki_rescrape
 Level 30 Fishing: Salmon	30级钓鱼：鲑鱼	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@In the Brine	你解锁了一首新曲目：@mes_hl_red@In the Brine	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@In the Brine	你解锁了一首新曲目：@mes_hl_red@盐水	gameText	wiki_rescrape	wiki_rescrape
 You've started a new quest: @q_mes@Cabin Fever	你开始了一个新任务：@q_mes@船舱热病	gameText	wiki_rescrape	wiki_rescrape
 You've caught a spined larupia!	你捕获了一只刺皮棘刺狮！	gameText	wiki_rescrape	wiki_rescrape
 You enter the Gauntlet.	你进入了试炼之路。	gameText	wiki_rescrape	wiki_rescrape
@@ -6072,12 +6072,12 @@ Please log out before attempting to switch to that world.	请先登出再尝试�
 Did you know? On mobile you can set up scheduled notifications for your farm plots and bird houses.	你知道吗？在移动端，你可以为农田和鸟屋设置定时通知。	gameText	wiki_rescrape	wiki_rescrape
 Level 21 Construction: Teak cargo hold	21级建筑：柚木货舱	gameText	wiki_rescrape	wiki_rescrape
 You put the Grimy ranarr weed herb into your herb sack.	你把未清洗的拉纳尔草放进了草药袋。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Deep Down	你解锁了一首新曲目：@mes_hl_red@Deep Down	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Deep Down	你解锁了一首新曲目：@mes_hl_red@深处	gameText	wiki_rescrape	wiki_rescrape
 You pick a white fruit.	你摘下一颗白色果实。	gameText	wiki_rescrape	wiki_rescrape
 Level 45 Strength: Leaping sturgeon (members-only)	45级力量：跃起的鲟鱼（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 When using items on the bag, you will be asked how many of that item you wish to store in the bag.	对袋子使用物品时，系统会询问你想在袋中储存多少个该物品。	gameText	wiki_rescrape	wiki_rescrape
 You retrieve a polished Moss Giant Bone from the pot.	你从罐中取出一根打磨过的苔藓巨人骨头。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@The Dark Beast Sotetseg	你解锁了一首新曲目：@mes_hl_red@The Dark Beast Sotetseg	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@The Dark Beast Sotetseg	你解锁了一首新曲目：@mes_hl_red@暗黑野兽索特塞格	gameText	wiki_rescrape	wiki_rescrape
 It's too damaged to be moved!	它损坏得太严重，无法移动！	gameText	wiki_rescrape	wiki_rescrape
 The ship arrives at Waterbirth Island.	船抵达水诞岛。	gameText	wiki_rescrape	wiki_rescrape
 Level 70 Firemaking: Yew pyre ships	70级生火：紫杉火葬船	gameText	wiki_rescrape	wiki_rescrape
@@ -6163,12 +6163,12 @@ You've unlocked a holiday item: Spooky hood - collect it from Diango.	你解锁�
 You've started a new quest: @q_mes@Shilo Village	你开始了一个新任务：@q_mes@希洛村	gameText	wiki_rescrape	wiki_rescrape
 You take the items from the chest.	你从宝箱中取出物品。	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_cya@Your joints lock up as you go to attack. The cold is too much to bear!	@mes_hl_cya@你正要攻击时关节却僵住了。寒冷实在难以忍受！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Artistry	你解锁了一首新乐曲：@mes_hl_red@Artistry	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Artistry	你解锁了一首新乐曲：@mes_hl_red@艺术	gameText	wiki_rescrape	wiki_rescrape
 Level 61 Woodcutting: Dragon felling axe	61级伐木：龙金伐木斧	gameText	wiki_rescrape	wiki_rescrape
 Level 74 Magic: Cure Group	74级魔法：群体治愈	gameText	wiki_rescrape	wiki_rescrape
 Level 18 Construction: Steel salvaging hook	18级建筑：钢制打捞钩	gameText	wiki_rescrape	wiki_rescrape
 You burn your mouth on the hot rock cake.	你被滚烫的石糕烫伤了嘴。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Find My Way	你解锁了一首新乐曲：@mes_hl_red@Find My Way	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Find My Way	你解锁了一首新乐曲：@mes_hl_red@找到我的路	gameText	wiki_rescrape	wiki_rescrape
 You add some splintered bark to your mulch as the third ingredient.	你将一些碎裂的树皮作为第三种材料加入覆盖物中。	gameText	wiki_rescrape	wiki_rescrape
 Level 18 Construction: Asgarnian Ale barrel	18级建筑：阿斯加尼亚麦酒木桶	gameText	wiki_rescrape	wiki_rescrape
 You have no keys on your key ring.	你的钥匙环上没有钥匙。	gameText	wiki_rescrape	wiki_rescrape
@@ -6180,7 +6180,7 @@ You plant 4 seeds in the red rosebush patch.	你在红玫瑰丛种植地中种�
 You successfully cook a paddlefish.	你成功烹饪了一条桨鱼。	gameText	wiki_rescrape	wiki_rescrape
 Level 66 Woodcutting: Camphor trees	66级伐木：樟树	gameText	wiki_rescrape	wiki_rescrape
 Level 33 Magic: Telekinetic Grab	33级魔法：意念取物	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Forgettable Melody	你解锁了一首新乐曲：@mes_hl_red@Forgettable Melody	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Forgettable Melody	你解锁了一首新乐曲：@mes_hl_red@易忘的旋律	gameText	wiki_rescrape	wiki_rescrape
 You put 1 x Potato cactus seed straight into your open seed box.	你将1颗土豆仙人掌种子直接放入被打开的种子盒。	gameText	wiki_rescrape	wiki_rescrape
 Level 15 Sailing: Port Piscarillius	15级航海：皮斯卡里琉斯港	gameText	wiki_rescrape	wiki_rescrape
 You remove the bowl from the oven.	你从烤箱中取出碗。	gameText	wiki_rescrape	wiki_rescrape
@@ -6201,22 +6201,22 @@ Level 29 Construction: Oak shaving stand	29级建筑：橡木剃须架	gameText	
 Level 40 Cooking: Lobster	40级烹饪：龙虾	gameText	wiki_rescrape	wiki_rescrape
 Some crushed wolf bones pour into the bin.	一些碾碎的狼骨倒入桶中。	gameText	wiki_rescrape	wiki_rescrape
 Your antifire potion helps to protect you from the dragon's breath!	你的抗火药水帮助你抵御巨龙的吐息！	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Gill Bill	你解锁了一首新乐曲：@mes_hl_red@Gill Bill	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Gill Bill	你解锁了一首新乐曲：@mes_hl_red@吉尔账单	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Attack: Void Knight mace	42级攻击：虚空骑士钉锤	gameText	wiki_rescrape	wiki_rescrape
 This is a herb patch. The soil has not been treated. The patch is empty and weeded.	这是一块草药种植地。土壤尚未处理。种植地是空的且已除草。	gameText	wiki_rescrape	wiki_rescrape
 Level 56 Woodcutting: Split arctic pine logs	56级伐木：劈开北极松原木	gameText	wiki_rescrape	wiki_rescrape
 Check the skill guide for more information about Farming.	查看技能指南以了解更多关于农业的信息。	gameText	wiki_rescrape	wiki_rescrape
-This isn't over, Vacu...	这事还没完，Vacu……	gameText	wiki_rescrape	wiki_rescrape
+This isn't over, Vacu...	这事还没完，瓦库……	gameText	wiki_rescrape	wiki_rescrape
 Charting complete: @sail_txt@Find some odd aquatic plant life west of the Dark Wizards' Tower.	制图完成：@sail_txt@在暗黑法师塔西面寻找一些奇特的水生植物。	gameText	wiki_rescrape	wiki_rescrape
 The evidence of the storm tearing this ship apart is clear from a glance. You note its location down.	一眼就能看出这艘船是被风暴撕裂的。你记下了它的位置。	gameText	wiki_rescrape	wiki_rescrape
 Ranalph Devere: Corrupted are we now Viyeldi is slain..	拉纳尔夫.德维尔：维耶尔迪已死，如今我们已堕落了……	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Hoe Down	你解锁了一首新的音乐曲目：@mes_hl_red@Hoe Down	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Hoe Down	你解锁了一首新的音乐曲目：@mes_hl_red@锄地舞	gameText	wiki_rescrape	wiki_rescrape
 Level 10 Slayer: Facemask	10级杀戮：面罩	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Have an Ice Day	你解锁了一首新的音乐曲目：@mes_hl_red@Have an Ice Day	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Have an Ice Day	你解锁了一首新的音乐曲目：@mes_hl_red@冰爽一天	gameText	wiki_rescrape	wiki_rescrape
 The water in your bucket evaporates in the desert heat.	你桶里的水在沙漠的酷热中蒸发了。	gameText	wiki_rescrape	wiki_rescrape
 You have not succeeded at this event yet. You need to complete the event before you can leave along the success path.	你尚未成功完成此事件。你需要先完成该事件，才能沿成功路径离开。	gameText	wiki_rescrape	wiki_rescrape
 You can't use the minigame teleports from here.	你无法从这里使用小游戏传送。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Stranded	你解锁了一首新的音乐曲目：@mes_hl_red@Stranded	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Stranded	你解锁了一首新的音乐曲目：@mes_hl_red@被困	gameText	wiki_rescrape	wiki_rescrape
 You eat the extra-hot kebab.	你吃掉了超辣烤肉。	gameText	wiki_rescrape	wiki_rescrape
 You've unlocked a holiday item: Witch cape - collect it from Diango.	你解锁了一件节日物品：女巫斗篷——可从迪亚戈处领取。	gameText	wiki_rescrape	wiki_rescrape
 You place the candle in the brazier, and carefully light it.	你把蜡烛放进火盆，并小心地点燃它。	gameText	wiki_rescrape	wiki_rescrape
@@ -6232,12 +6232,12 @@ You need 20 x Limpwurt (unnoted).	你需要20个软木草（非票据）。	game
 You remove the broken cannon barrel.	你取下了破损的大炮炮管。	gameText	wiki_rescrape	wiki_rescrape
 That light creature is too far away to see you clearly.	那只光之生物离得太远，看不清你。	gameText	wiki_rescrape	wiki_rescrape
 Level 60 Crafting: Green dragonhide chaps	60级制作：绿龙皮裤	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Down to Earth	你解锁了一首新的音乐曲目：@mes_hl_red@Down to Earth	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Down to Earth	你解锁了一首新的音乐曲目：@mes_hl_red@脚踏实地	gameText	wiki_rescrape	wiki_rescrape
 You've been frozen!	你被冻结了！	gameText	wiki_rescrape	wiki_rescrape
 You start concentrating the @mes_hl_pur@Mystic mana amalgam...	你开始浓缩@mes_hl_pur@神秘魔力融液……	gameText	wiki_rescrape	wiki_rescrape
 This is a flower patch. The soil has been treated with ultracompost. The patch is empty and weeded.	这是一块花卉种植地。土壤已施用终极堆肥。该地块为空且已除草。	gameText	wiki_rescrape	wiki_rescrape
 You retrieve a polished Seagull Bone from the pot.	你从罐中取出一根打磨过的海鸥骨头。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Tribal Background	你解锁了一首新的音乐曲目：@mes_hl_red@Tribal Background	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Tribal Background	你解锁了一首新的音乐曲目：@mes_hl_red@部落背景	gameText	wiki_rescrape	wiki_rescrape
 A trapped soul that was lurking in the plants jumps out and attacks you!	一个潜伏在植物中的被困灵魂跳出来攻击你！	gameText	wiki_rescrape	wiki_rescrape
 Level 40 Agility: High-level Agility Arena obstacles	40级敏捷：高级敏捷竞技场障碍	gameText	wiki_rescrape	wiki_rescrape
 You fiddle with the lock.	你摆弄着锁。	gameText	wiki_rescrape	wiki_rescrape
@@ -6246,7 +6246,7 @@ The key is useless now. You discard it.	这把钥匙现在没用了。你把它�
 Your dodgy necklace protects you. It then crumbles to dust.	你的可疑的项链保护了你。随后它化为尘土。	gameText	wiki_rescrape	wiki_rescrape
 Congratulations on solving five mazes in a row, have 8 bonus points, 10 law runes and extra magic XP!	恭喜你连续解开五个迷宫，获得8点奖励积分、10个律法符石和额外魔法经验值！	gameText	wiki_rescrape	wiki_rescrape
 You hear a click near the centre of the room.	你听到房间中央附近传来一声咔嗒声。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Ready for the Hunt	你解锁了一首新音乐曲目：@mes_hl_red@Ready for the Hunt	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Ready for the Hunt	你解锁了一首新音乐曲目：@mes_hl_red@准备狩猎	gameText	wiki_rescrape	wiki_rescrape
 You use your hammer to tap the plank into place.	你用锤子把木板敲入到位。	gameText	wiki_rescrape	wiki_rescrape
 You need level 67 Herblore to clean the Grimy lantadyme.	你需要67级草药学才能清洗未清洗的兰塔丁草。	gameText	wiki_rescrape	wiki_rescrape
 You have cancelled the @sail_txt@Ardougne fish delivery port task.	你已取消@sail_txt@阿多尼城鱼类运送港口任务。	gameText	wiki_rescrape	wiki_rescrape
@@ -6531,7 +6531,7 @@ You pay 1,200 coins and sail to Corsair Cove.	你支付1,200金币，扬帆前�
 Congratulations! You have received 2 Telekinetic Pizazz Points!	恭喜！你获得了2点念力华丽点数！	gameText	wiki_rescrape	wiki_rescrape
 Level 71 Magic: Cure Me	71级魔法：治愈自身	gameText	wiki_rescrape	wiki_rescrape
 Level 14 Cooking: Cider (members-only)	14级烹饪：苹果酒（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
-The resources from Neypotzli fizzle to dust as they are severed from its magic.	内波茨利监狱的资源在被切断与魔法的联系后化为尘土。	gameText	wiki_rescrape	wiki_rescrape
+The resources from Neypotzli fizzle to dust as they are severed from its magic.	内波茨利的资源在被切断与魔法的联系后化为尘土。	gameText	wiki_rescrape	wiki_rescrape
 This way is blocked off, no chance to get through here!	这条路被堵住了，没法从这里通过！	gameText	wiki_rescrape	wiki_rescrape
 You start homogenising the @mes_hl_pur@Mystic mana amalgam...	你开始均质化@mes_hl_pur@神秘魔力融液……	gameText	wiki_rescrape	wiki_rescrape
 You drink some of your absorption potion.	你喝下了一些伤害吸收药水。	gameText	wiki_rescrape	wiki_rescrape
@@ -6547,7 +6547,7 @@ You finish crystallising the @mes_hl_pur@Mystic mana amalgam.	你完成了@mes_h
 Level 75 Woodcutting: Magic trees	75级伐木：魔法树	gameText	wiki_rescrape	wiki_rescrape
 You discard the remaining recoil charges of your ring.	你丢弃了戒指剩余的反弹充能。	gameText	wiki_rescrape	wiki_rescrape
 You eat some more of the chocolate cake.	你又吃了一些巧克力蛋糕。	gameText	wiki_rescrape	wiki_rescrape
-@mes_hl_blu@Your current duck comes to a stop.	@mes_hl_blu@你当前的海流鸭停了下来。	gameText	wiki_rescrape	wiki_rescrape
+@mes_hl_blu@Your current duck comes to a stop.	@mes_hl_blu@你的海流鸭停了下来。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Haunted Mine	你解锁了一首新音乐曲目：@mes_hl_red@闹鬼矿场	gameText	wiki_rescrape	wiki_rescrape
 Level 86 Smithing: Rune axes	86级锻造：符文斧	gameText	wiki_rescrape	wiki_rescrape
 You have less than 10 minutes to deliver your current Aluft Aloft Delivery.	你距离完成当前的奥卢夫特空运运送只剩不到10分钟。	gameText	wiki_rescrape	wiki_rescrape
@@ -6637,10 +6637,10 @@ You need a rope or must be wearing a complete Spirit Angler outfit to tether you
 Level 30 Agility: Agility Pyramid	30级敏捷：敏捷金字塔	gameText	wiki_rescrape	wiki_rescrape
 You cannot teleport to that location without the Hard Desert Diary completed	未完成困难沙漠日记，你无法传送到该地点	gameText	wiki_rescrape	wiki_rescrape
 This cactus is totally dry and has no fluid.	这株仙人掌完全干枯，没有任何汁液。	gameText	wiki_rescrape	wiki_rescrape
-Level 24 Agility: Nemus Retreat wall climbs	24级敏捷：Nemus Retreat 攀墙	gameText	wiki_rescrape	wiki_rescrape
+Level 24 Agility: Nemus Retreat wall climbs	24级敏捷：内穆斯隐居地攀墙	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Ice and Fire	你解锁了一首新音乐曲目：@mes_hl_red@冰与火	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Chamber	你解锁了一首新音乐曲目：@mes_hl_red@密室	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Anywhere	你解锁了一首新音乐曲目：@mes_hl_red@Anywhere	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Anywhere	你解锁了一首新音乐曲目：@mes_hl_red@任何地方	gameText	wiki_rescrape	wiki_rescrape
 You board the Adventurous.	你登上了 Adventurous 号。	gameText	wiki_rescrape	wiki_rescrape
 Level 55 Firemaking: Mahogany pyre logs	55级生火：火葬用红木原木	gameText	wiki_rescrape	wiki_rescrape
 You don't want to damage the still.	你不想损坏蒸馏器。	gameText	wiki_rescrape	wiki_rescrape
@@ -6648,13 +6648,13 @@ You step through the rift and find yourself at the Law Altar.	你穿过裂隙，
 You can't see what would burn very well here. Perhaps you should complete Making Friends with My Arm first.	你看不出这里有什么东西能很好地燃烧。也许你应该先完成与"我的手臂"交朋友。	gameText	wiki_rescrape	wiki_rescrape
 You put a pot lid in the oven.	你把一个罐盖放进了烤箱。	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Defence: Void Knight equipment	42级防御：虚空骑士装备	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Pheasant Peasant	你解锁了一首新音乐曲目：@mes_hl_red@Pheasant Peasant	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Pheasant Peasant	你解锁了一首新音乐曲目：@mes_hl_red@雉鸡农民	gameText	wiki_rescrape	wiki_rescrape
 Level 4 Smithing: Bronze swords	4级锻造：青铜剑	gameText	wiki_rescrape	wiki_rescrape
 You swing your pick at the pillar.	你用镐敲击柱子。	gameText	wiki_rescrape	wiki_rescrape
 You lose some @tempoross_warn@fish and a @tempoross_warn@Hammer to the waves.	你损失了一些@tempoross_warn@鱼和一把@tempoross_warn@锤子，被波浪卷走了。	gameText	wiki_rescrape	wiki_rescrape
 Level 56 Crafting: Diamond necklace	56级制作：钻石项链	gameText	wiki_rescrape	wiki_rescrape
 You hold the Water talisman towards the mysterious ruins.	你将水护符举向神秘废墟。	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Grow Grow Grow	你解锁了一首新音乐曲目：@mes_hl_red@Grow Grow Grow	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Grow Grow Grow	你解锁了一首新音乐曲目：@mes_hl_red@生长，生长，生长	gameText	wiki_rescrape	wiki_rescrape
 You start concentrating the @mes_hl_pur@Mammoth-might mix...	你开始浓缩@mes_hl_pur@猛犸之力药剂……	gameText	wiki_rescrape	wiki_rescrape
 Level 28 Fishing: Slimy eel (members-only)	28级钓鱼：黏滑鳗鱼（仅限会员）	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@The Houses of Kourend	你解锁了一首新音乐曲目：@mes_hl_red@库兰德王国的家族	gameText	wiki_rescrape	wiki_rescrape
@@ -6736,7 +6736,7 @@ You build the cooking pot.	你建造了烹饪锅。	gameText	wiki_rescrape	wiki_
 Level 39 Agility: Scale Yanille wall	39级敏捷：翻越亚尼勒城墙	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@The Desolate Mage	你解锁了一首新乐曲：@mes_hl_red@荒凉法师	gameText	wiki_rescrape	wiki_rescrape
 You plant an attas seed in the anima patch.	你在灵能种植地种下一颗阿塔斯种子。	gameText	wiki_rescrape	wiki_rescrape
-You've unlocked a variant for your spider hat: Verzik	你为你的蜘蛛帽解锁了一个变体：Verzik	gameText	wiki_rescrape	wiki_rescrape
+You've unlocked a variant for your spider hat: Verzik	你为你的蜘蛛帽解锁了一个变体：维齐克	gameText	wiki_rescrape	wiki_rescrape
 Level 42 Cooking: Chocolate bomb	42级烹饪：巧克力炸弹	gameText	wiki_rescrape	wiki_rescrape
 @mes_hl_cya@The Blue Moon pierces your defence. The cold is starting to get in...	@mes_hl_cya@蓝月刺穿了你的防御。寒气开始侵入……	gameText	wiki_rescrape	wiki_rescrape
 You deposit some @mes_hl_pur@Mammoth-might mix and fulfil an order.	你存入了一些@mes_hl_pur@猛犸之力药剂并完成了一份订单。	gameText	wiki_rescrape	wiki_rescrape
@@ -6827,7 +6827,7 @@ You have unlocked a new music track: @mes_hl_red@Autumn Voyage	你解锁了一�
 Did you know? Old School Runescape is a fully crossplatform, and crossplay game. Play on mobile or desktop with the same character, the same worlds and the same friends.	你知道吗？Old School Runescape是一款完全跨平台、支持跨平台游玩的游戏。在手机或电脑上使用同一个角色、同一个世界和同一群好友游玩。	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Book of Spells	你解锁了一首新曲目：@mes_hl_red@法术之书	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Yesteryear	你解锁了一首新的音乐曲目：@mes_hl_red@往昔	gameText	wiki_rescrape	wiki_rescrape
-You have unlocked a new music track: @mes_hl_red@Dream	你解锁了一首新的音乐曲目：@mes_hl_red@Dream	gameText	wiki_rescrape	wiki_rescrape
+You have unlocked a new music track: @mes_hl_red@Dream	你解锁了一首新的音乐曲目：@mes_hl_red@梦境	gameText	wiki_rescrape	wiki_rescrape
 You have unlocked a new music track: @mes_hl_red@Flute Salad	你解锁了一首新曲目：@mes_hl_red@长笛沙拉	gameText	wiki_rescrape	wiki_rescrape
 Did you know? On mobile you can enable a loot tracker which displays values of your drops while you play.	你知道吗？在移动端你可以启用战利品追踪器，在游戏时显示掉落物的价值。	gameText	wiki_rescrape	wiki_rescrape
 Did you know? On mobile you can check on your farm plots at any time and on the go.	你知道吗？在手机上你可以随时随地查看你的农场地块。	gameText	wiki_rescrape	wiki_rescrape
