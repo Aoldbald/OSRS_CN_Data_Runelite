@@ -6832,3 +6832,4 @@ You have unlocked a new music track: @mes_hl_red@Flute Salad	你解锁了一首�
 Did you know? On mobile you can enable a loot tracker which displays values of your drops while you play.	你知道吗？在移动端你可以启用战利品追踪器，在游戏时显示掉落物的价值。	gameText	wiki_rescrape	wiki_rescrape
 Did you know? On mobile you can check on your farm plots at any time and on the go.	你知道吗？在手机上你可以随时随地查看你的农场地块。	gameText	wiki_rescrape	wiki_rescrape
 Did you know? You can highlight ground tiles when playing on mobile to help you know where to tap, especially in high-stakes encounters!	你知道吗？在移动端游玩时，你可以高亮地面瓷砖，帮助你了解该点击哪里，尤其是在高风险的遭遇中！	gameText	wiki_rescrape	wiki_rescrape
+You gave a 5/5 rating to a quest: @q_mes@The Writing's on the Wall	你给一个任务打了5/5分：@q_mes@墙上的字迹	gameText	wiki_rescrape	wiki_rescrape
