@@ -1988,3 +1988,7 @@ Jump!	跳！	actions	menu	audit-0715
 Disable Adventure Paths	关闭冒险指引	actions	menu	audit-0715
 Bonds	债券	actions	menu	audit-0715
 Sandbags	沙袋	actions	menu	audit-0715
+Sell 1	出售1个	actions	menu	manual
+Sell 5	出售5个	actions	menu	manual
+Sell 10	出售10个	actions	menu	manual
+Sell 50	出售50个	actions	menu	manual

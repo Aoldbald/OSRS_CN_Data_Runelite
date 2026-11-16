@@ -6833,3 +6833,13 @@ Did you know? On mobile you can enable a loot tracker which displays values of y
 Did you know? On mobile you can check on your farm plots at any time and on the go.	你知道吗？在手机上你可以随时随地查看你的农场地块。	gameText	wiki_rescrape	wiki_rescrape
 Did you know? You can highlight ground tiles when playing on mobile to help you know where to tap, especially in high-stakes encounters!	你知道吗？在移动端游玩时，你可以高亮地面瓷砖，帮助你了解该点击哪里，尤其是在高风险的遭遇中！	gameText	wiki_rescrape	wiki_rescrape
 You gave a 5/5 rating to a quest: @q_mes@The Writing's on the Wall	你给一个任务打了5/5分：@q_mes@墙上的字迹	gameText	wiki_rescrape	wiki_rescrape
+You have set the Combat path in focus.	你已将战斗路径设为聚焦。	gameText	adventure_paths	manual
+You have set the Gatherer path in focus.	你已将采集路径设为聚焦。	gameText	adventure_paths	manual
+You just completed the task Getting started with Attack! Speak to Adventurer Jon to claim your reward.	你刚刚完成了任务：攻击入门！去找冒险者乔恩领取奖励。	gameText	adventure_paths	manual
+You shouldn't open the name menu during combat.	战斗中不能打开名字菜单。	gameText	ui	manual
+The flour bin is already empty. You need to place wheat in the hopper upstairs first.	面粉箱已经空了。你得先把小麦放进楼上的漏斗。	gameText	Cook's Assistant	manual
+You fill a pot with the last of the flour in the bin.	你用箱里最后一点面粉装满了一个罐子。	gameText	Cook's Assistant	manual
+You have removed 1 item.	你移除了1件物品。	gameText	recycling_centre	manual
+You've started a new quest: Cook's Assistant	你开始了一个新任务：厨师助手	gameText	quest	manual
+You've started a new quest: X Marks the Spot	你开始了一个新任务：X 标记地点	gameText	quest	manual
+You've started a new quest: Ernest the Chicken	你开始了一个新任务：小鸡欧内斯特	gameText	quest	manual

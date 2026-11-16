@@ -35051,3 +35051,22 @@ Click the shrimp in your inventory	点击你物品栏里的虾	interface	wiki_re
 You search the shelves and find an old newspaper	你搜索了架子，找到一份旧报纸	interface	wiki_rescrape	wiki_rescrape
 Will you save her in time?	你能及时救下她吗？	interface	wiki_rescrape	wiki_rescrape
 You search the shelves and find a very large quantity	你搜索了架子，找到非常大量的物品	interface	wiki_rescrape	wiki_rescrape
+Set Focus	设为聚焦	interface	adventure_paths	manual
+Remove Focus	取消聚焦	interface	adventure_paths	manual
+Drop Focus	放弃聚焦	interface	adventure_paths	manual
+Show Settings	显示设置	interface	adventure_paths	manual
+All Quests	所有任务	interface	quest_list	manual
+Finish	完成	interface	ui	manual
+Germany	德国	interface	world_switcher	manual
+Australia	澳大利亚	interface	world_switcher	manual
+Brazil	巴西	interface	world_switcher	manual
+Singapore	新加坡	interface	world_switcher	manual
+Japan	日本	interface	world_switcher	manual
+The Sacred Grove	圣林	interface	location	manual
+Wise Old Man's Recycling Centre	睿智老人的回收中心	interface	recycling_centre	manual
+Drag items here from the recycling centre to remove them.	把物品从回收中心拖到这里即可移除。	interface	recycling_centre	manual
+Enable Swap	启用交换	interface	ui	manual
+I need to find Ernest.	我需要找到欧内斯特。	journal	Ernest the Chicken	manual
+He went into Draynor Manor and hasn't returned, I should go into the manor and investigate.	他进了德雷诺庄园就再没回来，我应该进庄园调查一下。	journal	Ernest the Chicken	manual
+I've spoken to Dr Oddenstein, and discovered Ernest is a chicken	我和奥登斯坦博士谈过了，发现欧内斯特变成了一只鸡	journal	Ernest the Chicken	manual
+I need to bring Dr Oddenstein parts for his machine 1 Oil Can 1 Pressure Gauge 1 Rubber Tube Dr Oddenstein said to search the manor grounds for the items. Maybe there are some items laying around that could help me.	我需要给奥登斯坦博士带去机器零件：1个油罐、1个压力表、1根橡胶管。奥登斯坦博士说可以在庄园里搜寻这些物品。也许附近就有能帮上忙的东西。	journal	Ernest the Chicken	manual
