@@ -58966,7 +58966,7 @@ Don't suppose you've come across any strange... emblems or artifacts along your 
 If you do, please let me know. I'll reward you handsomely.	如果你找到了，请告诉我。我会给你丰厚的奖励。	dialogue	Emblem Trader	Emblem Trader
 Very nice! You should sell them to me for some blood money.	非常好！你应该把它们卖给我，换些沾满鲜血的钱。	dialogue	Emblem Trader	Emblem Trader
 I see you have been gathering antique emblems. My master is most pleased! Would you like to trade your emblems for rewards now?	我看到你一直在收集古代徽章。我的主人非常高兴！你想现在用徽章换奖励吗？	dialogue	Emblem Trader	Emblem Trader
-My master in the north has completed his collection here, and I no longer accept these. He has a special collection on Deadman Worlds he is still collecting for, though.	我北边的主人已经在这里收集齐了，我不再收这些了。不过，他在死亡模式世界还有一个特别的收藏正在收集。	dialogue	Emblem Trader	Emblem Trader
+My master in the north has completed his collection here, and I no longer accept these. He has a special collection on Deadman Worlds he is still collecting for, though.	我北边的主人已经在这里收集齐了，我不再收这些了。不过，他在一条命模式世界还有一个特别的收藏正在收集。	dialogue	Emblem Trader	Emblem Trader
 If you do, please do let me know. I'll reward you handsomely.	如果你找到了，请务必告诉我。我会给你丰厚的奖励。	dialogue	Emblem Trader	Emblem Trader
 If you find an ancient emblem, totem, or statuette, use it on me in revenant caves and I'll exchange it for coins.	如果你找到了古代徽章、图腾或小雕像，在亡灵洞穴里对我使用它，我会用它换金币。	dialogue	Emblem Trader	Emblem Trader
 You are now skulled!	你现在被标记了头骨！	dialogue	Emblem Trader	Emblem Trader
@@ -79185,11 +79185,11 @@ Annakarl fell early in the war to forces of Saradomin. Attempts to reclaim the f
 Annihilate that [man/woman]!	消灭那个[man/woman]！	dialogue	ptbr_import	ptbr
 Annihilation Home Teleport. This can be toggled by right-clicking on the Home Teleport in your spellbook.	湮灭之家传送。你可以在法术书中右键点击“回家传送”来切换此功能。	dialogue	ptbr_import	ptbr
 Annihilation home teleport.	湮灭之家传送。	dialogue	ptbr_import	ptbr
-Annihilation is a temporary event. All progress made will be transferred to Permanent Deadman Mode upon its conclusion.	歼灭战是暂时性活动。所有进度将在活动结束后转移至永久死亡模式。	dialogue	ptbr_import	ptbr
+Annihilation is a temporary event. All progress made will be transferred to Permanent Deadman Mode upon its conclusion.	歼灭战是暂时性活动。所有进度将在活动结束后转移至永久一条命模式。	dialogue	ptbr_import	ptbr
 Annihilation ornament theme for your weapons and armour.	你的武器和盔甲的湮灭装饰主题。	dialogue	ptbr_import	ptbr
 Annihilation weapon ornaments.	歼灭战武器装饰。	dialogue	ptbr_import	ptbr
-Annihilation worlds until their conclusion on the 21st of February, at which point your progress will be converted for use in Permanent Deadman.	歼灭战世界将持续至2月21日结束，届时你的进度将转换至永久死亡模式中使用。	dialogue	ptbr_import	ptbr
-Annihilation, you will need to forfeit ALL progress associated with it in Permanent Deadman.	歼灭战中，你将需要放弃在永久死亡模式中与之相关的所有进度。	dialogue	ptbr_import	ptbr
+Annihilation worlds until their conclusion on the 21st of February, at which point your progress will be converted for use in Permanent Deadman.	歼灭战世界将持续至2月21日结束，届时你的进度将转换至永久一条命模式中使用。	dialogue	ptbr_import	ptbr
+Annihilation, you will need to forfeit ALL progress associated with it in Permanent Deadman.	歼灭战中，你将需要放弃在永久一条命模式中与之相关的所有进度。	dialogue	ptbr_import	ptbr
 Annihilation. Would you like to read the scroll?	湮灭。你想读一下卷轴吗？	dialogue	ptbr_import	ptbr
 Anniversary!	周年纪念！	dialogue	ptbr_import	ptbr
 Another cutscene begins with Grubfoot still wearing the orange armour.	另一段过场动画开始，格拉布福特仍穿着橙色盔甲。	dialogue	ptbr_import	ptbr
@@ -83047,7 +83047,7 @@ I am an honourable being. The old lady is correct. We should state our cases. It
 I am chef!	我是厨师！	dialogue	ptbr_import	ptbr
 I am death itself. My domain is a year round Halloween theme. If you can answer some questions correctly, I'll grant you some of my prized decorations...	我就是死亡本身。我的领域是全年万圣节主题。如果你能正确回答一些问题，我会给你一些我珍爱的装饰品……	dialogue	ptbr_import	ptbr
 I am far from typical!	我绝非典型！	dialogue	ptbr_import	ptbr
-I am fine with losing access to Permanent Deadman worlds for now.	我暂时不介意失去进入永久死亡模式世界的权限。	dialogue	ptbr_import	ptbr
+I am fine with losing access to Permanent Deadman worlds for now.	我暂时不介意失去进入永久一条命模式世界的权限。	dialogue	ptbr_import	ptbr
 I am from a place far in the Kharidian Desert. So far that you would not have heard of it, so there is no point in me telling you the name of this place.	我来自卡里迪安沙漠深处的一个地方。远到你都没听说过，所以告诉你名字也没意义。	dialogue	ptbr_import	ptbr
 I am glad that you are still wearing that jumper I made for you! It still fits you perfectly, even two years on.	我很高兴你还穿着我为你织的那件套头衫！即使过了两年，它还是那么合身。	dialogue	ptbr_import	ptbr
 I am glad to hear it. Well, here you go!	很高兴听你这么说。好了，给你！	dialogue	ptbr_import	ptbr
@@ -86060,7 +86060,7 @@ Law runes.	律法符文。	dialogue	ptbr_import	ptbr
 Lead goblins to promied land of Yu'biusk.	带领哥布林前往应许之地尤比斯克。	dialogue	ptbr_import	ptbr
 Leap out of the flaming octagram.	跳出燃烧的八角星阵。	dialogue	ptbr_import	ptbr
 Learn Augury	学习占卜术	dialogue	ptbr_import	ptbr
-Learn Deadeye	学习精准射击	dialogue	ptbr_import	ptbr
+Learn Deadeye	学习神射手	dialogue	ptbr_import	ptbr
 Learn Magic	学习魔法	dialogue	ptbr_import	ptbr
 Learn Mystic vigour	学习神秘活力	dialogue	ptbr_import	ptbr
 Learn Rigour	学习严谨	dialogue	ptbr_import	ptbr
@@ -95460,7 +95460,7 @@ You cannot stop me now Pete. Get out of my way.	你现在阻止不了我，皮�
 You cannot teleport from Tutorial Island just yet!	你还不能从教程岛传送！	dialogue	ptbr_import	ptbr
 You cannot tie Keli up until you have all equipment and disabled the guard!	在你拥有所有装备并解除守卫的武装之前，你不能捆绑凯莉！	dialogue	ptbr_import	ptbr
 You cannot understand what he is saying.	你听不懂他在说什么。	dialogue	ptbr_import	ptbr
-You cannot withdraw coins from the coffers on Deadman worlds.	你不能在死亡模式世界中从金库中提取金币。	dialogue	ptbr_import	ptbr
+You cannot withdraw coins from the coffers on Deadman worlds.	你不能在一条命模式世界中从金库中提取金币。	dialogue	ptbr_import	ptbr
 You carefully administer the potion to Silif.	你小心地将药水喂给西利夫。	dialogue	ptbr_import	ptbr
 You carefully attach the phalanx to the fang. Its bony structure expands, completely overtaking the weapon.	你小心地将指骨连接到毒牙上。它的骨骼结构扩张开来，完全覆盖了武器。	dialogue	ptbr_import	ptbr
 You carefully craft a pair of confliction gauntlets.	你精心制作了一对冲突手套。	dialogue	ptbr_import	ptbr
@@ -101301,8 +101301,8 @@ You have recruited Cabin Boy Jenkins as a crew member.	你已招募船舱侍应�
 You have recruited Captain Siad as a crew member.	你已招募西亚德船长作为船员。	dialogue	ptbr_import	ptbr
 You have recruited Jobless Jim as a crew member.	你已招募无业的吉姆作为船员。	dialogue	ptbr_import	ptbr
 You have recruited Oarswoman Olga as a crew member.	你已招募女桨手奥尔加作为船员。	dialogue	ptbr_import	ptbr
-You've unlocked the Deadman: Annihilation Home Teleport! This can be toggled by right-clicking on the Home Teleport in your Spellbook.	你已解锁死斗模式：湮灭家园传送！你可以在法术书中右键点击家园传送来切换此功能。	dialogue	ptbr_import	ptbr
-You've unlocked the Deadman: Armageddon Home Teleport! This can be toggled by right-clicking on the Home Teleport in your Spellbook.	你已解锁死斗模式：末日决战家园传送！你可以在法术书中右键点击家园传送来切换此功能。	dialogue	ptbr_import	ptbr
+You've unlocked the Deadman: Annihilation Home Teleport! This can be toggled by right-clicking on the Home Teleport in your Spellbook.	你已解锁一条命模式：湮灭家园传送！你可以在法术书中右键点击家园传送来切换此功能。	dialogue	ptbr_import	ptbr
+You've unlocked the Deadman: Armageddon Home Teleport! This can be toggled by right-clicking on the Home Teleport in your Spellbook.	你已解锁一条命模式：末日决战家园传送！你可以在法术书中右键点击家园传送来切换此功能。	dialogue	ptbr_import	ptbr
 Amoxliatl disables your prayers.	阿莫克斯利亚特尔禁用了你的祈祷。	dialogue	ptbr_import	ptbr
 The sapling withers due to lack of nutrients.	树苗因缺乏养分而枯萎。	dialogue	ptbr_import	ptbr
 You are escorted out of the house as the owner has locked the door.	由于屋主锁了门，你被护送出了房子。	dialogue	ptbr_import	ptbr
@@ -103714,10 +103714,10 @@ You need to etch the fang in order to use it to craft.	你需要先雕刻毒牙�
 Choose spellbook:	选择法术书：	dialogue	wiki_rescrape	wiki_rescrape
 You need to have completed Desert Treasure I in order to use Ancient spells.	你需要完成沙漠宝藏 I 才能使用远古法术。	dialogue	wiki_rescrape	wiki_rescrape
 You need to have completed Lunar Diplomacy in order to use Lunar spells.	你需要完成月亮外交才能使用月亮法术。	dialogue	wiki_rescrape	wiki_rescrape
-You can use this on Nigel in Lumbridge to unlock the Deadman: Annihilation ornament theme for your weapons and armour.	你可以在仑桥镇把它交给奈杰尔，解锁死亡模式：湮灭的武器和盔甲装饰主题。	dialogue	wiki_rescrape	wiki_rescrape
-This scroll will unlock a new Home Teleport animation from Deadman: Annihilation. Would you like to read the scroll?	这张卷轴将解锁死亡模式：湮灭的新家园传送动画。你想阅读这张卷轴吗？	dialogue	wiki_rescrape	wiki_rescrape
-Unlock the Deadman: Annihilation home teleport.	解锁死亡模式：湮灭家园传送。	dialogue	wiki_rescrape	wiki_rescrape
-You feel empowered by the scroll and learn the Deadman: Annihilation Home Teleport. This can be toggled by right-clicking on the Home Teleport in your spellbook.	你感受到卷轴的力量，学会了死斗：湮灭传送术。你可以通过右键点击法术书中的传送术来切换。	dialogue	wiki_rescrape	wiki_rescrape
+You can use this on Nigel in Lumbridge to unlock the Deadman: Annihilation ornament theme for your weapons and armour.	你可以在仑桥镇把它交给奈杰尔，解锁一条命模式：湮灭的武器和盔甲装饰主题。	dialogue	wiki_rescrape	wiki_rescrape
+This scroll will unlock a new Home Teleport animation from Deadman: Annihilation. Would you like to read the scroll?	这张卷轴将解锁一条命模式：湮灭的新家园传送动画。你想阅读这张卷轴吗？	dialogue	wiki_rescrape	wiki_rescrape
+Unlock the Deadman: Annihilation home teleport.	解锁一条命模式：湮灭家园传送。	dialogue	wiki_rescrape	wiki_rescrape
+You feel empowered by the scroll and learn the Deadman: Annihilation Home Teleport. This can be toggled by right-clicking on the Home Teleport in your spellbook.	你感受到卷轴的力量，学会了一条命模式：湮灭传送术。你可以通过右键点击法术书中的传送术来切换。	dialogue	wiki_rescrape	wiki_rescrape
 The aranei hands you several buckets.	蜘蛛人递给你几个桶。	dialogue	wiki_rescrape	wiki_rescrape
 You give <Num0> feathers to the aranei. They now have <Num1> in total.	你给了蜘蛛人<Num0>根羽毛。他们现在总共有<Num1>根。	dialogue	wiki_rescrape	wiki_rescrape
 Trade venator teeth for dragon arrowtips and dart tips?	用猎龙者牙齿换取龙箭头和龙爪镖尖？	dialogue	wiki_rescrape	wiki_rescrape
@@ -103817,12 +103817,12 @@ I realise that based on your past actions, you likely have little desire to help
 Thanks to you, Lucien has successfully acquired the Staff of Armadyl. With this treasure, he presents a threat that this world has not seen for millennia, and we alone are not powerful enough to stop him.	多亏了你，卢西安成功获得了阿玛杜尔杖。凭借这件宝藏，他构成了这个世界数千年来未曾见过的威胁，仅凭我们自己的力量不足以阻止他。	dialogue	wiki_rescrape	wiki_rescrape
 I am informed that you stood against the Mahjarrat invasion of Varrock. I implore you to take a similar stance here by reconsidering your alliance with Lucien, for all of Gielinor is at risk.	我得知你曾抵抗过玛哈加特对维洛克城的入侵。我恳请你在这里采取类似的立场，重新考虑你与卢西安的联盟，因为整个吉莱诺都处于危险之中。	dialogue	wiki_rescrape	wiki_rescrape
 If you are willing to help us stand against him, please make haste to Ivy Sophista, our ally in Taverley.	如果你愿意帮助我们对抗他，请尽快前往塔韦利村找我们的盟友艾薇.索菲斯塔。	dialogue	wiki_rescrape	wiki_rescrape
-You can use this on Nigel in Lumbridge to unlock the Deadman: Armageddon ornament theme for your capes.	你可以将此物用在仑桥镇的奈杰尔身上，为你的披风解锁死斗：末日装饰主题。	dialogue	wiki_rescrape	wiki_rescrape
-You can use this on Nigel in Lumbridge to unlock the Deadman: Armageddon ornament theme for your weapons.	你可以将此物用在仑桥镇的奈杰尔身上，为你的武器解锁死斗：末日装饰主题。	dialogue	wiki_rescrape	wiki_rescrape
-This scroll will unlock a new Home Teleport animation from Deadman: Armageddon. Would you like to read the scroll?	这张卷轴将解锁死斗：末日中的新家园传送动画。你想阅读这张卷轴吗？	dialogue	wiki_rescrape	wiki_rescrape
-Unlock the Deadman: Armageddon home teleport.	解锁死斗：末日家园传送。	dialogue	wiki_rescrape	wiki_rescrape
-You feel empowered by the scroll and learn the Deadman: Armageddon Home Teleport. This can be toggled by right-clicking on the Home Teleport in your spellbook.	你感受到卷轴赋予的力量，学会了死斗：末日家园传送。你可以通过右键点击法术书中的家园传送来切换此动画。	dialogue	wiki_rescrape	wiki_rescrape
-This scroll contains an incantation which unlocks the Deadman: Armageddon home teleport animation. However you have already unlocked this animation.	这张卷轴包含一段咒语，可以解锁死斗：末日家园传送动画。但你已经解锁了这个动画。	dialogue	wiki_rescrape	wiki_rescrape
+You can use this on Nigel in Lumbridge to unlock the Deadman: Armageddon ornament theme for your capes.	你可以将此物用在仑桥镇的奈杰尔身上，为你的披风解锁一条命模式：末日装饰主题。	dialogue	wiki_rescrape	wiki_rescrape
+You can use this on Nigel in Lumbridge to unlock the Deadman: Armageddon ornament theme for your weapons.	你可以将此物用在仑桥镇的奈杰尔身上，为你的武器解锁一条命模式：末日装饰主题。	dialogue	wiki_rescrape	wiki_rescrape
+This scroll will unlock a new Home Teleport animation from Deadman: Armageddon. Would you like to read the scroll?	这张卷轴将解锁一条命模式：末日中的新家园传送动画。你想阅读这张卷轴吗？	dialogue	wiki_rescrape	wiki_rescrape
+Unlock the Deadman: Armageddon home teleport.	解锁一条命模式：末日家园传送。	dialogue	wiki_rescrape	wiki_rescrape
+You feel empowered by the scroll and learn the Deadman: Armageddon Home Teleport. This can be toggled by right-clicking on the Home Teleport in your spellbook.	你感受到卷轴赋予的力量，学会了一条命模式：末日家园传送。你可以通过右键点击法术书中的家园传送来切换此动画。	dialogue	wiki_rescrape	wiki_rescrape
+This scroll contains an incantation which unlocks the Deadman: Armageddon home teleport animation. However you have already unlocked this animation.	这张卷轴包含一段咒语，可以解锁一条命模式：末日家园传送动画。但你已经解锁了这个动画。	dialogue	wiki_rescrape	wiki_rescrape
 The armour on display here was once worn by the Cloud Titan that inhabited the islands of Tempest Bay.	这里展示的盔甲曾由居住在风暴湾群岛的云巨人穿戴。	dialogue	wiki_rescrape	wiki_rescrape
 Despite the Cloud Titan being defeated around 900 years ago, the armour was not found until roughly 700 years later when it was donated to the museum by a traveller.	尽管云巨人大约在900年前被击败，但这套盔甲直到大约700年后才被发现，由一位旅行者捐赠给了博物馆。	dialogue	wiki_rescrape	wiki_rescrape
 The traveller claimed to have slain the Cloud Titan himself, with the giant having survived its original defeat. However, experts consider this unlikely.	这位旅行者声称自己亲手杀死了云巨人，说巨人在最初的失败中幸存了下来。然而，专家们认为这不太可能。	dialogue	wiki_rescrape	wiki_rescrape
@@ -115189,7 +115189,7 @@ Yes, don't ask again.	是的，别再问了。	dialogue	wiki_rescrape	wiki_rescr
 Would you like to fill a jug with coolant?	你想用冷却液装满一个壶吗？	dialogue	wiki_rescrape	wiki_rescrape
 What is there to do in Lovakengj?	在洛瓦肯吉城有什么可做的？	dialogue	wiki_rescrape	wiki_rescrape
 That would be me, sir. What can I do for you?	那就是我，先生。有什么能为您效劳的？	dialogue	wiki_rescrape	wiki_rescrape
-Recover your boat for 3,750 coins? Some cargo will be lost.	花费3,750金币修复你的船？部分货物将会丢失。	dialogue	wiki_rescrape	wiki_rescrape
+Recover your boat for 3,750 coins? Some cargo will be lost.	花费3,750金币找回你的船？部分货物将会丢失。	dialogue	wiki_rescrape	wiki_rescrape
 These be dark times, though, lad. See, a week ago we awoke to find ourselves besieged.	不过，小伙子，这是黑暗的时代。你看，一周前我们醒来时发现自己被围困了。	dialogue	wiki_rescrape	wiki_rescrape
 Nilsal! The name's Jessamine, though most people call me Jess. You must be [player name]. I hear you sorted out the situation holding back the arrival of our supplies. Thanks for that.	尼萨尔！我叫杰萨明，不过大多数人都叫我杰斯。你一定是[player name]。我听说你解决了阻碍我们补给品抵达的状况。多谢了。	dialogue	wiki_rescrape	wiki_rescrape
 The net is not yet full.	网还没满。	dialogue	wiki_rescrape	wiki_rescrape
@@ -116652,7 +116652,7 @@ Hmm... I'm not sure what other answer I expected to be honest. And why are you h
 If you are undaunted by large setbacks, you can try again. A completely fresh start, as if you had only just arrived here for the first time.	如果你不怕重大挫折，你可以再试一次。完全重新开始，就像你第一次来到这里一样。	dialogue	wiki_rescrape	wiki_rescrape
 Than...	谢……	dialogue	wiki_rescrape	wiki_rescrape
 It is worth noting that the records speak highly of you, Guardian.	值得一提的是，记录对你评价很高，守护者。	dialogue	wiki_rescrape	wiki_rescrape
-That's good to hear. Hopefully you can bring some quick justice to the thieves responsible!	很高兴听到这个。希望你能迅速为那些盗贼带来正义！	dialogue	wiki_rescrape	wiki_rescrape
+That's good to hear. Hopefully you can bring some quick justice to the thieves responsible!	很高兴听到这个。希望你能尽快将那些盗贼绳之以法！	dialogue	wiki_rescrape	wiki_rescrape
 I am a headhunter of sorts. My master seeks fresh adventurers for his challenge. The brave, the reckless, the prodigial.	我算是个猎头。我的主人为他的挑战寻找新的冒险者。勇敢的、鲁莽的、天赋异禀的。	dialogue	wiki_rescrape	wiki_rescrape
 Me no want go this way. Me meet you back in graveyard.	我不走这条路。你办完事后，我们在墓地见。	dialogue	wiki_rescrape	wiki_rescrape
 That's all for now.	暂时就这些。	dialogue	wiki_rescrape	wiki_rescrape
@@ -116714,7 +116714,7 @@ You search the bed and find a bloody knife under it.	你搜索了床，在床下
 You uncharge Zorya's tome.	你卸下了佐里亚之书中的充能。	dialogue	wiki_rescrape	wiki_rescrape
 You already have a staff, but Captain Harlan gives you 40 mind runes and 40 air runes to go with it.	你已经有了一根法杖，但哈兰队长给了你40个心灵符石和40个风符石与之搭配。	dialogue	wiki_rescrape	wiki_rescrape
 Found capes?! My boy, you have witnessed the Living Records of the Archive itself! A privilege reserved to only the most esteemed protectors of this legendary site.	披风？！我的孩子，你目睹了档案馆本身的活记录！这是只有这座传奇遗址最尊贵的守护者才能享有的特权。	dialogue	wiki_rescrape	wiki_rescrape
-No what?	没有什么？	dialogue	wiki_rescrape	wiki_rescrape
+No what?	不是什么？	dialogue	wiki_rescrape	wiki_rescrape
 And if I do manage to work it out?	那如果我成功破解了呢？	dialogue	wiki_rescrape	wiki_rescrape
 I am Death.	我是死神。	dialogue	wiki_rescrape	wiki_rescrape
 So I'm dead?	所以我死了？	dialogue	wiki_rescrape	wiki_rescrape
@@ -116823,7 +116823,7 @@ When ye have a bit o' experience, yer best bet is the Hunter Guild in Varlamore,
 Samantha.	萨曼莎。	dialogue	wiki_rescrape	wiki_rescrape
 Happy to be a part of it!	很高兴能参与其中！	dialogue	wiki_rescrape	wiki_rescrape
 A spider jumps out the crate and runs away.	一只蜘蛛从箱子里跳出来逃走了。	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Marabella Kludge - REST IN PEACE'	“这里长眠着玛拉贝拉.克拉奇——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Marabella Kludge - REST IN PEACE'	“玛拉贝拉.克拉奇长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 What was the task you wanted me to do again?	你刚才想让我做的任务是什么来着？	dialogue	wiki_rescrape	wiki_rescrape
 Are you there [player name]?!	你在吗[player name]？！	dialogue	wiki_rescrape	wiki_rescrape
 You have my thanks again.	再次感谢你。	dialogue	wiki_rescrape	wiki_rescrape
@@ -116844,7 +116844,7 @@ He got away!	他逃走了！	dialogue	wiki_rescrape	wiki_rescrape
 That's not how cows are built! Try again, and maybe next time you'll get it right!	奶牛可不是这么拼的！再试一次，也许下次你就能拼对了！	dialogue	wiki_rescrape	wiki_rescrape
 No no!	不不！	dialogue	wiki_rescrape	wiki_rescrape
 Uhm... of course I do.	呃……我当然有。	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Jayna Harrow - REST IN PEACE'	“这里长眠着杰娜.哈罗——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Jayna Harrow - REST IN PEACE'	“杰娜.哈罗长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 Hmm... I reckon I have enough sticks for a shelter.	嗯……我估摸着我的棍子够搭一个庇护所了。	dialogue	wiki_rescrape	wiki_rescrape
 You should find a light source and a tinderbox before going down there.	下去之前，你应该先找好光源和火绒盒。	dialogue	wiki_rescrape	wiki_rescrape
 Well, at least we're makin' the best o' a bad job.	好吧，至少我们在糟糕的处境里尽力而为了。	dialogue	wiki_rescrape	wiki_rescrape
@@ -116864,7 +116864,7 @@ Squishy.	软乎乎的。	dialogue	wiki_rescrape	wiki_rescrape
 'Yes, [player name], what is it?'	“是的，[player name]，什么事？”	dialogue	wiki_rescrape	wiki_rescrape
 Wilfred gives you a bronze axe and a tinderbox.	威尔弗雷德给了你一把青铜斧和一个火绒盒。	dialogue	wiki_rescrape	wiki_rescrape
 I am scared of the dark.	我怕黑。	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Jayna Corbo - REST IN PEACE'	“这里长眠着杰娜.科博——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Jayna Corbo - REST IN PEACE'	“杰娜.科博长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 It seems that was the wrong reply.	看来那是错误的回答。	dialogue	wiki_rescrape	wiki_rescrape
 You lay down the leaves in front of the snail. It cautiously starts nibbling on them, but it noticeably winces as it does so.	你把叶子放在蜗牛面前。它小心翼翼地开始啃食，但明显疼得缩了一下。	dialogue	wiki_rescrape	wiki_rescrape
 I'm not gonna' get me 'oney am I?	我这是拿不到我的蜂蜜了吧？	dialogue	wiki_rescrape	wiki_rescrape
@@ -116983,7 +116983,7 @@ A startled chicken escapes from the crate.	一只受惊的鸡从箱子里逃了�
 I've lost Bea's bees.	我把比娅的蜜蜂弄丢了。	dialogue	wiki_rescrape	wiki_rescrape
 You almost remove a suitable twig, but you don't quite manage it.	你差点就取下一根合适的树枝，但没能成功。	dialogue	wiki_rescrape	wiki_rescrape
 Could you remind me how to get rid of them?	你能提醒我该怎么除掉它们吗？	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Serra Alcanthric - REST IN PEACE'	“此处长眠着塞拉.阿尔坎斯里克——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Serra Alcanthric - REST IN PEACE'	“塞拉.阿尔坎斯里克长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 You take some insect repellent from the crate.	你从箱子里取了一些驱虫剂。	dialogue	wiki_rescrape	wiki_rescrape
 When yer've got me bees from the bloke in the Grand Exchange, just pop back.	等你从大交易所那家伙手里拿到我的蜜蜂，就赶紧回来。	dialogue	wiki_rescrape	wiki_rescrape
 What have you done?!	你都干了些什么？！	dialogue	wiki_rescrape	wiki_rescrape
@@ -117037,7 +117037,7 @@ I've managed to find some strong sticks to build you a home with, but I need a f
 This is going to be a very difficult grab, try moving a little closer.	这一抓会非常困难，试着靠近一点。	dialogue	wiki_rescrape	wiki_rescrape
 Abyssal Services apologise for any inconvenience. Please accept these runes in way of recompense.	深渊服务对任何不便深表歉意。请收下这些符文作为补偿。	dialogue	wiki_rescrape	wiki_rescrape
 Yer can, but I'm 'fraid yer not got enough darts. For one supply bag it'll either be 35 wasp darts or 20 killer wasp darts.	可以，但恐怕你的飞镖不够。一个补给袋需要35支黄蜂飞镖或20支杀手黄蜂飞镖。	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Eryn Treforest - REST IN PEACE'	“长眠于此的是埃林.特雷福雷斯特——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Eryn Treforest - REST IN PEACE'	“埃林.特雷福雷斯特长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 Hsss!	嘶嘶！	dialogue	wiki_rescrape	wiki_rescrape
 The name appears in fragments, but never with enough certainty for my liking. What interests me more is the crest on the side. It is that of Camelot.	这个名字以碎片形式出现，但从未有让我满意的确定性。更让我感兴趣的是侧面的纹章。那是卡美洛的纹章。	dialogue	wiki_rescrape	wiki_rescrape
 This gate seems to be locked.	这扇大门似乎锁上了。	dialogue	wiki_rescrape	wiki_rescrape
@@ -117064,7 +117064,7 @@ NOW I'VE GOT YOU!	现在我逮住你了！	dialogue	wiki_rescrape	wiki_rescrape
 That should keep you protected from those leeches! Make sure you get in here as soon as you see them coming!	这应该能保护你免受那些水蛭的伤害！一看到它们过来，就赶紧躲进来！	dialogue	wiki_rescrape	wiki_rescrape
 No, I still need to give him that.	不，我还得把那个给他。	dialogue	wiki_rescrape	wiki_rescrape
 ... so it turns out Betty was the killer all along!	……所以到头来贝蒂才是杀手！	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Domin O'Raleigh - REST IN PEACE'	“长眠于此的是多明.奥雷利——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Domin O'Raleigh - REST IN PEACE'	“多明.奥雷利长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 Then you've come to the right place.	那你来对地方了。	dialogue	wiki_rescrape	wiki_rescrape
 I can take a look for you, please give it to me.	我可以帮你看看，请把它给我。	dialogue	wiki_rescrape	wiki_rescrape
 Oooh, you're looking for a really very special item then! You must go and talk to our very illustrious leader, Al Shabim. He's located in the largest tent in our village.	哦，那你要找的是一件非常特别的物品！你必须去和我们非常显赫的首领阿尔.沙比姆谈谈。他就在我们村子里最大的帐篷里。	dialogue	wiki_rescrape	wiki_rescrape
@@ -117128,7 +117128,7 @@ Grrrrrrrrr	咕噜噜噜噜噜	dialogue	wiki_rescrape	wiki_rescrape
 Why aren't you in Rellekka yet?	你怎么还没去雷勒卡城？	dialogue	wiki_rescrape	wiki_rescrape
 The pattern seems to have vanished from my pack...not my fault, of course.	图案好像从我包里消失了……当然，不是我的错。	dialogue	wiki_rescrape	wiki_rescrape
 Was the one you gave us a fake?!	你给我们的那个是假的？！	dialogue	wiki_rescrape	wiki_rescrape
-Well, this place is new i'nt it? Bea's farm be a bee farm, just as soon as we set 'er up. Don't s'pose yer could give us an 'and with that, could yer?	嗯，这地方挺新鲜的，对吧？比娅的农场就是蜜蜂农场，只要咱们把它建起来。不知道你能不能帮我们一把？	dialogue	wiki_rescrape	wiki_rescrape
+Well, this place is new i'nt it? Bea's farm be a bee farm, just as soon as we set 'er up. Don't s'pose yer could give us an 'and with that, could yer?	嗯，这地方是新开的，对吧？比娅的农场会是个养蜂场，等咱们把它建起来就是了。不知道你能不能帮我们一把？	dialogue	wiki_rescrape	wiki_rescrape
 Ain't got two bees t'rub togetha' and now we got wasps squattin' in me 'ives!	现在连两只蜜蜂都凑不齐，还有黄蜂赖在我的蜂箱里！	dialogue	wiki_rescrape	wiki_rescrape
 I know, but I can't stay with you forever. I'll make sure to visit you all the time!	我知道，但我不能永远陪着你。我保证会常来看你们的！	dialogue	wiki_rescrape	wiki_rescrape
 Scout.	侦察兵。	dialogue	wiki_rescrape	wiki_rescrape
@@ -117186,9 +117186,9 @@ As a last farewell, I'll gather you some more food before I go.	作为最后的�
 Wot kind o' bees turn inta wasps on transit!	什么样的蜜蜂在运输途中会变成黄蜂啊！	dialogue	wiki_rescrape	wiki_rescrape
 Tempting, but I don't think you're skilled enough unfortunately.	很诱人，但不幸的是，我觉得你的技能还不够。	dialogue	wiki_rescrape	wiki_rescrape
 Great! I'll get these lovelies in their new 'ome. You wanna watch 'em move in?	太好了！我会把这些可爱的小家伙安置到它们的新家。你想看看它们搬进去吗？	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Petrik Corbo - REST IN PEACE'	“这里长眠着彼特里克.科博——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Petrik Corbo - REST IN PEACE'	“彼特里克.科博长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 So you say these killer wasps are much worse than the normal ones?	所以你是说这些杀手黄蜂比普通的黄蜂要糟糕得多？	dialogue	wiki_rescrape	wiki_rescrape
-You carefully rub the restorative dew onto the snail's wounds.	你小心地将恢复露涂抹在蜗牛的伤口上。	dialogue	wiki_rescrape	wiki_rescrape
+You carefully rub the restorative dew onto the snail's wounds.	你小心地将恢复露水涂抹在蜗牛的伤口上。	dialogue	wiki_rescrape	wiki_rescrape
 I've not managed to find you any food yet, li'l snail, but I'm sure there's something tasty nearby. Maybe some nice leaves...	小蜗牛，我还没能给你找到吃的，但我相信附近一定有什么好吃的东西。也许是一些美味的叶子……	dialogue	wiki_rescrape	wiki_rescrape
 The agitated insects lash out and sting you through the holes in the box.	躁动的昆虫发起攻击，透过箱子上的孔洞蜇了你。	dialogue	wiki_rescrape	wiki_rescrape
 Did you meet with the representative from the mountain camp yet?	你见到山地营地的代表了吗？	dialogue	wiki_rescrape	wiki_rescrape
@@ -117198,7 +117198,7 @@ You show the leaves to the snail. It gives you a look of affirmation in response
 ... and so the dog shelter now has plenty of dogs!	……于是狗收容所现在有了很多狗！	dialogue	wiki_rescrape	wiki_rescrape
 Something I found earlier. However, it also seemed to suggest that some sort of icon is needed to enter the church. I think I have it here.	这是我之前发现的东西。不过，它似乎也暗示进入教堂需要某种圣像。我想我这里有。	dialogue	wiki_rescrape	wiki_rescrape
 You show Archmage Sedridor the gem.	你把宝石拿给大法师塞德里多看。	dialogue	wiki_rescrape	wiki_rescrape
-'Here lies Korvic Frey - REST IN PEACE'	“这里长眠着科维克.弗雷——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
+'Here lies Korvic Frey - REST IN PEACE'	“科维克.弗雷长眠于此——安息吧”	dialogue	wiki_rescrape	wiki_rescrape
 You operate the appendage to no good effect.	你操作了附属物，但毫无效果。	dialogue	wiki_rescrape	wiki_rescrape
 Hmm... That's not good... This place is pretty hostile. Maybe I can get you some food?	嗯……这可不太好……这地方相当危险。也许我能给你找点吃的？	dialogue	wiki_rescrape	wiki_rescrape
 [player name], I'm talking to you!	[player name]，我在跟你说话！	dialogue	wiki_rescrape	wiki_rescrape
@@ -117248,6 +117248,6 @@ You've taken a bad blow to the head. Come with me and I'll examine it.	你的头
 Where am I? What is this place?	我在哪？这是什么地方？	dialogue	wiki_rescrape	wiki_rescrape
 You are under my care for the moment so you will do as I say, and I say take it easy for a minute and talk to me again.	你暂时由我照看，所以你要照我说的做，我说的是先放松一会儿，然后再来跟我说话。	dialogue	wiki_rescrape	wiki_rescrape
 Inspect the blood on top of the drawers.	检查抽屉柜顶部的血迹。	dialogue	wiki_rescrape	wiki_rescrape
-I reckon I've learnt everything I can.	我想我已经学会了所有能学的东西。	dialogue	wiki_rescrape	wiki_rescrape
+I reckon I've learnt everything I can.	我想我能了解的都已经了解了。	dialogue	wiki_rescrape	wiki_rescrape
 Oh dear, oh dear, I don't think you are in any state for adventuring. I think you'll have to spend a little more time here recuperating.	天哪，天哪，我觉得你现在这个状态根本没法去冒险。我看你得在这里多待一段时间好好休养。	dialogue	wiki_rescrape	wiki_rescrape
 You need a Thieving level of 49 to assist Captain Khaled.	你需要49级偷窃才能协助哈立德船长。	dialogue	wiki_rescrape	wiki_rescrape

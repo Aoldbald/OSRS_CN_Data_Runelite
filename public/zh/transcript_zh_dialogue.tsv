@@ -1110,11 +1110,11 @@ Ruling the Kingdom, Your Royal Highness.	统治王国，殿下。	dialogue	Advis
 Ruling the Kingdom, Thane [Fremennik name].	统治王国，男爵[Fremennik name]。	dialogue	Advisor Ghrim	Advisor Ghrim
 And making sure that the king doesn't cause any more trouble.	并确保国王不再惹麻烦。	dialogue	Advisor Ghrim	Advisor Ghrim
 You aren't carrying any coins.	你没有携带任何金币。	dialogue	Advisor Ghrim	Advisor Ghrim
-You are carrying [number] coins. Enter an amount to deposit in the coffers. You cannot withdraw coins from the coffers on Deadman worlds.	你携带了 [number] 金币，请输入要存入国库的金额。在死亡模式世界中，你无法从米斯凯尼亚国库提取金币。	dialogue	Advisor Ghrim	Advisor Ghrim
+You are carrying [number] coins. Enter an amount to deposit in the coffers. You cannot withdraw coins from the coffers on Deadman worlds.	你携带了 [number] 金币，请输入要存入国库的金额。在一条命模式世界中，你无法从米斯凯尼亚国库提取金币。	dialogue	Advisor Ghrim	Advisor Ghrim
 You are carrying [number] coins. Enter an amount to deposit in the coffers.	你携带了 [number] 金币，请输入要存入国库的金额。	dialogue	Advisor Ghrim	Advisor Ghrim
 Added [number] coins to the coffers.	已向国库添加 [number] 金币。	dialogue	Advisor Ghrim	Advisor Ghrim
 There are no coins to withdraw.	没有金币可提现。	dialogue	Advisor Ghrim	Advisor Ghrim
-You cannot withdraw from Miscellanian coffers on a Deadman world.	在死亡模式世界中，你无法从米斯凯尼亚国库提取金币。	dialogue	Advisor Ghrim	Advisor Ghrim
+You cannot withdraw from Miscellanian coffers on a Deadman world.	在一条命模式世界中，你无法从米斯凯尼亚国库提取金币。	dialogue	Advisor Ghrim	Advisor Ghrim
 The coffers contain [number] coins. Enter an amount to withdraw from the coffers.	国库里有 [number] 金币，请输入要从国库提取的金额。	dialogue	Advisor Ghrim	Advisor Ghrim
 Withdrew [number] coins.	已提取 [number] 金币。	dialogue	Advisor Ghrim	Advisor Ghrim
 How is the Kingdom faring?	王国现在情况如何？	dialogue	Advisor Ghrim	Advisor Ghrim
@@ -20945,8 +20945,8 @@ I don't need anything.	我什么都不需要。	dialogue	Filamina	Player
 I don't need anything.	我什么都不需要。	dialogue	Filamina	Filamina
 Can I help you?	我能帮你吗？	dialogue	Financial Seer	Financial Seer
 What's a Financial Seer?	什么是财务先知？	dialogue	Financial Seer	Player
-In towns elsewhere in the world, there are bankers who look after your items. Among them are Financial Wizards, who are able to access your safe deposit box on Deadman Worlds.	在世界其他城镇，有银行职员保管你的物品。其中有财务巫师，他们能访问你在死亡模式世界的保险箱。	dialogue	Financial Seer	Financial Seer
-Although we Fremenniks have little interest in magic, I can nevertheless access your safe deposit box on this Deadman World. Would you like to do that now?	虽然我们费明尼克人对魔法没什么兴趣，但我仍能访问你在这个死亡模式世界的保险箱。你现在想做吗？	dialogue	Financial Seer	Financial Seer
+In towns elsewhere in the world, there are bankers who look after your items. Among them are Financial Wizards, who are able to access your safe deposit box on Deadman Worlds.	在世界其他城镇，有银行职员保管你的物品。其中有财务巫师，他们能访问你在一条命模式世界的保险箱。	dialogue	Financial Seer	Financial Seer
+Although we Fremenniks have little interest in magic, I can nevertheless access your safe deposit box on this Deadman World. Would you like to do that now?	虽然我们费明尼克人对魔法没什么兴趣，但我仍能访问你在这个一条命模式世界的保险箱。你现在想做吗？	dialogue	Financial Seer	Financial Seer
 Yes, please.	好的，谢谢。	dialogue	Financial Seer	Player
 No, thank you.	不用了，谢谢。	dialogue	Financial Seer	Player
 I'd like to access my bank account, please.	我想查看我的银行账户。	dialogue	Financial Seer	Financial Seer
@@ -20957,7 +20957,7 @@ No, thank you.	不用了，谢谢。	dialogue	Financial Seer	Financial Seer
 What is this place?	这是什么地方？	dialogue	Financial Wizard	Player
 We will look after your items and money for you. Leave your valuables with us if you want to keep them safe.	我们会为你保管物品与金钱。若想确保贵重物品安全，可交由我们保管。	dialogue	Financial Wizard	Financial Wizard
 What's a Financial Wizard?	什么是财务巫师？	dialogue	Financial Wizard	Player
-Ah, we're special bankers who can access your safe deposit box on Deadman Worlds. Would you like to do that now?	我们是特殊的银行职员，能访问你在死亡模式世界的保险箱。现在要访问吗？	dialogue	Financial Wizard	Financial Wizard
+Ah, we're special bankers who can access your safe deposit box on Deadman Worlds. Would you like to do that now?	我们是特殊的银行职员，能访问你在一条命模式世界的保险箱。现在要访问吗？	dialogue	Financial Wizard	Financial Wizard
 Yes, please.	好的，谢谢。	dialogue	Financial Wizard	Player
 No, thank you.	不用了，谢谢。	dialogue	Financial Wizard	Player
 You don't have any inventory space.	你没有物品栏空间。	dialogue	Financial Wizard	Financial Wizard
@@ -38775,7 +38775,7 @@ You shouldn't be up here!	你不应该在这里！	dialogue	Mercy	Mercy
 I don't think you should be using that without speaking to Percy first.	我认为你不应该在不先跟珀西说话的情况下使用那个。	dialogue	Mercy	Mercy
 Welcome to the Games Zone!	欢迎来到游戏区！	dialogue	Meredith	Meredith
 How do I play board games?	我怎么玩棋盘游戏？	dialogue	Meredith	Player
-You can challenge someone to a game anywhere in the Games Zone (except on a PvP or Deadman world) by using the right click option.	你可以通过使用右键选项在游戏区任何地方(PvP 或死亡模式世界除外)向某人挑战游戏。	dialogue	Meredith	Meredith
+You can challenge someone to a game anywhere in the Games Zone (except on a PvP or Deadman world) by using the right click option.	你可以通过使用右键选项在游戏区任何地方(PvP 或一条命模式世界除外)向某人挑战游戏。	dialogue	Meredith	Meredith
 Choose the type of game and then choose the options you want such as time per move.	选择游戏类型然后选择你想要的选项比如每步时间。	dialogue	Meredith	Meredith
 If your opponent accepts the challenge you will be taken to one of the tables around where you will play your game of choice.	如果你的对手接受挑战，你将被带到周围的一张桌子那里玩你选择的游戏。	dialogue	Meredith	Meredith
 Once you have finished your game you will come back here where you can challenge again! We also have tables in a few pubs around the world!	一旦你完成游戏，你将回到这里，可以再次挑战！我们在世界各地的几个酒馆也有桌子！	dialogue	Meredith	Meredith
@@ -38792,7 +38792,7 @@ Yep, the aim is to have more of your runes on the board than your opponent. You 
 Can I buy a drink please?	我能买杯饮料吗？	dialogue	Meredith	Player
 I'm afraid I don't sell drinks.	恐怕我不卖饮料。	dialogue	Meredith	Meredith
 Thanks!	谢谢！	dialogue	Meredith	Player
-Unfortunately we do not offer board game playing on this world. Try logging onto a non-PvP or Deadman world!	不幸的是我们在这个世界不提供棋盘游戏。试试登录非 PvP 或死亡模式世界！	dialogue	Meredith	Meredith
+Unfortunately we do not offer board game playing on this world. Try logging onto a non-PvP or Deadman world!	不幸的是我们在这个世界不提供棋盘游戏。试试登录非 PvP 或一条命模式世界！	dialogue	Meredith	Meredith
 How do I play board games?	我怎么玩棋盘游戏？	dialogue	Meredith	Meredith
 What games can I play?	我能玩什么游戏？	dialogue	Meredith	Meredith
 Draughts?	跳棋？	dialogue	Meredith	Meredith
@@ -41777,46 +41777,46 @@ That's fine - I can handle any task.	没关系——我能应付任何任务。	
 That's fine - I don't want anything too tough.	没关系——我不想要太难的任务。	dialogue	Nieve	Nieve
 Er... Nothing...	呃……没什么……	dialogue	Nieve	Nieve
 Hey, who are you?	嘿，你是谁？	dialogue	Nigel	Player
-I'm Nigel. It is my job to tell you about Deadman Mode.	我是奈杰尔。我的工作是向你介绍死亡模式。	dialogue	Nigel	Nigel
-Could you grant me access to Deadman: Annihilation?	你能让我进入死亡模式：歼灭战吗？	dialogue	Nigel	Player
+I'm Nigel. It is my job to tell you about Deadman Mode.	我是奈杰尔。我的工作是向你介绍一条命模式。	dialogue	Nigel	Nigel
+Could you grant me access to Deadman: Annihilation?	你能让我进入一条命模式：歼灭战吗？	dialogue	Nigel	Player
 Well, yes, but there's some information you're going to want first.	嗯，可以，但有些信息你得先了解。	dialogue	Nigel	Nigel
-Deadman: Annihilation is a temporary event. All progress made will be transferred to Permanent Deadman Mode upon its conclusion.	死亡模式：歼灭战是临时活动。所有进度在活动结束后将转移到永久死亡模式。	dialogue	Nigel	Nigel
-To use this account in Deadman: Annihilation, you will need to forfeit ALL progress associated with it in Permanent Deadman.	要在死亡模式：歼灭战中使用此账号，你需要放弃它在永久死亡模式中的所有进度。	dialogue	Nigel	Nigel
+Deadman: Annihilation is a temporary event. All progress made will be transferred to Permanent Deadman Mode upon its conclusion.	一条命模式：歼灭战是临时活动。所有进度在活动结束后将转移到永久一条命模式。	dialogue	Nigel	Nigel
+To use this account in Deadman: Annihilation, you will need to forfeit ALL progress associated with it in Permanent Deadman.	要在一条命模式：歼灭战中使用此账号，你需要放弃它在永久一条命模式中的所有进度。	dialogue	Nigel	Nigel
 This includes all of your stats and items and this process is irreversible. Your main save will be unaffected.	这包括你所有的属性和物品，而且这个过程不可逆转。你的主存档不会受影响。	dialogue	Nigel	Nigel
-Afterwards, you will be able to play on Deadman: Annihilation worlds until their conclusion on the 21st of February, at which point your progress will be converted for use in Permanent Deadman.	之后，你将能够在死亡模式：歼灭战世界上游玩，直到2月21日结束，届时你的进度将转换用于永久死亡模式。	dialogue	Nigel	Nigel
+Afterwards, you will be able to play on Deadman: Annihilation worlds until their conclusion on the 21st of February, at which point your progress will be converted for use in Permanent Deadman.	之后，你将能够在一条命模式：歼灭战世界上游玩，直到2月21日结束，届时你的进度将转换用于永久一条命模式。	dialogue	Nigel	Nigel
 Now, if you wouldn't mind signing a few waivers...	现在，如果你不介意签署几份弃权书……	dialogue	Nigel	Nigel
-Very well. To complete your conversion, you will need to switch to a Deadman: Annihilation world.	很好。要完成转换，你需要切换到死亡模式：歼灭战世界。	dialogue	Nigel	Nigel
-If you leave Lumbridge, speak to me again, or log back in to a Permanent Deadman world, your account conversion will be cancelled.	如果你离开仑桥镇、再次与我交谈，或重新登录到永久死亡模式世界，你的账号转换将被取消。	dialogue	Nigel	Nigel
+Very well. To complete your conversion, you will need to switch to a Deadman: Annihilation world.	很好。要完成转换，你需要切换到一条命模式：歼灭战世界。	dialogue	Nigel	Nigel
+If you leave Lumbridge, speak to me again, or log back in to a Permanent Deadman world, your account conversion will be cancelled.	如果你离开仑桥镇、再次与我交谈，或重新登录到永久一条命模式世界，你的账号转换将被取消。	dialogue	Nigel	Nigel
 And yes, I'm making you choose a world yourself. This is a big decision, you know!	是的，我让你自己选择世界。这可是个大决定，你知道的！	dialogue	Nigel	Nigel
-I have a question about Deadman mode.	我有个关于死亡模式的问题。	dialogue	Nigel	Player
+I have a question about Deadman mode.	我有个关于一条命模式的问题。	dialogue	Nigel	Player
 What would you like to know?	你想了解什么？	dialogue	Nigel	Nigel
-What is Deadman mode?	什么是死亡模式？	dialogue	Nigel	Player
-Deadman mode is an incredibly dangerous survival game mode. Anyone can attack anyone, anywhere. Death comes at a huge cost and killing other players can be extremely lucrative.	死亡模式是一种极其危险的生存游戏模式。任何人都可以在任何地方攻击任何人。死亡代价巨大，而击杀其他玩家可能非常有利可图。	dialogue	Nigel	Nigel
+What is Deadman mode?	什么是一条命模式？	dialogue	Nigel	Player
+Deadman mode is an incredibly dangerous survival game mode. Anyone can attack anyone, anywhere. Death comes at a huge cost and killing other players can be extremely lucrative.	一条命模式是一种极其危险的生存游戏模式。任何人都可以在任何地方攻击任何人。死亡代价巨大，而击杀其他玩家可能非常有利可图。	dialogue	Nigel	Nigel
 Lucrative, you say?	有利可图，你说？	dialogue	Nigel	Player
 Killing a player will earn you all of the items they had on them, plus the 10 most valuable items from their bank. The unfortunate soul will also lose half of their experience in most skills, or a quarter if they were not skulled. Regardless, it's quite the set-back.	击杀一名玩家将获得他身上所有的物品，加上他银行中最有价值的10件物品。那个不幸的家伙还会失去大部分技能一半的经验值，如果没有红名的话则是四分之一。无论如何，这都是相当大的挫折。	dialogue	Nigel	Nigel
 Wow, that is brutal!	哇，太残忍了！	dialogue	Nigel	Player
-It is, but it is no simple task to kill someone in Deadman mode.	确实，但在死亡模式中击杀某人并非易事。	dialogue	Nigel	Nigel
+It is, but it is no simple task to kill someone in Deadman mode.	确实，但在一条命模式中击杀某人并非易事。	dialogue	Nigel	Nigel
 Very high level guards patrol every major city and bank. They will kill anyone who has a skull. Getting yourself a kill is only half the battle.	非常高等级的守卫巡逻每个主要城市和银行。他们会击杀任何红名的人。完成击杀只是战斗的一半。	dialogue	Nigel	Nigel
-How do I play Deadman mode?	我如何玩死亡模式？	dialogue	Nigel	Player
-You can log into Deadman mode by selecting a Deadman mode world from the world list before you log in.	你可以在登录前从世界列表中选择死亡模式世界来登录死亡模式。	dialogue	Nigel	Nigel
-So I don't need a new account to play Deadman mode?	所以我不需要新账号就能玩死亡模式？	dialogue	Nigel	Player
-Nope! You can use your existing account on a Deadman world, providing you have membership.	不需要！你可以在死亡模式世界上使用现有账号，只要你有会员资格。	dialogue	Nigel	Nigel
-Do my stats and items transfer over to Deadman mode?	我的属性和物品会转移到死亡模式吗？	dialogue	Nigel	Player
-No, they do not. Your Deadman mode progress is completely separate from normal Old School worlds.	不，不会。你的死亡模式进度与普通 Old School 世界完全分开。	dialogue	Nigel	Nigel
-What happens when I die in Deadman mode?	我在死亡模式中死亡会发生什么？	dialogue	Nigel	Player
+How do I play Deadman mode?	我如何玩一条命模式？	dialogue	Nigel	Player
+You can log into Deadman mode by selecting a Deadman mode world from the world list before you log in.	你可以在登录前从世界列表中选择一条命模式世界来登录一条命模式。	dialogue	Nigel	Nigel
+So I don't need a new account to play Deadman mode?	所以我不需要新账号就能玩一条命模式？	dialogue	Nigel	Player
+Nope! You can use your existing account on a Deadman world, providing you have membership.	不需要！你可以在一条命模式世界上使用现有账号，只要你有会员资格。	dialogue	Nigel	Nigel
+Do my stats and items transfer over to Deadman mode?	我的属性和物品会转移到一条命模式吗？	dialogue	Nigel	Player
+No, they do not. Your Deadman mode progress is completely separate from normal Old School worlds.	不，不会。你的一条命模式进度与普通 Old School 世界完全分开。	dialogue	Nigel	Nigel
+What happens when I die in Deadman mode?	我在一条命模式中死亡会发生什么？	dialogue	Nigel	Player
 If you die to a player you will lose the 10 most valuable stacks of items from your bank, all items that you have on your person and half of the experience you have gained in any unprotected skills.	若被玩家击杀，你将失去银行内最有价值的10组物品、身上所有物品，以及未保护技能所获经验值的一半。	dialogue	Nigel	Nigel
 If you die to a monster when you have a PK skull you will lose the 10 most valuable stacks of items from your bank, all items that you have on your person and half of the experience you have gained in any unprotected skills.	如果你红名时被怪物击杀，你将失去银行中最有价值的10组物品、身上所有物品以及在未保护技能中获得的一半经验值。	dialogue	Nigel	Nigel
 If you die to a monster when you do not have a PK skull you will lose all of the items on your person except for the 3 most valuable. You will not lose experience or any items from your bank.	如果你没有红名时被怪物击杀，你将失去身上除了最有价值的3件之外的所有物品。你不会失去经验值或银行中的任何物品。	dialogue	Nigel	Nigel
-What happens when I kill a player in Deadman mode?	我在死亡模式中击杀一名玩家会发生什么？	dialogue	Nigel	Player
-When you kill a player you will receive any items they have on their person and you will also be given a key. You can use this key on Deadman chests found in various banks across the map. Within the chest you will	击杀玩家后，你将获得其身上所有物品及一把钥匙。可用此钥匙开启地图各银行中的死亡模式宝箱，	dialogue	Nigel	Nigel
+What happens when I kill a player in Deadman mode?	我在一条命模式中击杀一名玩家会发生什么？	dialogue	Nigel	Player
+When you kill a player you will receive any items they have on their person and you will also be given a key. You can use this key on Deadman chests found in various banks across the map. Within the chest you will	击杀玩家后，你将获得其身上所有物品及一把钥匙。可用此钥匙开启地图各银行中的一条命模式宝箱，	dialogue	Nigel	Nigel
 find the 10 most valuable stacks of items from the bank of the player you struck down. From here you will be able to choose the items you would like to keep.	从中获取该玩家银行内最有价值的10组物品，并选择保留所需物品。	dialogue	Nigel	Nigel
-How can I protect my items in Deadman mode?	我如何在死亡模式中保护我的物品？	dialogue	Nigel	Player
+How can I protect my items in Deadman mode?	我如何在一条命模式中保护我的物品？	dialogue	Nigel	Player
 You can protect up to 10 items by placing them in your safe deposit box. Items in your safe deposit box will not be lost to a player who kills you, unlike those found in your bank. Remember that you can only place 10 single items into your safe deposit box, no stacks.	你最多可将10件物品放入保险箱来保护它们。与银行物品不同，保险箱中的物品不会在玩家击杀你时丢失。记住保险箱只能存放10件单独物品，不能存放堆叠物品。	dialogue	Nigel	Nigel
-How can I protect my stats in Deadman mode?	我如何在死亡模式中保护我的属性？	dialogue	Nigel	Player
+How can I protect my stats in Deadman mode?	我如何在一条命模式中保护我的属性？	dialogue	Nigel	Player
 You can protect your levels in up to 2 combat skills and 3 non-combat skills. You can choose which by opening your items lost on death interface found in your equipment tab. Choose wisely!	你最多可保护2项战斗技能和3项非战斗技能的等级。通过装备栏中的''死亡掉落物品''界面即可选择。慎重选择！	dialogue	Nigel	Nigel
 You should be warned however. If you get killed by a guard, you will lose a tenth of your experience in those skills too!	不过要提醒你，如果你被守卫击杀，你也会失去那些技能十分之一的经验值！	dialogue	Nigel	Nigel
 Gelin over there also has some deals on insuring your hitpoints, speak to her to find out more about that.	那边的格琳也有一些关于保险生命值的交易，和她谈谈了解更多。	dialogue	Nigel	Nigel
-What are safe zones in Deadman mode?	死亡模式中的安全区是什么？	dialogue	Nigel	Player
+What are safe zones in Deadman mode?	一条命模式中的安全区是什么？	dialogue	Nigel	Player
 Safe zones are areas patrolled by very high level guards which can be found in various places across the map. The guards watch out for any player with a PK skull and will attack them if they're spotted. It is still possible to be attacked inside safe zones but the person doing the attacking will not stand a chance of making it out alive.	安全区是地图各处由极高等级守卫巡逻的区域。守卫会留意并攻击任何红名玩家。在安全区内仍可能被攻击，但攻击者几乎不可能活着离开。	dialogue	Nigel	Nigel
 Yes, I can help with that.	是的，我可以帮你。	dialogue	Nigel	Nigel
 You will no longer gain combat experience. Talk to me again if you change your mind.	你将不再获得战斗经验。如果改变主意再和我谈。	dialogue	Nigel	Nigel
@@ -41825,7 +41825,7 @@ You will now gain combat experience again. Talk to me again if you change your m
 You will no longer gain hitpoints experience. Talk to me again if you change your mind.	你将不再获得生命值经验。如果改变主意再和我谈。	dialogue	Nigel	Nigel
 I've already stopped you from gaining hitpoints experience, do you want to gain it again?	我已经阻止你获得生命值经验了，你想重新获得吗？	dialogue	Nigel	Nigel
 You will now gain hitpoints experience again. Talk to me again if you change your mind.	你现在将重新获得生命值经验。如果改变主意再和我谈。	dialogue	Nigel	Nigel
-Can I purchase some Deadman rewards?	我能购买一些死亡模式奖励吗？	dialogue	Nigel	Player
+Can I purchase some Deadman rewards?	我能购买一些一条命模式奖励吗？	dialogue	Nigel	Player
 Goodbye.	再见。	dialogue	Nigel	Player
 Ah, I see you've changed your mind about transferring your account. Not to worry, I've cancelled that now. Can I help you with anything else?	啊，我看你改变了转移账号的主意。别担心，我已经取消了。还有什么我能帮你的吗？	dialogue	Nigel	Nigel
 Aha, blood money, the currency of a warrior! You must be rewarded! What would you like?	啊哈，血钱，战士的货币！你必须得到奖励！你想要什么？	dialogue	Nigel	Nigel
@@ -41833,28 +41833,28 @@ More blood money! I commend you on your strength. What item would you like this 
 More blood money! Truly the blood lust is strong in you. Here, take this final item. You deserve it!	更多血钱！你心中的嗜血欲望真的很强烈。给，拿走这最后一件物品。你应得的！	dialogue	Nigel	Nigel
 More blood money! I can only commend you on your prowess. Alas, I have no more armour to give to you at this time.	更多血钱！我只能赞赏你的实力。唉，我现在没有更多盔甲给你了。	dialogue	Nigel	Nigel
 Bring me an imbued Zamorak, Guthix or Saradomin Cape and I'll give it a trim.	给我带来一件强化的扎莫拉克、古斯或萨拉多明斗篷，我会给它镶边。	dialogue	Nigel	Nigel
-I cannot teleport you in this version of Deadman.	在这个版本的死亡模式中我无法传送你。	dialogue	Nigel	Nigel
-Could you grant me access to Deadman: Annihilation?	你能让我进入死亡模式：歼灭战吗？	dialogue	Nigel	Nigel
-I have a question about Deadman mode.	我有个关于死亡模式的问题。	dialogue	Nigel	Nigel
-What is Deadman mode?	什么是死亡模式？	dialogue	Nigel	Nigel
-How do I play Deadman mode?	我如何玩死亡模式？	dialogue	Nigel	Nigel
-What happens when I die in Deadman mode?	我在死亡模式中死亡会发生什么？	dialogue	Nigel	Nigel
-What happens when I kill a player in Deadman mode?	我在死亡模式中击杀一名玩家会发生什么？	dialogue	Nigel	Nigel
+I cannot teleport you in this version of Deadman.	在这个版本的一条命模式中我无法传送你。	dialogue	Nigel	Nigel
+Could you grant me access to Deadman: Annihilation?	你能让我进入一条命模式：歼灭战吗？	dialogue	Nigel	Nigel
+I have a question about Deadman mode.	我有个关于一条命模式的问题。	dialogue	Nigel	Nigel
+What is Deadman mode?	什么是一条命模式？	dialogue	Nigel	Nigel
+How do I play Deadman mode?	我如何玩一条命模式？	dialogue	Nigel	Nigel
+What happens when I die in Deadman mode?	我在一条命模式中死亡会发生什么？	dialogue	Nigel	Nigel
+What happens when I kill a player in Deadman mode?	我在一条命模式中击杀一名玩家会发生什么？	dialogue	Nigel	Nigel
 More options...	更多选项……	dialogue	Nigel	Nigel
-How can I protect my items in Deadman mode?	我如何在死亡模式中保护我的物品？	dialogue	Nigel	Nigel
-How can I protect my stats in Deadman mode?	我如何在死亡模式中保护我的属性？	dialogue	Nigel	Nigel
-What are safe zones in Deadman mode?	死亡模式中的安全区是什么？	dialogue	Nigel	Nigel
+How can I protect my items in Deadman mode?	我如何在一条命模式中保护我的物品？	dialogue	Nigel	Nigel
+How can I protect my stats in Deadman mode?	我如何在一条命模式中保护我的属性？	dialogue	Nigel	Nigel
+What are safe zones in Deadman mode?	一条命模式中的安全区是什么？	dialogue	Nigel	Nigel
 Previous options...	返回上一级选项……	dialogue	Nigel	Nigel
 Could you stop me from gaining XP?	你能阻止我获得经验值吗？	dialogue	Nigel	Nigel
 Combat experience.	战斗经验。	dialogue	Nigel	Nigel
 Hitpoints experience.	生命值经验。	dialogue	Nigel	Nigel
-Can I purchase some Deadman rewards?	我能购买一些死亡模式奖励吗？	dialogue	Nigel	Nigel
+Can I purchase some Deadman rewards?	我能购买一些一条命模式奖励吗？	dialogue	Nigel	Nigel
 Goodbye.	再见。	dialogue	Nigel	Nigel
-I have a question about Deadman Mode.	我有个关于死亡模式的问题。	dialogue	Nigel	Nigel
+I have a question about Deadman Mode.	我有个关于一条命模式的问题。	dialogue	Nigel	Nigel
 Deadman's chest	亡命者胸甲	dialogue	Nigel	Nigel
 Deadman's legs	亡命者腿甲	dialogue	Nigel	Nigel
 Deadman's cape	亡命者斗篷	dialogue	Nigel	Nigel
-Unlock Deadman: Armageddon cape ornaments.	解锁死亡模式：末日斗篷装饰。	dialogue	Nigel	Nigel
+Unlock Deadman: Armageddon cape ornaments.	解锁一条命模式：末日斗篷装饰。	dialogue	Nigel	Nigel
 Cancel.	取消。	dialogue	Nigel	Nigel
 If I were as ugly as you I would not dare to show my face in public!	如果我和你一样丑，我都不敢在公共场合露面！	dialogue	Nikita	Nikita
 Hmm... you smell strange...	嗯……你闻起来很奇怪……	dialogue	Nikita	Nikita
@@ -41956,7 +41956,7 @@ Hmm, you're not looking so great. You should cure yourself of poison before I gi
 Hmm, you don't look so good. You should cure yourself of disease before I give you the demonstration.	嗯，你看起来不太好。在我给你演示前你应该治愈疾病。	dialogue	Nomad	Nomad
 Hmm, it looks like you have some restricted items with you. You should put them somewhere safe before we continue. Food, potions, capes, followers and non-combat items are all restricted.	嗯，看起来你身上带了一些限制物品。在我们继续前你应该把它们放在安全的地方。食物、药水、斗篷、追随者及非战斗物品均禁止携带。	dialogue	Nomad	Nomad
 Hmm, it looks like you're not actually ready for a demonstration right now.	嗯，看起来你现在实际上还没准备好做演示。	dialogue	Nomad	Nomad
-You are not allowed to take part in the Soul Wars demonstration while skulled on a Deadman mode world.	在死亡模式世界中带有骷髅标记时，你无法参加灵魂战争演示。	dialogue	Nomad	Nomad
+You are not allowed to take part in the Soul Wars demonstration while skulled on a Deadman mode world.	在一条命模式世界中带有骷髅标记时，你无法参加灵魂战争演示。	dialogue	Nomad	Nomad
 Very well. Let's get started.	很好。我们开始吧。	dialogue	Nomad	Nomad
 Actually, I'm good.	不用了。	dialogue	Nomad	Player
 So be it. You know where to find me if you change your mind.	就这样吧。如果你改变主意，你知道在哪能找到我。	dialogue	Nomad	Nomad

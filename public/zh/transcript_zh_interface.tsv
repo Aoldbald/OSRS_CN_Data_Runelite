@@ -2951,7 +2951,7 @@ Improved Reflexes	强化反射	interface	generalUI	skillGuide
 Rapid Restore	快速恢复	interface	generalUI	skillGuide
 Rapid Heal	快速治愈	interface	generalUI	skillGuide
 Protect Item	保护物品	interface	generalUI	skillGuide
-Hawk Eye	鵟眼	interface	generalUI	skillGuide
+Hawk Eye	隼眼	interface	generalUI	skillGuide
 Mystic Lore	神秘知识	interface	generalUI	skillGuide
 Steel Skin	钢铁皮肤	interface	generalUI	skillGuide
 Ultimate Strength	终极力量	interface	generalUI	skillGuide
@@ -6221,7 +6221,7 @@ Level <Num0><br>Improved Reflexes<br>Increases your attack by <Num1>%.<br>(Drain
 Level <Num0><br>Burst of Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	等级<Num0><br>力量爆发<br>提升你的力量<Num1>%。<br>(消耗：每<Num3>秒<Num2>点)	interface	mainTabs	prayerTab
 Level <Num0><br>Mystic Lore<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.<br>(Drain: <Num3>pt per <Num4>s)	等级<Num0><br>神秘知识<br>提升你的魔法和防御<Num1>%，并提升你的魔法伤害<Num2>%。<br>(消耗：每<Num4>秒<Num3>点)	interface	mainTabs	prayerTab
 Level <Num0><br>Augury<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>% and your defence by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	等级<Num0><br>占卜术<br>提升你的魔法和防御<Num1>%，并提升你的魔法伤害<Num2>%和防御<Num3>%。<br>(消耗：每<Num5>秒<Num4>点)	interface	mainTabs	prayerTab
-Level <Num0><br>Hawk Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	等级<Num0><br>鵟眼<br>提升你的远程<Num1>%。<br>(消耗：每<Num3>秒<Num2>点)	interface	mainTabs	prayerTab
+Level <Num0><br>Hawk Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	等级<Num0><br>隼眼<br>提升你的远程<Num1>%。<br>(消耗：每<Num3>秒<Num2>点)	interface	mainTabs	prayerTab
 Level <Num0><br>Chivalry<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	等级<Num0><br>骑士精神<br>提升你的防御<Num1>%、力量<Num2>%、以及攻击<Num3>%。<br>(消耗：每<Num5>秒<Num4>点)	interface	mainTabs	prayerTab
 Level <Num0><br>Superhuman Strength<br>Increases your strength by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	等级<Num0><br>超人力量<br>提升你的力量<Num1>%。<br>(消耗：每<Num3>秒<Num2>点)	interface	mainTabs	prayerTab
 Level <Num0><br>Rigour<br>Increases your ranged attack by <Num1>% and damage by <Num2>%, and your defence by <Num3>%.<br>(Drain: <Num4>pt per <Num5>s)	等级<Num0><br>严谨<br>提升你的远程<Num1>%、伤害<Num2>%、以及防御<Num3>%。<br>(消耗：每<Num5>秒<Num4>点)	interface	mainTabs	prayerTab
@@ -7167,7 +7167,7 @@ Improved Reflexes Increases your attack by <Num0>%.	强化反射<br>提升你的
 Rapid Restore <Num0>x restore rate for all stats except Hitpoints and Prayer.	快速恢复<br>除生命值和祈祷值外，所有降低的属性恢复速率提升至<Num0>倍	interface	generalUI	skillGuide
 Rapid Heal <Num0>x restore rate for Hitpoints stat.	快速治愈<br>生命值恢复速率提升至<Num0>倍	interface	generalUI	skillGuide
 Protect Item Protect one additional item on death.	保护物品<br>死亡时额外保留一件物品	interface	generalUI	skillGuide
-Hawk Eye Increases your Ranging by <Num0>%.	鵟眼<br>提升你的远程等级<Num0>%	interface	generalUI	skillGuide
+Hawk Eye Increases your Ranging by <Num0>%.	隼眼<br>提升你的远程等级<Num0>%	interface	generalUI	skillGuide
 Mystic Lore Increases your magical attack and defence by <Num0>%, also increases your magic strength by <Num1>%.	神秘知识<br>提升你的魔法等级和防御等级<Num0>%，<br>并提升你的魔法伤害<Num1>%	interface	generalUI	skillGuide
 Steel Skin Increases your defence by <Num0>%.	钢铁皮肤<br>提升你的防御等级<Num0>%	interface	generalUI	skillGuide
 Ultimate Strength Increases your strength by <Num0>%.	终极力量<br>提升你的力量等级<Num0>%	interface	generalUI	skillGuide
@@ -8267,7 +8267,7 @@ Combat Tutor	战斗导师	interface	generalUI	skillGuide
 Cooking Tutor	烹饪导师	interface	generalUI	skillGuide
 Crafting Tutor	制作导师	interface	generalUI	skillGuide
 Danger Tutor	危险导师	interface	generalUI	skillGuide
-Deadman Tutor	死亡模式导师	interface	generalUI	skillGuide
+Deadman Tutor	一条命模式导师	interface	generalUI	skillGuide
 Fishing Tutor	钓鱼导师	interface	generalUI	skillGuide
 Hunter Tutor	狩猎导师	interface	generalUI	skillGuide
 Ironman Tutor	铁人模式导师	interface	generalUI	skillGuide
@@ -15274,9 +15274,9 @@ Stolen garnet ring	被盗的石榴石戒指	interface	generalUI	skillGuide
 Stolen circlet	被盗的头冠	interface	generalUI	skillGuide
 Stolen family heirloom	被盗的传家宝	interface	generalUI	skillGuide
 Stolen jewelry box	被盗的首饰盒	interface	generalUI	skillGuide
-Raw anglerfish	生鮟鱇鱼	interface	generalUI	skillGuide
+Raw anglerfish	生安康鱼	interface	generalUI	skillGuide
 Anglerfish	安康鱼	interface	generalUI	skillGuide
-Burnt anglerfish	烧焦的鮟鱇鱼	interface	generalUI	skillGuide
+Burnt anglerfish	烧焦的安康鱼	interface	generalUI	skillGuide
 Dense essence block	浓缩精华块	interface	generalUI	skillGuide
 Dark essence block	黑暗精华块	interface	generalUI	skillGuide
 Ensouled goblin head	附有灵魂的哥布林头颅	interface	generalUI	skillGuide
@@ -16955,7 +16955,7 @@ Antique emblem (tier <Num0>)	古董徽章 (等级 <Num0>)	interface	generalUI	sk
 Looting bag note	战利品凭证	interface	generalUI	skillGuide
 Rune pouch note	符石袋凭证	interface	generalUI	skillGuide
 Blighted manta ray	被污染的魔鬼鱼	interface	generalUI	skillGuide
-Blighted anglerfish	被污染的鮟鱇鱼	interface	generalUI	skillGuide
+Blighted anglerfish	被污染的安康鱼	interface	generalUI	skillGuide
 Blighted karambwan	被污染的卡拉姆班鱼	interface	generalUI	skillGuide
 Blighted super restore(<Num0>)	被污染的超级恢复药水 (<Num0>)	interface	generalUI	skillGuide
 Blighted ancient ice sack	被污染的古代冰袋	interface	generalUI	skillGuide
@@ -19146,7 +19146,7 @@ Rune staff of collection	符文藏品法杖	interface	generalUI	skillGuide
 Dragon staff of collection	龙金藏品法杖	interface	generalUI	skillGuide
 Gilded staff of collection	镀金藏品法杖	interface	generalUI	skillGuide
 Bounty supply crate (manta ray)	赏金猎人补给箱 (魔鬼鱼)	interface	generalUI	skillGuide
-Bounty supply crate (anglerfish)	赏金补给箱 (鮟鱇鱼)	interface	generalUI	skillGuide
+Bounty supply crate (anglerfish)	赏金补给箱 (安康鱼)	interface	generalUI	skillGuide
 Bran	布兰	interface	generalUI	skillGuide
 Ric	里克	interface	generalUI	skillGuide
 Deadeye prayer scroll	神射手祈祷卷轴	interface	generalUI	skillGuide
@@ -19622,7 +19622,7 @@ Bottled storm	瓶装风暴	interface	generalUI	skillGuide
 Swift albatross feather	迅捷信天翁羽毛	interface	generalUI	skillGuide
 Narwhal horn	独角鲸角	interface	generalUI	skillGuide
 Narwhal horn knife	独角鲸角刀	interface	generalUI	skillGuide
-Ray barbs	魟鱼的倒刺	interface	generalUI	skillGuide
+Ray barbs	鳐鱼的倒刺	interface	generalUI	skillGuide
 Broken dragon hook	破损的龙金钩	interface	generalUI	skillGuide
 Repair kit	修理包	interface	generalUI	skillGuide
 Captain's log	船长日志	interface	generalUI	skillGuide
@@ -19991,7 +19991,7 @@ Armoured kraken tentacle	装甲克拉肯海怪触手	interface	generalUI	skillGu
 Vampyre kraken tentacle	吸血克拉肯海怪触手	interface	generalUI	skillGuide
 Eagle ray fin	鹰鳐鱼鳍	interface	generalUI	skillGuide
 Butterfly ray fin	蝴蝶鳐鱼鳍	interface	generalUI	skillGuide
-Stingray fin	魟鱼鳍	interface	generalUI	skillGuide
+Stingray fin	黄貂鱼鳍	interface	generalUI	skillGuide
 Manta ray fin	魔鬼鱼鳍	interface	generalUI	skillGuide
 Tern feather	燕鸥羽毛	interface	generalUI	skillGuide
 Osprey feather	鱼鹰羽毛	interface	generalUI	skillGuide
@@ -20010,7 +20010,7 @@ Armoured kraken ink sac	装甲克拉肯海怪墨囊	interface	generalUI	skillGui
 Vampyre kraken ink sac	吸血克拉肯海怪墨囊	interface	generalUI	skillGuide
 Eagle ray skin	鹰鳐鱼皮	interface	generalUI	skillGuide
 Butterfly ray skin	蝴蝶鳐鱼皮	interface	generalUI	skillGuide
-Stingray skin	魟鱼皮	interface	generalUI	skillGuide
+Stingray skin	黄貂鱼皮	interface	generalUI	skillGuide
 Manta ray skin	魔鬼鱼皮	interface	generalUI	skillGuide
 Tern beak	燕鸥喙	interface	generalUI	skillGuide
 Osprey beak	鱼鹰喙	interface	generalUI	skillGuide
@@ -20142,7 +20142,7 @@ You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Improved Reflex
 You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Rapid Restore</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>快速恢复</col>。	interface	generalUI	skillGuide
 You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Rapid Heal</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>快速治愈</col>。	interface	generalUI	skillGuide
 You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Protect Item</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>保护物品</col>。	interface	generalUI	skillGuide
-You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Hawk Eye</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>鵟眼</col>。	interface	generalUI	skillGuide
+You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Hawk Eye</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>隼眼</col>。	interface	generalUI	skillGuide
 You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Mystic Lore</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>神秘知识</col>。	interface	generalUI	skillGuide
 You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Steel Skin</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>钢铁皮肤</col>。	interface	generalUI	skillGuide
 You need a <colNum0>Prayer</col> level of <Num0> to use <colNum1>Ultimate Strength</col>.	你需要<Num0>级<colNum0>祈祷</col>才能使用<colNum1>终极力量</col>。	interface	generalUI	skillGuide
@@ -23505,7 +23505,7 @@ Ruthless Ranger	无情射手	interface	cachedump	cachedump
 Feral Fighter	狂野战士	interface	cachedump	cachedump
 Upon dealing melee damage, you have a 20% chance to set your attack speed to 1.8 seconds for your next attack against a player, or for your next two attacks against monsters, within the next 12 seconds.	造成近战伤害时，你有 20% 的几率在接下来 12 秒内，使你对玩家的下一次攻击或对怪物的下两次攻击的攻击速度变为 1.8 秒。	interface	cachedump	cachedump
 Menacing Mage	威吓法师	interface	cachedump	cachedump
-You have a 20% increased chance to receive loot from the Global Deadman Mode loot table.	你从全球死亡模式战利品表中获得战利品的几率提高 20%。	interface	cachedump	cachedump
+You have a 20% increased chance to receive loot from the Global Deadman Mode loot table.	你从全球一条命模式战利品表中获得战利品的几率提高 20%。	interface	cachedump	cachedump
 You gain 50% more XP in the following skills: Mining, Smithing, Construction and Crafting.	你在以下技能中获得 50% 额外经验值：采矿、锻造、建筑和制作。	interface	cachedump	cachedump
 You gain 50% more XP in the following skills: Agility, Fletching, Hunter and Farming.	你在以下技能中获得 50% 额外经验值：敏捷、制箭、狩猎和农业。	interface	cachedump	cachedump
 You gain 50% more XP in the following skills: Firemaking, Fishing, Herblore and Slayer.	你在以下技能中获得 50% 额外经验值：生火、钓鱼、草药学和杀戮。	interface	cachedump	cachedump
@@ -25669,7 +25669,7 @@ Robes of Ruin	毁灭长袍	interface	cachedump	cachedump
 Virtus Robes (Echo)	维尔图斯长袍（回响）	interface	cachedump	cachedump
 Dragonstone Armour	龙石盔甲	interface	cachedump	cachedump
 Ardougne Knight Armour	阿多尼城骑士盔甲	interface	cachedump	cachedump
-Deadman Armour	死斗者盔甲	interface	cachedump	cachedump
+Deadman Armour	一条命模式盔甲	interface	cachedump	cachedump
 Halo: Saradomin	光环：萨拉多明	interface	cachedump	cachedump
 Halo: Zamorak	光环：扎莫拉克	interface	cachedump	cachedump
 Halo: Guthix	光环：古斯	interface	cachedump	cachedump
@@ -26600,7 +26600,7 @@ Harpoon fishing (Corrupted gauntlet)	鱼叉捕鱼 (腐化试炼之路)	interface
 Bait fishing (Mor Ul Rek)	饵钓 (莫尔乌尔雷克)	interface	cachedump	cachedump
 Net fishing (Piscatoris)	网钓 (皮斯卡托里斯)	interface	cachedump	cachedump
 Harpoon fishing (Tempoross)	鱼叉捕鱼 (海灵)	interface	cachedump	cachedump
-Deadman Bank Key	死斗模式银行钥匙	interface	cachedump	cachedump
+Deadman Bank Key	一条命模式银行钥匙	interface	cachedump	cachedump
 Quiver Gamble	箭袋赌博	interface	cachedump	cachedump
 House robbery	入室盗窃	interface	cachedump	cachedump
 Moon Chest	月亮宝箱	interface	cachedump	cachedump
@@ -29772,7 +29772,7 @@ Superhuman Strength<br>Increases your strength by 10%.	超人力量<br>提升你
 Improved Reflexes<br>Increases your attack by 10%.	强化反射<br>提升你的攻击等级10%。	interface	cachebonus	table213
 Rapid Restore<br>2x restore rate for all stats except Hitpoints and Prayer.	快速恢复<br>除生命值和祈祷值外，所有属性恢复速度翻倍。	interface	cachebonus	table213
 Rapid Heal<br>2x restore rate for Hitpoints stat.	快速治愈<br>生命值恢复速度加倍。	interface	cachebonus	table213
-Hawk Eye<br>Increases your Ranging by 10%.	鹰眼<br>提升你的远程等级10%。	interface	cachebonus	table213
+Hawk Eye<br>Increases your Ranging by 10%.	隼眼<br>提升你的远程等级10%。	interface	cachebonus	table213
 Mystic Lore<br>Increases your magical attack and defence by 10%, also increases your magic strength by 1%.	神秘知识<br>提升你的魔法攻击和防御10%，并提升你的魔法强度1%。	interface	cachebonus	table213
 Steel Skin<br>Increases your defence by 15%.	钢铁皮肤<br>提升你的防御等级15%。	interface	cachebonus	table213
 Ultimate Strength<br>Increases your strength by 15%.	终极力量<br>提升你的力量等级15%。	interface	cachebonus	table213
@@ -32041,7 +32041,7 @@ Endurance (hard): 5,000 coins will be deducted from the coffer. The dream will f
 *** Dart Construction ***	*** 飞镖制作 ***	interface	wiki_rescrape	wiki_rescrape
 Learn how to combine the Slayer skillcape hood (with level 99 Slayer) with your Slayer helmet to show your mastery while slaying. (1000 points)	学习如何将杀戮者技能披风兜帽 (需99级杀戮) 与你的杀戮者头盔结合，在杀戮时展示你的精通。(1000点)	interface	wiki_rescrape	wiki_rescrape
 Rename tag tab	重命名标签页	interface	wiki_rescrape	wiki_rescrape
-The Asp and Snake Bar.	蛇与蛇酒吧。	interface	wiki_rescrape	wiki_rescrape
+The Asp and Snake Bar.	阿斯普和蛇酒馆。	interface	wiki_rescrape	wiki_rescrape
 Slayer Equipment	杀戮装备	interface	wiki_rescrape	wiki_rescrape
 Thorkel Silkbeard takes seven lumps of coal.	索克尔.丝须拿走七块煤。	interface	wiki_rescrape	wiki_rescrape
 What is the ambient temperature of wyvern bones?	飞龙骨头周围的环境温度是多少？	interface	wiki_rescrape	wiki_rescrape
@@ -32723,7 +32723,7 @@ Raw materials	原材料	interface	wiki_rescrape	wiki_rescrape
 The secateurs blade is an ingredient of the secateurs attachment, which allows you to collect more leaves when chopping trees. You will also need:	修枝剪的刀片是修枝剪配件的材料之一，该配件能让你在砍树时收集到更多叶子。你还需要：	interface	wiki_rescrape	wiki_rescrape
 How would you like to cut the orange?	你想怎么切这个橙子？	interface	wiki_rescrape	wiki_rescrape
 Test the currents south of the small island in the Bay of Sarim.	测试沙林湾小岛南侧的水流。	interface	wiki_rescrape	wiki_rescrape
-We've got the base variant, Max cape variant, and (by popular request) the Deadman variant ready to go, and you can check them out for yourself below!	我们准备好了基础款、至尊斗篷款，以及（应大众要求推出的）死斗款，你可以在下面亲自查看它们！	interface	wiki_rescrape	wiki_rescrape
+We've got the base variant, Max cape variant, and (by popular request) the Deadman variant ready to go, and you can check them out for yourself below!	我们准备好了基础款、至尊斗篷款，以及（应大众要求推出的）一条命模式款，你可以在下面亲自查看它们！	interface	wiki_rescrape	wiki_rescrape
 Adding new items/bonuses/rewards to a handful of activities	为少数几个活动添加新物品/加成/奖励	interface	wiki_rescrape	wiki_rescrape
 The cupboard contains garlic. You take a clove.	橱柜里装有大蒜。你取了一瓣。	interface	wiki_rescrape	wiki_rescrape
 4th of Pentember	彭特月 4 日	interface	wiki_rescrape	wiki_rescrape
@@ -32764,7 +32764,7 @@ Platinum token: 5	白金代币：5	interface	wiki_rescrape	wiki_rescrape
 You suck the yellow dye into the bellows.	你把黄色染料吸入风箱。	interface	wiki_rescrape	wiki_rescrape
 You sail out to Sea.	你出海航行。	interface	wiki_rescrape	wiki_rescrape
 Which type of primates do monkeys belong to?	猴子属于哪一类灵长类动物？	interface	wiki_rescrape	wiki_rescrape
-Follow the directional arrow on the minimap to find Nomad. Speak with him to learn about the avatars.	跟随小地图上的方向箭头找到 Nomad。与他交谈以了解化身。	interface	wiki_rescrape	wiki_rescrape
+Follow the directional arrow on the minimap to find Nomad. Speak with him to learn about the avatars.	跟随小地图上的方向箭头找到游牧民。与他交谈以了解化身。	interface	wiki_rescrape	wiki_rescrape
 Click this to add coal.	点击此处添加煤。	interface	wiki_rescrape	wiki_rescrape
 You pick up a crate of battleaxes.	你捡起一箱战斧。	interface	wiki_rescrape	wiki_rescrape
 Catch: Nothing	捕获：无	interface	wiki_rescrape	wiki_rescrape
@@ -32950,7 +32950,7 @@ Ability to own a Hell-Cat	拥有地狱猫的能力	interface	wiki_rescrape	wiki_
 Close Floating panel	关闭浮动面板	interface	wiki_rescrape	wiki_rescrape
 You decide to keep the Bone Key.	你决定保留骨匙。	interface	wiki_rescrape	wiki_rescrape
 Stepping stone in the north of Wyrmscraig	蛇龙崖北部的踏脚石	interface	wiki_rescrape	wiki_rescrape
-Motherlode Repairs	主矿脉修理	interface	wiki_rescrape	wiki_rescrape
+Motherlode Repairs	母岩矿坑修理	interface	wiki_rescrape	wiki_rescrape
 Find some suspicious eyes west of Rellekka.	在雷勒卡城以西找到一些可疑的眼睛。	interface	wiki_rescrape	wiki_rescrape
 Stab Weapon Style	刺击武器风格	interface	wiki_rescrape	wiki_rescrape
 Access to puppies	获得幼犬	interface	wiki_rescrape	wiki_rescrape
@@ -32963,7 +32963,7 @@ Find the wreck of the Soul Searcher south west of the Tear of the Soul.	在灵�
 You are caught and thrown out of the Goblin Temple.	你被抓住并被扔出了哥布林神庙。	interface	wiki_rescrape	wiki_rescrape
 Please drink from the vial to wake up.	请喝下小瓶中的药水以醒来。	interface	wiki_rescrape	wiki_rescrape
 Eastern Kharazi Jungle - *** Completed ***	东卡拉兹丛林 - *** 已完成 ***	interface	wiki_rescrape	wiki_rescrape
-A non-overgrown cat for catching rats	一只未过度肥胖的猫，用于抓老鼠	interface	wiki_rescrape	wiki_rescrape
+A non-overgrown cat for catching rats	一只不是大肥猫的猫，用于抓老鼠	interface	wiki_rescrape	wiki_rescrape
 You don't have any fishing bait left.	你没有鱼饵了。	interface	wiki_rescrape	wiki_rescrape
 You add some dusted chocolate for that final touch.	你加入一些巧克力粉作为最后的点缀。	interface	wiki_rescrape	wiki_rescrape
 Insert Bank filler into the highlighted slot	将银行账户填充物插入高亮槽位	interface	wiki_rescrape	wiki_rescrape
@@ -34378,7 +34378,7 @@ Use your spyglass to get a good view of the Ruins of Unkah from north of the doc
 Make a blonde wig	制作金色假发	interface	wiki_rescrape	wiki_rescrape
 Raw cod (more if you burn cake)	生鳕鱼（如果烤焦蛋糕则需要更多）	interface	wiki_rescrape	wiki_rescrape
 Kill Count Draynor	杀死德雷诺伯爵	interface	wiki_rescrape	wiki_rescrape
-Members: Zorya's Tome	会员：佐里亚的典籍	interface	wiki_rescrape	wiki_rescrape
+Members: Zorya's Tome	会员：佐里亚之书	interface	wiki_rescrape	wiki_rescrape
 ~ The Observatory ~	~ 天文台 ~	interface	wiki_rescrape	wiki_rescrape
 Pathfinder (Inactive): All paths will level up twice upon entering the raid, increasing enemy hitpoints and damage further. Bosses will gain more potent special attacks. Increases Raid Level by 40.	探路者（未激活）：进入突袭时所有路径将提升两级，进一步增加敌人的生命值和伤害。Boss将获得更强力的战技。突袭等级提高40。	interface	wiki_rescrape	wiki_rescrape
 Cost: 2 bonds	花费：2张债券	interface	wiki_rescrape	wiki_rescrape
@@ -34872,7 +34872,7 @@ Clockwork or Steel Bar	发条装置或钢锭	interface	wiki_rescrape	wiki_rescra
 How many would you like to spin?	你想纺多少个？	interface	wiki_rescrape	wiki_rescrape
 You need level 31 Herblore to make this potion.	你需要31级草药学才能制作这种药水。	interface	wiki_rescrape	wiki_rescrape
 Cargo: Crate of furs	货物：装有毛皮的箱	interface	wiki_rescrape	wiki_rescrape
-A non-overgrown cat	一只未过度肥胖的猫	interface	wiki_rescrape	wiki_rescrape
+A non-overgrown cat	一只不是大肥猫的猫	interface	wiki_rescrape	wiki_rescrape
 Tree Gnome Stronghold	树地精要塞	interface	wiki_rescrape	wiki_rescrape
 Teleport to Morytania	传送到莫利塔尼亚	interface	wiki_rescrape	wiki_rescrape
 Slayer Partner	杀戮搭档	interface	wiki_rescrape	wiki_rescrape

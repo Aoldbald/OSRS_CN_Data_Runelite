@@ -9542,7 +9542,7 @@ The tentacle of an armoured kraken.	装甲克拉肯海怪的触须。	examine	it
 The tentacle of a vampyre kraken.	吸血克拉肯海怪的触须。	examine	item	Vampyre kraken tentacle
 The fin of an eagle ray.	鹰鳐的鳍。	examine	item	Eagle ray fin
 The fin of a butterfly ray.	蝴蝶鳐的鳍。	examine	item	Butterfly ray fin
-The fin of a stingray.	魟鱼的鳍。	examine	item	Stingray fin
+The fin of a stingray.	黄貂鱼的鳍。	examine	item	Stingray fin
 The fin of a manta ray.	蝠鲼的鳍。	examine	item	Manta ray fin
 The feather of a tern.	燕鸥的羽毛。	examine	item	Tern feather
 The feather of an osprey.	鱼鹰的羽毛。	examine	item	Osprey feather
@@ -9561,7 +9561,7 @@ The ink sac of an armoured kraken.	装甲克拉肯海怪的墨囊。	examine	ite
 The ink sac of a vampyre kraken.	吸血克拉肯海怪的墨囊。	examine	item	Vampyre kraken ink sac
 The skin of an eagle ray.	鹰鳐的皮。	examine	item	Eagle ray skin
 The skin of a butterfly ray.	蝴蝶鳐的皮。	examine	item	Butterfly ray skin
-The skin of a stingray.	魟鱼的皮。	examine	item	Stingray skin
+The skin of a stingray.	黄貂鱼的皮。	examine	item	Stingray skin
 The skin of a manta ray.	蝠鲼的皮。	examine	item	Manta ray skin
 The beak of a tern.	燕鸥的喙。	examine	item	Tern beak
 The beak of an osprey.	鱼鹰的喙。	examine	item	Osprey beak
@@ -21145,7 +21145,7 @@ The Godwars Dungeon was added to the game on October 16th, 2013.	神战地牢于
 The Corporeal Beast was added to the game on October 16th, 2014.	实体巨兽于2014年10月16日加入游戏。	examine	object	Corporeal Beast display
 The construction expansion was added on August 25th, 2016.	建造扩展于2016年8月25日加入。	examine	object	Gilded Adventure Log
 The Wintertodt was released on September 8th, 2016.	冬将军于2016年9月8日发布。	examine	object	Burning brazier
-Deadman mode was added on October 29th, 2015.	死亡模式于2015年10月29日加入。	examine	object	Deadman display
+Deadman mode was added on October 29th, 2015.	一条命模式于2015年10月29日加入。	examine	object	Deadman display
 The in-game world map was added to the game on May 25th, 2017.	游戏内世界地图于2017年5月25日加入游戏。	examine	object	World map display
 A map of Fossil Island. This came into the game on September 7th, 2017.	一张化石岛地图，于2017年9月7日加入游戏。	examine	object	Fossil Island display case
 They can't trade others. By the way, this mode was added to the game on October 13th, 2014.	他们不能与他人交易，顺便说一下，此模式于2014年10月13日加入游戏。	examine	object	Ironman & Ultimate Ironwoman
@@ -22702,14 +22702,14 @@ This is jam, right?	这是果酱，对吧？	examine	object	Web sack
 Future web developers.	未来的网页开发者。	examine	object	Spider eggs
 It's covered in spider webs.	它覆盖着蛛网。	examine	object	Tree
 There's a single crystal acorn on the bench. It seems to be gazing wistfully, somehow.	长凳上有一颗水晶橡子。不知何故，它似乎在惆怅地凝视着。	examine	object	Bench
-Stage 1 of the DMM21 finals.	死亡模式21决赛第1阶段。	examine	object	Banner
-Stage 2 of the DMM21 finals.	死亡模式21决赛第2阶段。	examine	object	Banner
-Stage 3 of the DMM21 finals.	死亡模式21决赛第3阶段。	examine	object	Banner
-Stage 4 of the DMM21 finals.	死亡模式21决赛第4阶段。	examine	object	Banner
-Stage 5 of the DMM21 finals.	死亡模式21决赛第5阶段。	examine	object	Banner
-Welcome to the round of 16 of the DMM21 finals!	欢迎来到死亡模式21决赛16强！	examine	object	Banner
-Welcome to the QUARTER-FINALS of the DMM21 tournement!	欢迎来到死亡模式21锦标赛四分之一决赛！	examine	object	Banner
-Welcome to the SEMI-FINALS of the DMM21 tournement!	欢迎来到死亡模式21锦标赛半决赛！	examine	object	Banner
+Stage 1 of the DMM21 finals.	一条命模式21决赛第1阶段。	examine	object	Banner
+Stage 2 of the DMM21 finals.	一条命模式21决赛第2阶段。	examine	object	Banner
+Stage 3 of the DMM21 finals.	一条命模式21决赛第3阶段。	examine	object	Banner
+Stage 4 of the DMM21 finals.	一条命模式21决赛第4阶段。	examine	object	Banner
+Stage 5 of the DMM21 finals.	一条命模式21决赛第5阶段。	examine	object	Banner
+Welcome to the round of 16 of the DMM21 finals!	欢迎来到一条命模式21决赛16强！	examine	object	Banner
+Welcome to the QUARTER-FINALS of the DMM21 tournement!	欢迎来到一条命模式21锦标赛四分之一决赛！	examine	object	Banner
+Welcome to the SEMI-FINALS of the DMM21 tournement!	欢迎来到一条命模式21锦标赛半决赛！	examine	object	Banner
 Welcome to the finale.	欢迎来到决赛。	examine	object	Banner
 A portal to Lumbridge.	一个通往仑桥镇的传送门。	examine	object	Portal
 A portal to The Node.	一个通往节点的传送门。	examine	object	Portal
@@ -24027,7 +24027,7 @@ A broken furnace.	一个破损的熔炉。	examine	object	Broken furnace
 A well slept-in bed.	一张舒适的床。	examine	object	Bed
 A barrel full of an unknown liquid. I hope it's orange juice.	一个装满未知液体的桶，希望是橙汁。	examine	object	Barrel
 Quite loose indeed.	确实相当松动。	examine	object	Loose Railing
-A rug adorned with the icon of Deadman.	一块装饰着死亡模式图标的毯子。	examine	object	Rug
+A rug adorned with the icon of Deadman.	一块装饰着一条命模式图标的毯子。	examine	object	Rug
 Someone's left it open.	有人让它开着。	examine	object	Chest
 Doesn't seem overly relevant to me.	对我来说似乎不太相关。	examine	object	Scroll
 Looks like he's been here a while.	看起来他在这里有一段时间了。	examine	object	Skeleton
@@ -26566,7 +26566,7 @@ A dew-soaked branch. The dew might be useful.	一根沾满露水的树枝。露�
 A pretty shortbow.	一把漂亮的短弓。	examine	wiki_rescrape	wiki_rescrape
 If this is the point of the wasp, I can see why many people don't like them.	如果这就是黄蜂的尖刺，我明白为什么很多人不喜欢它们了。	examine	wiki_rescrape	wiki_rescrape
 Some dry wooden sticks. They look sturdy.	一些干燥的木棍。看起来很结实。	examine	wiki_rescrape	wiki_rescrape
-A pretty kiteshield.	一面漂亮的鸢形盾。	examine	wiki_rescrape	wiki_rescrape
+A pretty kiteshield.	一面漂亮的鸢盾。	examine	wiki_rescrape	wiki_rescrape
 A box full of stinging insects.	一个装满会蜇人的昆虫的箱子。	examine	wiki_rescrape	wiki_rescrape
 A deadly throwing dart with a killer wasp stinger tip. Bea will trade these for supplies.	一支致命的投掷飞镖，镖尖是杀手黄蜂的毒刺。比娅会用这些来换取补给品。	examine	wiki_rescrape	wiki_rescrape
 For catching insects....	用来捕捉昆虫……	examine	wiki_rescrape	wiki_rescrape
