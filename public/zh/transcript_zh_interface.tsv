@@ -35070,3 +35070,9 @@ I need to find Ernest.	我需要找到欧内斯特。	journal	Ernest the Chicken
 He went into Draynor Manor and hasn't returned, I should go into the manor and investigate.	他进了德雷诺庄园就再没回来，我应该进庄园调查一下。	journal	Ernest the Chicken	manual
 I've spoken to Dr Oddenstein, and discovered Ernest is a chicken	我和奥登斯坦博士谈过了，发现欧内斯特变成了一只鸡	journal	Ernest the Chicken	manual
 I need to bring Dr Oddenstein parts for his machine 1 Oil Can 1 Pressure Gauge 1 Rubber Tube Dr Oddenstein said to search the manor grounds for the items. Maybe there are some items laying around that could help me.	我需要给奥登斯坦博士带去机器零件：1个油罐、1个压力表、1根橡胶管。奥登斯坦博士说可以在庄园里搜寻这些物品。也许附近就有能帮上忙的东西。	journal	Ernest the Chicken	manual
+Ability to fletch wasp darts	制作黄蜂飞镖的能力	interface	wiki_rescrape	wiki_rescrape
+World Map<br>Ctrl + M<br>to open.	世界地图<br>按 Ctrl + M<br>打开。	interface	wiki_rescrape	wiki_rescrape
+Rag and Bone Man III	拾荒者 III	interface	wiki_rescrape	wiki_rescrape
+Hardcore World	硬核世界	interface	wiki_rescrape	wiki_rescrape
+You can't spot anything else worth taking from the chest.	你从宝箱里找不到其他值得拿走的东西了。	interface	wiki_rescrape	wiki_rescrape
+You can't spot anything else worth taking from the wardrobe.	你在衣柜里找不到其他值得拿走的东西了。	interface	wiki_rescrape	wiki_rescrape
